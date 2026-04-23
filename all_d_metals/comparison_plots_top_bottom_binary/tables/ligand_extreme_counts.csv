@@ -1,0 +1,5 @@
+group,ligand,count
+top_configurations,O,17
+top_configurations,S,3
+bottom_configurations,O,15
+bottom_configurations,S,5

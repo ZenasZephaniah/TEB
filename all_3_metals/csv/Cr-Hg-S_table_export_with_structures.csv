@@ -1,0 +1,413 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1238782","Cr2HgS4","Orthorhombic","Pca2_1","29","56","0.257622683749999","-0.595008343749999","False","1050.6448348929907","5.472839984760757","0.105199999999999","False","False","FM","47.9986932","# generated using pymatgen
+data_Cr2HgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.73409500
+_cell_length_b   7.45875500
+_cell_length_c   12.00438700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2HgS4
+_chemical_formula_sum   'Cr16 Hg8 S32'
+_cell_volume   1050.64483489
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.11720000  0.86669800  0.69858300  1
+  Cr  Cr1  1  0.88280000  0.13330200  0.19858300  1
+  Cr  Cr2  1  0.38280000  0.86669800  0.19858300  1
+  Cr  Cr3  1  0.61720000  0.13330200  0.69858300  1
+  Cr  Cr4  1  0.12887700  0.35586100  0.32455200  1
+  Cr  Cr5  1  0.87112300  0.64413900  0.82455200  1
+  Cr  Cr6  1  0.37112300  0.35586100  0.82455200  1
+  Cr  Cr7  1  0.62887700  0.64413900  0.32455200  1
+  Cr  Cr8  1  0.15614600  0.62591300  0.94406300  1
+  Cr  Cr9  1  0.84385400  0.37408700  0.44406300  1
+  Cr  Cr10  1  0.34385400  0.62591300  0.44406300  1
+  Cr  Cr11  1  0.65614600  0.37408700  0.94406300  1
+  Cr  Cr12  1  0.14057300  0.12796100  0.99976100  1
+  Cr  Cr13  1  0.85942700  0.87203900  0.49976100  1
+  Cr  Cr14  1  0.35942700  0.12796100  0.49976100  1
+  Cr  Cr15  1  0.64057300  0.87203900  0.99976100  1
+  Hg  Hg16  1  0.08413400  0.37497000  0.66322400  1
+  Hg  Hg17  1  0.91586600  0.62503000  0.16322400  1
+  Hg  Hg18  1  0.41586600  0.37497000  0.16322400  1
+  Hg  Hg19  1  0.58413400  0.62503000  0.66322400  1
+  Hg  Hg20  1  0.11954400  0.88240000  0.33133700  1
+  Hg  Hg21  1  0.88045600  0.11760000  0.83133700  1
+  Hg  Hg22  1  0.38045600  0.88240000  0.83133700  1
+  Hg  Hg23  1  0.61954400  0.11760000  0.33133700  1
+  S  S24  1  0.02482300  0.84268800  0.87697900  1
+  S  S25  1  0.97517700  0.15731200  0.37697900  1
+  S  S26  1  0.47517700  0.84268800  0.37697900  1
+  S  S27  1  0.52482300  0.15731200  0.87697900  1
+  S  S28  1  0.04086600  0.32136900  0.14324100  1
+  S  S29  1  0.95913400  0.67863100  0.64324100  1
+  S  S30  1  0.45913400  0.32136900  0.64324100  1
+  S  S31  1  0.54086600  0.67863100  0.14324100  1
+  S  S32  1  0.01216100  0.42722400  0.87865000  1
+  S  S33  1  0.98783900  0.57277600  0.37865000  1
+  S  S34  1  0.48783900  0.42722400  0.37865000  1
+  S  S35  1  0.51216100  0.57277600  0.87865000  1
+  S  S36  1  0.02028500  0.93252200  0.13219800  1
+  S  S37  1  0.97971500  0.06747800  0.63219800  1
+  S  S38  1  0.47971500  0.93252200  0.63219800  1
+  S  S39  1  0.52028500  0.06747800  0.13219800  1
+  S  S40  1  0.23234800  0.87162000  0.52991900  1
+  S  S41  1  0.76765200  0.12838000  0.02991900  1
+  S  S42  1  0.26765200  0.87162000  0.02991900  1
+  S  S43  1  0.73234800  0.12838000  0.52991900  1
+  S  S44  1  0.22799500  0.37660800  0.49850600  1
+  S  S45  1  0.77200500  0.62339200  0.99850600  1
+  S  S46  1  0.27200500  0.37660800  0.99850600  1
+  S  S47  1  0.72799500  0.62339200  0.49850600  1
+  S  S48  1  0.21333000  0.12601400  0.80346200  1
+  S  S49  1  0.78667000  0.87398600  0.30346200  1
+  S  S50  1  0.28667000  0.12601400  0.30346200  1
+  S  S51  1  0.71333000  0.87398600  0.80346200  1
+  S  S52  1  0.24234100  0.61685400  0.77252600  1
+  S  S53  1  0.75765900  0.38314600  0.27252600  1
+  S  S54  1  0.25765900  0.61685400  0.27252600  1
+  S  S55  1  0.74234100  0.38314600  0.77252600  1
+"
+"True","mp-1238784","Cr2HgS4","Monoclinic","P2/m","10","7","0.090868362857142","-0.761762664642857","False","145.39009744476334","4.943606169919232","0.0","False","True","FM","5.9553538","# generated using pymatgen
+data_Cr2HgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.58445500
+_cell_length_b   6.03099800
+_cell_length_c   6.88749112
+_cell_angle_alpha   77.54766876
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2HgS4
+_chemical_formula_sum   'Cr2 Hg1 S4'
+_cell_volume   145.39009744
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.50000000  0.00000000  0.50000000  1
+  Cr  Cr1  1  0.00000000  0.50000000  0.50000000  1
+  Hg  Hg2  1  0.00000000  0.50000000  0.00000000  1
+  S  S3  1  0.00000000  0.79115900  0.68663100  1
+  S  S4  1  0.50000000  0.29092700  0.69349500  1
+  S  S5  1  0.50000000  0.70907300  0.30650500  1
+  S  S6  1  0.00000000  0.20884100  0.31336900  1
+"
+"True","mp-1238794","Cr2HgS4","Orthorhombic","Pnma","62","28","0.137195032142857","-0.7154359953571421","False","520.5614600944391","5.522893551456507","0.16540000000000002","False","False","FM","24.0013336","# generated using pymatgen
+data_Cr2HgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.46220200
+_cell_length_b   3.55909200
+_cell_length_c   11.73648400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2HgS4
+_chemical_formula_sum   'Cr8 Hg4 S16'
+_cell_volume   520.56146009
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.09035400  0.25000000  0.08372300  1
+  Cr  Cr1  1  0.90964600  0.75000000  0.91627700  1
+  Cr  Cr2  1  0.40964600  0.75000000  0.58372300  1
+  Cr  Cr3  1  0.59035400  0.25000000  0.41627700  1
+  Cr  Cr4  1  0.17447300  0.25000000  0.70779000  1
+  Cr  Cr5  1  0.82552700  0.75000000  0.29221000  1
+  Cr  Cr6  1  0.32552700  0.75000000  0.20779000  1
+  Cr  Cr7  1  0.67447300  0.25000000  0.79221000  1
+  Hg  Hg8  1  0.13330400  0.75000000  0.41996800  1
+  Hg  Hg9  1  0.86669600  0.25000000  0.58003200  1
+  Hg  Hg10  1  0.36669600  0.25000000  0.91996800  1
+  Hg  Hg11  1  0.63330400  0.75000000  0.08003200  1
+  S  S12  1  0.07328400  0.75000000  0.62380800  1
+  S  S13  1  0.92671600  0.25000000  0.37619200  1
+  S  S14  1  0.42671600  0.25000000  0.12380800  1
+  S  S15  1  0.57328400  0.75000000  0.87619200  1
+  S  S16  1  0.03942100  0.25000000  0.88012800  1
+  S  S17  1  0.96057900  0.75000000  0.11987200  1
+  S  S18  1  0.46057900  0.75000000  0.38012800  1
+  S  S19  1  0.53942100  0.25000000  0.61987200  1
+  S  S20  1  0.19380000  0.25000000  0.26250000  1
+  S  S21  1  0.80620000  0.75000000  0.73750000  1
+  S  S22  1  0.30620000  0.75000000  0.76250000  1
+  S  S23  1  0.69380000  0.25000000  0.23750000  1
+  S  S24  1  0.21094500  0.75000000  0.04722900  1
+  S  S25  1  0.78905500  0.25000000  0.95277100  1
+  S  S26  1  0.28905500  0.25000000  0.54722900  1
+  S  S27  1  0.71094500  0.75000000  0.45277100  1
+"
+"True","mp-1238807","Cr2HgS4","Triclinic","P-1","2","28","0.22780456857142803","-0.62482645892857","False","619.0512504415216","4.64421246066758","0.0","False","True","FM","23.9992394","# generated using pymatgen
+data_Cr2HgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55880229
+_cell_length_b   7.71505985
+_cell_length_c   12.37926160
+_cell_angle_alpha   82.19514216
+_cell_angle_beta   86.04299903
+_cell_angle_gamma   90.35207311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2HgS4
+_chemical_formula_sum   'Cr8 Hg4 S16'
+_cell_volume   619.05125044
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.14447600  0.70286500  0.70008300  1
+  Cr  Cr1  1  0.85552400  0.29713500  0.29991700  1
+  Cr  Cr2  1  0.25064300  0.88777700  0.99923400  1
+  Cr  Cr3  1  0.74935700  0.11222300  0.00076600  1
+  Cr  Cr4  1  0.35963700  0.54346100  0.29908500  1
+  Cr  Cr5  1  0.64036300  0.45653900  0.70091500  1
+  Cr  Cr6  1  0.36646000  0.05427600  0.29512700  1
+  Cr  Cr7  1  0.63354000  0.94572400  0.70487300  1
+  Hg  Hg8  1  0.12983700  0.20150700  0.69819600  1
+  Hg  Hg9  1  0.87016300  0.79849300  0.30180400  1
+  Hg  Hg10  1  0.25071200  0.38011000  0.00157300  1
+  Hg  Hg11  1  0.74928800  0.61989000  0.99842700  1
+  S  S12  1  0.13052300  0.68961700  0.88002400  1
+  S  S13  1  0.86947700  0.31038300  0.11997600  1
+  S  S14  1  0.08430800  0.13534800  0.90582100  1
+  S  S15  1  0.91569200  0.86465200  0.09417900  1
+  S  S16  1  0.23786900  0.78678600  0.36828000  1
+  S  S17  1  0.76213100  0.21321400  0.63172000  1
+  S  S18  1  0.18007900  0.28407100  0.35681700  1
+  S  S19  1  0.81992100  0.71592900  0.64318300  1
+  S  S20  1  0.32711100  0.94300200  0.62855900  1
+  S  S21  1  0.67288900  0.05699800  0.37144100  1
+  S  S22  1  0.32480600  0.48849200  0.63074000  1
+  S  S23  1  0.67519400  0.51150800  0.36926000  1
+  S  S24  1  0.42218300  0.07045900  0.11173400  1
+  S  S25  1  0.57781700  0.92954100  0.88826600  1
+  S  S26  1  0.36952800  0.62304600  0.11430400  1
+  S  S27  1  0.63047200  0.37695400  0.88569600  1
+"
+"True","mp-1238836","Cr2HgS4","Orthorhombic","Pnma","62","28","0.14329475500000002","-0.7093362724999991","False","507.5125680155747","5.6648952405926085","0.0","False","True","FM","23.7422833","# generated using pymatgen
+data_Cr2HgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.52385300
+_cell_length_b   11.20465600
+_cell_length_c   12.85376900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2HgS4
+_chemical_formula_sum   'Cr8 Hg4 S16'
+_cell_volume   507.51256802
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.25000000  0.05425500  0.11262400  1
+  Cr  Cr1  1  0.75000000  0.94574500  0.88737600  1
+  Cr  Cr2  1  0.75000000  0.44574500  0.61262400  1
+  Cr  Cr3  1  0.25000000  0.55425500  0.38737600  1
+  Cr  Cr4  1  0.25000000  0.08816800  0.59365600  1
+  Cr  Cr5  1  0.75000000  0.91183200  0.40634400  1
+  Cr  Cr6  1  0.75000000  0.41183200  0.09365600  1
+  Cr  Cr7  1  0.25000000  0.58816800  0.90634400  1
+  Hg  Hg8  1  0.25000000  0.24125300  0.32027000  1
+  Hg  Hg9  1  0.75000000  0.75874700  0.67973000  1
+  Hg  Hg10  1  0.75000000  0.25874700  0.82027000  1
+  Hg  Hg11  1  0.25000000  0.74125300  0.17973000  1
+  S  S12  1  0.75000000  0.04757400  0.71324800  1
+  S  S13  1  0.25000000  0.95242600  0.28675200  1
+  S  S14  1  0.25000000  0.45242600  0.21324800  1
+  S  S15  1  0.75000000  0.54757400  0.78675200  1
+  S  S16  1  0.25000000  0.08214700  0.93215500  1
+  S  S17  1  0.75000000  0.91785300  0.06784500  1
+  S  S18  1  0.75000000  0.41785300  0.43215500  1
+  S  S19  1  0.25000000  0.58214700  0.56784500  1
+  S  S20  1  0.75000000  0.11317600  0.46362800  1
+  S  S21  1  0.25000000  0.88682400  0.53637200  1
+  S  S22  1  0.25000000  0.38682400  0.96362800  1
+  S  S23  1  0.75000000  0.61317600  0.03637200  1
+  S  S24  1  0.75000000  0.19871900  0.14803400  1
+  S  S25  1  0.25000000  0.80128100  0.85196600  1
+  S  S26  1  0.25000000  0.30128100  0.64803400  1
+  S  S27  1  0.75000000  0.69871900  0.35196600  1
+"
+"True","mp-1238890","Cr2HgS4","Monoclinic","C2/m","12","7","0.10103466000000001","-0.751596367499999","False","147.41250335108234","4.875783033555092","0.0","False","True","NM","0.00047329999999900005","# generated using pymatgen
+data_Cr2HgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.15043430
+_cell_length_b   9.15043430
+_cell_length_c   5.52481551
+_cell_angle_alpha   81.19369906
+_cell_angle_beta   81.19369906
+_cell_angle_gamma   18.81852662
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2HgS4
+_chemical_formula_sum   'Cr2 Hg1 S4'
+_cell_volume   147.41250335
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.75413800  0.75413800  0.19586600  1
+  Cr  Cr1  1  0.24586200  0.24586200  0.80413400  1
+  Hg  Hg2  1  0.50000000  0.50000000  0.50000000  1
+  S  S3  1  0.34087300  0.34087300  0.02677000  1
+  S  S4  1  0.65912700  0.65912700  0.97323000  1
+  S  S5  1  0.81838500  0.81838500  0.53863700  1
+  S  S6  1  0.18161500  0.18161500  0.46136300  1
+"
+"True","mp-1239184","Cr2HgS4","Orthorhombic","Pmmn","59","28","0.10066723571428601","-0.751963791785713","False","568.9423412395197","5.053245861133774","0.0","False","True","FM","23.8602212","# generated using pymatgen
+data_Cr2HgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07970000
+_cell_length_b   6.97198400
+_cell_length_c   13.42238600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2HgS4
+_chemical_formula_sum   'Cr8 Hg4 S16'
+_cell_volume   568.94234124
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.99857300  0.00000000  0.24402000  1
+  Cr  Cr1  1  0.99857300  0.00000000  0.75598000  1
+  Cr  Cr2  1  0.00142700  0.50000000  0.25598000  1
+  Cr  Cr3  1  0.00142700  0.50000000  0.74402000  1
+  Cr  Cr4  1  0.50000000  0.25000000  0.25000000  1
+  Cr  Cr5  1  0.50000000  0.75000000  0.75000000  1
+  Cr  Cr6  1  0.50000000  0.75000000  0.25000000  1
+  Cr  Cr7  1  0.50000000  0.25000000  0.75000000  1
+  Hg  Hg8  1  0.37827200  0.00000000  0.00000000  1
+  Hg  Hg9  1  0.62172800  0.50000000  0.50000000  1
+  Hg  Hg10  1  0.05049300  0.00000000  0.50000000  1
+  Hg  Hg11  1  0.94950700  0.50000000  0.00000000  1
+  S  S12  1  0.83243300  0.25185900  0.35007100  1
+  S  S13  1  0.83243300  0.74814100  0.64992900  1
+  S  S14  1  0.16756700  0.75185900  0.14992900  1
+  S  S15  1  0.16756700  0.24814100  0.85007100  1
+  S  S16  1  0.16756700  0.24814100  0.14992900  1
+  S  S17  1  0.16756700  0.75185900  0.85007100  1
+  S  S18  1  0.83243300  0.74814100  0.35007100  1
+  S  S19  1  0.83243300  0.25185900  0.64992900  1
+  S  S20  1  0.65591300  0.00000000  0.15369800  1
+  S  S21  1  0.65591300  0.00000000  0.84630200  1
+  S  S22  1  0.34408700  0.50000000  0.34630200  1
+  S  S23  1  0.34408700  0.50000000  0.65369800  1
+  S  S24  1  0.32667300  0.00000000  0.34391200  1
+  S  S25  1  0.32667300  0.00000000  0.65608800  1
+  S  S26  1  0.67332700  0.50000000  0.15608800  1
+  S  S27  1  0.67332700  0.50000000  0.84391200  1
+"
+"True","mp-15973","Cr2HgS4","Cubic","Fd-3m","227","14","0.0","-0.8526310274999991","True","273.2208290531229","5.261322024854423","0.0","False","True","FM","11.9950542","# generated using pymatgen
+data_Cr2HgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28354018
+_cell_length_b   7.28355259
+_cell_length_c   7.28355626
+_cell_angle_alpha   59.99999001
+_cell_angle_beta   59.99993368
+_cell_angle_gamma   59.99993706
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2HgS4
+_chemical_formula_sum   'Cr4 Hg2 S8'
+_cell_volume   273.22082905
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.62500000  0.62500000  0.62500000  1
+  Cr  Cr1  1  0.12500000  0.62500000  0.62500000  1
+  Cr  Cr2  1  0.62500000  0.62500000  0.12500000  1
+  Cr  Cr3  1  0.62500000  0.12500000  0.62500000  1
+  Hg  Hg4  1  0.99999909  -0.00000003  0.00000097  1
+  Hg  Hg5  1  0.25000091  0.25000003  0.24999903  1
+  S  S6  1  0.39092672  0.82722347  0.39092441  1
+  S  S7  1  0.85907428  0.85907459  0.42277653  1
+  S  S8  1  0.85907428  0.85907459  0.85907559  1
+  S  S9  1  0.42277504  0.85907432  0.85907532  1
+  S  S10  1  0.39092572  0.39092541  0.39092441  1
+  S  S11  1  0.82722496  0.39092568  0.39092468  1
+  S  S12  1  0.85907328  0.42277653  0.85907559  1
+  S  S13  1  0.39092572  0.39092541  0.82722347  1
+"

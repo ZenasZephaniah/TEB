@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+V-Zr-S,V,Zr,S,Zr9V4S_9483_POSCAR,35,local_max_drop,12.551663971,-0.77827099707844,-0.19772573404183819,-0.5805452630366019,10.387584,21.207984,0.01643121

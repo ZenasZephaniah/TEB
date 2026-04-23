@@ -1,0 +1,83 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1209150","ReAgO2","Tetragonal","I4_1/amd","141","16","0.9307169916666681","-0.49227567791666604","False","217.28493760183105","9.96771560106457","0.0","False","True","FM","3.2872779","# generated using pymatgen
+data_ReAgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30314517
+_cell_length_b   7.30314517
+_cell_length_c   7.30314517
+_cell_angle_alpha   130.95804279
+_cell_angle_beta   130.95804279
+_cell_angle_gamma   71.87974872
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReAgO2
+_chemical_formula_sum   'Re4 Ag4 O8'
+_cell_volume   217.28493760
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.37500000  0.12500000  0.25000000  1
+  Re  Re1  1  0.87500000  0.12500000  0.75000000  1
+  Re  Re2  1  0.87500000  0.12500000  0.25000000  1
+  Re  Re3  1  0.87500000  0.62500000  0.75000000  1
+  Ag  Ag4  1  0.87500000  0.62500000  0.25000000  1
+  Ag  Ag5  1  0.37500000  0.62500000  0.75000000  1
+  Ag  Ag6  1  0.37500000  0.62500000  0.25000000  1
+  Ag  Ag7  1  0.37500000  0.12500000  0.75000000  1
+  O  O8  1  0.17673000  0.37115800  0.19442800  1
+  O  O9  1  0.17673000  0.98230300  0.80557200  1
+  O  O10  1  0.12115800  0.42673000  0.69442800  1
+  O  O11  1  0.57327000  0.87884200  0.30557200  1
+  O  O12  1  0.73230300  0.42673000  0.30557200  1
+  O  O13  1  0.57327000  0.26769700  0.69442800  1
+  O  O14  1  0.62884200  0.82327000  0.80557200  1
+  O  O15  1  0.01769700  0.82327000  0.19442800  1
+"
+"True","mp-7094","ReAgO4","Tetragonal","I4_1/a","88","12","0.0","-1.707686205694444","True","166.31709670788848","7.150123286858055","2.3102","False","False","NM","0.0","# generated using pymatgen
+data_ReAgO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37651032
+_cell_length_b   5.37644102
+_cell_length_c   6.89434448
+_cell_angle_alpha   112.90921152
+_cell_angle_beta   112.93854659
+_cell_angle_gamma   90.01994216
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReAgO4
+_chemical_formula_sum   'Re2 Ag2 O8'
+_cell_volume   166.31709671
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.87515680  0.62503216  0.75010061  1
+  Re  Re1  1  0.12484320  0.37496784  0.24989939  1
+  Ag  Ag2  1  0.62483053  0.87531901  0.25002523  1
+  Ag  Ag3  1  0.37516947  0.12468099  0.74997477  1
+  O  O4  1  0.19231306  0.84846129  0.92197024  1
+  O  O5  1  0.07354981  0.69209456  0.42177348  1
+  O  O6  1  0.34821070  0.22988983  0.42197786  1
+  O  O7  1  0.72986725  0.57364583  0.92207602  1
+  O  O8  1  0.27013275  0.42635417  0.07792398  1
+  O  O9  1  0.65178930  0.77011017  0.57802214  1
+  O  O10  1  0.92645019  0.30790544  0.57822652  1
+  O  O11  1  0.80768694  0.15153871  0.07802976  1
+"

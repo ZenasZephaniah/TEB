@@ -1,0 +1,171 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1220696","Nb2AgS4","Trigonal","P3m1","156","7","0.0","-1.1589505788095211","True","136.02108194734654","5.151035691290323","0.0","False","True","NM","1e-07","# generated using pymatgen
+data_Nb2AgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.39760489
+_cell_length_b   3.39760489
+_cell_length_c   13.60598317
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001894
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2AgS4
+_chemical_formula_sum   'Nb2 Ag1 S4'
+_cell_volume   136.02108195
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  -0.00000000  0.00000000  0.77319684  1
+  Nb  Nb1  1  0.66666700  0.33333300  0.23121332  1
+  Ag  Ag2  1  -0.00000000  -0.00000000  0.52244633  1
+  S  S3  1  0.00000000  -0.00000000  0.34562002  1
+  S  S4  1  0.66666700  0.33333300  0.65714113  1
+  S  S5  1  0.66666700  0.33333300  0.88392704  1
+  S  S6  1  0.00000000  -0.00000000  0.12045532  1
+"
+"True","mp-1220596","Nb4AgS8","Trigonal","R3m","160","13","0.006987346153821","-1.239466291666664","False","269.6790740220212","4.531977648046188","0.0","False","True","FM","1.7451975","# generated using pymatgen
+data_Nb4AgS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.38420600
+_cell_length_b   3.38371129
+_cell_length_c   27.26519364
+_cell_angle_alpha   86.43754529
+_cell_angle_beta   89.99917061
+_cell_angle_gamma   120.00478573
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb4AgS8
+_chemical_formula_sum   'Nb4 Ag1 S8'
+_cell_volume   269.67907402
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.53762007  0.07522104  0.38764720  1
+  Nb  Nb1  1  0.03783446  0.07564740  0.88908307  1
+  Nb  Nb2  1  0.96086749  0.92176134  0.11569401  1
+  Nb  Nb3  1  0.46132172  0.92265777  0.61435142  1
+  Ag  Ag4  1  0.57974445  0.15949526  0.26155013  1
+  S  S5  1  0.60832676  0.21669582  0.17316525  1
+  S  S6  1  0.10877724  0.21758822  0.67169580  1
+  S  S7  1  0.89043017  0.78083337  0.32930208  1
+  S  S8  1  0.39037348  0.78070328  0.83168151  1
+  S  S9  1  0.64605804  0.29213004  0.06018834  1
+  S  S10  1  0.14717397  0.29434158  0.55713007  1
+  S  S11  1  0.85247945  0.70493240  0.44317813  1
+  S  S12  1  0.35199369  0.70399249  0.94633298  1
+"
+"True","mp-3926","NbAg7S6","Monoclinic","Pc","7","28","0.04511950083333","-0.438800421190474","False","632.476866146454","5.462907492829251","0.9113999999999991","True","False","NM","0.0005545","# generated using pymatgen
+data_NbAg7S6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45306800
+_cell_length_b   7.73605100
+_cell_length_c   13.35381871
+_cell_angle_alpha   55.23089818
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbAg7S6
+_chemical_formula_sum   'Nb2 Ag14 S12'
+_cell_volume   632.47686615
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.24418800  0.99334900  0.50336800  1
+  Nb  Nb1  1  0.75581200  0.99334900  0.00336800  1
+  Ag  Ag2  1  0.87936200  0.89422700  0.41008100  1
+  Ag  Ag3  1  0.12063800  0.89422700  0.91008100  1
+  Ag  Ag4  1  0.95709000  0.51954200  0.15133100  1
+  Ag  Ag5  1  0.04291000  0.51954200  0.65133100  1
+  Ag  Ag6  1  0.60075400  0.08461400  0.19481300  1
+  Ag  Ag7  1  0.39924600  0.08461400  0.69481300  1
+  Ag  Ag8  1  0.78346200  0.68888600  0.28172900  1
+  Ag  Ag9  1  0.21653800  0.68888600  0.78172900  1
+  Ag  Ag10  1  0.68057900  0.30233000  0.73272700  1
+  Ag  Ag11  1  0.31942100  0.30233000  0.23272700  1
+  Ag  Ag12  1  0.48677700  0.69226900  0.99008800  1
+  Ag  Ag13  1  0.51322300  0.69226900  0.49008800  1
+  Ag  Ag14  1  0.58500600  0.28114800  0.45458400  1
+  Ag  Ag15  1  0.41499400  0.28114800  0.95458400  1
+  S  S16  1  0.21450600  0.48929800  0.01281100  1
+  S  S17  1  0.78549400  0.48929800  0.51281100  1
+  S  S18  1  0.26765700  0.25174800  0.78406300  1
+  S  S19  1  0.73234300  0.25174800  0.28406300  1
+  S  S20  1  0.49840100  0.85119100  0.63197900  1
+  S  S21  1  0.50159900  0.85119100  0.13197900  1
+  S  S22  1  0.97737900  0.88092400  0.61449800  1
+  S  S23  1  0.02262100  0.88092400  0.11449800  1
+  S  S24  1  0.24514700  0.89221300  0.36735800  1
+  S  S25  1  0.75485300  0.89221300  0.86735800  1
+  S  S26  1  0.24235300  0.35526100  0.39856800  1
+  S  S27  1  0.75764700  0.35526100  0.89856800  1
+"
+"True","mp-676348","NbAg7S6","Triclinic","P1","1","14","0.069159399404759","-0.41476052261904506","False","320.2009286208572","5.395303858103122","0.6689","False","False","NM","0.001185399999999","# generated using pymatgen
+data_NbAg7S6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55212100
+_cell_length_b   7.57357287
+_cell_length_c   7.64310583
+_cell_angle_alpha   92.19031218
+_cell_angle_beta   117.77250833
+_cell_angle_gamma   118.51631729
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbAg7S6
+_chemical_formula_sum   'Nb1 Ag7 S6'
+_cell_volume   320.20092862
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.98160400  0.48604700  0.50450000  1
+  Ag  Ag1  1  0.88163800  0.25894700  0.88896500  1
+  Ag  Ag2  1  0.45422300  0.19641400  0.08629700  1
+  Ag  Ag3  1  0.06376500  0.71402800  0.06384800  1
+  Ag  Ag4  1  0.63457400  0.63567000  0.67608300  1
+  Ag  Ag5  1  0.08454100  0.19574600  0.30595000  1
+  Ag  Ag6  1  0.09409700  0.97324700  0.61455100  1
+  Ag  Ag7  1  0.42657800  0.01368600  0.49557300  1
+  S  S8  1  0.01574600  0.00930900  0.97875500  1
+  S  S9  1  0.52007900  0.28885800  0.77657000  1
+  S  S10  1  0.74238200  0.11240300  0.36924700  1
+  S  S11  1  0.73045700  0.60636600  0.38449200  1
+  S  S12  1  0.20674300  0.59165300  0.86012100  1
+  S  S13  1  0.24557000  0.61362500  0.38704800  1
+"

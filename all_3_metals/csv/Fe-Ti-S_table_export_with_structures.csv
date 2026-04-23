@@ -1,0 +1,159 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-9942","Ti2FeS4","Monoclinic","C2/m","12","7","0.024835269999998","-1.410330176666665","False","113.84699030327994","4.081650209815777","0.0","False","True","FM","2.0765589","# generated using pymatgen
+data_Ti2FeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.36221800
+_cell_length_b   5.90789136
+_cell_length_c   6.64157203
+_cell_angle_alpha   115.93128917
+_cell_angle_beta   104.66216389
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2FeS4
+_chemical_formula_sum   'Ti2 Fe1 S4'
+_cell_volume   113.84699030
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.74490200  0.75506200  0.48980400  1
+  Ti  Ti1  1  0.25509800  0.24493800  0.51019600  1
+  Fe  Fe2  1  0.00000000  0.00000000  0.00000000  1
+  S  S3  1  0.11863100  0.79351000  0.23726200  1
+  S  S4  1  0.88136900  0.20649000  0.76273800  1
+  S  S5  1  0.62362500  0.29097400  0.24725000  1
+  S  S6  1  0.37637500  0.70902600  0.75275000  1
+"
+"True","mp-1217178","Ti3FeS6","Trigonal","R-3","148","10","0.008529196499980001","-1.4885242124999971","False","176.02916076501947","3.696313627086135","0.0","False","True","FiM","2.243300999999999","# generated using pymatgen
+data_Ti3FeS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66803633
+_cell_length_b   6.66803683
+_cell_length_c   6.66803744
+_cell_angle_alpha   53.15585904
+_cell_angle_beta   53.15585394
+_cell_angle_gamma   53.15585729
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3FeS6
+_chemical_formula_sum   'Ti3 Fe1 S6'
+_cell_volume   176.02916077
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  -0.00000000  -0.00000000  1
+  Ti  Ti1  1  0.33259814  0.33259814  0.33259814  1
+  Ti  Ti2  1  0.66740186  0.66740186  0.66740186  1
+  Fe  Fe3  1  0.50000000  0.50000000  0.50000000  1
+  S  S4  1  0.91544295  0.58528104  0.24916605  1
+  S  S5  1  0.58528104  0.24916605  0.91544295  1
+  S  S6  1  0.24916605  0.91544295  0.58528104  1
+  S  S7  1  0.75083395  0.08455705  0.41471896  1
+  S  S8  1  0.41471896  0.75083395  0.08455705  1
+  S  S9  1  0.08455705  0.41471896  0.75083395  1
+"
+"True","mp-16335","Ti3FeS6","Trigonal","P-31c","163","20","0.074345122999978","-1.422708285999998","False","353.7508885350502","3.678628135153414","0.0","False","True","FM","5.752953","# generated using pymatgen
+data_Ti3FeS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93561219
+_cell_length_b   5.93561219
+_cell_length_c   11.59406900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000213
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3FeS6
+_chemical_formula_sum   'Ti6 Fe2 S12'
+_cell_volume   353.75088854
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.66666700  0.33333300  0.49910600  1
+  Ti  Ti1  1  0.66666700  0.33333300  0.00089400  1
+  Ti  Ti2  1  0.33333300  0.66666700  0.50089400  1
+  Ti  Ti3  1  0.33333300  0.66666700  0.99910600  1
+  Ti  Ti4  1  0.66666700  0.33333300  0.75000000  1
+  Ti  Ti5  1  0.33333300  0.66666700  0.25000000  1
+  Fe  Fe6  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe7  1  0.00000000  0.00000000  0.00000000  1
+  S  S8  1  0.66822900  0.66610500  0.62445500  1
+  S  S9  1  0.33389500  0.00212400  0.62445500  1
+  S  S10  1  0.99787600  0.33177100  0.62445500  1
+  S  S11  1  0.33389500  0.33177100  0.87554500  1
+  S  S12  1  0.99787600  0.66610500  0.87554500  1
+  S  S13  1  0.66822900  0.00212400  0.87554500  1
+  S  S14  1  0.33177100  0.33389500  0.37554500  1
+  S  S15  1  0.66610500  0.99787600  0.37554500  1
+  S  S16  1  0.33177100  0.99787600  0.12445500  1
+  S  S17  1  0.00212400  0.33389500  0.12445500  1
+  S  S18  1  0.66610500  0.66822900  0.12445500  1
+  S  S19  1  0.00212400  0.66822900  0.37554500  1
+"
+"True","mp-30075","Ti4FeS8","Monoclinic","C2/m","12","13","0.007000732362631001","-1.5174760717948712","False","220.984670791232","3.7859385293410712","0.0","False","True","NM","0.0044935","# generated using pymatgen
+data_Ti4FeS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51125244
+_cell_length_b   6.51125244
+_cell_length_c   8.02558433
+_cell_angle_alpha   54.29651346
+_cell_angle_beta   54.29651346
+_cell_angle_gamma   62.95227070
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4FeS8
+_chemical_formula_sum   'Ti4 Fe1 S8'
+_cell_volume   220.98467079
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.73841192  0.26158808  0.50000000  1
+  Ti  Ti1  1  0.26158808  0.73841192  0.50000000  1
+  Ti  Ti2  1  0.73865018  0.73865018  0.00657694  1
+  Ti  Ti3  1  0.26134982  0.26134982  0.99342306  1
+  Fe  Fe4  1  0.00000000  -0.00000000  0.00000000  1
+  S  S5  1  0.44162698  0.95937820  0.83488693  1
+  S  S6  1  0.04062180  0.55837302  0.16511307  1
+  S  S7  1  0.55837302  0.04062180  0.16511307  1
+  S  S8  1  0.95937820  0.44162698  0.83488693  1
+  S  S9  1  0.54947429  0.54947429  0.66516384  1
+  S  S10  1  0.45052571  0.45052571  0.33483616  1
+  S  S11  1  0.03482396  0.03482396  0.67736115  1
+  S  S12  1  0.96517604  0.96517604  0.32263885  1
+"

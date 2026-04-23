@@ -1,0 +1,161 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1216724","V(FeS2)2","Monoclinic","Cm","8","7","0.08108823000000201","-0.901952874285712","False","98.1372127000882","4.922054403236986","0.0","False","True","FiM","1.1958865","# generated using pymatgen
+data_V(FeS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12379147
+_cell_length_b   6.12379147
+_cell_length_c   5.72705124
+_cell_angle_alpha   65.65736306
+_cell_angle_beta   65.65736306
+_cell_angle_gamma   30.35463060
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V(FeS2)2
+_chemical_formula_sum   'V1 Fe2 S4'
+_cell_volume   98.13721270
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.26046100  0.26046100  0.68485800  1
+  Fe  Fe1  1  0.00294100  0.00294100  0.99843600  1
+  Fe  Fe2  1  0.73503200  0.73503200  0.31866400  1
+  S  S3  1  0.63968600  0.63968600  0.02538600  1
+  S  S4  1  0.36137800  0.36137800  0.98868700  1
+  S  S5  1  0.10680800  0.10680800  0.55280900  1
+  S  S6  1  0.89369500  0.89369500  0.43116000  1
+"
+"True","mp-1100962","V2FeS4","Triclinic","P1","1","28","0.086023053214288","-1.084031293214284","False","406.18244596924984","4.676659479417806","0.0","False","True","FiM","3.8946712","# generated using pymatgen
+data_V2FeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.82386583
+_cell_length_b   11.22536212
+_cell_length_c   6.26707287
+_cell_angle_alpha   89.65823042
+_cell_angle_beta   74.88321762
+_cell_angle_gamma   31.18328325
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2FeS4
+_chemical_formula_sum   'V8 Fe4 S16'
+_cell_volume   406.18244597
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.00016800  0.99787500  0.99684100  1
+  V  V1  1  0.20241700  0.31390400  0.52134000  1
+  V  V2  1  0.04756300  0.68382800  0.48057200  1
+  V  V3  1  0.44496300  0.31029300  0.51707400  1
+  V  V4  1  0.70494300  0.31604800  0.51758500  1
+  V  V5  1  0.55092500  0.69023600  0.48303200  1
+  V  V6  1  0.94627200  0.31607200  0.52150900  1
+  V  V7  1  0.79930000  0.68762300  0.47847000  1
+  Fe  Fe8  1  0.24153900  0.00015800  0.00221600  1
+  Fe  Fe9  1  0.49959000  0.99888000  0.99706300  1
+  Fe  Fe10  1  0.75983200  0.00155500  0.99996500  1
+  Fe  Fe11  1  0.30474500  0.68043300  0.47803300  1
+  S  S12  1  0.14426800  0.02239700  0.71961000  1
+  S  S13  1  0.14832300  0.43369100  0.20588400  1
+  S  S14  1  0.38969000  0.02527200  0.73268800  1
+  S  S15  1  0.10095200  0.56586500  0.79594900  1
+  S  S16  1  0.39513800  0.44025000  0.21318900  1
+  S  S17  1  0.64034900  0.02304800  0.73654200  1
+  S  S18  1  0.10894200  0.97451100  0.28392600  1
+  S  S19  1  0.36442000  0.54993800  0.77780800  1
+  S  S20  1  0.63517800  0.45016700  0.21866600  1
+  S  S21  1  0.89911900  0.01545800  0.71361900  1
+  S  S22  1  0.35713500  0.98026700  0.26930300  1
+  S  S23  1  0.59921200  0.56842500  0.79538300  1
+  S  S24  1  0.89611900  0.43717000  0.20791500  1
+  S  S25  1  0.61226400  0.97357000  0.26461900  1
+  S  S26  1  0.85379300  0.56331700  0.78919000  1
+  S  S27  1  0.85284000  0.97975100  0.28200900  1
+"
+"True","mp-561419","V2FeS4","Monoclinic","C2/m","12","7","0.072751809285717","-1.097302537142856","False","102.20490830094323","4.646491587081812","0.0","False","True","FM","1.6185152","# generated using pymatgen
+data_V2FeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29322759
+_cell_length_b   6.29322759
+_cell_length_c   5.83325016
+_cell_angle_alpha   65.02777910
+_cell_angle_beta   65.02777910
+_cell_angle_gamma   29.45377667
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2FeS4
+_chemical_formula_sum   'V2 Fe1 S4'
+_cell_volume   102.20490830
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.74039100  0.74039100  0.31375300  1
+  V  V1  1  0.25960900  0.25960900  0.68624700  1
+  Fe  Fe2  1  0.00000000  0.00000000  0.00000000  1
+  S  S3  1  0.10461300  0.10461300  0.56286400  1
+  S  S4  1  0.89538700  0.89538700  0.43713600  1
+  S  S5  1  0.63654500  0.63654500  0.02308200  1
+  S  S6  1  0.36345500  0.36345500  0.97691800  1
+"
+"True","mp-1216499","V3FeS6","Trigonal","R-3","148","10","0.083662521499998","-1.120527881499999","False","150.77962794479419","4.416876317169981","0.0","False","True","FiM","0.613192899999999","# generated using pymatgen
+data_V3FeS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59459168
+_cell_length_b   5.59459100
+_cell_length_c   6.43236326
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   64.22244940
+_cell_angle_gamma   119.99999009
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V3FeS6
+_chemical_formula_sum   'V3 Fe1 S6'
+_cell_volume   150.77962794
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.66224100  0.33112100  0.00663800  1
+  V  V1  1  0.33775900  0.66887900  0.99336200  1
+  V  V2  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe3  1  0.00000000  0.50000000  0.50000000  1
+  S  S4  1  0.15723100  0.24722600  0.26144800  1
+  S  S5  1  0.82854700  0.58132100  0.26144800  1
+  S  S6  1  0.49132600  0.91000500  0.26144800  1
+  S  S7  1  0.84276900  0.75277400  0.73855200  1
+  S  S8  1  0.17145300  0.41867900  0.73855200  1
+  S  S9  1  0.50867400  0.08999500  0.73855200  1
+"

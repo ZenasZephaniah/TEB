@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Ni-Rh-O,Ni,Rh,O,Ni_RhO2_2_19307_POSCAR,35,local_max_drop,6.8862304982,-0.14408050026049,-0.08242820502006043,-0.06165229524042956,6.091665,12.977896,0.01218614
+Ni-Rh-O,Ni,Rh,O,Ni_RhO2_2_636519_POSCAR,35,local_max_drop,7.7582325739,-0.14713343414598,-0.08208878928624476,-0.06504464485973525,6.863052,14.621284,0.01076934

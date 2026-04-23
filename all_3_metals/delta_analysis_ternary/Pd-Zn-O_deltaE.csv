@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Pd-Zn-O,Pd,Zn,O,Zn2PdO4_22257_POSCAR,35,global_gradient_fallback,6.6523211817,-0.1168255873974,-0.11537180506081278,-0.0014537823365872171,5.321857,13.03855,0.01718268

@@ -1,0 +1,488 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1207388","Zr3TiO8","Tetragonal","I-42m","121","12","0.033740555625","-3.703486623611111","False","138.17410153104706","5.402380711012256","3.2762000000000002","False","False","NM","1.38e-05","# generated using pymatgen
+data_Zr3TiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42107762
+_cell_length_b   6.42107762
+_cell_length_c   6.42107762
+_cell_angle_alpha   133.20469476
+_cell_angle_beta   133.20469476
+_cell_angle_gamma   68.33286960
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr3TiO8
+_chemical_formula_sum   'Zr3 Ti1 O8'
+_cell_volume   138.17410153
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.25000000  0.75000000  0.50000000  1
+  Zr  Zr1  1  0.75000000  0.25000000  0.50000000  1
+  Zr  Zr2  1  0.50000000  0.50000000  0.00000000  1
+  Ti  Ti3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.55025900  0.13411300  0.00000000  1
+  O  O5  1  0.13411300  0.55025800  0.00000000  1
+  O  O6  1  0.86588700  0.86588700  0.41614600  1
+  O  O7  1  0.44974200  0.44974200  0.58385400  1
+  O  O8  1  0.31284900  0.86716600  0.00000000  1
+  O  O9  1  0.86716600  0.31284900  0.00000000  1
+  O  O10  1  0.13283400  0.13283400  0.44568300  1
+  O  O11  1  0.68715100  0.68715100  0.55431700  1
+"
+"True","mp-761840","Zr5Ti7O24","Monoclinic","Pc","7","72","0.033681783680554","-3.601691294537037","False","798.0823439133567","4.890280679077103","3.0776","False","False","NM","5.84e-05","# generated using pymatgen
+data_Zr5Ti7O24
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.54742300
+_cell_length_b   5.41221000
+_cell_length_c   11.49749962
+_cell_angle_alpha   61.83893677
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr5Ti7O24
+_chemical_formula_sum   'Zr10 Ti14 O48'
+_cell_volume   798.08234391
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.25162200  0.86247400  0.87463200  1
+  Zr  Zr1  1  0.25427000  0.35579300  0.37803300  1
+  Zr  Zr2  1  0.25550900  0.63970700  0.62827700  1
+  Zr  Zr3  1  0.25268200  0.14055100  0.12423800  1
+  Zr  Zr4  1  0.08038800  0.79051300  0.40761200  1
+  Zr  Zr5  1  0.91961200  0.79051300  0.90761200  1
+  Zr  Zr6  1  0.74731800  0.14055100  0.62423800  1
+  Zr  Zr7  1  0.74573000  0.35579300  0.87803300  1
+  Zr  Zr8  1  0.74837800  0.86247400  0.37463200  1
+  Zr  Zr9  1  0.74449100  0.63970700  0.12827700  1
+  Ti  Ti10  1  0.08434900  0.15186200  0.65555400  1
+  Ti  Ti11  1  0.08402900  0.65039800  0.15790900  1
+  Ti  Ti12  1  0.08425300  0.28066800  0.90551500  1
+  Ti  Ti13  1  0.91574700  0.28066800  0.40551500  1
+  Ti  Ti14  1  0.91597100  0.65039800  0.65790900  1
+  Ti  Ti15  1  0.91565100  0.15186200  0.15555400  1
+  Ti  Ti16  1  0.58041000  0.84413100  0.84074400  1
+  Ti  Ti17  1  0.57970600  0.34230700  0.34143900  1
+  Ti  Ti18  1  0.57854500  0.22716700  0.09136100  1
+  Ti  Ti19  1  0.58077200  0.72507000  0.59077200  1
+  Ti  Ti20  1  0.42145500  0.22716700  0.59136100  1
+  Ti  Ti21  1  0.41922800  0.72507000  0.09077200  1
+  Ti  Ti22  1  0.42029400  0.34230700  0.84143900  1
+  Ti  Ti23  1  0.41959000  0.84413100  0.34074400  1
+  O  O24  1  0.17101200  0.44339900  0.96807000  1
+  O  O25  1  0.17965000  0.95476800  0.47273300  1
+  O  O26  1  0.17198200  0.86678500  0.71939800  1
+  O  O27  1  0.16840400  0.35701100  0.22154400  1
+  O  O28  1  0.16648800  0.41298600  0.51694000  1
+  O  O29  1  0.16854900  0.31027700  0.76442800  1
+  O  O30  1  0.16752800  0.80118900  0.26006200  1
+  O  O31  1  0.16277100  0.91296600  0.01312600  1
+  O  O32  1  0.02248500  0.06380300  0.81799100  1
+  O  O33  1  0.00933000  0.54969400  0.32033900  1
+  O  O34  1  0.00739200  0.53462400  0.58059600  1
+  O  O35  1  0.00739200  0.04988700  0.06845300  1
+  O  O36  1  0.99067000  0.54969400  0.82033900  1
+  O  O37  1  0.97751500  0.06380300  0.31799100  1
+  O  O38  1  0.99260800  0.53462400  0.08059600  1
+  O  O39  1  0.99260800  0.04988700  0.56845300  1
+  O  O40  1  0.83247200  0.80118900  0.76006200  1
+  O  O41  1  0.83722900  0.91296600  0.51312600  1
+  O  O42  1  0.83145100  0.31027700  0.26442800  1
+  O  O43  1  0.83351200  0.41298600  0.01694000  1
+  O  O44  1  0.82035000  0.95476800  0.97273300  1
+  O  O45  1  0.82898800  0.44339900  0.46807000  1
+  O  O46  1  0.83159600  0.35701100  0.72154400  1
+  O  O47  1  0.82801800  0.86678500  0.21939800  1
+  O  O48  1  0.66764100  0.12934400  0.78318700  1
+  O  O49  1  0.66625100  0.62968600  0.28620500  1
+  O  O50  1  0.66869700  0.55467300  0.53478700  1
+  O  O51  1  0.66310400  0.05339900  0.03475400  1
+  O  O52  1  0.66124100  0.58531200  0.98459400  1
+  O  O53  1  0.66222000  0.08570000  0.48520700  1
+  O  O54  1  0.66014300  0.69208700  0.73570900  1
+  O  O55  1  0.66045700  0.19539000  0.23539700  1
+  O  O56  1  0.51190900  0.95501900  0.67483500  1
+  O  O57  1  0.51056200  0.45543000  0.17551900  1
+  O  O58  1  0.51004400  0.44846200  0.92530500  1
+  O  O59  1  0.51119400  0.94746600  0.42473500  1
+  O  O60  1  0.48880600  0.94746600  0.92473500  1
+  O  O61  1  0.48995600  0.44846200  0.42530500  1
+  O  O62  1  0.48943800  0.45543000  0.67551900  1
+  O  O63  1  0.48809100  0.95501900  0.17483500  1
+  O  O64  1  0.33954300  0.19539000  0.73539700  1
+  O  O65  1  0.33985700  0.69208700  0.23570900  1
+  O  O66  1  0.33778000  0.08570000  0.98520700  1
+  O  O67  1  0.33875900  0.58531200  0.48459400  1
+  O  O68  1  0.33130300  0.55467300  0.03478700  1
+  O  O69  1  0.33689600  0.05339900  0.53475400  1
+  O  O70  1  0.33374900  0.62968600  0.78620500  1
+  O  O71  1  0.33235900  0.12934400  0.28318700  1
+"
+"True","mp-860957","Zr5Ti7O24","Monoclinic","P2","3","36","0.043544985902777","-3.591828092314815","False","413.4845808909909","4.719458532579457","2.759799999999999","True","False","NM","0.0003811","# generated using pymatgen
+data_Zr5Ti7O24
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65111100
+_cell_length_b   4.81217200
+_cell_length_c   15.21061459
+_cell_angle_alpha   88.43309777
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr5Ti7O24
+_chemical_formula_sum   'Zr5 Ti7 O24'
+_cell_volume   413.48458089
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.81394300  0.00000000  0.00000000  1
+  Zr  Zr1  1  0.20540900  0.00000000  0.50000000  1
+  Zr  Zr2  1  0.80351600  0.98889900  0.33406300  1
+  Zr  Zr3  1  0.80351600  0.01110100  0.66593700  1
+  Zr  Zr4  1  0.31053700  0.50000000  0.00000000  1
+  Ti  Ti5  1  0.18919100  0.01162700  0.82972700  1
+  Ti  Ti6  1  0.18919100  0.98837300  0.17027300  1
+  Ti  Ti7  1  0.32256900  0.48742800  0.32977800  1
+  Ti  Ti8  1  0.32256900  0.51257200  0.67022200  1
+  Ti  Ti9  1  0.68610700  0.48862600  0.16688800  1
+  Ti  Ti10  1  0.68610700  0.51137400  0.83311200  1
+  Ti  Ti11  1  0.67138900  0.50000000  0.50000000  1
+  O  O12  1  0.88813300  0.24181900  0.55067500  1
+  O  O13  1  0.11338500  0.19981300  0.06329200  1
+  O  O14  1  0.89404600  0.25962500  0.88782300  1
+  O  O15  1  0.88250100  0.21270500  0.21751900  1
+  O  O16  1  0.11077300  0.22891100  0.38402900  1
+  O  O17  1  0.12256500  0.24141400  0.72297200  1
+  O  O18  1  0.60912500  0.28653100  0.06179000  1
+  O  O19  1  0.38343900  0.24727800  0.22635800  1
+  O  O20  1  0.39587900  0.28903100  0.56735100  1
+  O  O21  1  0.39095400  0.26084900  0.88676700  1
+  O  O22  1  0.59157500  0.26054200  0.40040700  1
+  O  O23  1  0.61560500  0.31845200  0.72668400  1
+  O  O24  1  0.38343900  0.75272200  0.77364200  1
+  O  O25  1  0.60912500  0.71346900  0.93821000  1
+  O  O26  1  0.39095400  0.73915100  0.11323300  1
+  O  O27  1  0.39587900  0.71096900  0.43264900  1
+  O  O28  1  0.61560500  0.68154800  0.27331600  1
+  O  O29  1  0.59157500  0.73945800  0.59959300  1
+  O  O30  1  0.11338500  0.80018700  0.93670800  1
+  O  O31  1  0.12256500  0.75858600  0.27702800  1
+  O  O32  1  0.88250100  0.78729500  0.78248100  1
+  O  O33  1  0.89404600  0.74037500  0.11217700  1
+  O  O34  1  0.88813300  0.75818100  0.44932500  1
+  O  O35  1  0.11077300  0.77108900  0.61597100  1
+"
+"True","mp-1215204","ZrTi2O","Orthorhombic","Cmmm","65","4","0.0","-1.596375502916664","True","59.25028728524313","5.688051602738821","0.0","False","True","NM","4e-07","# generated using pymatgen
+data_ZrTi2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80614791
+_cell_length_b   4.80614791
+_cell_length_c   3.02525044
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   122.01807068
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTi2O
+_chemical_formula_sum   'Zr1 Ti2 O1'
+_cell_volume   59.25028729
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  -0.00000000  0.00000000  -0.00000000  1
+  Ti  Ti1  1  0.67183769  0.32816231  0.50000000  1
+  Ti  Ti2  1  0.32816231  0.67183769  0.50000000  1
+  O  O3  1  0.50000000  0.50000000  -0.00000000  1
+"
+"True","mp-27296","ZrTi2O","Hexagonal","P6/mmm","191","8","0.35486550999999605","-1.241509992916666","False","125.82178476645917","5.357080130139805","0.0","False","True","NM","0.0030153","# generated using pymatgen
+data_ZrTi2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65162662
+_cell_length_b   4.65162662
+_cell_length_c   6.71452900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTi2O
+_chemical_formula_sum   'Zr2 Ti4 O2'
+_cell_volume   125.82178477
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00000000  0.00000000  0.50000000  1
+  Zr  Zr1  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti2  1  0.66666700  0.33333300  0.71633500  1
+  Ti  Ti3  1  0.33333300  0.66666700  0.28366500  1
+  Ti  Ti4  1  0.33333300  0.66666700  0.71633500  1
+  Ti  Ti5  1  0.66666700  0.33333300  0.28366500  1
+  O  O6  1  0.33333300  0.66666700  0.00000000  1
+  O  O7  1  0.66666700  0.33333300  0.00000000  1
+"
+"True","mp-752953","ZrTi2O","Orthorhombic","Cmmm","65","8","0.119827612499996","-1.476547890416665","False","121.82962895841675","5.532622801807844","0.0","False","True","NM","0.0008621","# generated using pymatgen
+data_ZrTi2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.75911655
+_cell_length_b   4.75911655
+_cell_length_c   6.06128400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   117.44756127
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTi2O
+_chemical_formula_sum   'Zr2 Ti4 O2'
+_cell_volume   121.82962896
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00000000  0.00000000  0.00000000  1
+  Zr  Zr1  1  0.00000000  0.00000000  0.50000000  1
+  Ti  Ti2  1  0.66329600  0.33670400  0.25357600  1
+  Ti  Ti3  1  0.66329600  0.33670400  0.74642400  1
+  Ti  Ti4  1  0.33670400  0.66329600  0.74642400  1
+  Ti  Ti5  1  0.33670400  0.66329600  0.25357600  1
+  O  O6  1  0.50000000  0.00000000  0.00000000  1
+  O  O7  1  0.00000000  0.50000000  0.00000000  1
+"
+"True","mp-757504","ZrTi2O6","Triclinic","P1","1","36","0.051397146944443","-3.558512406018519","False","408.7073890501796","4.598466754988622","2.652799999999999","False","False","NM","0.0013242","# generated using pymatgen
+data_ZrTi2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74412400
+_cell_length_b   5.67317420
+_cell_length_c   15.18740747
+_cell_angle_alpha   89.95774041
+_cell_angle_beta   89.10532539
+_cell_angle_gamma   89.93917117
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTi2O6
+_chemical_formula_sum   'Zr4 Ti8 O24'
+_cell_volume   408.70738905
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00451800  0.17861100  0.07935000  1
+  Zr  Zr1  1  0.00172100  0.18937900  0.75171300  1
+  Zr  Zr2  1  0.99597500  0.81039900  0.58273700  1
+  Zr  Zr3  1  0.50127900  0.32138600  0.25308400  1
+  Ti  Ti4  1  0.00107600  0.18430300  0.41873200  1
+  Ti  Ti5  1  0.99420900  0.82143900  0.25136500  1
+  Ti  Ti6  1  0.00095100  0.80959000  0.91557900  1
+  Ti  Ti7  1  0.49930200  0.32554000  0.58115100  1
+  Ti  Ti8  1  0.49762700  0.67826600  0.08213400  1
+  Ti  Ti9  1  0.50646400  0.32198800  0.91750900  1
+  Ti  Ti10  1  0.49555300  0.68402900  0.41487200  1
+  Ti  Ti11  1  0.49848300  0.67429600  0.75166500  1
+  O  O12  1  0.20041900  0.11210600  0.31065000  1
+  O  O13  1  0.23759600  0.11558100  0.63531300  1
+  O  O14  1  0.24545500  0.88007500  0.14226000  1
+  O  O15  1  0.24166900  0.11101500  0.96547500  1
+  O  O16  1  0.22812300  0.88700300  0.46761500  1
+  O  O17  1  0.22891000  0.87381000  0.80663800  1
+  O  O18  1  0.26807900  0.62593600  0.30848000  1
+  O  O19  1  0.25443900  0.38435500  0.47469500  1
+  O  O20  1  0.30089900  0.39192000  0.81170900  1
+  O  O21  1  0.27666000  0.60356000  0.64777100  1
+  O  O22  1  0.26606500  0.62203300  0.97493800  1
+  O  O23  1  0.28687800  0.39903100  0.13809600  1
+  O  O24  1  0.70942300  0.39279500  0.02331900  1
+  O  O25  1  0.74421800  0.62167400  0.19131500  1
+  O  O26  1  0.72220800  0.39526600  0.68518000  1
+  O  O27  1  0.73412400  0.38709500  0.36634800  1
+  O  O28  1  0.69268400  0.61367700  0.52228600  1
+  O  O29  1  0.74575400  0.61373700  0.85738700  1
+  O  O30  1  0.78627200  0.09855400  0.19496900  1
+  O  O31  1  0.77512100  0.87128900  0.02431000  1
+  O  O32  1  0.76580300  0.12237500  0.52619700  1
+  O  O33  1  0.76046100  0.87808800  0.35911700  1
+  O  O34  1  0.76030500  0.88588100  0.69855600  1
+  O  O35  1  0.77127300  0.11391700  0.86748600  1
+"
+"True","mp-1183045","ZrTiO3","Cubic","Pm-3m","221","5","0.7219286569999881","-2.729424507666666","False","57.47219178112415","5.405552075029354","0.0","False","True","NM","0.095130899999999","# generated using pymatgen
+data_ZrTiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85909900
+_cell_length_b   3.85909900
+_cell_length_c   3.85909900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTiO3
+_chemical_formula_sum   'Zr1 Ti1 O3'
+_cell_volume   57.47219178
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti1  1  0.50000000  0.50000000  0.50000000  1
+  O  O2  1  0.50000000  0.50000000  0.00000000  1
+  O  O3  1  0.50000000  0.00000000  0.50000000  1
+  O  O4  1  0.00000000  0.50000000  0.50000000  1
+"
+"True","mp-1215197","ZrTiO4","Orthorhombic","P2_12_12","18","12","0.06691273291666401","-3.593923870555555","False","136.78171629263971","4.9310180252394975","2.6223","True","False","NM","4e-07","# generated using pymatgen
+data_ZrTiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74274337
+_cell_length_b   5.10380047
+_cell_length_c   5.65073233
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTiO4
+_chemical_formula_sum   'Zr2 Ti2 O8'
+_cell_volume   136.78171629
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00000000  0.50000000  0.42203222  1
+  Zr  Zr1  1  0.50000000  0.00000000  0.57796778  1
+  Ti  Ti2  1  0.00000000  0.00000000  0.07107427  1
+  Ti  Ti3  1  0.50000000  0.50000000  0.92892573  1
+  O  O4  1  0.73671485  0.17688986  0.87517424  1
+  O  O5  1  0.76328515  0.67688986  0.12482576  1
+  O  O6  1  0.23671485  0.32311014  0.12482576  1
+  O  O7  1  0.26328515  0.82311014  0.87517424  1
+  O  O8  1  0.28320287  0.33981253  0.64871139  1
+  O  O9  1  0.21679713  0.83981253  0.35128861  1
+  O  O10  1  0.78320287  0.16018747  0.35128861  1
+  O  O11  1  0.71679713  0.66018747  0.64871139  1
+"
+"True","mp-753891","ZrTiO4","Triclinic","P1","1","24","0.046840982916664005","-3.613995620555555","False","280.0064201155993","4.817554599524885","2.8427000000000002","False","False","NM","5.05e-05","# generated using pymatgen
+data_ZrTiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.85301900
+_cell_length_b   5.66443860
+_cell_length_c   10.19072241
+_cell_angle_alpha   90.33367923
+_cell_angle_beta   91.72898235
+_cell_angle_gamma   90.09382675
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTiO4
+_chemical_formula_sum   'Zr4 Ti4 O16'
+_cell_volume   280.00642012
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00407800  0.69958900  0.87362900  1
+  Zr  Zr1  1  0.99200500  0.29998000  0.11796000  1
+  Zr  Zr2  1  0.99835800  0.69431300  0.37672300  1
+  Zr  Zr3  1  0.49157400  0.18749900  0.38282100  1
+  Ti  Ti4  1  0.99948000  0.30849200  0.63039600  1
+  Ti  Ti5  1  0.49996700  0.17850800  0.86960700  1
+  Ti  Ti6  1  0.50126400  0.82303600  0.12368900  1
+  Ti  Ti7  1  0.50315600  0.80960600  0.62708700  1
+  O  O8  1  0.23475700  0.61594000  0.04428400  1
+  O  O9  1  0.24939400  0.60628100  0.54583900  1
+  O  O10  1  0.21068800  0.39938700  0.28886600  1
+  O  O11  1  0.23235900  0.37776300  0.78934300  1
+  O  O12  1  0.30725500  0.88910500  0.78379900  1
+  O  O13  1  0.26904900  0.89937000  0.27432400  1
+  O  O14  1  0.24462300  0.10278400  0.54461500  1
+  O  O15  1  0.28543200  0.10685300  0.02361300  1
+  O  O16  1  0.70102700  0.88511400  0.47125700  1
+  O  O17  1  0.72882500  0.90458000  0.97202700  1
+  O  O18  1  0.74396400  0.11568900  0.71454200  1
+  O  O19  1  0.72484800  0.09445300  0.21904600  1
+  O  O20  1  0.74580200  0.60818600  0.20609600  1
+  O  O21  1  0.79646200  0.38770800  0.46998400  1
+  O  O22  1  0.76046100  0.39207600  0.94835600  1
+  O  O23  1  0.77517200  0.61368500  0.70209800  1
+"

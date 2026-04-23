@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Rh-Y-O,Rh,Y,O,YRhO3_1207629_POSCAR,35,local_max_drop,7.5788272155,-0.23303849512392,-0.1063650775878936,-0.1266734175360264,6.272133,12.805605,0.01743082

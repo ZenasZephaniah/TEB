@@ -1,0 +1,65 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1184349","FeRhO3","Cubic","Pm-3m","221","5","1.037876189249996","-0.364199115","False","59.247936856376974","5.794535835922729","0.0","False","True","FM","5.1219675","# generated using pymatgen
+data_FeRhO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89844200
+_cell_length_b   3.89844200
+_cell_length_c   3.89844200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeRhO3
+_chemical_formula_sum   'Fe1 Rh1 O3'
+_cell_volume   59.24793686
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00000000  0.00000000  0.00000000  1
+  Rh  Rh1  1  0.50000000  0.50000000  0.50000000  1
+  O  O2  1  0.50000000  0.50000000  0.00000000  1
+  O  O3  1  0.50000000  0.00000000  0.50000000  1
+  O  O4  1  0.00000000  0.50000000  0.50000000  1
+"
+"True","mp-973648","FeRhO3","Cubic","Pm-3m","221","5","0.935127389249996","-0.46694791500000005","False","53.58574568537138","6.406821234410597","0.0","False","True","FM","7.7374428","# generated using pymatgen
+data_FeRhO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77007300
+_cell_length_b   3.77007300
+_cell_length_c   3.77007300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeRhO3
+_chemical_formula_sum   'Fe1 Rh1 O3'
+_cell_volume   53.58574569
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00000000  0.00000000  0.00000000  1
+  Rh  Rh1  1  0.50000000  0.50000000  0.50000000  1
+  O  O2  1  0.00000000  0.00000000  0.50000000  1
+  O  O3  1  0.00000000  0.50000000  0.00000000  1
+  O  O4  1  0.50000000  0.00000000  0.00000000  1
+"

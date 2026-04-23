@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Ag-Cr-S,Ag,Cr,S,Cr5AgS8_676751_POSCAR,35,local_max_drop,9.3766869,-0.21835633229079,-0.1581825539100779,-0.060173778380712084,9.029402,17.01695,0.01856135

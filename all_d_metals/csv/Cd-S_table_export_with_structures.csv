@@ -1,0 +1,248 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1120762","Cd2S","Trigonal","P3m1","156","3","0.22242212499999703","-0.295316800937503","False","78.99910856081468","5.399692565812861","0.623899999999999","False","False","NM","0.000117","# generated using pymatgen
+data_Cd2S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96267000
+_cell_length_b   3.96267010
+_cell_length_c   5.80919200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999918
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2S
+_chemical_formula_sum   'Cd2 S1'
+_cell_volume   78.99910856
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.66666700  0.33333300  0.57873500  1
+  Cd  Cd1  1  0.33333300  0.66666700  0.93271700  1
+  S  S2  1  0.33333300  0.66666700  0.36570500  1
+"
+"True","mp-1021511","CdS","Trigonal","P3m1","156","2","0.252318607499999","-0.524289781406249","False","92.89071457991083","2.5826913192676173","1.5192","False","False","NM","7.5999999999999975e-06","# generated using pymatgen
+data_CdS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25614775
+_cell_length_b   4.25614775
+_cell_length_c   5.92118000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999609
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdS
+_chemical_formula_sum   'Cd1 S1'
+_cell_volume   92.89071458
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.45259600  1
+  S  S1  1  0.66666700  0.33333300  0.42440400  1
+"
+"True","mp-1181862","CdS","Orthorhombic","Pmmn","59","4","0.13417836500000002","-0.642430023906248","False","83.75543759042172","5.728775327025155","0.2766","False","False","NM","3.2e-06","# generated using pymatgen
+data_CdS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89810400
+_cell_length_b   3.89843600
+_cell_length_c   5.51149200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdS
+_chemical_formula_sum   'Cd2 S2'
+_cell_volume   83.75543759
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.24302600  0.50000000  0.50000000  1
+  Cd  Cd1  1  0.75697400  0.00000000  0.00000000  1
+  S  S2  1  0.25516300  0.50000000  0.00000000  1
+  S  S3  1  0.74483700  0.00000000  0.50000000  1
+"
+"True","mp-2469","CdS","Cubic","F-43m","216","2","0.0027132225","-0.7738951664062481","False","50.977693339587724","4.70613765491418","1.0492","True","False","NM","0.0","# generated using pymatgen
+data_CdS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16196443
+_cell_length_b   4.16196433
+_cell_length_c   4.16196485
+_cell_angle_alpha   60.00000393
+_cell_angle_beta   60.00000471
+_cell_angle_gamma   60.00000704
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdS
+_chemical_formula_sum   'Cd1 S1'
+_cell_volume   50.97769334
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  -0.00000000  0.00000000  0.00000000  1
+  S  S1  1  0.25000000  0.25000000  0.25000000  1
+"
+"True","mp-2771569","CdS","Hexagonal","P-6m2","187","2","0.2516672675","-0.524941121406248","False","91.27012188262536","2.62854959802318","1.4908000000000001","False","False","NM","0.0","# generated using pymatgen
+data_CdS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26116959
+_cell_length_b   4.26116959
+_cell_length_c   5.80417294
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999608
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdS
+_chemical_formula_sum   'Cd1 S1'
+_cell_volume   91.27012188
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.44269192  1
+  S  S1  1  0.66666700  0.33333300  0.43430808  1
+"
+"True","mp-370","CdS","Cubic","Fm-3m","225","2","0.133406712499999","-0.643201676406249","False","41.7411202066207","5.74752285033426","0.27930000000000005","False","False","NM","0.0007917","# generated using pymatgen
+data_CdS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89367501
+_cell_length_b   3.89367501
+_cell_length_c   3.89367501
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdS
+_chemical_formula_sum   'Cd1 S1'
+_cell_volume   41.74112021
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.00000000  1
+  S  S1  1  0.50000000  0.50000000  0.50000000  1
+"
+"True","mp-672","CdS","Hexagonal","P6_3mc","186","4","0.0","-0.7766083889062491","True","102.03892478274858","4.702284793707707","1.125","True","False","NM","0.0","# generated using pymatgen
+data_CdS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16883814
+_cell_length_b   4.16883806
+_cell_length_c   6.77961741
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000064
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdS
+_chemical_formula_sum   'Cd2 S2'
+_cell_volume   102.03892478
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.66666700  0.33333300  0.50022437  1
+  Cd  Cd1  1  0.33333300  0.66666700  0.00022437  1
+  S  S2  1  0.66666700  0.33333300  0.87677563  1
+  S  S3  1  0.33333300  0.66666700  0.37677563  1
+"
+"True","mp-1095440","CdS2","Cubic","Pa-3","205","12","0.050766734062502004","-0.46697219187499905","False","256.4655668126394","4.572204074019703","1.1625","False","False","NM","0.0","# generated using pymatgen
+data_CdS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35345105
+_cell_length_b   6.35345105
+_cell_length_c   6.35345105
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdS2
+_chemical_formula_sum   'Cd4 S8'
+_cell_volume   256.46556681
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.50000000  0.50000000  0.00000000  1
+  Cd  Cd1  1  0.50000000  0.00000000  0.50000000  1
+  Cd  Cd2  1  -0.00000000  0.50000000  0.50000000  1
+  Cd  Cd3  1  -0.00000000  0.00000000  0.00000000  1
+  S  S4  1  0.09419376  0.90580624  0.40580624  1
+  S  S5  1  0.90580624  0.40580624  0.09419376  1
+  S  S6  1  0.40580624  0.09419376  0.90580624  1
+  S  S7  1  0.59419376  0.59419376  0.59419376  1
+  S  S8  1  0.90580624  0.09419376  0.59419376  1
+  S  S9  1  0.09419376  0.59419376  0.90580624  1
+  S  S10  1  0.59419376  0.90580624  0.09419376  1
+  S  S11  1  0.40580624  0.40580624  0.40580624  1
+"

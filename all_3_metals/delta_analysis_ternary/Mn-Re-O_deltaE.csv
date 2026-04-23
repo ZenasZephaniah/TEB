@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Mn-Re-O,Mn,Re,O,Mn3ReO6_1105243_POSCAR,35,local_max_drop,6.6985165485,-0.18517642887243,-0.089542822668158,-0.095633606204272,5.090873,13.129092,0.01224471
+Mn-Re-O,Mn,Re,O,Mn3ReO6_1278885_POSCAR,35,local_max_drop,6.6835881811,-0.18511288180384,-0.08929383877512939,-0.09581904302871061,5.079527,13.099833,0.01223999

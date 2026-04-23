@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Mn-Tc-O,Mn,Tc,O,Mn2TcO4_34263_POSCAR,35,local_max_drop,6.7952084734,-0.17167903448387,-0.08974923621954925,-0.08192979826432076,4.89255,13.318609,0.01249769

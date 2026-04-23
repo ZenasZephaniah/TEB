@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Fe-V-S,Fe,V,S,V2FeS4_1100962_POSCAR,35,local_max_drop,17.9511630382,-0.20761305460704,-0.12642262292184242,-0.08119043168519757,16.713152,30.331275,0.00804522

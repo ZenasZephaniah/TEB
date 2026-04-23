@@ -1,0 +1,191 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-755511","Y2Hg2O5","Triclinic","P-1","2","18","0.09878918208333201","-2.380054100555556","False","313.843845893557","6.973381795538416","1.8779","False","False","NM","0.0008013","# generated using pymatgen
+data_Y2Hg2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.55366800
+_cell_length_b   7.67493599
+_cell_length_c   11.63411304
+_cell_angle_alpha   83.75404189
+_cell_angle_beta   87.47021504
+_cell_angle_gamma   84.60147933
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Hg2O5
+_chemical_formula_sum   'Y4 Hg4 O10'
+_cell_volume   313.84384589
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.16536600  0.82001000  0.82845400  1
+  Y  Y1  1  0.72816900  0.61851200  0.61081900  1
+  Y  Y2  1  0.83463400  0.17999000  0.17154600  1
+  Y  Y3  1  0.27183100  0.38148800  0.38918100  1
+  Hg  Hg4  1  0.71301100  0.63278000  0.11060300  1
+  Hg  Hg5  1  0.83439700  0.17841000  0.67086500  1
+  Hg  Hg6  1  0.16560300  0.82159000  0.32913500  1
+  Hg  Hg7  1  0.28698900  0.36722000  0.88939700  1
+  O  O8  1  0.66947700  0.71477600  0.93651300  1
+  O  O9  1  0.66986500  0.85211100  0.69848900  1
+  O  O10  1  0.24046000  0.66116400  0.48376000  1
+  O  O11  1  0.00565200  0.89541700  0.16348900  1
+  O  O12  1  0.99434800  0.10458300  0.83651100  1
+  O  O13  1  0.33013500  0.14788900  0.30151100  1
+  O  O14  1  0.33052300  0.28522400  0.06348700  1
+  O  O15  1  0.23241000  0.53484400  0.73131000  1
+  O  O16  1  0.75954000  0.33883600  0.51624000  1
+  O  O17  1  0.76759000  0.46515600  0.26869000  1
+"
+"True","mp-769289","Y2Hg2O5","Orthorhombic","Pna2_1","33","36","0.09185942236111001","-2.386983860277778","False","568.3799771097144","7.701020619075883","1.0656","False","False","NM","0.0125565","# generated using pymatgen
+data_Y2Hg2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.57498300
+_cell_length_b   11.86287600
+_cell_length_c   13.40216000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Hg2O5
+_chemical_formula_sum   'Y8 Hg8 O20'
+_cell_volume   568.37997711
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.23592100  0.03139500  0.66975700  1
+  Y  Y1  1  0.23956800  0.21891000  0.00218200  1
+  Y  Y2  1  0.73956800  0.28109000  0.50218200  1
+  Y  Y3  1  0.73592100  0.46860500  0.16975700  1
+  Y  Y4  1  0.26407900  0.53139500  0.66975700  1
+  Y  Y5  1  0.26043200  0.71891000  0.00218200  1
+  Y  Y6  1  0.76043200  0.78109000  0.50218200  1
+  Y  Y7  1  0.76407900  0.96860500  0.16975700  1
+  Hg  Hg8  1  0.30000200  0.00347600  0.40083400  1
+  Hg  Hg9  1  0.19961500  0.24610400  0.27136100  1
+  Hg  Hg10  1  0.69961500  0.25389600  0.77136100  1
+  Hg  Hg11  1  0.80000200  0.49652400  0.90083400  1
+  Hg  Hg12  1  0.19999800  0.50347600  0.40083400  1
+  Hg  Hg13  1  0.30038500  0.74610400  0.27136100  1
+  Hg  Hg14  1  0.80038500  0.75389600  0.77136100  1
+  Hg  Hg15  1  0.69999800  0.99652400  0.90083400  1
+  O  O16  1  0.26087700  0.06283200  0.23294800  1
+  O  O17  1  0.74626700  0.09996400  0.04607500  1
+  O  O18  1  0.23772800  0.12534400  0.83597000  1
+  O  O19  1  0.73801800  0.14995800  0.62620700  1
+  O  O20  1  0.24177200  0.18688800  0.43952700  1
+  O  O21  1  0.74177200  0.31311200  0.93952700  1
+  O  O22  1  0.23801800  0.35004200  0.12620700  1
+  O  O23  1  0.73772800  0.37465600  0.33597000  1
+  O  O24  1  0.24626700  0.40003600  0.54607500  1
+  O  O25  1  0.76087700  0.43716800  0.73294800  1
+  O  O26  1  0.23912300  0.56283200  0.23294800  1
+  O  O27  1  0.75373300  0.59996400  0.04607500  1
+  O  O28  1  0.26227200  0.62534400  0.83597000  1
+  O  O29  1  0.76198200  0.64995800  0.62620700  1
+  O  O30  1  0.25822800  0.68688800  0.43952700  1
+  O  O31  1  0.75822800  0.81311200  0.93952700  1
+  O  O32  1  0.26198200  0.85004200  0.12620700  1
+  O  O33  1  0.76227200  0.87465600  0.33597000  1
+  O  O34  1  0.25373300  0.90003600  0.54607500  1
+  O  O35  1  0.73912300  0.93716800  0.73294800  1
+"
+"True","mp-755634","Y2HgO4","Cubic","Fd-3m","227","14","0.08555689303571501","-2.9200823325","False","229.48799933316982","6.402263498057453","1.2172","True","False","NM","0.0010372","# generated using pymatgen
+data_Y2HgO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87213463
+_cell_length_b   6.87213463
+_cell_length_c   6.87213463
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2HgO4
+_chemical_formula_sum   'Y4 Hg2 O8'
+_cell_volume   229.48799933
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.62500000  0.62500000  0.62500000  1
+  Y  Y1  1  0.12500000  0.62500000  0.62500000  1
+  Y  Y2  1  0.62500000  0.12500000  0.62500000  1
+  Y  Y3  1  0.62500000  0.62500000  0.12500000  1
+  Hg  Hg4  1  0.25000000  0.25000000  0.25000000  1
+  Hg  Hg5  1  0.00000000  0.00000000  0.00000000  1
+  O  O6  1  0.86018700  0.41943900  0.86018700  1
+  O  O7  1  0.86018700  0.86018700  0.41943900  1
+  O  O8  1  0.86018700  0.86018700  0.86018700  1
+  O  O9  1  0.41943900  0.86018700  0.86018700  1
+  O  O10  1  0.38981300  0.38981300  0.38981300  1
+  O  O11  1  0.83056100  0.38981300  0.38981300  1
+  O  O12  1  0.38981300  0.83056100  0.38981300  1
+  O  O13  1  0.38981300  0.38981300  0.83056100  1
+"
+"True","mp-756103","Y2HgO4","Monoclinic","C2/m","12","14","0.000506137321429","-3.005133088214286","False","208.0327443556739","7.0625547238901","2.1403","False","False","NM","0.0","# generated using pymatgen
+data_Y2HgO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60613733
+_cell_length_b   7.03474909
+_cell_length_c   8.77875829
+_cell_angle_alpha   101.64925014
+_cell_angle_beta   101.84774034
+_cell_angle_gamma   75.14441830
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2HgO4
+_chemical_formula_sum   'Y4 Hg2 O8'
+_cell_volume   208.03274436
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.38170304  0.77653037  0.53784629  1
+  Y  Y1  1  0.84071544  0.51992486  0.19876756  1
+  Y  Y2  1  0.16098291  0.47999858  0.79972934  1
+  Y  Y3  1  0.61975654  0.22350896  0.46070804  1
+  Hg  Hg4  1  0.11406599  0.93499601  0.16051213  1
+  Hg  Hg5  1  0.88786837  0.06490423  0.83808839  1
+  O  O6  1  0.76697961  0.85406559  0.38564950  1
+  O  O7  1  0.20321432  0.64946855  0.05341043  1
+  O  O8  1  0.96568243  0.78740562  0.71685701  1
+  O  O9  1  0.41826118  0.51252184  0.34650252  1
+  O  O10  1  0.58328528  0.48756445  0.65202507  1
+  O  O11  1  0.03578926  0.21257524  0.28168061  1
+  O  O12  1  0.79874386  0.35044740  0.94511853  1
+  O  O13  1  0.23452076  0.14611129  0.61297459  1
+"

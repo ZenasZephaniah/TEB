@@ -1,0 +1,95 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-772856","CuHgO2","Monoclinic","C2/m","12","4","0.053407966875000004","-0.735518245625001","False","57.72443155911085","8.51880895312453","0.0","False","True","FM","0.804519299999999","# generated using pymatgen
+data_CuHgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.74961799
+_cell_length_b   3.74961799
+_cell_length_c   6.01554081
+_cell_angle_alpha   70.92135047
+_cell_angle_beta   70.92135047
+_cell_angle_gamma   46.92490718
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuHgO2
+_chemical_formula_sum   'Cu1 Hg1 O2'
+_cell_volume   57.72443156
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg1  1  0.50000000  0.50000000  0.50000000  1
+  O  O2  1  0.38656600  0.38656600  0.21972000  1
+  O  O3  1  0.61343400  0.61343400  0.78028000  1
+"
+"True","mp-996973","CuHgO2","Monoclinic","C2/m","12","4","0.043040451874999004","-0.745885760625001","False","59.1512951730479","8.313315928944172","0.0","False","True","FM","0.4431886","# generated using pymatgen
+data_CuHgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85811746
+_cell_length_b   3.85811746
+_cell_length_c   6.37559395
+_cell_angle_alpha   62.92307107
+_cell_angle_beta   62.92307107
+_cell_angle_gamma   45.80209880
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuHgO2
+_chemical_formula_sum   'Cu1 Hg1 O2'
+_cell_volume   59.15129517
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.50000000  1
+  Hg  Hg1  1  0.50000000  0.50000000  0.00000000  1
+  O  O2  1  0.42857900  0.42857900  0.71967400  1
+  O  O3  1  0.57142100  0.57142100  0.28032600  1
+"
+"True","mp-1184044","CuHgO3","Cubic","Pm-3m","221","5","0.332513582624999","-0.347448159500001","False","56.257612521104434","9.213171513943983","0.0","False","True","NM","0.689176599999999","# generated using pymatgen
+data_CuHgO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83172000
+_cell_length_b   3.83172000
+_cell_length_c   3.83172000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuHgO3
+_chemical_formula_sum   'Cu1 Hg1 O3'
+_cell_volume   56.25761252
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg1  1  0.50000000  0.50000000  0.50000000  1
+  O  O2  1  0.00000000  0.00000000  0.50000000  1
+  O  O3  1  0.00000000  0.50000000  0.00000000  1
+  O  O4  1  0.50000000  0.00000000  0.00000000  1
+"

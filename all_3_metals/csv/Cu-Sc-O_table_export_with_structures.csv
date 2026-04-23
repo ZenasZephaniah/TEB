@@ -1,0 +1,508 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-754841","Sc(CuO2)2","Tetragonal","I4_1/amd","141","14","0.11245023607142901","-1.8785662257142852","False","174.55401413450798","4.491020113345088","0.0","False","True","FM","2.0014354","# generated using pymatgen
+data_Sc(CuO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78934376
+_cell_length_b   6.78934376
+_cell_length_c   6.78934376
+_cell_angle_alpha   130.96239962
+_cell_angle_beta   130.96239962
+_cell_angle_gamma   71.87282497
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc(CuO2)2
+_chemical_formula_sum   'Sc2 Cu4 O8'
+_cell_volume   174.55401413
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.00000000  0.00000000  1
+  Sc  Sc1  1  0.75000000  0.25000000  0.50000000  1
+  Cu  Cu2  1  0.87500000  0.62500000  0.25000000  1
+  Cu  Cu3  1  0.37500000  0.62500000  0.75000000  1
+  Cu  Cu4  1  0.37500000  0.12500000  0.75000000  1
+  Cu  Cu5  1  0.37500000  0.62500000  0.25000000  1
+  O  O6  1  0.11887700  0.39215700  0.27328000  1
+  O  O7  1  0.63112300  0.40440400  0.77328000  1
+  O  O8  1  0.15440400  0.88112300  0.27328000  1
+  O  O9  1  0.60784300  0.88112300  0.72672000  1
+  O  O10  1  0.11887700  0.84559600  0.72672000  1
+  O  O11  1  0.63112300  0.85784300  0.22672000  1
+  O  O12  1  0.59559600  0.36887700  0.22672000  1
+  O  O13  1  0.14215700  0.36887700  0.77328000  1
+"
+"True","mp-755805","Sc(CuO2)2","Tetragonal","I4_1/a","88","14","0.008552287500002","-1.982464174285712","False","138.64131444692424","5.6543433064702135","0.0","False","True","FM","2.006114","# generated using pymatgen
+data_Sc(CuO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10707969
+_cell_length_b   6.01562670
+_cell_length_c   6.10706900
+_cell_angle_alpha   126.20808802
+_cell_angle_beta   79.87436483
+_cell_angle_gamma   127.08012686
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc(CuO2)2
+_chemical_formula_sum   'Sc2 Cu4 O8'
+_cell_volume   138.64131445
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.87611569  0.74999954  0.62611660  1
+  Sc  Sc1  1  0.12388431  0.25000046  0.37388340  1
+  Cu  Cu2  1  0.50000000  0.00000000  -0.00000000  1
+  Cu  Cu3  1  0.50000000  0.50000000  -0.00000000  1
+  Cu  Cu4  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu5  1  0.00000000  0.50000000  -0.00000000  1
+  O  O6  1  0.82436840  0.70117128  0.22986992  1
+  O  O7  1  0.47130801  0.20117678  0.37680469  1
+  O  O8  1  0.73552556  0.89550682  0.01990135  1
+  O  O9  1  0.87559814  0.39549346  0.65997514  1
+  O  O10  1  0.12440186  0.60450654  0.34002486  1
+  O  O11  1  0.26447444  0.10449318  0.98009865  1
+  O  O12  1  0.52869199  0.79882322  0.62319531  1
+  O  O13  1  0.17563160  0.29882872  0.77013008  1
+"
+"True","mp-686085","Sc13Cu13O33","Monoclinic","Cm","8","59","0.107986525762715","-2.497786070677966","False","708.7712319531859","4.541611215538488","0.0","False","True","FM","0.1915912","# generated using pymatgen
+data_Sc13Cu13O33
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96404422
+_cell_length_b   5.96404422
+_cell_length_c   36.25867887
+_cell_angle_alpha   87.86782069
+_cell_angle_beta   87.86782069
+_cell_angle_gamma   33.36506050
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc13Cu13O33
+_chemical_formula_sum   'Sc13 Cu13 O33'
+_cell_volume   708.77123195
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.72333700  0.72333700  0.96086800  1
+  Sc  Sc1  1  0.18831000  0.18831000  0.88491300  1
+  Sc  Sc2  1  0.67215900  0.67215900  0.80720400  1
+  Sc  Sc3  1  0.10542300  0.10542300  0.73168000  1
+  Sc  Sc4  1  0.59450400  0.59450400  0.65350800  1
+  Sc  Sc5  1  0.02849200  0.02849200  0.57754900  1
+  Sc  Sc6  1  0.51818600  0.51818600  0.49935700  1
+  Sc  Sc7  1  0.95370600  0.95370600  0.42319700  1
+  Sc  Sc8  1  0.41847900  0.41847900  0.34760700  1
+  Sc  Sc9  1  0.90126900  0.90126900  0.27009000  1
+  Sc  Sc10  1  0.35126700  0.35126700  0.19277600  1
+  Sc  Sc11  1  0.81473600  0.81473600  0.11493300  1
+  Sc  Sc12  1  0.28034500  0.28034500  0.03686000  1
+  Cu  Cu13  1  0.99656000  0.99656000  0.00397200  1
+  Cu  Cu14  1  0.45574200  0.45574200  0.92082700  1
+  Cu  Cu15  1  0.92682900  0.92682900  0.84574300  1
+  Cu  Cu16  1  0.38111000  0.38111000  0.77329000  1
+  Cu  Cu17  1  0.84716700  0.84716700  0.69056200  1
+  Cu  Cu18  1  0.77046200  0.77046200  0.53649800  1
+  Cu  Cu19  1  0.30349000  0.30349000  0.61880600  1
+  Cu  Cu20  1  0.22833200  0.22833200  0.46481200  1
+  Cu  Cu21  1  0.68609400  0.68609400  0.38289800  1
+  Cu  Cu22  1  0.15549600  0.15549600  0.30773700  1
+  Cu  Cu23  1  0.61304200  0.61304200  0.23278100  1
+  Cu  Cu24  1  0.53756700  0.53756700  0.07936400  1
+  Cu  Cu25  1  0.07369600  0.07369600  0.15609100  1
+  O  O26  1  0.15687300  0.15687300  0.99164000  1
+  O  O27  1  0.61463600  0.61463600  0.91536700  1
+  O  O28  1  0.08905900  0.08905900  0.83809400  1
+  O  O29  1  0.29842300  0.29842300  0.93128400  1
+  O  O30  1  0.54145600  0.54145600  0.76244900  1
+  O  O31  1  0.76637200  0.76637200  0.85819900  1
+  O  O32  1  0.87343800  0.87343800  0.79265100  1
+  O  O33  1  0.00928800  0.00928800  0.68420500  1
+  O  O34  1  0.21913000  0.21913000  0.77527800  1
+  O  O35  1  0.46408100  0.46408100  0.60824400  1
+  O  O36  1  0.68771400  0.68771400  0.70409000  1
+  O  O37  1  0.79541500  0.79541500  0.63789200  1
+  O  O38  1  0.93265900  0.93265900  0.52993500  1
+  O  O39  1  0.14138100  0.14138100  0.62136300  1
+  O  O40  1  0.38920300  0.38920300  0.45400100  1
+  O  O41  1  0.61094600  0.61094600  0.54995700  1
+  O  O42  1  0.71994400  0.71994400  0.48365800  1
+  O  O43  1  0.84475000  0.84475000  0.37795100  1
+  O  O44  1  0.06601100  0.06601100  0.46701300  1
+  O  O45  1  0.31728300  0.31728300  0.30134100  1
+  O  O46  1  0.52927700  0.52927700  0.39350300  1
+  O  O47  1  0.77705800  0.77705800  0.22439500  1
+  O  O48  1  0.99643900  0.99643900  0.32118300  1
+  O  O49  1  0.10450000  0.10450000  0.25608200  1
+  O  O50  1  0.23634700  0.23634700  0.14617100  1
+  O  O51  1  0.44988500  0.44988500  0.24021800  1
+  O  O52  1  0.56965300  0.56965300  0.17693200  1
+  O  O53  1  0.70072700  0.70072700  0.06800900  1
+  O  O54  1  0.91079900  0.91079900  0.16306100  1
+  O  O55  1  0.03149300  0.03149300  0.09859800  1
+  O  O56  1  0.37362600  0.37362600  0.08538000  1
+  O  O57  1  0.48810300  0.48810300  0.01949000  1
+  O  O58  1  0.83380700  0.83380700  0.00499500  1
+"
+"True","mp-685833","Sc14Cu14O37","Monoclinic","Cm","8","65","0.089226788365381","-2.468931923307692","False","777.6028014846441","4.507964153732899","0.0","False","True","FiM","0.1133029","# generated using pymatgen
+data_Sc14Cu14O37
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98592278
+_cell_length_b   5.98592278
+_cell_length_c   40.21693625
+_cell_angle_alpha   79.73246639
+_cell_angle_beta   79.73246639
+_cell_angle_gamma   33.31265142
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc14Cu14O37
+_chemical_formula_sum   'Sc14 Cu14 O37'
+_cell_volume   777.60280148
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.25726600  0.25726600  0.03631900  1
+  Sc  Sc1  1  0.75325700  0.75325700  0.10690500  1
+  Sc  Sc2  1  0.23043700  0.23043700  0.17900800  1
+  Sc  Sc3  1  0.75234700  0.75234700  0.24971000  1
+  Sc  Sc4  1  0.27239500  0.27239500  0.31986400  1
+  Sc  Sc5  1  0.72738900  0.72738900  0.39447800  1
+  Sc  Sc6  1  0.25535200  0.25535200  0.46382200  1
+  Sc  Sc7  1  0.75438000  0.75438000  0.53421400  1
+  Sc  Sc8  1  0.23250600  0.23250600  0.60640700  1
+  Sc  Sc9  1  0.74429000  0.74429000  0.67783300  1
+  Sc  Sc10  1  0.24209500  0.24209500  0.75003500  1
+  Sc  Sc11  1  0.74216200  0.74216200  0.82208400  1
+  Sc  Sc12  1  0.24205500  0.24205500  0.89398700  1
+  Sc  Sc13  1  0.73744900  0.73744900  0.96590100  1
+  Cu  Cu14  1  0.00619000  0.00619000  0.99628500  1
+  Cu  Cu15  1  0.50513800  0.50513800  0.07313600  1
+  Cu  Cu16  1  0.99543100  0.99543100  0.14314200  1
+  Cu  Cu17  1  0.50220800  0.50220800  0.20933000  1
+  Cu  Cu18  1  0.00317900  0.00317900  0.29117100  1
+  Cu  Cu19  1  0.50031100  0.50031100  0.35718300  1
+  Cu  Cu20  1  0.99982200  0.99982200  0.42435100  1
+  Cu  Cu21  1  0.50495900  0.50495900  0.50127300  1
+  Cu  Cu22  1  0.99817000  0.99817000  0.57190300  1
+  Cu  Cu23  1  0.50347300  0.50347300  0.64121000  1
+  Cu  Cu24  1  0.00477600  0.00477600  0.71218900  1
+  Cu  Cu25  1  0.50473000  0.50473000  0.78370400  1
+  Cu  Cu26  1  0.00447900  0.00447900  0.85518600  1
+  Cu  Cu27  1  0.50280600  0.50280600  0.92624100  1
+  O  O28  1  0.83968600  0.83968600  0.00766000  1
+  O  O29  1  0.34414100  0.34414100  0.07836400  1
+  O  O30  1  0.82929600  0.82929600  0.15019600  1
+  O  O31  1  0.66621800  0.66621800  0.06366800  1
+  O  O32  1  0.33481600  0.33481600  0.22067400  1
+  O  O33  1  0.16234700  0.16234700  0.13178900  1
+  O  O34  1  0.02069100  0.02069100  0.19258400  1
+  O  O35  1  0.83873100  0.83873100  0.29007400  1
+  O  O36  1  0.66551300  0.66551300  0.20839300  1
+  O  O37  1  0.47711600  0.47711600  0.31150900  1
+  O  O38  1  0.32921300  0.32921300  0.36819700  1
+  O  O39  1  0.17036000  0.17036000  0.27757300  1
+  O  O40  1  0.83294100  0.83294100  0.43634200  1
+  O  O41  1  0.67063000  0.67063000  0.34617100  1
+  O  O42  1  0.52395800  0.52395800  0.40281400  1
+  O  O43  1  0.34466100  0.34466100  0.50630900  1
+  O  O44  1  0.16408100  0.16408100  0.42466800  1
+  O  O45  1  0.83341400  0.83341400  0.57730600  1
+  O  O46  1  0.66504600  0.66504600  0.49244300  1
+  O  O47  1  0.33403300  0.33403300  0.64877900  1
+  O  O48  1  0.16418100  0.16418100  0.55920800  1
+  O  O49  1  0.02453700  0.02453700  0.61868600  1
+  O  O50  1  0.83607800  0.83607800  0.72104900  1
+  O  O51  1  0.67185700  0.67185700  0.63390300  1
+  O  O52  1  0.51964400  0.51964400  0.69218600  1
+  O  O53  1  0.33616300  0.33616300  0.79272600  1
+  O  O54  1  0.17240100  0.17240100  0.70537000  1
+  O  O55  1  0.02108500  0.02108500  0.76444900  1
+  O  O56  1  0.83536300  0.83536300  0.86449400  1
+  O  O57  1  0.67234300  0.67234300  0.77724900  1
+  O  O58  1  0.52048600  0.52048600  0.83679800  1
+  O  O59  1  0.33207900  0.33207900  0.93686400  1
+  O  O60  1  0.17226100  0.17226100  0.84910900  1
+  O  O61  1  0.01823300  0.01823300  0.90917300  1
+  O  O62  1  0.67055200  0.67055200  0.92085300  1
+  O  O63  1  0.52264300  0.52264300  0.98210500  1
+  O  O64  1  0.17000100  0.17000100  0.99502200  1
+"
+"True","mp-1219443","Sc2Cu2O5","Monoclinic","Pm","6","9","0.10918015319443801","-2.514691288333333","False","109.78942814196688","4.492067036059849","0.0","False","True","NM","0.0009046","# generated using pymatgen
+data_Sc2Cu2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.42003700
+_cell_length_b   5.67923700
+_cell_length_c   5.90888489
+_cell_angle_alpha   73.05960883
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2Cu2O5
+_chemical_formula_sum   'Sc2 Cu2 O5'
+_cell_volume   109.78942814
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.50000000  0.51027500  0.46772800  1
+  Sc  Sc1  1  0.00000000  0.99515800  0.51986000  1
+  Cu  Cu2  1  0.50000000  0.99376900  0.00675100  1
+  Cu  Cu3  1  0.00000000  0.51586800  0.00340300  1
+  O  O4  1  0.00000000  0.37116000  0.33130300  1
+  O  O5  1  0.50000000  0.90616400  0.33528000  1
+  O  O6  1  0.00000000  0.60759700  0.66689100  1
+  O  O7  1  0.50000000  0.12440500  0.68107000  1
+  O  O8  1  0.50000000  0.62485400  0.03991500  1
+"
+"True","mp-15336","Sc2Cu2O5","Orthorhombic","Pna2_1","33","36","0.061392048194439004","-2.562479393333333","False","415.7907225286904","4.744516357315888","0.0","False","True","FM","8.002372","# generated using pymatgen
+data_Sc2Cu2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.24879700
+_cell_length_b   10.55464100
+_cell_length_c   12.12575400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2Cu2O5
+_chemical_formula_sum   'Sc8 Cu8 O20'
+_cell_volume   415.79072253
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.78012900  0.78943000  0.00063300  1
+  Sc  Sc1  1  0.21987100  0.21057000  0.50063300  1
+  Sc  Sc2  1  0.71987100  0.28943000  0.00063300  1
+  Sc  Sc3  1  0.28012900  0.71057000  0.50063300  1
+  Sc  Sc4  1  0.77918500  0.96042500  0.33039800  1
+  Sc  Sc5  1  0.22081500  0.03957500  0.83039800  1
+  Sc  Sc6  1  0.72081500  0.46042500  0.33039800  1
+  Sc  Sc7  1  0.27918500  0.53957500  0.83039800  1
+  Cu  Cu8  1  0.34168300  0.00964400  0.10945900  1
+  Cu  Cu9  1  0.65831700  0.99035600  0.60945900  1
+  Cu  Cu10  1  0.15831700  0.50964400  0.10945900  1
+  Cu  Cu11  1  0.84168300  0.49035600  0.60945900  1
+  Cu  Cu12  1  0.34995500  0.73966700  0.22127800  1
+  Cu  Cu13  1  0.65004500  0.26033300  0.72127800  1
+  Cu  Cu14  1  0.15004500  0.23966700  0.22127800  1
+  Cu  Cu15  1  0.84995500  0.76033300  0.72127800  1
+  O  O16  1  0.27129700  0.91904300  0.96654000  1
+  O  O17  1  0.72870300  0.08095700  0.46654000  1
+  O  O18  1  0.22870300  0.41904300  0.96654000  1
+  O  O19  1  0.77129700  0.58095700  0.46654000  1
+  O  O20  1  0.72008800  0.93277100  0.76509900  1
+  O  O21  1  0.27991200  0.06722900  0.26509900  1
+  O  O22  1  0.77991200  0.43277100  0.76509900  1
+  O  O23  1  0.22008800  0.56722900  0.26509900  1
+  O  O24  1  0.20405800  0.62462100  0.66530900  1
+  O  O25  1  0.79594200  0.37537900  0.16530900  1
+  O  O26  1  0.29594200  0.12462100  0.66530900  1
+  O  O27  1  0.70405800  0.87537900  0.16530900  1
+  O  O28  1  0.78550600  0.81774000  0.56524100  1
+  O  O29  1  0.21449400  0.18226000  0.06524100  1
+  O  O30  1  0.71449400  0.31774000  0.56524100  1
+  O  O31  1  0.28550600  0.68226000  0.06524100  1
+  O  O32  1  0.28210500  0.83076700  0.36404300  1
+  O  O33  1  0.71789500  0.16923300  0.86404300  1
+  O  O34  1  0.21789500  0.33076700  0.36404300  1
+  O  O35  1  0.78210500  0.66923300  0.86404300  1
+"
+"True","mp-752959","Sc5Cu5O13","Triclinic","P1","1","23","0.045681538043476","-2.5317624313043483","False","274.8053976256089","4.5349818555235","0.0","False","True","NM","7.8e-05","# generated using pymatgen
+data_Sc5Cu5O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82982000
+_cell_length_b   6.00210724
+_cell_length_c   8.80624802
+_cell_angle_alpha   71.20366875
+_cell_angle_beta   70.70068053
+_cell_angle_gamma   80.74370479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc5Cu5O13
+_chemical_formula_sum   'Sc5 Cu5 O13'
+_cell_volume   274.80539763
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.70025600  0.46212200  0.11048500  1
+  Sc  Sc1  1  0.10160700  0.50799500  0.29705000  1
+  Sc  Sc2  1  0.49769300  0.50502700  0.49985900  1
+  Sc  Sc3  1  0.89846300  0.54741200  0.69114900  1
+  Sc  Sc4  1  0.30215500  0.46145000  0.90355300  1
+  Cu  Cu5  1  0.43073900  0.00010900  0.17416100  1
+  Cu  Cu6  1  0.78790700  0.00317400  0.40941300  1
+  Cu  Cu7  1  0.19689000  0.00911600  0.60533200  1
+  Cu  Cu8  1  0.59539400  0.99594300  0.79528100  1
+  Cu  Cu9  1  0.99828100  0.99989800  0.01350600  1
+  O  O10  1  0.72554300  0.05204500  0.20546700  1
+  O  O11  1  0.01251600  0.66445400  0.06485900  1
+  O  O12  1  0.35728400  0.32422100  0.14501200  1
+  O  O13  1  0.78177000  0.32896000  0.34954400  1
+  O  O14  1  0.42780100  0.66943800  0.26048000  1
+  O  O15  1  0.82148900  0.67998000  0.45270800  1
+  O  O16  1  0.18170300  0.33867900  0.53571400  1
+  O  O17  1  0.86037900  0.94805500  0.61343800  1
+  O  O18  1  0.24747600  0.67974700  0.66726700  1
+  O  O19  1  0.60238800  0.33029900  0.72195100  1
+  O  O20  1  0.33366300  0.04711900  0.97460600  1
+  O  O21  1  0.96753700  0.33473500  0.91886500  1
+  O  O22  1  0.60089400  0.66329900  0.87958500  1
+"
+"True","mp-3642","ScCuO2","Hexagonal","P6_3/mmc","194","8","0.0","-2.724876606249999","True","102.27311664510334","4.5624290881974545","2.3309","True","False","NM","0.0","# generated using pymatgen
+data_ScCuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.22138292
+_cell_length_b   3.22138236
+_cell_length_c   11.38010347
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999545
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScCuO2
+_chemical_formula_sum   'Sc2 Cu2 O4'
+_cell_volume   102.27311665
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  -0.00000000  0.00000000  -0.00000000  1
+  Sc  Sc1  1  -0.00000000  0.00000000  0.50000000  1
+  Cu  Cu2  1  0.66666700  0.33333300  0.75000000  1
+  Cu  Cu3  1  0.33333300  0.66666700  0.25000000  1
+  O  O4  1  0.33333300  0.66666700  0.41033669  1
+  O  O5  1  0.66666700  0.33333300  0.91033669  1
+  O  O6  1  0.33333300  0.66666700  0.08966331  1
+  O  O7  1  0.66666700  0.33333300  0.58966331  1
+"
+"True","mp-4636","ScCuO2","Trigonal","R-3m","166","4","0.000457447499998","-2.724419158750001","False","51.19027907540447","4.557641125914724","2.1669","True","False","NM","0.0","# generated using pymatgen
+data_ScCuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98617589
+_cell_length_b   5.98617679
+_cell_length_c   5.98617525
+_cell_angle_alpha   31.23584853
+_cell_angle_beta   31.23582468
+_cell_angle_gamma   31.23584369
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScCuO2
+_chemical_formula_sum   'Sc1 Cu1 O2'
+_cell_volume   51.19027908
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu1  1  -0.00000000  -0.00000000  -0.00000000  1
+  O  O2  1  0.89317000  0.89317000  0.89317000  1
+  O  O3  1  0.10682900  0.10682900  0.10682900  1
+"
+"True","mp-973068","ScCuO3","Cubic","Pm-3m","221","5","0.572803505499999","-1.837501564","False","51.848925970517726","5.012149143668761","0.0","False","True","NM","0.0347615","# generated using pymatgen
+data_ScCuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72889300
+_cell_length_b   3.72889300
+_cell_length_c   3.72889300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScCuO3
+_chemical_formula_sum   'Sc1 Cu1 O3'
+_cell_volume   51.84892597
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.50000000  0.50000000  0.50000000  1
+  O  O2  1  0.50000000  0.50000000  0.00000000  1
+  O  O3  1  0.50000000  0.00000000  0.50000000  1
+  O  O4  1  0.00000000  0.50000000  0.50000000  1
+"

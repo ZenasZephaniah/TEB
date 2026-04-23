@@ -1,0 +1,217 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-981379","Zn3CdS4","Cubic","P-43m","215","8","0.018545308660716003","-0.8976305507812491","False","167.37634301601193","4.334460796828401","1.6798000000000002","True","False","NM","0.0","# generated using pymatgen
+data_Zn3CdS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51101202
+_cell_length_b   5.51101202
+_cell_length_c   5.51101202
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3CdS4
+_chemical_formula_sum   'Zn3 Cd1 S4'
+_cell_volume   167.37634302
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.50000000  0.50000000  1
+  Zn  Zn1  1  0.50000000  -0.00000000  0.50000000  1
+  Zn  Zn2  1  0.50000000  0.50000000  -0.00000000  1
+  Cd  Cd3  1  0.00000000  -0.00000000  -0.00000000  1
+  S  S4  1  0.26268019  0.26268019  0.26268019  1
+  S  S5  1  0.73731981  0.73731981  0.26268019  1
+  S  S6  1  0.26268019  0.73731981  0.73731981  1
+  S  S7  1  0.73731981  0.26268019  0.73731981  1
+"
+"True","mp-1215578","Zn4CdS5","Trigonal","R-3m","166","10","0.300012547785716","-0.625467809691966","False","174.55895761551955","5.083357475424589","0.0","False","True","NM","0.0008089999999990001","# generated using pymatgen
+data_Zn4CdS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   15.17676456
+_cell_length_b   15.17676456
+_cell_length_c   15.17676459
+_cell_angle_alpha   13.85948159
+_cell_angle_beta   13.85948159
+_cell_angle_gamma   13.85948090
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn4CdS5
+_chemical_formula_sum   'Zn4 Cd1 S5'
+_cell_volume   174.55895762
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.59723400  0.59723400  0.59723400  1
+  Zn  Zn1  1  0.19921900  0.19921900  0.19921900  1
+  Zn  Zn2  1  0.80078100  0.80078100  0.80078100  1
+  Zn  Zn3  1  0.40276600  0.40276600  0.40276600  1
+  Cd  Cd4  1  0.00000000  0.00000000  0.00000000  1
+  S  S5  1  0.70439200  0.70439200  0.70439200  1
+  S  S6  1  0.10180700  0.10180700  0.10180700  1
+  S  S7  1  0.50000000  0.50000000  0.50000000  1
+  S  S8  1  0.29560800  0.29560800  0.29560800  1
+  S  S9  1  0.89819300  0.89819300  0.89819300  1
+"
+"True","mp-1215784","Zn4CdS5","Trigonal","P3m1","156","20","0.026221206785717002","-0.899259150691965","False","432.0495160581378","4.10761058219897","1.4555","True","False","NM","1.5100000000000001e-05","# generated using pymatgen
+data_Zn4CdS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92791683
+_cell_length_b   3.92791683
+_cell_length_c   32.33541100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001400
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn4CdS5
+_chemical_formula_sum   'Zn8 Cd2 S10'
+_cell_volume   432.04951606
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.33333300  0.66666700  0.50152600  1
+  Zn  Zn1  1  0.33333300  0.66666700  0.69968500  1
+  Zn  Zn2  1  0.33333300  0.66666700  0.89804100  1
+  Zn  Zn3  1  0.66666700  0.33333300  0.99507200  1
+  Zn  Zn4  1  0.66666700  0.33333300  0.20043800  1
+  Zn  Zn5  1  0.66666700  0.33333300  0.40495000  1
+  Zn  Zn6  1  0.66666700  0.33333300  0.60006900  1
+  Zn  Zn7  1  0.66666700  0.33333300  0.79934400  1
+  Cd  Cd8  1  0.33333300  0.66666700  0.09636500  1
+  Cd  Cd9  1  0.33333300  0.66666700  0.29994900  1
+  S  S10  1  0.33333300  0.66666700  0.01831300  1
+  S  S11  1  0.33333300  0.66666700  0.22228200  1
+  S  S12  1  0.33333300  0.66666700  0.42823800  1
+  S  S13  1  0.33333300  0.66666700  0.62524200  1
+  S  S14  1  0.33333300  0.66666700  0.82421600  1
+  S  S15  1  0.66666700  0.33333300  0.12859300  1
+  S  S16  1  0.66666700  0.33333300  0.33258000  1
+  S  S17  1  0.66666700  0.33333300  0.52608100  1
+  S  S18  1  0.66666700  0.33333300  0.72497300  1
+  S  S19  1  0.66666700  0.33333300  0.92204400  1
+"
+"True","mp-1078780","ZnCd3S4","Cubic","P-43m","215","8","0.013561217053570001","-0.809569662031249","False","191.0578145593272","4.614223781264515","1.216399999999999","True","False","NM","0.0","# generated using pymatgen
+data_ZnCd3S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75954623
+_cell_length_b   5.75954623
+_cell_length_c   5.75954623
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCd3S4
+_chemical_formula_sum   'Zn1 Cd3 S4'
+_cell_volume   191.05781456
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  -0.00000000  -0.00000000  1
+  Cd  Cd1  1  0.00000000  0.50000000  0.50000000  1
+  Cd  Cd2  1  0.50000000  0.50000000  -0.00000000  1
+  Cd  Cd3  1  0.50000000  0.00000000  0.50000000  1
+  S  S4  1  0.76360863  0.76360863  0.23639137  1
+  S  S5  1  0.76360863  0.23639137  0.76360863  1
+  S  S6  1  0.23639137  0.76360863  0.76360863  1
+  S  S7  1  0.23639137  0.23639137  0.23639137  1
+"
+"True","mp-1215475","ZnCdS2","Trigonal","P3m1","156","4","0.033843537678571005","-0.835809831584821","False","92.37318525935787","4.349394535176201","1.3281","True","False","NM","0.000563","# generated using pymatgen
+data_ZnCdS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01080163
+_cell_length_b   4.01080163
+_cell_length_c   6.63060100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999398
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCdS2
+_chemical_formula_sum   'Zn1 Cd1 S2'
+_cell_volume   92.37318526
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.00000000  0.99976400  1
+  Cd  Cd1  1  0.33333300  0.66666700  0.50562500  1
+  S  S2  1  0.33333300  0.66666700  0.89201300  1
+  S  S3  1  0.00000000  0.00000000  0.35459800  1
+"
+"True","mp-971712","ZnCdS2","Tetragonal","P-4m2","115","4","0.020163146607144","-0.8494902226562481","False","89.42935917905643","4.492567439284081","1.368599999999999","True","False","NM","0.0","# generated using pymatgen
+data_ZnCdS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95435425
+_cell_length_b   3.95435425
+_cell_length_c   5.71911689
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCdS2
+_chemical_formula_sum   'Zn1 Cd1 S2'
+_cell_volume   89.42935918
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.49999900  0.49999900  0.50000000  1
+  Cd  Cd1  1  -0.00000000  -0.00000000  0.00000000  1
+  S  S2  1  0.00000000  0.49999900  0.27642094  1
+  S  S3  1  0.49999900  -0.00000000  0.72358006  1
+"

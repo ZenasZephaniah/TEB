@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cd-Tc-O,Cd,Tc,O,CdTcO3_1189706_POSCAR,35,local_max_drop,6.0035811,-0.23348590594388,-0.17423435567833717,-0.059251550265542824,5.730691,13.371612,0.02232125

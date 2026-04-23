@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Au-Ta-S,Au,Ta,S,Ta5AuS_669370_POSCAR,35,local_max_drop,11.1503494889,-0.50347340206696,-0.26955311171210955,-0.23392029035485046,9.61237,18.840246,0.02960407

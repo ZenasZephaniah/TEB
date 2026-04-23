@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Fe-Rh-O,Fe,Rh,O,FeRhO3_973648_POSCAR,35,global_gradient_fallback,4.1470803,-0.065475833471035,-0.05271894933734003,-0.012756884133694968,3.016058,9.236679,0.00988881

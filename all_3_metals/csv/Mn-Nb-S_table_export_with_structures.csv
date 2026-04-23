@@ -1,0 +1,245 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1025312","Mn(NbS2)2","Trigonal","P-3m1","164","7","0.42082147914614104","-0.8794791425615751","False","129.00151288072487","4.749997453646697","0.0","False","True","FM","2.5529439","# generated using pymatgen
+data_Mn(NbS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.28912765
+_cell_length_b   3.28912765
+_cell_length_c   13.76900900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999296
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(NbS2)2
+_chemical_formula_sum   'Mn1 Nb2 S4'
+_cell_volume   129.00151288
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Nb  Nb1  1  0.33333300  0.66666700  0.27545200  1
+  Nb  Nb2  1  0.66666700  0.33333300  0.72454800  1
+  S  S3  1  0.33333300  0.66666700  0.09883300  1
+  S  S4  1  0.66666700  0.33333300  0.90116700  1
+  S  S5  1  0.33333300  0.66666700  0.61374800  1
+  S  S6  1  0.66666700  0.33333300  0.38625200  1
+"
+"True","mp-1193946","Mn(NbS2)2","Orthorhombic","Pnma","62","28","0.302814839860427","-0.9974857818472891","False","480.969459348003","5.096014691083806","0.0","False","True","FM","18.4912269","# generated using pymatgen
+data_Mn(NbS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.36084800
+_cell_length_b   10.90681600
+_cell_length_c   13.12111200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(NbS2)2
+_chemical_formula_sum   'Mn4 Nb8 S16'
+_cell_volume   480.96945935
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.25000000  0.25219500  0.33912600  1
+  Mn  Mn1  1  0.25000000  0.75219500  0.16087400  1
+  Mn  Mn2  1  0.75000000  0.74780500  0.66087400  1
+  Mn  Mn3  1  0.75000000  0.24780500  0.83912600  1
+  Nb  Nb4  1  0.25000000  0.04166200  0.58313300  1
+  Nb  Nb5  1  0.25000000  0.54166200  0.91686700  1
+  Nb  Nb6  1  0.75000000  0.95833800  0.41686700  1
+  Nb  Nb7  1  0.75000000  0.45833800  0.08313300  1
+  Nb  Nb8  1  0.25000000  0.11436700  0.10193300  1
+  Nb  Nb9  1  0.25000000  0.61436700  0.39806700  1
+  Nb  Nb10  1  0.75000000  0.88563300  0.89806700  1
+  Nb  Nb11  1  0.75000000  0.38563300  0.60193300  1
+  S  S12  1  0.25000000  0.32529400  0.99192200  1
+  S  S13  1  0.25000000  0.82529400  0.50807800  1
+  S  S14  1  0.75000000  0.67470600  0.00807800  1
+  S  S15  1  0.75000000  0.17470600  0.49192200  1
+  S  S16  1  0.25000000  0.24375500  0.68967800  1
+  S  S17  1  0.25000000  0.74375500  0.81032200  1
+  S  S18  1  0.75000000  0.75624500  0.31032200  1
+  S  S19  1  0.75000000  0.25624500  0.18967800  1
+  S  S20  1  0.25000000  0.06108500  0.91296300  1
+  S  S21  1  0.25000000  0.56108500  0.58703700  1
+  S  S22  1  0.75000000  0.93891500  0.08703700  1
+  S  S23  1  0.75000000  0.43891500  0.41296300  1
+  S  S24  1  0.25000000  0.03219800  0.28860200  1
+  S  S25  1  0.25000000  0.53219800  0.21139800  1
+  S  S26  1  0.75000000  0.96780200  0.71139800  1
+  S  S27  1  0.75000000  0.46780200  0.78860200  1
+"
+"True","mp-1211179","Mn(NbS2)2","Orthorhombic","Pnma","62","28","0.25375400593185504","-1.046546615775861","False","512.875679375353","4.778989391318457","0.0","False","True","FM","18.958853","# generated using pymatgen
+data_Mn(NbS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34028100
+_cell_length_b   9.13690400
+_cell_length_c   16.80467200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(NbS2)2
+_chemical_formula_sum   'Mn4 Nb8 S16'
+_cell_volume   512.87567938
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75000000  0.68933100  0.78791300  1
+  Mn  Mn1  1  0.25000000  0.31066900  0.21208700  1
+  Mn  Mn2  1  0.25000000  0.81066900  0.28791300  1
+  Mn  Mn3  1  0.75000000  0.18933100  0.71208700  1
+  Nb  Nb4  1  0.75000000  0.87772800  0.52983000  1
+  Nb  Nb5  1  0.25000000  0.12227200  0.47017000  1
+  Nb  Nb6  1  0.25000000  0.62227200  0.02983000  1
+  Nb  Nb7  1  0.75000000  0.37772800  0.97017000  1
+  Nb  Nb8  1  0.75000000  0.49843700  0.42770200  1
+  Nb  Nb9  1  0.25000000  0.50156300  0.57229800  1
+  Nb  Nb10  1  0.25000000  0.00156300  0.92770200  1
+  Nb  Nb11  1  0.75000000  0.99843700  0.07229800  1
+  S  S12  1  0.75000000  0.67105000  0.64007700  1
+  S  S13  1  0.25000000  0.32895000  0.35992300  1
+  S  S14  1  0.25000000  0.82895000  0.14007700  1
+  S  S15  1  0.75000000  0.17105000  0.85992300  1
+  S  S16  1  0.75000000  0.63011500  0.29247900  1
+  S  S17  1  0.25000000  0.36988500  0.70752100  1
+  S  S18  1  0.25000000  0.86988500  0.79247900  1
+  S  S19  1  0.75000000  0.13011500  0.20752100  1
+  S  S20  1  0.75000000  0.97803200  0.39238400  1
+  S  S21  1  0.25000000  0.02196800  0.60761600  1
+  S  S22  1  0.25000000  0.52196800  0.89238400  1
+  S  S23  1  0.75000000  0.47803200  0.10761600  1
+  S  S24  1  0.75000000  0.80567900  0.96498600  1
+  S  S25  1  0.25000000  0.19432100  0.03501400  1
+  S  S26  1  0.25000000  0.69432100  0.46498600  1
+  S  S27  1  0.75000000  0.30567900  0.53501400  1
+"
+"True","mp-10199","Mn(NbS2)3","Hexagonal","P6_322","182","20","0.0","-1.365315652793101","True","371.46093300780296","4.703169695366635","0.0","False","True","FM","8.5309877","# generated using pymatgen
+data_Mn(NbS2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84261471
+_cell_length_b   5.84261470
+_cell_length_c   12.56513518
+_cell_angle_alpha   90.00000157
+_cell_angle_beta   89.99999970
+_cell_angle_gamma   119.99980493
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(NbS2)3
+_chemical_formula_sum   'Mn2 Nb6 S12'
+_cell_volume   371.46093301
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.66666723  0.33333307  0.75003146  1
+  Mn  Mn1  1  0.33333285  0.66666724  0.24996887  1
+  Nb  Nb2  1  0.33333249  0.66666583  0.50118172  1
+  Nb  Nb3  1  0.66666740  0.33333426  0.00114531  1
+  Nb  Nb4  1  0.66666575  0.33333249  0.49884697  1
+  Nb  Nb5  1  0.33333405  0.66666753  -0.00117608  1
+  Nb  Nb6  1  -0.00000105  -0.00000104  0.50000600  1
+  Nb  Nb7  1  0.00000093  0.00000108  -0.00000810  1
+  S  S8  1  0.33285627  0.33091646  0.12448543  1
+  S  S9  1  0.66908473  0.00194060  0.12448515  1
+  S  S10  1  0.99806038  0.66714497  0.12448543  1
+  S  S11  1  0.00193611  0.33284851  0.62450727  1
+  S  S12  1  0.66714734  0.99807002  0.87551854  1
+  S  S13  1  0.66715019  0.66908680  0.62450727  1
+  S  S14  1  0.33091199  0.99806285  0.62450698  1
+  S  S15  1  0.66909134  0.66714687  0.37548937  1
+  S  S16  1  0.33285185  0.00194408  0.37548939  1
+  S  S17  1  0.33092324  0.33285397  0.87551853  1
+  S  S18  1  0.00193103  0.66907798  0.87551884  1
+  S  S19  1  0.99805490  0.33090742  0.37548965  1
+"
+"True","mp-3669","Mn(NbS2)4","Hexagonal","P6_3/mmc","194","26","0.0","-1.375455839456233","True","490.6342586134223","4.623757617906666","0.0","False","True","FM","7.6953264","# generated using pymatgen
+data_Mn(NbS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73513155
+_cell_length_b   6.73513233
+_cell_length_c   12.48918814
+_cell_angle_alpha   90.00006016
+_cell_angle_beta   89.99990714
+_cell_angle_gamma   119.99981395
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(NbS2)4
+_chemical_formula_sum   'Mn2 Nb8 S16'
+_cell_volume   490.63425861
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000005  -0.00000014  -0.00000222  1
+  Mn  Mn1  1  -0.00000023  0.00000004  0.50000106  1
+  Nb  Nb2  1  0.98620718  0.49310504  0.24994358  1
+  Nb  Nb3  1  0.01379332  0.50689482  0.75006164  1
+  Nb  Nb4  1  0.49310456  0.50689597  0.75006165  1
+  Nb  Nb5  1  0.50689447  0.01379358  0.24994365  1
+  Nb  Nb6  1  0.00000062  -0.00000103  0.75002612  1
+  Nb  Nb7  1  -0.00000077  0.00000126  0.24997304  1
+  Nb  Nb8  1  0.50689580  0.49310578  0.24994404  1
+  Nb  Nb9  1  0.49310356  0.98620604  0.75006168  1
+  S  S10  1  0.33333332  0.66666610  0.62140443  1
+  S  S11  1  0.66666641  0.33333381  0.12130230  1
+  S  S12  1  0.66666663  0.33333440  0.37861687  1
+  S  S13  1  0.33333341  0.66666628  0.87868513  1
+  S  S14  1  0.16802513  0.33605269  0.37438143  1
+  S  S15  1  0.83196146  0.16803884  0.87441436  1
+  S  S16  1  0.33607825  0.16803816  0.87441419  1
+  S  S17  1  0.66394778  0.83197491  0.37438149  1
+  S  S18  1  0.16802586  0.83197500  0.37438160  1
+  S  S19  1  0.83196119  0.66392160  0.87441420  1
+  S  S20  1  0.16803598  0.33607325  0.12556599  1
+  S  S21  1  0.83196530  0.16803468  0.62563023  1
+  S  S22  1  0.33607010  0.16803404  0.62563032  1
+  S  S23  1  0.66392700  0.83196402  0.12556609  1
+  S  S24  1  0.16803661  0.83196438  0.12556581  1
+  S  S25  1  0.83196501  0.66392947  0.62563033  1
+"

@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Hf-Ni-O,Hf,Ni,O,HfNiO3_1178219_POSCAR,35,local_max_drop,6.9398589,-0.15620853671407,-0.08786657521204633,-0.06834196150202368,6.406024,13.078965,0.01205903

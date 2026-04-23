@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Hf-W-S,Hf,W,S,Hf9W4S_1193767_POSCAR,35,local_max_drop,12.615791874,-0.52007269749974,-0.19881128771650616,-0.3212614097832339,10.440655,21.316338,0.01776056

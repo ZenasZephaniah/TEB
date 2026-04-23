@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Hg-Mn-O,Hg,Mn,O,Mn2HgO4_1176488_POSCAR,35,global_gradient_fallback,7.6258861196,-0.086506777626753,-0.06967841165261197,-0.01682836597414103,6.745976,14.371862,0.00923856

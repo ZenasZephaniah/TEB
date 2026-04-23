@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Hg-Y-O,Hg,Y,O,Y2Hg2O5_769289_POSCAR,35,local_max_drop,5.0049762,-0.25539711257292,-0.15162301168545864,-0.10377410088746139,4.468729,8.758708,0.03633618
+Hg-Y-O,Hg,Y,O,Y2HgO4_756103_POSCAR,35,local_max_drop,5.1175060996,-0.11289127168394,-0.051214951945291166,-0.06167631973864884,4.411643,8.646821,0.0122058

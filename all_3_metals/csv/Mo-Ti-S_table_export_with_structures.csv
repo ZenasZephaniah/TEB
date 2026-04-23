@@ -1,0 +1,106 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1025173","Ti(MoS2)2","Monoclinic","C2/m","12","7","0.09579953607142701","-1.168557523333332","False","116.87755318320971","5.228463324556091","0.0","False","True","FM","0.792054399999999","# generated using pymatgen
+data_Ti(MoS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74861459
+_cell_length_b   6.74861459
+_cell_length_c   6.04752222
+_cell_angle_alpha   67.35971046
+_cell_angle_beta   67.35971046
+_cell_angle_gamma   27.52915078
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(MoS2)2
+_chemical_formula_sum   'Ti1 Mo2 S4'
+_cell_volume   116.87755318
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo1  1  0.74099300  0.74099300  0.31494800  1
+  Mo  Mo2  1  0.25900700  0.25900700  0.68505200  1
+  S  S3  1  0.89077900  0.89077900  0.44330100  1
+  S  S4  1  0.10922100  0.10922100  0.55669900  1
+  S  S5  1  0.63870600  0.63870600  0.02578400  1
+  S  S6  1  0.36129400  0.36129400  0.97421600  1
+"
+"True","mp-1217266","Ti(MoS2)2","Monoclinic","Cm","8","7","0.10005173892856901","-1.16430532047619","False","114.76211433992455","5.324840900649685","0.0","False","True","NM","0.0023563","# generated using pymatgen
+data_Ti(MoS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71798695
+_cell_length_b   6.71798695
+_cell_length_c   6.01932613
+_cell_angle_alpha   66.14907136
+_cell_angle_beta   66.14907136
+_cell_angle_gamma   27.68813514
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(MoS2)2
+_chemical_formula_sum   'Ti1 Mo2 S4'
+_cell_volume   114.76211434
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.74269600  0.74269600  0.31776500  1
+  Mo  Mo1  1  0.25767700  0.25767700  0.68425400  1
+  Mo  Mo2  1  0.00166000  0.00166000  0.99270800  1
+  S  S3  1  0.89445100  0.89445100  0.44373000  1
+  S  S4  1  0.10507300  0.10507300  0.55851200  1
+  S  S5  1  0.63809300  0.63809300  0.02832000  1
+  S  S6  1  0.36034900  0.36034900  0.97471000  1
+"
+"True","mp-1216784","TiMoS3","Monoclinic","P2_1/m","11","10","0.041086732999995004","-1.368228251166665","False","170.29664917043453","4.680452598492149","0.0","False","True","NM","6.53e-05","# generated using pymatgen
+data_TiMoS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.27685500
+_cell_length_b   6.15715500
+_cell_length_c   8.74822668
+_cell_angle_alpha   74.75831358
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiMoS3
+_chemical_formula_sum   'Ti2 Mo2 S6'
+_cell_volume   170.29664917
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.25000000  0.73653000  0.00569900  1
+  Ti  Ti1  1  0.75000000  0.26347000  0.99430100  1
+  Mo  Mo2  1  0.25000000  0.88192800  0.62502400  1
+  Mo  Mo3  1  0.75000000  0.11807200  0.37497600  1
+  S  S4  1  0.25000000  0.02087000  0.17023100  1
+  S  S5  1  0.75000000  0.97913000  0.82976900  1
+  S  S6  1  0.25000000  0.49611500  0.82247300  1
+  S  S7  1  0.75000000  0.50388500  0.17752700  1
+  S  S8  1  0.25000000  0.27538500  0.51272300  1
+  S  S9  1  0.75000000  0.72461500  0.48727700  1
+"

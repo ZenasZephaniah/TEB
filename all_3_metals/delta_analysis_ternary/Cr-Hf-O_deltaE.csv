@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cr-Hf-O,Cr,Hf,O,HfCrO3_756322_POSCAR,35,local_max_drop,6.3788452,-0.16463054949994,-0.10407212332061465,-0.060558426179325345,5.888165,12.02167,0.01628697

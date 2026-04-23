@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Hf-Mn-O,Hf,Mn,O,HfMnO3_754657_POSCAR,35,local_max_drop,7.034326,-0.15333788199659,-0.0848598848034971,-0.06847799719309289,6.222673,13.256999,0.0116508

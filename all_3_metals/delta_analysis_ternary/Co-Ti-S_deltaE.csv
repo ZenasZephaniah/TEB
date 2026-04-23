@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Co-Ti-S,Co,Ti,S,Ti3CoS6_1208259_POSCAR,35,local_max_drop,8.064096152,-0.15859160648226,-0.08696200781625273,-0.07162959866600728,7.488089,14.112168,0.01154524

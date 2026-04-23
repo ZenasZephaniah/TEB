@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Nb-Pt-O,Nb,Pt,O,Nb5Pt3O_17525_POSCAR,35,local_max_drop,12.09073821,-0.34840545306623,-0.16601845008390312,-0.18238700298232688,9.672591,19.748206,0.01817371

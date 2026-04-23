@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Ti-Y-S,Ti,Y,S,Y_TiS2_2_1045414_POSCAR,35,global_gradient_fallback,8.7909609457,-0.095020393485335,-0.07913071982886953,-0.015889673656465472,7.163005,15.953966,0.00982052
+Ti-Y-S,Ti,Y,S,Y_TiS2_2_1045465_POSCAR,35,local_max_drop,8.9824294522,-0.11995088550134,-0.0597947514808789,-0.060156134020461105,8.020026,15.719252,0.00725686

@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Pd-Zr-O,Pd,Zr,O,Zr4Pd2O_22479_POSCAR,35,local_max_drop,10.7236102353,-0.92697101766846,-0.311746522439837,-0.615224495228623,9.191666,18.766318,0.03330229

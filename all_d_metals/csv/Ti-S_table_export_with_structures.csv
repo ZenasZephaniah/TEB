@@ -1,0 +1,1643 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-684731","Ti13S24","Triclinic","P-1","2","37","0.001580217567565","-1.6392080771171171","False","711.8512177402151","3.246731468609211","0.0","False","True","NM","2.7e-06","# generated using pymatgen
+data_Ti13S24
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.99818397
+_cell_length_b   9.01032488
+_cell_length_c   10.27190074
+_cell_angle_alpha   112.36207898
+_cell_angle_beta   112.42319463
+_cell_angle_gamma   82.47642767
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti13S24
+_chemical_formula_sum   'Ti13 S24'
+_cell_volume   711.85121774
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.48996501  0.50503098  0.66681949  1
+  Ti  Ti1  1  0.99516284  0.99836872  0.66011780  1
+  Ti  Ti2  1  0.74673705  0.24915161  0.83179884  1
+  Ti  Ti3  1  -0.00000000  0.50000000  -0.00000000  1
+  Ti  Ti4  1  0.24632851  0.75954978  0.83267517  1
+  Ti  Ti5  1  0.50000000  0.50000000  -0.00000000  1
+  Ti  Ti6  1  -0.00000000  -0.00000000  -0.00000000  1
+  Ti  Ti7  1  0.75367149  0.24045022  0.16732483  1
+  Ti  Ti8  1  0.25326295  0.75084839  0.16820116  1
+  Ti  Ti9  1  0.51003499  0.49496902  0.33318051  1
+  Ti  Ti10  1  0.00483716  0.00163128  0.33988220  1
+  Ti  Ti11  1  0.75020546  0.24393225  0.49604203  1
+  Ti  Ti12  1  0.24979454  0.75606775  0.50395797  1
+  S  S13  1  0.46279330  0.29670891  0.75309122  1
+  S  S14  1  0.96194491  0.79885148  0.75348185  1
+  S  S15  1  0.71262826  0.04502311  0.91858431  1
+  S  S16  1  0.20788649  0.54180744  0.91596131  1
+  S  S17  1  0.79144140  0.45831620  0.75000585  1
+  S  S18  1  0.28617201  0.95729168  0.74713955  1
+  S  S19  1  0.46643158  0.29669210  0.08644291  1
+  S  S20  1  0.95788366  0.79154900  0.08344633  1
+  S  S21  1  0.04211634  0.20845100  0.91655367  1
+  S  S22  1  0.53356842  0.70330790  0.91355709  1
+  S  S23  1  0.20855860  0.54168380  0.24999415  1
+  S  S24  1  0.71382799  0.04270832  0.25286045  1
+  S  S25  1  0.79211351  0.45819256  0.08403869  1
+  S  S26  1  0.28737174  0.95497689  0.08141569  1
+  S  S27  1  0.46668387  0.29829107  0.42275502  1
+  S  S28  1  0.96154307  0.79560427  0.41869567  1
+  S  S29  1  0.03805509  0.20114852  0.24651815  1
+  S  S30  1  0.53720670  0.70329109  0.24690878  1
+  S  S31  1  0.21001643  0.54944794  0.58698043  1
+  S  S32  1  0.71054552  0.04521211  0.58553605  1
+  S  S33  1  0.78998357  0.45055206  0.41301957  1
+  S  S34  1  0.28945448  0.95478789  0.41446395  1
+  S  S35  1  0.03845693  0.20439573  0.58130433  1
+  S  S36  1  0.53331613  0.70170893  0.57724498  1
+"
+"True","mp-616559","Ti2S","Orthorhombic","Pnnm","58","36","0.0","-1.254497415555554","True","527.413887485313","4.828433316784582","0.0","False","True","NM","4e-07","# generated using pymatgen
+data_Ti2S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.31829333
+_cell_length_b   11.35121262
+_cell_length_c   14.00214364
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2S
+_chemical_formula_sum   'Ti24 S12'
+_cell_volume   527.41388749
+_cell_formula_units_Z   12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.41065187  0.75689138  1
+  Ti  Ti1  1  0.50000000  0.38173000  0.07759981  1
+  Ti  Ti2  1  -0.00000000  0.81123880  0.20831072  1
+  Ti  Ti3  1  -0.00000000  0.47043329  0.38968790  1
+  Ti  Ti4  1  0.00000000  0.08934813  0.25689138  1
+  Ti  Ti5  1  0.50000000  0.61827000  0.92240019  1
+  Ti  Ti6  1  -0.00000000  0.58969773  0.07905441  1
+  Ti  Ti7  1  0.00000000  0.91065187  0.74310862  1
+  Ti  Ti8  1  0.50000000  0.91030227  0.57905441  1
+  Ti  Ti9  1  -0.00000000  0.84712825  0.97982699  1
+  Ti  Ti10  1  0.50000000  0.31123880  0.29168928  1
+  Ti  Ti11  1  0.50000000  0.08969773  0.42094559  1
+  Ti  Ti12  1  0.50000000  0.02956671  0.88968790  1
+  Ti  Ti13  1  0.50000000  0.97043329  0.11031210  1
+  Ti  Ti14  1  0.00000000  0.18876120  0.79168928  1
+  Ti  Ti15  1  0.50000000  0.65287175  0.47982699  1
+  Ti  Ti16  1  0.50000000  0.68876120  0.70831072  1
+  Ti  Ti17  1  0.50000000  0.34712825  0.52017301  1
+  Ti  Ti18  1  -0.00000000  0.41030227  0.92094559  1
+  Ti  Ti19  1  -0.00000000  0.52956671  0.61031210  1
+  Ti  Ti20  1  0.50000000  0.58934813  0.24310862  1
+  Ti  Ti21  1  -0.00000000  0.88173000  0.42240019  1
+  Ti  Ti22  1  0.00000000  0.15287175  0.02017301  1
+  Ti  Ti23  1  0.00000000  0.11827000  0.57759981  1
+  S  S24  1  -0.00000000  0.56567423  0.79393508  1
+  S  S25  1  0.50000000  0.06567423  0.70606492  1
+  S  S26  1  -0.00000000  0.43432577  0.20606492  1
+  S  S27  1  -0.00000000  0.75374632  0.58882291  1
+  S  S28  1  0.50000000  0.81370875  0.85053182  1
+  S  S29  1  0.50000000  0.93432577  0.29393508  1
+  S  S30  1  0.50000000  0.18629125  0.14946818  1
+  S  S31  1  0.50000000  0.74625368  0.08882291  1
+  S  S32  1  -0.00000000  0.31370875  0.64946818  1
+  S  S33  1  0.50000000  0.25374632  0.91117709  1
+  S  S34  1  -0.00000000  0.68629125  0.35053182  1
+  S  S35  1  0.00000000  0.24625368  0.41117709  1
+"
+"True","mp-1101099","Ti2S3","Monoclinic","C2/m","12","10","0.0","-1.706255212833332","True","174.70125582799304","3.6485782658284","0.0","False","True","NM","0.0017821999999990002","# generated using pymatgen
+data_Ti2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94525855
+_cell_length_b   5.94525855
+_cell_length_c   6.03741726
+_cell_angle_alpha   80.53890807
+_cell_angle_beta   80.53890807
+_cell_angle_gamma   119.92062322
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2S3
+_chemical_formula_sum   'Ti4 S6'
+_cell_volume   174.70125583
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.67301183  0.32698817  -0.00000000  1
+  Ti  Ti1  1  0.32698817  0.67301183  -0.00000000  1
+  Ti  Ti2  1  0.00000000  0.00000000  -0.00000000  1
+  Ti  Ti3  1  0.50000000  0.50000000  0.50000000  1
+  S  S4  1  0.41772942  0.08291486  0.74419496  1
+  S  S5  1  0.08291486  0.41772942  0.74419496  1
+  S  S6  1  0.74883802  0.74883802  0.75383890  1
+  S  S7  1  0.58227058  0.91708514  0.25580504  1
+  S  S8  1  0.25116198  0.25116198  0.24616110  1
+  S  S9  1  0.91708514  0.58227058  0.25580504  1
+"
+"True","mp-1217192","Ti2S3","Monoclinic","C2/c","15","20","0.025767256499999003","-1.680487956333333","False","348.86142214986495","3.654237267616948","0.0","False","True","FM","1.4337438","# generated using pymatgen
+data_Ti2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97890785
+_cell_length_b   5.97893772
+_cell_length_c   11.79272735
+_cell_angle_alpha   75.46504470
+_cell_angle_beta   75.46527863
+_cell_angle_gamma   59.83529449
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2S3
+_chemical_formula_sum   'Ti8 S12'
+_cell_volume   348.86142215
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.54019903  0.70827718  0.37906344  1
+  Ti  Ti1  1  0.87214585  0.03749605  0.38252906  1
+  Ti  Ti2  1  0.12787171  0.96247220  0.61747989  1
+  Ti  Ti3  1  0.45980493  0.29174300  0.62094607  1
+  Ti  Ti4  1  0.70828929  0.54019692  0.87902514  1
+  Ti  Ti5  1  0.03750838  0.87214673  0.88250231  1
+  Ti  Ti6  1  0.29172034  0.45980087  0.12094906  1
+  Ti  Ti7  1  0.96249296  0.12785028  0.11748631  1
+  S  S8  1  0.75631684  0.91484209  0.74766395  1
+  S  S9  1  0.41339721  0.58660113  0.74998959  1
+  S  S10  1  0.08515845  0.24366931  0.75233160  1
+  S  S11  1  0.58662405  0.41341559  0.25005747  1
+  S  S12  1  0.24367736  0.08507710  0.25239011  1
+  S  S13  1  0.91477468  0.75633255  0.24772541  1
+  S  S14  1  0.50001209  -0.00002445  0.49997581  1
+  S  S15  1  0.16457949  0.65947474  0.49907229  1
+  S  S16  1  0.83539644  0.34060193  0.50088409  1
+  S  S17  1  0.34060056  0.83541716  0.00088903  1
+  S  S18  1  0.99997182  0.50003901  -0.00002298  1
+  S  S19  1  0.65945853  0.16457159  0.99906236  1
+"
+"True","mp-1217073","Ti3S2","Trigonal","R32","155","5","0.29887206249999904","-1.141571572999999","False","82.55670513709327","4.178284977229527","0.0","False","True","NM","0.000177","# generated using pymatgen
+data_Ti3S2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50519936
+_cell_length_b   4.50519936
+_cell_length_c   4.50519983
+_cell_angle_alpha   74.05788390
+_cell_angle_beta   74.05788390
+_cell_angle_gamma   74.05789084
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3S2
+_chemical_formula_sum   'Ti3 S2'
+_cell_volume   82.55670514
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.33565500  0.66434500  1
+  Ti  Ti1  1  0.33565500  0.66434500  0.00000000  1
+  Ti  Ti2  1  0.66434500  0.00000000  0.33565500  1
+  S  S3  1  0.83216100  0.83216100  0.83216100  1
+  S  S4  1  0.16783900  0.16783900  0.16783900  1
+"
+"True","mp-1101100","Ti3S4","Trigonal","P3m1","156","7","2.557748039285713","0.847747754285715","False","884.9823556669497","0.5101071318475341","0.2669","False","False","FiM","0.00046649999999900005","# generated using pymatgen
+data_Ti3S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.57709700
+_cell_length_b   12.57709768
+_cell_length_c   6.46015800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000085
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3S4
+_chemical_formula_sum   'Ti3 S4'
+_cell_volume   884.98235567
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.33333300  0.66666700  0.72484100  1
+  Ti  Ti1  1  0.66666700  0.33333300  0.52568200  1
+  Ti  Ti2  1  0.66666700  0.33333300  0.22570000  1
+  S  S3  1  0.00000000  0.00000000  0.72712300  1
+  S  S4  1  0.00000000  0.00000000  0.02163800  1
+  S  S5  1  0.33333300  0.66666700  0.39934100  1
+  S  S6  1  0.66666700  0.33333300  0.87567600  1
+"
+"True","mp-1217101","Ti3S4","Trigonal","P3m1","156","7","0.10292915214285601","-1.607071132857142","False","121.36253896456145","3.7197294571825372","0.0","False","True","NM","0.0025555","# generated using pymatgen
+data_Ti3S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.44438396
+_cell_length_b   3.44438396
+_cell_length_c   11.81220300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999926
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3S4
+_chemical_formula_sum   'Ti3 S4'
+_cell_volume   121.36253896
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.33333300  0.66666700  0.38489400  1
+  Ti  Ti1  1  0.33333300  0.66666700  0.11136000  1
+  Ti  Ti2  1  0.66666700  0.33333300  0.87719800  1
+  S  S3  1  0.66666700  0.33333300  0.25090800  1
+  S  S4  1  0.33333300  0.66666700  0.75884100  1
+  S  S5  1  0.00000000  0.00000000  0.50145500  1
+  S  S6  1  0.00000000  0.00000000  0.00034400  1
+"
+"True","mp-1217121","Ti3S4","Trigonal","P-3m1","164","7","0.22212820499999802","-1.487872079999999","False","121.45163269538448","3.717000761259412","0.0","False","True","NM","0.0010027","# generated using pymatgen
+data_Ti3S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.40642784
+_cell_length_b   3.40642784
+_cell_length_c   12.08577000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999690
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3S4
+_chemical_formula_sum   'Ti3 S4'
+_cell_volume   121.45163270
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.33333300  0.66666700  0.24448300  1
+  Ti  Ti1  1  0.66666700  0.33333300  0.75551700  1
+  Ti  Ti2  1  0.00000000  0.00000000  0.50000000  1
+  S  S3  1  0.33333300  0.66666700  0.87255600  1
+  S  S4  1  0.66666700  0.33333300  0.12744400  1
+  S  S5  1  0.66666700  0.33333300  0.37634500  1
+  S  S6  1  0.33333300  0.66666700  0.62365500  1
+"
+"True","mp-1208223","Ti5S8","Monoclinic","C2/m","12","13","0.0","-1.696053202820513","True","235.92243040526603","3.490073400204189","0.0","False","True","NM","0.0005145","# generated using pymatgen
+data_Ti5S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72296615
+_cell_length_b   6.72196465
+_cell_length_c   6.86279996
+_cell_angle_alpha   105.32334008
+_cell_angle_beta   104.39521155
+_cell_angle_gamma   118.45925052
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5S8
+_chemical_formula_sum   'Ti5 S8'
+_cell_volume   235.92243041
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.26414244  0.76418868  0.49996527  1
+  Ti  Ti1  1  0.73585756  0.23581132  0.50003473  1
+  Ti  Ti2  1  0.25567657  0.75475374  0.01022168  1
+  Ti  Ti3  1  0.74432343  0.24524626  0.98977832  1
+  Ti  Ti4  1  0.00000000  -0.00000000  0.00000000  1
+  S  S5  1  0.54101121  0.79175657  0.33272735  1
+  S  S6  1  0.45898879  0.20824343  0.66727265  1
+  S  S7  1  0.45759367  0.21099673  0.16946556  1
+  S  S8  1  0.54240633  0.78900327  0.83053444  1
+  S  S9  1  0.04155215  0.28812981  0.83054843  1
+  S  S10  1  0.95844785  0.71187019  0.16945157  1
+  S  S11  1  0.03600378  0.29492398  0.33103505  1
+  S  S12  1  0.96399622  0.70507602  0.66896495  1
+"
+"True","mp-1217163","Ti5S8","Monoclinic","Pm","6","13","0.037241329230768005","-1.6588118735897441","False","242.38175781855261","3.397065052582594","0.0","False","True","FM","2.3448229","# generated using pymatgen
+data_Ti5S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.44035618
+_cell_length_b   5.97308518
+_cell_length_c   11.94064255
+_cell_angle_alpha   81.04190592
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5S8
+_chemical_formula_sum   'Ti5 S8'
+_cell_volume   242.38175782
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  -0.00000000  0.01010061  0.00282903  1
+  Ti  Ti1  1  0.50000000  0.49525263  0.99852494  1
+  Ti  Ti2  1  0.00000000  0.49770317  0.49381173  1
+  Ti  Ti3  1  0.50000000  0.99678067  0.50145964  1
+  Ti  Ti4  1  0.50000000  0.41365425  0.26348227  1
+  S  S5  1  0.50000000  0.29802685  0.61286814  1
+  S  S6  1  -0.00000000  0.79407823  0.61620019  1
+  S  S7  1  0.50000000  0.71390467  0.37314667  1
+  S  S8  1  0.00000000  0.19571237  0.37259525  1
+  S  S9  1  0.00000000  0.62471078  0.13063794  1
+  S  S10  1  0.50000000  0.13224911  0.12790375  1
+  S  S11  1  0.00000000  0.36901744  0.88208795  1
+  S  S12  1  0.50000000  0.87022821  0.89019249  1
+"
+"True","mp-1217166","Ti5S8","Monoclinic","Cm","8","13","0.035094385384616004","-1.660958817435896","False","238.40525693469533","3.453726689820801","0.0","False","True","NM","0.0401146","# generated using pymatgen
+data_Ti5S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.16743144
+_cell_length_b   12.16743144
+_cell_length_c   5.94890515
+_cell_angle_alpha   76.73375627
+_cell_angle_beta   76.73375627
+_cell_angle_gamma   16.15716427
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5S8
+_chemical_formula_sum   'Ti5 S8'
+_cell_volume   238.40525693
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.75779400  0.75779400  0.91160100  1
+  Ti  Ti1  1  0.62490000  0.62490000  0.03431300  1
+  Ti  Ti2  1  0.12497300  0.12497300  0.55301600  1
+  Ti  Ti3  1  0.37487600  0.37487600  0.95584800  1
+  Ti  Ti4  1  0.87730700  0.87730700  0.45017100  1
+  S  S5  1  0.31220000  0.31220000  0.67456700  1
+  S  S6  1  0.81264900  0.81264900  0.19364000  1
+  S  S7  1  0.06366200  0.06366200  0.93443800  1
+  S  S8  1  0.56726700  0.56726700  0.43144900  1
+  S  S9  1  0.43708800  0.43708800  0.23173000  1
+  S  S10  1  0.93505100  0.93505100  0.73526400  1
+  S  S11  1  0.68884800  0.68884800  0.65113400  1
+  S  S12  1  0.19029400  0.19029400  0.14748000  1
+"
+"True","mp-1217172","Ti5S8","Trigonal","R3m","160","13","0.11151319076923101","-1.584540012051281","False","241.121690592444","3.414817625265709","0.0","False","True","NM","0.0315062","# generated using pymatgen
+data_Ti5S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   23.75135089
+_cell_length_b   23.75135089
+_cell_length_c   23.75135081
+_cell_angle_alpha   8.28091511
+_cell_angle_beta   8.28091511
+_cell_angle_gamma   8.28091614
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5S8
+_chemical_formula_sum   'Ti5 S8'
+_cell_volume   241.12169059
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00001300  0.00001300  0.00001300  1
+  Ti  Ti1  1  0.49833300  0.49833300  0.49833300  1
+  Ti  Ti2  1  0.25013600  0.25013600  0.25013600  1
+  Ti  Ti3  1  0.74995300  0.74995300  0.74995300  1
+  Ti  Ti4  1  0.54418700  0.54418700  0.54418700  1
+  S  S5  1  0.18751300  0.18751300  0.18751300  1
+  S  S6  1  0.68640800  0.68640800  0.68640800  1
+  S  S7  1  0.31352900  0.31352900  0.31352900  1
+  S  S8  1  0.81232900  0.81232900  0.81232900  1
+  S  S9  1  0.60317900  0.60317900  0.60317900  1
+  S  S10  1  0.10310300  0.10310300  0.10310300  1
+  S  S11  1  0.89607300  0.89607300  0.89607300  1
+  S  S12  1  0.39689500  0.39689500  0.39689500  1
+"
+"True","mp-1217445","Ti5S8","Monoclinic","Pm","6","39","0.031617440512821005","-1.664435762307691","False","720.2518643104203","3.429577789391487","0.0","False","True","NM","0.020909499999999002","# generated using pymatgen
+data_Ti5S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41855600
+_cell_length_b   5.95784300
+_cell_length_c   35.36410892
+_cell_angle_alpha   89.60960142
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5S8
+_chemical_formula_sum   'Ti15 S24'
+_cell_volume   720.25186431
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.66175300  0.66598400  1
+  Ti  Ti1  1  0.00000000  0.18355900  0.66646800  1
+  Ti  Ti2  1  0.00000000  0.84882000  0.16708100  1
+  Ti  Ti3  1  0.50000000  0.32736100  0.16727100  1
+  Ti  Ti4  1  0.50000000  0.99458000  0.50050600  1
+  Ti  Ti5  1  0.00000000  0.51508500  0.50023900  1
+  Ti  Ti6  1  0.50000000  0.99150900  0.99954500  1
+  Ti  Ti7  1  0.00000000  0.49344400  0.00185500  1
+  Ti  Ti8  1  0.50000000  0.67169900  0.75474900  1
+  Ti  Ti9  1  0.50000000  0.33740700  0.07877200  1
+  Ti  Ti10  1  0.50000000  0.00405300  0.41187100  1
+  Ti  Ti11  1  0.50000000  0.65811800  0.33285200  1
+  Ti  Ti12  1  0.00000000  0.16003000  0.33535300  1
+  Ti  Ti13  1  0.00000000  0.82594800  0.83148300  1
+  Ti  Ti14  1  0.50000000  0.32419400  0.83379600  1
+  S  S15  1  0.50000000  0.66230600  0.87155100  1
+  S  S16  1  0.00000000  0.15883000  0.87317600  1
+  S  S17  1  0.00000000  0.81808300  0.37629700  1
+  S  S18  1  0.50000000  0.34035600  0.37617900  1
+  S  S19  1  0.50000000  0.67326000  0.04282000  1
+  S  S20  1  0.00000000  0.15158100  0.04302500  1
+  S  S21  1  0.00000000  0.83367400  0.54111900  1
+  S  S22  1  0.50000000  0.33432900  0.53811800  1
+  S  S23  1  0.50000000  0.67513100  0.45770500  1
+  S  S24  1  0.00000000  0.16958800  0.45692100  1
+  S  S25  1  0.00000000  0.83026200  0.96015700  1
+  S  S26  1  0.50000000  0.33341300  0.96187500  1
+  S  S27  1  0.50000000  0.66778200  0.20476600  1
+  S  S28  1  0.00000000  0.16682500  0.20788200  1
+  S  S29  1  0.00000000  0.83532100  0.70954100  1
+  S  S30  1  0.50000000  0.34080600  0.70911800  1
+  S  S31  1  0.50000000  0.00813900  0.12447900  1
+  S  S32  1  0.00000000  0.50300100  0.12365500  1
+  S  S33  1  0.50000000  0.00568300  0.62869100  1
+  S  S34  1  0.00000000  0.50390500  0.62548500  1
+  S  S35  1  0.50000000  0.00036300  0.29526900  1
+  S  S36  1  0.00000000  0.49707300  0.29345900  1
+  S  S37  1  0.50000000  0.00714300  0.79035600  1
+  S  S38  1  0.00000000  0.48558800  0.79053200  1
+"
+"True","mp-673657","Ti7S12","Triclinic","P-1","2","38","0.0","-1.672311393333331","True","705.0992777867689","3.390550591130881","0.0","False","True","NM","0.0459037","# generated using pymatgen
+data_Ti7S12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85002407
+_cell_length_b   9.04162300
+_cell_length_c   11.76312780
+_cell_angle_alpha   99.51614087
+_cell_angle_beta   89.85109241
+_cell_angle_gamma   100.96397649
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti7S12
+_chemical_formula_sum   'Ti14 S24'
+_cell_volume   705.09927779
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.16652997  0.66904238  0.49472471  1
+  Ti  Ti1  1  0.17977574  0.72346865  0.76536052  1
+  Ti  Ti2  1  0.24819529  0.00154258  0.99753415  1
+  Ti  Ti3  1  0.50000000  -0.00000000  0.50000000  1
+  Ti  Ti4  1  0.57849941  0.33427267  -0.00020148  1
+  Ti  Ti5  1  0.32998852  0.32229122  0.50145993  1
+  Ti  Ti6  1  0.83347003  0.33095762  0.50527529  1
+  Ti  Ti7  1  0.91848896  0.66234391  0.99762783  1
+  Ti  Ti8  1  0.42150059  0.66572733  0.00020148  1
+  Ti  Ti9  1  0.67001148  0.67770878  0.49854007  1
+  Ti  Ti10  1  0.75180471  0.99845742  0.00246585  1
+  Ti  Ti11  1  -0.00000000  -0.00000000  0.50000000  1
+  Ti  Ti12  1  0.08151104  0.33765609  0.00237217  1
+  Ti  Ti13  1  0.82022426  0.27653135  0.23463948  1
+  S  S14  1  0.20145464  0.80262694  0.11588636  1
+  S  S15  1  0.22795995  0.91452700  0.62566984  1
+  S  S16  1  0.53051814  0.13661336  0.12681896  1
+  S  S17  1  0.27069142  0.08208850  0.37860739  1
+  S  S18  1  0.56074633  0.24810900  0.62272472  1
+  S  S19  1  0.30002069  0.19656999  0.87985824  1
+  S  S20  1  0.36878388  0.47322860  0.12256053  1
+  S  S21  1  0.86769183  0.47934024  0.12881243  1
+  S  S22  1  0.60857504  0.41662813  0.37864377  1
+  S  S23  1  0.39142496  0.58337187  0.62135623  1
+  S  S24  1  0.89944255  0.58621775  0.62551646  1
+  S  S25  1  0.63121612  0.52677140  0.87743947  1
+  S  S26  1  0.69997931  0.80343001  0.12014176  1
+  S  S27  1  0.93723016  0.75136565  0.37683923  1
+  S  S28  1  0.43925367  0.75189100  0.37727528  1
+  S  S29  1  0.72930858  0.91791150  0.62139261  1
+  S  S30  1  0.96163095  0.86309475  0.87290524  1
+  S  S31  1  0.46948186  0.86338664  0.87318104  1
+  S  S32  1  0.03836905  0.13690525  0.12709476  1
+  S  S33  1  0.77204005  0.08547300  0.37433016  1
+  S  S34  1  0.06276984  0.24863435  0.62316077  1
+  S  S35  1  0.79854536  0.19737306  0.88411364  1
+  S  S36  1  0.10055745  0.41378225  0.37448354  1
+  S  S37  1  0.13230817  0.52065976  0.87118757  1
+"
+"True","mp-680850","Ti8S3","Monoclinic","C2/m","12","44","0.007596891666665001","-1.018810084696969","False","672.402206717294","4.732975207820129","0.0","False","True","FM","1.691743499999999","# generated using pymatgen
+data_Ti8S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.60852730
+_cell_length_b   12.60852730
+_cell_length_c   19.21284848
+_cell_angle_alpha   57.40842127
+_cell_angle_beta   57.40842127
+_cell_angle_gamma   15.20338054
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti8S3
+_chemical_formula_sum   'Ti32 S12'
+_cell_volume   672.40220672
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.59526900  0.59526900  0.58544700  1
+  Ti  Ti1  1  0.01143600  0.01143600  0.57492500  1
+  Ti  Ti2  1  0.94004400  0.94004400  0.28050000  1
+  Ti  Ti3  1  0.55124000  0.55124000  0.27816700  1
+  Ti  Ti4  1  0.84792000  0.84792000  0.20271400  1
+  Ti  Ti5  1  0.83651900  0.83651900  0.84580000  1
+  Ti  Ti6  1  0.00986700  0.00986700  0.08860500  1
+  Ti  Ti7  1  0.16348100  0.16348100  0.15420000  1
+  Ti  Ti8  1  0.32891100  0.32891100  0.33947300  1
+  Ti  Ti9  1  0.98856400  0.98856400  0.42507500  1
+  Ti  Ti10  1  0.58014900  0.58014900  0.42769900  1
+  Ti  Ti11  1  0.71825500  0.71825500  0.39298100  1
+  Ti  Ti12  1  0.70488000  0.70488000  0.87264200  1
+  Ti  Ti13  1  0.43255100  0.43255100  0.05621200  1
+  Ti  Ti14  1  0.80149400  0.80149400  0.46707600  1
+  Ti  Ti15  1  0.44876000  0.44876000  0.72183300  1
+  Ti  Ti16  1  0.15208000  0.15208000  0.79728600  1
+  Ti  Ti17  1  0.29512000  0.29512000  0.12735800  1
+  Ti  Ti18  1  0.76668800  0.76668800  0.04091900  1
+  Ti  Ti19  1  0.23331200  0.23331200  0.95908100  1
+  Ti  Ti20  1  0.05995600  0.05995600  0.71950000  1
+  Ti  Ti21  1  0.56744900  0.56744900  0.94378800  1
+  Ti  Ti22  1  0.67108900  0.67108900  0.66052700  1
+  Ti  Ti23  1  0.99013300  0.99013300  0.91139500  1
+  Ti  Ti24  1  0.37880700  0.37880700  0.93184600  1
+  Ti  Ti25  1  0.40473100  0.40473100  0.41455300  1
+  Ti  Ti26  1  0.41985100  0.41985100  0.57230100  1
+  Ti  Ti27  1  0.69592800  0.69592800  0.25053700  1
+  Ti  Ti28  1  0.28174500  0.28174500  0.60701900  1
+  Ti  Ti29  1  0.30407200  0.30407200  0.74946300  1
+  Ti  Ti30  1  0.19850600  0.19850600  0.53292400  1
+  Ti  Ti31  1  0.62119300  0.62119300  0.06815400  1
+  S  S32  1  0.94623900  0.94623900  0.82364800  1
+  S  S33  1  0.74372300  0.74372300  0.71980700  1
+  S  S34  1  0.12897800  0.12897800  0.96740900  1
+  S  S35  1  0.05376100  0.05376100  0.17635200  1
+  S  S36  1  0.10801100  0.10801100  0.31453400  1
+  S  S37  1  0.13012800  0.13012800  0.47252200  1
+  S  S38  1  0.89198900  0.89198900  0.68546600  1
+  S  S39  1  0.42812000  0.42812000  0.19117300  1
+  S  S40  1  0.86987200  0.86987200  0.52747800  1
+  S  S41  1  0.25627700  0.25627700  0.28019300  1
+  S  S42  1  0.57188000  0.57188000  0.80882700  1
+  S  S43  1  0.87102200  0.87102200  0.03259100  1
+"
+"True","mp-673637","Ti9S10","Triclinic","P1","1","57","0.039519474122807006","-1.676394082719297","False","899.0428963656954","4.163818216876962","0.0","False","True","NM","0.007353999999999","# generated using pymatgen
+data_Ti9S10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.03423500
+_cell_length_b   9.11860008
+_cell_length_c   11.82969800
+_cell_angle_alpha   102.48142621
+_cell_angle_beta   109.11288139
+_cell_angle_gamma   85.94874798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti9S10
+_chemical_formula_sum   'Ti27 S30'
+_cell_volume   899.04289637
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00068500  0.00292400  0.99928200  1
+  Ti  Ti1  1  0.99922500  0.35714800  0.06638600  1
+  Ti  Ti2  1  0.79922600  0.99946600  0.20156200  1
+  Ti  Ti3  1  0.80065100  0.35045900  0.25852100  1
+  Ti  Ti4  1  0.60182700  0.00221800  0.39953700  1
+  Ti  Ti5  1  0.99814300  0.99423500  0.49894900  1
+  Ti  Ti6  1  0.60822400  0.35781400  0.45857600  1
+  Ti  Ti7  1  0.00328100  0.34931400  0.55926300  1
+  Ti  Ti8  1  0.80141700  0.00518300  0.70056600  1
+  Ti  Ti9  1  0.39987600  0.00014300  0.60154300  1
+  Ti  Ti10  1  0.39159300  0.35695200  0.65312800  1
+  Ti  Ti11  1  0.79820900  0.65069000  0.64119500  1
+  Ti  Ti12  1  0.59727400  0.00347100  0.89974200  1
+  Ti  Ti13  1  0.20111600  0.00115800  0.80083300  1
+  Ti  Ti14  1  0.19931800  0.35350700  0.85895300  1
+  Ti  Ti15  1  0.60077000  0.35482500  0.95919200  1
+  Ti  Ti16  1  0.00804300  0.64605300  0.94750800  1
+  Ti  Ti17  1  0.60129500  0.64941100  0.84203200  1
+  Ti  Ti18  1  0.40024500  0.00669400  0.10036900  1
+  Ti  Ti19  1  0.79247000  0.64025400  0.13504900  1
+  Ti  Ti20  1  0.39772400  0.65110100  0.04042700  1
+  Ti  Ti21  1  0.19702900  0.35067800  0.35749800  1
+  Ti  Ti22  1  0.20127700  0.64936800  0.24256800  1
+  Ti  Ti23  1  0.60044700  0.65017000  0.34115700  1
+  Ti  Ti24  1  0.20009000  0.99963700  0.29961400  1
+  Ti  Ti25  1  0.40794900  0.64005600  0.53912000  1
+  Ti  Ti26  1  0.19182700  0.64299200  0.74181100  1
+  S  S27  1  0.99785300  0.51319100  0.26141300  1
+  S  S28  1  0.79894100  0.82721700  0.33677000  1
+  S  S29  1  0.99961400  0.16848400  0.36204000  1
+  S  S30  1  0.81340900  0.51121700  0.45010200  1
+  S  S31  1  0.59859100  0.82983200  0.53827800  1
+  S  S32  1  0.80124700  0.17091200  0.56059900  1
+  S  S33  1  0.61159800  0.48841900  0.65541500  1
+  S  S34  1  0.80027100  0.83230700  0.83869800  1
+  S  S35  1  0.40117900  0.82806800  0.73815000  1
+  S  S36  1  0.59935200  0.17137900  0.76161600  1
+  S  S37  1  0.00005900  0.17211700  0.86209600  1
+  S  S38  1  0.80191300  0.48979900  0.93903500  1
+  S  S39  1  0.39907700  0.50068800  0.84847900  1
+  S  S40  1  0.60001100  0.82893200  0.03879300  1
+  S  S41  1  0.19922400  0.82951100  0.93858000  1
+  S  S42  1  0.80187300  0.17079500  0.06324500  1
+  S  S43  1  0.39964200  0.17238300  0.96183300  1
+  S  S44  1  0.58755400  0.48990100  0.14984500  1
+  S  S45  1  0.21183400  0.48918300  0.05749800  1
+  S  S46  1  0.40039200  0.83209700  0.23781400  1
+  S  S47  1  0.99884700  0.82809700  0.13676300  1
+  S  S48  1  0.60118100  0.17250500  0.26249700  1
+  S  S49  1  0.19918500  0.17280900  0.16225300  1
+  S  S50  1  0.40165800  0.48874800  0.33957300  1
+  S  S51  1  0.20191600  0.82805200  0.43814000  1
+  S  S52  1  0.39901700  0.17125700  0.46193900  1
+  S  S53  1  0.18868400  0.51328700  0.54346900  1
+  S  S54  1  0.99958300  0.82974800  0.64003300  1
+  S  S55  1  0.20039700  0.17018000  0.66076700  1
+  S  S56  1  0.98666600  0.49046700  0.75113600  1
+"
+"True","mp-1018028","TiS","Hexagonal","P-6m2","187","2","0.0","-1.719362965416666","True","29.740475088984113","4.46294849945536","0.0","False","True","NM","0.0","# generated using pymatgen
+data_TiS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.26700950
+_cell_length_b   3.26733206
+_cell_length_c   3.21706211
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99676583
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS
+_chemical_formula_sum   'Ti1 S1'
+_cell_volume   29.74047509
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  -0.00000568  -0.00001137  -0.00000000  1
+  S  S1  1  0.33330568  0.66661137  0.50000000  1
+"
+"True","mp-1101023","TiS","Orthorhombic","Pmmn","59","4","2.851397964999999","1.132034999583333","False","12910.099678839813","0.020562228328728","0.7957000000000001","True","False","FM","3.9999295","# generated using pymatgen
+data_TiS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   20.00706746
+_cell_length_b   40.00972510
+_cell_length_c   18.62369785
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00364607
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS
+_chemical_formula_sum   'Ti2 S2'
+_cell_volume   12910.09967884
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  -0.00000000  -0.00000000  0.11463314  1
+  Ti  Ti1  1  -0.00000000  0.50000000  0.88536686  1
+  S  S2  1  -0.00000000  0.00000000  0.00286186  1
+  S  S3  1  0.00000000  0.50000000  0.99713814  1
+"
+"True","mp-545","TiS","Hexagonal","P6_3/mmc","194","4","0.27150413499999904","-1.447858830416666","False","61.275519208836855","4.33224264388867","0.0","False","True","NM","0.0153034","# generated using pymatgen
+data_TiS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.32407801
+_cell_length_b   3.32407801
+_cell_length_c   6.40344900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000014
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS
+_chemical_formula_sum   'Ti2 S2'
+_cell_volume   61.27551921
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.33333300  0.66666700  0.25000000  1
+  Ti  Ti1  1  0.66666700  0.33333300  0.75000000  1
+  S  S2  1  0.00000000  0.00000000  0.00000000  1
+  S  S3  1  0.00000000  0.00000000  0.50000000  1
+"
+"True","mp-554462","TiS","Hexagonal","P6_3/mmc","194","4","0.065167639999998","-1.654195325416667","False","59.458840988810046","4.464608003255582","0.0","False","True","NM","3e-07","# generated using pymatgen
+data_TiS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.26728915
+_cell_length_b   3.26728807
+_cell_length_c   6.43147972
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00002155
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS
+_chemical_formula_sum   'Ti2 S2'
+_cell_volume   59.45884099
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  -0.00000000  0.00000000  -0.00000000  1
+  Ti  Ti1  1  -0.00000000  0.00000000  0.50000000  1
+  S  S2  1  0.33333300  0.66666700  0.25000000  1
+  S  S3  1  0.66666700  0.33333300  0.75000000  1
+"
+"True","mp-557762","TiS","Trigonal","R-3m","166","6","0.139421751666667","-1.579941213749998","False","91.47113213677865","4.35318353137896","0.0","False","True","NM","0.0217114","# generated using pymatgen
+data_TiS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.08462859
+_cell_length_b   9.08462859
+_cell_length_c   9.08462860
+_cell_angle_alpha   21.90495526
+_cell_angle_beta   21.90495526
+_cell_angle_gamma   21.90495899
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS
+_chemical_formula_sum   'Ti3 S3'
+_cell_volume   91.47113214
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.50000000  0.50000000  1
+  Ti  Ti1  1  0.61871000  0.61871000  0.61871000  1
+  Ti  Ti2  1  0.38129000  0.38129000  0.38129000  1
+  S  S3  1  0.00000000  0.00000000  0.00000000  1
+  S  S4  1  0.77663600  0.77663600  0.77663600  1
+  S  S5  1  0.22336400  0.22336400  0.22336400  1
+"
+"True","mp-1008676","TiS2","Hexagonal","P6/mmm","191","3","1.283568183333333","-0.323945729444443","False","47.231477998404905","3.9375306834200883","0.0","False","True","NM","8.140000000000001e-05","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31354651
+_cell_length_b   4.31354651
+_cell_length_c   2.93110900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000775
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti1 S2'
+_cell_volume   47.23147800
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  S  S1  1  0.66666700  0.33333300  0.50000000  1
+  S  S2  1  0.33333300  0.66666700  0.50000000  1
+"
+"True","mp-1008682","TiS2","Tetragonal","I4/mmm","139","3","0.44416815333333304","-1.163345759444443","False","47.48847673405239","3.9162215053456","0.0","False","True","NM","0.0102419","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27358045
+_cell_length_b   5.27358045
+_cell_length_c   5.27358045
+_cell_angle_alpha   145.22135153
+_cell_angle_beta   145.22135153
+_cell_angle_gamma   50.00478275
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti1 S2'
+_cell_volume   47.48847673
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.50000000  0.00000000  1
+  S  S1  1  0.86310400  0.86310400  0.00000000  1
+  S  S2  1  0.13689600  0.13689600  0.00000000  1
+"
+"True","mp-1042098","TiS2","Tetragonal","I-42d","122","6","0.22727308166666602","-1.38024083111111","False","170.69679107548046","2.17901452827855","1.638199999999999","False","False","NM","2.299999999999998e-06","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49911858
+_cell_length_b   6.49911858
+_cell_length_c   6.49911858
+_cell_angle_alpha   126.72127604
+_cell_angle_beta   126.72127604
+_cell_angle_gamma   78.70587052
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti2 S4'
+_cell_volume   170.69679108
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.75000000  0.25000000  0.50000000  1
+  Ti  Ti1  1  0.00000000  0.00000000  0.00000000  1
+  S  S2  1  0.87500000  0.91627900  0.54127900  1
+  S  S3  1  0.08372100  0.62500000  0.95872100  1
+  S  S4  1  0.37500000  0.33372100  0.45872100  1
+  S  S5  1  0.66627900  0.12500000  0.04127900  1
+"
+"True","mp-1062030","TiS2","Monoclinic","C2/m","12","3","0.0035409266666670005","-1.603972986111109","False","113.84572971295538","1.633573734481817","0.05109999999999901","False","False","NM","1e-07","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.42699283
+_cell_length_b   3.42699283
+_cell_length_c   11.24586987
+_cell_angle_alpha   85.20463148
+_cell_angle_beta   85.20463148
+_cell_angle_gamma   59.99989277
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti1 S2'
+_cell_volume   113.84572971
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  -0.00000000  -0.00000000  1
+  S  S1  1  0.31046651  0.31046651  0.12524563  1
+  S  S2  1  0.68953349  0.68953349  0.87475437  1
+"
+"True","mp-1072088","TiS2","Orthorhombic","Pnnm","58","6","0.118007705","-1.489506207777777","False","113.67034641026817","3.272188388883109","0.0","False","True","NM","0.0001032","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41079200
+_cell_length_b   5.43582300
+_cell_length_c   6.13093400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti2 S4'
+_cell_volume   113.67034641
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.50000000  0.50000000  1
+  Ti  Ti1  1  0.00000000  0.00000000  0.00000000  1
+  S  S2  1  0.50000000  0.74698300  0.15553800  1
+  S  S3  1  0.50000000  0.25301700  0.84446200  1
+  S  S4  1  0.00000000  0.24698300  0.34446200  1
+  S  S5  1  0.00000000  0.75301700  0.65553800  1
+"
+"True","mp-1072192","TiS2","Hexagonal","P6_3/mmc","194","6","0.744546983333333","-0.8629669294444431","False","92.04330545581027","4.041041179932122","0.0","False","True","NM","0.0132202","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62034686
+_cell_length_b   4.62034686
+_cell_length_c   4.97866000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001227
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti2 S4'
+_cell_volume   92.04330546
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.33333300  0.66666700  0.25000000  1
+  Ti  Ti1  1  0.66666700  0.33333300  0.75000000  1
+  S  S2  1  0.00000000  0.00000000  0.50000000  1
+  S  S3  1  0.00000000  0.00000000  0.00000000  1
+  S  S4  1  0.33333300  0.66666700  0.75000000  1
+  S  S5  1  0.66666700  0.33333300  0.25000000  1
+"
+"True","mp-1077021","TiS2","Hexagonal","P6_3/mmc","194","6","0.14174012","-1.465773792777777","False","125.80942298099262","2.956462074706399","0.20550000000000002","False","False","NM","0.0001272","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34815227
+_cell_length_b   3.34815227
+_cell_length_c   12.95902000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000534
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti2 S4'
+_cell_volume   125.80942298
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.33333300  0.66666700  0.25000000  1
+  Ti  Ti1  1  0.66666700  0.33333300  0.75000000  1
+  S  S2  1  0.33333300  0.66666700  0.86615600  1
+  S  S3  1  0.66666700  0.33333300  0.13384400  1
+  S  S4  1  0.66666700  0.33333300  0.36615600  1
+  S  S5  1  0.33333300  0.66666700  0.63384400  1
+"
+"True","mp-1077263","TiS2","Monoclinic","C2/m","12","6","0.004457463333333","-1.603056449444443","False","176.77004377832424","2.104150566090482","0.0","False","True","NM","0.0","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.42450655
+_cell_length_b   3.42450655
+_cell_length_c   17.54704546
+_cell_angle_alpha   83.70329423
+_cell_angle_beta   83.70329423
+_cell_angle_gamma   59.99747558
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti2 S4'
+_cell_volume   176.77004378
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.56375242  0.56375242  0.82913222  1
+  Ti  Ti1  1  0.43624758  0.43624758  0.17086778  1
+  S  S2  1  0.92793474  0.92793474  0.74846194  1
+  S  S3  1  0.07206526  0.07206526  0.25153806  1
+  S  S4  1  0.20081346  0.20081346  0.90961896  1
+  S  S5  1  0.79918654  0.79918654  0.09038104  1
+"
+"True","mp-1101258","TiS2","Trigonal","P-3m1","164","9","0.0023216455555550002","-1.605192267222221","False","204.50334856601503","2.7282007137692332","0.0","False","True","NM","0.033517399999999004","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.42053011
+_cell_length_b   3.42053011
+_cell_length_c   20.18287200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000210
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti3 S6'
+_cell_volume   204.50334857
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.50000000  1
+  Ti  Ti1  1  0.00000000  0.00000000  0.85443900  1
+  Ti  Ti2  1  0.00000000  0.00000000  0.14556100  1
+  S  S3  1  0.33333300  0.66666700  0.57019500  1
+  S  S4  1  0.33333300  0.66666700  0.92443200  1
+  S  S5  1  0.33333300  0.66666700  0.21575100  1
+  S  S6  1  0.66666700  0.33333300  0.78424900  1
+  S  S7  1  0.66666700  0.33333300  0.07556800  1
+  S  S8  1  0.66666700  0.33333300  0.42980500  1
+"
+"True","mp-1101969","TiS2","Orthorhombic","Pnma","62","12","0.283519519166667","-1.32399439361111","False","190.1774926607915","3.911617326319758","0.0","False","True","NM","0.0010205","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60422300
+_cell_length_b   6.62752900
+_cell_length_c   7.96151700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti4 S8'
+_cell_volume   190.17749266
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.25000000  0.74493700  0.61442200  1
+  Ti  Ti1  1  0.25000000  0.24493700  0.88557800  1
+  Ti  Ti2  1  0.75000000  0.25506300  0.38557800  1
+  Ti  Ti3  1  0.75000000  0.75506300  0.11442200  1
+  S  S4  1  0.25000000  0.86497200  0.91672200  1
+  S  S5  1  0.25000000  0.36497200  0.58327800  1
+  S  S6  1  0.75000000  0.13502800  0.08327800  1
+  S  S7  1  0.75000000  0.63502800  0.41672200  1
+  S  S8  1  0.75000000  0.52378700  0.84954300  1
+  S  S9  1  0.75000000  0.02378700  0.65045700  1
+  S  S10  1  0.25000000  0.47621300  0.15045700  1
+  S  S11  1  0.25000000  0.97621300  0.34954300  1
+"
+"True","mp-1102845","TiS2","Cubic","Pa-3","205","12","0.3210373375","-1.286476575277776","False","216.7082807619581","3.432732578341733","0.0","False","True","NM","0.0006359","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00655100
+_cell_length_b   6.00655100
+_cell_length_c   6.00655100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti4 S8'
+_cell_volume   216.70828076
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.50000000  0.00000000  1
+  Ti  Ti1  1  0.50000000  0.00000000  0.50000000  1
+  Ti  Ti2  1  0.00000000  0.50000000  0.50000000  1
+  Ti  Ti3  1  0.00000000  0.00000000  0.00000000  1
+  S  S4  1  0.14195900  0.85804100  0.35804100  1
+  S  S5  1  0.85804100  0.35804100  0.14195900  1
+  S  S6  1  0.35804100  0.14195900  0.85804100  1
+  S  S7  1  0.64195900  0.64195900  0.64195900  1
+  S  S8  1  0.85804100  0.14195900  0.64195900  1
+  S  S9  1  0.14195900  0.64195900  0.85804100  1
+  S  S10  1  0.64195900  0.85804100  0.14195900  1
+  S  S11  1  0.35804100  0.35804100  0.35804100  1
+"
+"True","mp-1216778","TiS2","Trigonal","R3m","160","12","0.16815663833333303","-1.439357274444443","False","261.2981402839747","2.846945541057199","0.7773000000000001","False","False","NM","0.0001484","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26012444
+_cell_length_b   7.26012444
+_cell_length_c   7.26012453
+_cell_angle_alpha   58.49836880
+_cell_angle_beta   58.49836880
+_cell_angle_gamma   58.49837154
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti4 S8'
+_cell_volume   261.29814028
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.37891600  0.37891600  0.37891600  1
+  Ti  Ti1  1  0.99167900  0.99167900  0.53421700  1
+  Ti  Ti2  1  0.53421700  0.99167900  0.99167900  1
+  Ti  Ti3  1  0.99167900  0.53421700  0.99167900  1
+  S  S4  1  0.75548300  0.75548300  0.75548300  1
+  S  S5  1  0.74669600  0.74669600  0.22815600  1
+  S  S6  1  0.22815600  0.74669600  0.74669600  1
+  S  S7  1  0.74669600  0.22815600  0.74669600  1
+  S  S8  1  0.24249100  0.24249100  0.24249100  1
+  S  S9  1  0.24581000  0.24581000  0.76736800  1
+  S  S10  1  0.76736800  0.24581000  0.24581000  1
+  S  S11  1  0.24581000  0.76736800  0.24581000  1
+"
+"True","mp-1386900","TiS2","Triclinic","P-1","2","12","1.3837119141666672","-0.22380199861110903","False","302.2681398661881","2.461065118200418","0.0","False","True","FM","0.6088039","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10479000
+_cell_length_b   6.54411352
+_cell_length_c   8.90829554
+_cell_angle_alpha   111.05479480
+_cell_angle_beta   84.37851355
+_cell_angle_gamma   114.26620263
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti4 S8'
+_cell_volume   302.26813987
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.49977700  0.16894100  0.62706300  1
+  Ti  Ti1  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti2  1  0.50022300  0.83105900  0.37293700  1
+  Ti  Ti3  1  0.00000000  0.50000000  0.50000000  1
+  S  S4  1  0.86762200  0.29760100  0.78333300  1
+  S  S5  1  0.62468800  0.51845200  0.38716100  1
+  S  S6  1  0.25051300  0.98745800  0.85079200  1
+  S  S7  1  0.21213000  0.90582900  0.49690300  1
+  S  S8  1  0.78787000  0.09417100  0.50309700  1
+  S  S9  1  0.74948700  0.01254200  0.14920800  1
+  S  S10  1  0.37531200  0.48154800  0.61283900  1
+  S  S11  1  0.13237800  0.70239900  0.21666700  1
+"
+"True","mp-2156","TiS2","Trigonal","P-3m1","164","9","0.0","-1.607513912777776","True","183.46613745131842","3.041030836952365","0.0","False","True","NM","0.0","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.42572916
+_cell_length_b   3.42575423
+_cell_length_c   18.05176449
+_cell_angle_alpha   90.00262762
+_cell_angle_beta   89.99556123
+_cell_angle_gamma   120.00082217
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti3 S6'
+_cell_volume   183.46613745
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  -0.00010415  -0.00001235  0.49978761  1
+  Ti  Ti1  1  0.00003893  0.00001998  0.83708163  1
+  Ti  Ti2  1  0.00001020  -0.00005432  0.16314089  1
+  S  S3  1  0.33333399  0.66668387  0.57745504  1
+  S  S4  1  0.33329192  0.66668758  0.91468248  1
+  S  S5  1  0.33330070  0.66665326  0.24087946  1
+  S  S6  1  0.66661690  0.33327456  0.75928381  1
+  S  S7  1  0.66666922  0.33334148  0.08559468  1
+  S  S8  1  0.66684228  0.33340593  0.42209439  1
+"
+"True","mp-558110","TiS2","Trigonal","R-3m","166","3","0.0019210499999990003","-1.605592862777777","False","86.51610107142402","2.149604426677374","0.0","False","True","NM","1.699999999999999e-06","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.42672650
+_cell_length_b   3.42585535
+_cell_length_c   8.72185772
+_cell_angle_alpha   100.92274531
+_cell_angle_beta   90.00000007
+_cell_angle_gamma   120.00840169
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti1 S2'
+_cell_volume   86.51610107
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  S  S1  1  0.38624409  0.77249018  0.16476952  1
+  S  S2  1  0.61375591  0.22750982  0.83523048  1
+"
+"True","mp-685013","TiS2","Triclinic","P-1","2","12","0.3987559525","-1.208757960277777","False","302.2680430688322","2.461065906324076","0.0","False","True","NM","0.0003632","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54411295
+_cell_length_b   6.10478908
+_cell_length_c   8.90829479
+_cell_angle_alpha   84.37850954
+_cell_angle_beta   111.05479674
+_cell_angle_gamma   114.26620137
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti4 S8'
+_cell_volume   302.26804307
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.20399600  0.50022300  0.37293700  1
+  Ti  Ti1  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti2  1  0.79600400  0.49977700  0.62706300  1
+  Ti  Ti3  1  0.00000000  0.00000000  0.50000000  1
+  S  S4  1  0.91906600  0.13237800  0.21666700  1
+  S  S5  1  0.09438700  0.37531200  0.61283900  1
+  S  S6  1  0.16175000  0.74948700  0.14920800  1
+  S  S7  1  0.59726800  0.78787000  0.50309700  1
+  S  S8  1  0.40273200  0.21213000  0.49690300  1
+  S  S9  1  0.83825000  0.25051300  0.85079200  1
+  S  S10  1  0.90561300  0.62468800  0.38716100  1
+  S  S11  1  0.08093400  0.86762200  0.78333300  1
+"
+"True","mp-9027","TiS2","Cubic","Fd-3m","227","12","0.020230631666667002","-1.58728328111111","False","235.9092941379548","3.153337294684891","0.0","False","True","NM","1e-07","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93564239
+_cell_length_b   6.93564222
+_cell_length_c   6.93564228
+_cell_angle_alpha   59.99999973
+_cell_angle_beta   60.00000051
+_cell_angle_gamma   59.99999659
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti4 S8'
+_cell_volume   235.90929414
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.00000000  0.50000000  1
+  Ti  Ti1  1  -0.00000000  0.50000000  0.50000000  1
+  Ti  Ti2  1  0.50000000  0.50000000  -0.00000000  1
+  Ti  Ti3  1  0.50000000  0.50000000  0.50000000  1
+  S  S4  1  0.74742095  0.74742095  0.74742095  1
+  S  S5  1  0.25257905  0.25257905  0.74226284  1
+  S  S6  1  0.25257905  0.74226284  0.25257905  1
+  S  S7  1  0.74226284  0.25257905  0.25257905  1
+  S  S8  1  0.25257905  0.25257905  0.25257905  1
+  S  S9  1  0.74742095  0.74742095  0.25773716  1
+  S  S10  1  0.25773716  0.74742095  0.74742095  1
+  S  S11  1  0.74742095  0.25773716  0.74742095  1
+"
+"True","mp-936075","TiS2","Triclinic","P-1","2","12","1.9579946325000002","0.350480719722223","False","302.2681398661881","2.461065118200418","0.0","False","True","NM","0.1365471","# generated using pymatgen
+data_TiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10479000
+_cell_length_b   6.54411352
+_cell_length_c   8.90829554
+_cell_angle_alpha   111.05479480
+_cell_angle_beta   84.37851355
+_cell_angle_gamma   114.26620263
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS2
+_chemical_formula_sum   'Ti4 S8'
+_cell_volume   302.26813987
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.49977700  0.54187800  0.62706300  1
+  Ti  Ti1  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti2  1  0.50022300  0.45812200  0.37293700  1
+  Ti  Ti3  1  0.00000000  0.00000000  0.50000000  1
+  S  S4  1  0.86762200  0.51426700  0.78333300  1
+  S  S5  1  0.62468800  0.13129200  0.38716100  1
+  S  S6  1  0.25051300  0.13666600  0.85079200  1
+  S  S7  1  0.21213000  0.40892600  0.49690300  1
+  S  S8  1  0.78787000  0.59107400  0.50309700  1
+  S  S9  1  0.74948700  0.86333400  0.14920800  1
+  S  S10  1  0.37531200  0.86870800  0.61283900  1
+  S  S11  1  0.13237800  0.48573300  0.21666700  1
+"
+"True","mp-559374","TiS3","Trigonal","R3m","160","4","0.5417977662500001","-0.799944488958332","False","126.38302320151729","1.892822097087302","0.0","False","True","NM","4e-07","# generated using pymatgen
+data_TiS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01607677
+_cell_length_b   7.01607677
+_cell_length_c   7.01607617
+_cell_angle_alpha   117.96758600
+_cell_angle_beta   117.96758600
+_cell_angle_gamma   117.96757968
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS3
+_chemical_formula_sum   'Ti1 S3'
+_cell_volume   126.38302320
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.99990300  0.99990300  0.99990300  1
+  S  S1  1  0.67726900  0.41141400  0.41141400  1
+  S  S2  1  0.41141400  0.67726900  0.41141400  1
+  S  S3  1  0.41141400  0.41141400  0.67726900  1
+"
+"True","mp-9920","TiS3","Monoclinic","P2_1/m","11","8","0.0","-1.341742255208332","True","153.2064428549375","3.12285272805444","0.22610000000000002","False","False","NM","0.0","# generated using pymatgen
+data_TiS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41651673
+_cell_length_b   5.03315591
+_cell_length_c   8.97319508
+_cell_angle_alpha   83.16889570
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiS3
+_chemical_formula_sum   'Ti2 S6'
+_cell_volume   153.20644285
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.25000000  0.71869031  0.64942458  1
+  Ti  Ti1  1  0.75000000  0.28130969  0.35057542  1
+  S  S2  1  0.25000000  0.11700772  0.18099896  1
+  S  S3  1  0.75000000  0.88299228  0.81900104  1
+  S  S4  1  0.75000000  0.76053359  0.45121338  1
+  S  S5  1  0.25000000  0.23946641  0.54878662  1
+  S  S6  1  0.75000000  0.48080154  0.81751569  1
+  S  S7  1  0.25000000  0.51919846  0.18248431  1
+"

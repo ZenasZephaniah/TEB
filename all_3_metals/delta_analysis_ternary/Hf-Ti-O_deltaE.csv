@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Hf-Ti-O,Hf,Ti,O,HfTiO4_753197_POSCAR,35,local_max_drop,6.916693892,-0.13901961603191,-0.07252531602672634,-0.06649430000518365,5.962667,11.686828,0.01188214

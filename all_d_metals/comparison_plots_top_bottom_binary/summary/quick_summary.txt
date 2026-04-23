@@ -1,0 +1,83 @@
+rows: 848
+unique chemsys: 37
+unique metals: 19
+ligands: O, S
+delta_E min: -1.605766
+delta_E max: -0.000039
+delta_E mean: -0.133002
+
+Best overall configuration:
+chemsys                           Ti-O
+source             Ti3O_1245140_POSCAR
+n_points                            35
+dip_method              local_max_drop
+dip_cell_length              15.659452
+E_min                        -2.165594
+E_expected                   -0.559828
+delta_E                      -1.605766
+left_x                       14.039508
+right_x                      26.459073
+baseline_slope                 0.03475
+metal                               Ti
+ligand                               O
+
+Weakest accepted configuration:
+chemsys                                Ni-O
+source                    NiO2_25206_POSCAR
+n_points                                 35
+dip_method         global_gradient_fallback
+dip_cell_length                    4.811681
+E_min                             -0.006035
+E_expected                        -0.005996
+delta_E                           -0.000039
+left_x                             4.441551
+right_x                            9.068167
+baseline_slope                     0.001086
+metal                                    Ni
+ligand                                    O
+
+Top 20 configurations by most negative delta_E:
+chemsys metal ligand               source   delta_E  dip_cell_length  baseline_slope
+   Ti-O    Ti      O  Ti3O_1245140_POSCAR -1.605766        15.659452        0.034750
+   Ti-O    Ti      O  Ti3O_1245176_POSCAR -1.602777        15.828042        0.035290
+   Ti-O    Ti      O  Ti3O_1244956_POSCAR -1.531325        16.585576        0.034317
+   Ti-O    Ti      O  Ti2O_1245186_POSCAR -1.391084        15.796892        0.031958
+   Ti-O    Ti      O  Ti2O_1245309_POSCAR -1.381869        16.171976        0.030610
+   Ti-O    Ti      O  Ti2O_1245066_POSCAR -1.377615        15.334560        0.033786
+   Ti-O    Ti      O  Ti2O_1245206_POSCAR -1.350447        15.700261        0.031666
+   Ti-O    Ti      O  Ti2O_1244955_POSCAR -1.337580        16.162399        0.031950
+   Nb-S    Nb      S Nb14S5_683941_POSCAR -1.084202         4.928632        0.142248
+   Ti-O    Ti      O   TiO_1245294_POSCAR -0.877266        15.314712        0.025172
+   Ti-O    Ti      O   TiO_1244944_POSCAR -0.872976        15.463253        0.025349
+   Ti-O    Ti      O   TiO_1245141_POSCAR -0.866157        15.658661        0.024306
+   Ti-O    Ti      O   TiO_1244926_POSCAR -0.864447        15.117430        0.026389
+   Ti-O    Ti      O   TiO_1245324_POSCAR -0.849539        15.061690        0.024944
+   Zr-S    Zr      S   Zr9S2_27191_POSCAR -0.723144        12.944354        0.026087
+   Ti-S    Ti      S  Ti8S3_680850_POSCAR -0.706923        14.872315        0.017695
+    V-O     V      O   V16O3_30064_POSCAR -0.689161        12.812257        0.016925
+    Y-O     Y      O  Y2O3_1244949_POSCAR -0.632697        16.530017        0.018849
+    Y-O     Y      O  Y2O3_1245291_POSCAR -0.631003        17.129958        0.018165
+    Y-O     Y      O  Y2O3_1245017_POSCAR -0.618279        16.806758        0.018053
+
+Bottom 20 configurations by weakest accepted delta_E:
+chemsys metal ligand              source   delta_E  dip_cell_length  baseline_slope
+   Ni-O    Ni      O   NiO2_25206_POSCAR -0.000039         4.811681        0.001086
+   Pd-O    Pd      O    PdO_10728_POSCAR -0.000062         3.341230        0.009482
+   Nb-S    Nb      S NbS6_1210578_POSCAR -0.000075        13.880345        0.000291
+   Co-O    Co      O CoO2_1408926_POSCAR -0.000448         4.263748        0.002843
+    V-S     V      S   VS2_611224_POSCAR -0.000501         3.697014        0.003933
+   Fe-O    Fe      O FeO2_1384466_POSCAR -0.000521         3.753262        0.003608
+   Ni-O    Ni      O NiO3_1209929_POSCAR -0.000545         4.716916        0.001013
+   Fe-O    Fe      O  FeO3_863316_POSCAR -0.000756         9.562091        0.001400
+   Fe-O    Fe      O   FeO_755189_POSCAR -0.000799         3.699574        0.007488
+   Fe-O    Fe      O FeO2_1097003_POSCAR -0.000910         7.211008        0.002832
+   Ta-S    Ta      S TaS2_1217915_POSCAR -0.001158         4.675237        0.005137
+    Y-O     Y      O   Y2O3_13061_POSCAR -0.001341         5.117971        0.008450
+   Ti-O    Ti      O TiO2_1445035_POSCAR -0.001354         4.995984        0.001834
+   Ni-O    Ni      O  NiO2_634706_POSCAR -0.001467         5.340657        0.001069
+    V-S     V      S   VS2_849098_POSCAR -0.001625         4.183323        0.002325
+   Mn-O    Mn      O  MnO2_796077_POSCAR -0.001688         4.379272        0.001515
+   Co-O    Co      O CoO2_1062643_POSCAR -0.001694        11.879940        0.000687
+   Nb-S    Nb      S    NbS2_1874_POSCAR -0.001770         4.888581        0.005082
+   Nb-O    Nb      O     NbO_2692_POSCAR -0.001873         3.867447        0.010623
+    V-O     V      O  VO2_1420871_POSCAR -0.002033         4.243086        0.003300

@@ -1,0 +1,113 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1183870","Cr2Ir2O5","Tetragonal","P4/mmm","123","9","0.9692042472222161","-0.765864349444445","False","103.42859525268587","9.125995839504295","0.0","False","True","FiM","6.372694","# generated using pymatgen
+data_Cr2Ir2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.42417100
+_cell_length_b   3.42417100
+_cell_length_c   8.82124200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2Ir2O5
+_chemical_formula_sum   'Cr2 Ir2 O5'
+_cell_volume   103.42859525
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.50000000  0.50000000  0.27317500  1
+  Cr  Cr1  1  0.50000000  0.50000000  0.72682500  1
+  Ir  Ir2  1  0.00000000  0.00000000  0.00000000  1
+  Ir  Ir3  1  0.00000000  0.00000000  0.50000000  1
+  O  O4  1  0.50000000  0.00000000  0.13702800  1
+  O  O5  1  0.50000000  0.00000000  0.86297200  1
+  O  O6  1  0.50000000  0.50000000  0.50000000  1
+  O  O7  1  0.00000000  0.50000000  0.13702800  1
+  O  O8  1  0.00000000  0.50000000  0.86297200  1
+"
+"True","mp-753633","CrIrO4","Orthorhombic","Cmmm","65","6","0.0","-1.719145625","True","61.19862441273594","8.362866208274177","0.0","False","True","FiM","1.3197622","# generated using pymatgen
+data_CrIrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.06507497
+_cell_length_b   5.41561965
+_cell_length_c   4.47202103
+_cell_angle_alpha   90.25030778
+_cell_angle_beta   90.00059867
+_cell_angle_gamma   55.53090987
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrIrO4
+_chemical_formula_sum   'Cr1 Ir1 O4'
+_cell_volume   61.19862441
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.49996397  0.99951577  0.00041781  1
+  Ir  Ir1  1  0.49998246  0.49953526  0.50041352  1
+  O  O2  1  0.19134369  0.80817346  0.81025288  1
+  O  O3  1  0.19875274  0.30074941  0.69817875  1
+  O  O4  1  0.80856138  0.19088614  0.19059293  1
+  O  O5  1  0.80116676  0.69829795  0.30264411  1
+"
+"True","mp-1047059","CrIrO6","Monoclinic","P2_1/c","14","16","0.16785202375000002","-1.121507194999999","False","181.42934836019495","6.227560983759745","0.0","False","True","FM","0.06427479999999901","# generated using pymatgen
+data_CrIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13048500
+_cell_length_b   4.94956400
+_cell_length_c   8.68553391
+_cell_angle_alpha   55.34533475
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrIrO6
+_chemical_formula_sum   'Cr2 Ir2 O12'
+_cell_volume   181.42934836
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.50000000  0.00000000  0.00000000  1
+  Cr  Cr1  1  0.00000000  0.00000000  0.50000000  1
+  Ir  Ir2  1  0.50000000  0.50000000  0.50000000  1
+  Ir  Ir3  1  0.00000000  0.50000000  0.00000000  1
+  O  O4  1  0.47788300  0.64637400  0.24525100  1
+  O  O5  1  0.20167200  0.87056300  0.94593300  1
+  O  O6  1  0.19070000  0.25193600  0.55446100  1
+  O  O7  1  0.69070000  0.74806400  0.94553900  1
+  O  O8  1  0.70167200  0.12943700  0.55406700  1
+  O  O9  1  0.97788300  0.35362600  0.25474900  1
+  O  O10  1  0.02211700  0.64637400  0.74525100  1
+  O  O11  1  0.29832800  0.87056300  0.44593300  1
+  O  O12  1  0.30930000  0.25193600  0.05446100  1
+  O  O13  1  0.79832800  0.12943700  0.05406700  1
+  O  O14  1  0.80930000  0.74806400  0.44553900  1
+  O  O15  1  0.52211700  0.35362600  0.75474900  1
+"

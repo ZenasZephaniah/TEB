@@ -1,0 +1,298 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1217770","Ta2AgS4","Trigonal","P-3m1","164","7","0.06664608309523501","-1.118980538047617","False","138.67770232477935","7.160791761729355","0.0","False","True","NM","0.021581","# generated using pymatgen
+data_Ta2AgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.38093560
+_cell_length_b   3.38093560
+_cell_length_c   14.00884000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999213
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2AgS4
+_chemical_formula_sum   'Ta2 Ag1 S4'
+_cell_volume   138.67770232
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000000  0.00000000  0.24274000  1
+  Ta  Ta1  1  0.00000000  0.00000000  0.75726000  1
+  Ag  Ag2  1  0.00000000  0.00000000  0.50000000  1
+  S  S3  1  0.66666700  0.33333300  0.35527200  1
+  S  S4  1  0.33333300  0.66666700  0.64472800  1
+  S  S5  1  0.33333300  0.66666700  0.86520800  1
+  S  S6  1  0.66666700  0.33333300  0.13479200  1
+"
+"True","mp-1218056","Ta4AgS8","Monoclinic","Pm","6","13","0.002105334230769","-1.274723334692304","False","261.6873310416001","6.905053176818096","0.0","False","True","NM","0.2014532","# generated using pymatgen
+data_Ta4AgS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.35320717
+_cell_length_b   5.81167997
+_cell_length_c   13.56378716
+_cell_angle_alpha   81.89451565
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4AgS8
+_chemical_formula_sum   'Ta4 Ag1 S8'
+_cell_volume   261.68733104
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.50000000  0.43502409  0.23079458  1
+  Ta  Ta1  1  0.00000000  0.91240986  0.23065077  1
+  Ta  Ta2  1  0.50000000  0.58915768  0.76954829  1
+  Ta  Ta3  1  -0.00000000  0.06072995  0.77004369  1
+  Ag  Ag4  1  0.50000000  0.34484671  0.47807241  1
+  S  S5  1  0.50000000  0.28107580  0.65678340  1
+  S  S6  1  -0.00000000  0.77970375  0.65076727  1
+  S  S7  1  0.50000000  0.72533932  0.34970058  1
+  S  S8  1  -0.00000000  0.21306073  0.34516711  1
+  S  S9  1  0.50000000  0.21033547  0.87952329  1
+  S  S10  1  -0.00000000  0.70134642  0.88642284  1
+  S  S11  1  0.50000000  0.79592508  0.11475250  1
+  S  S12  1  -0.00000000  0.29034412  0.11987527  1
+"
+"True","mp-677597","Ta4AgS8","Triclinic","P-1","2","26","0.0","-1.276828668923074","True","523.7401327047338","6.900234767995343","0.0","False","True","NM","0.0","# generated using pymatgen
+data_Ta4AgS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80279127
+_cell_length_b   6.71289385
+_cell_length_c   13.58555042
+_cell_angle_alpha   97.03793227
+_cell_angle_beta   94.26652638
+_cell_angle_gamma   89.99717494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4AgS8
+_chemical_formula_sum   'Ta8 Ag2 S16'
+_cell_volume   523.74013270
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.20076890  0.06958934  0.76810414  1
+  Ta  Ta1  1  0.20080482  0.56391726  0.76811153  1
+  Ta  Ta2  1  0.72027112  0.31636114  0.76648416  1
+  Ta  Ta3  1  0.79919518  0.43608274  0.23188847  1
+  Ta  Ta4  1  0.72254640  0.81679839  0.76837407  1
+  Ta  Ta5  1  0.79923110  0.93041066  0.23189586  1
+  Ta  Ta6  1  0.27972888  0.68363886  0.23351584  1
+  Ta  Ta7  1  0.27745360  0.18320161  0.23162593  1
+  Ag  Ag8  1  0.65394416  0.25576692  0.52200093  1
+  Ag  Ag9  1  0.34605584  0.74423308  0.47799907  1
+  S  S10  1  0.14126572  0.96809433  0.35074501  1
+  S  S11  1  0.10507457  0.90341078  0.11678780  1
+  S  S12  1  0.14119773  0.45735248  0.35077444  1
+  S  S13  1  0.10504298  0.40608696  0.11681609  1
+  S  S14  1  0.89495702  0.59391304  0.88318391  1
+  S  S15  1  0.85880227  0.54264752  0.64922556  1
+  S  S16  1  0.63880504  0.21116976  0.34426454  1
+  S  S17  1  0.60138216  0.15585882  0.12170856  1
+  S  S18  1  0.89492543  0.09658922  0.88321220  1
+  S  S19  1  0.85873428  0.03190567  0.64925499  1
+  S  S20  1  0.64653205  0.71175795  0.34716838  1
+  S  S21  1  0.59764048  0.65563153  0.12035214  1
+  S  S22  1  0.39861784  0.84414118  0.87829144  1
+  S  S23  1  0.36119496  0.78883024  0.65573546  1
+  S  S24  1  0.40235952  0.34436847  0.87964786  1
+  S  S25  1  0.35346795  0.28824205  0.65283162  1
+"
+"True","mp-620369","TaAg7S6","Monoclinic","Pc","7","28","0.018544185000001","-0.47291320885714105","False","612.0262380261195","6.123193874274424","0.5141","True","False","NM","0.0002305","# generated using pymatgen
+data_TaAg7S6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.44677100
+_cell_length_b   7.70615900
+_cell_length_c   13.09831019
+_cell_angle_alpha   54.51161271
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAg7S6
+_chemical_formula_sum   'Ta2 Ag14 S12'
+_cell_volume   612.02623803
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.25248600  0.99906600  0.00341600  1
+  Ta  Ta1  1  0.74751400  0.99906600  0.50341600  1
+  Ag  Ag2  1  0.64662000  0.44909800  0.84887000  1
+  Ag  Ag3  1  0.91260700  0.90447800  0.80248300  1
+  Ag  Ag4  1  0.46958000  0.05785300  0.23639000  1
+  Ag  Ag5  1  0.71225300  0.98955700  0.97009800  1
+  Ag  Ag6  1  0.11988100  0.36569200  0.71207300  1
+  Ag  Ag7  1  0.35338000  0.44909800  0.34887000  1
+  Ag  Ag8  1  0.04031800  0.26372600  0.52075500  1
+  Ag  Ag9  1  0.88011900  0.36569200  0.21207300  1
+  Ag  Ag10  1  0.57018300  0.52821800  0.54530500  1
+  Ag  Ag11  1  0.95968200  0.26372600  0.02075500  1
+  Ag  Ag12  1  0.28774700  0.98955700  0.47009800  1
+  Ag  Ag13  1  0.08739300  0.90447800  0.30248300  1
+  Ag  Ag14  1  0.42981700  0.52821800  0.04530500  1
+  Ag  Ag15  1  0.53042000  0.05785300  0.73639000  1
+  S  S16  1  0.77060500  0.28610200  0.73859200  1
+  S  S17  1  0.51221700  0.84024300  0.64546000  1
+  S  S18  1  0.24065500  0.55390600  0.48956200  1
+  S  S19  1  0.48778300  0.84024300  0.14546000  1
+  S  S20  1  0.75934500  0.55390600  0.98956200  1
+  S  S21  1  0.26074500  0.36761800  0.88866900  1
+  S  S22  1  0.74844300  0.88090600  0.37616700  1
+  S  S23  1  0.25155700  0.88090600  0.87616700  1
+  S  S24  1  0.99566900  0.86153500  0.12516000  1
+  S  S25  1  0.22939500  0.28610200  0.23859200  1
+  S  S26  1  0.73925500  0.36761800  0.38866900  1
+  S  S27  1  0.00433100  0.86153500  0.62516000  1
+"
+"True","mp-674352","TaAg7S6","Triclinic","P1","1","14","0.058053538571429","-0.433403855285712","False","319.2823652277393","5.868716408599141","0.6854","False","False","NM","0.0012304","# generated using pymatgen
+data_TaAg7S6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53614200
+_cell_length_b   7.61566295
+_cell_length_c   7.61987263
+_cell_angle_alpha   92.60835525
+_cell_angle_beta   117.90162859
+_cell_angle_gamma   118.36421563
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAg7S6
+_chemical_formula_sum   'Ta1 Ag7 S6'
+_cell_volume   319.28236523
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.98364900  0.48623800  0.50541000  1
+  Ag  Ag1  1  0.88557700  0.26218800  0.88305600  1
+  Ag  Ag2  1  0.45374400  0.19450300  0.08769400  1
+  Ag  Ag3  1  0.06358600  0.71827900  0.06467500  1
+  Ag  Ag4  1  0.61646000  0.61938900  0.67560200  1
+  Ag  Ag5  1  0.08416800  0.18434200  0.30163600  1
+  Ag  Ag6  1  0.09261500  0.97118200  0.61951900  1
+  Ag  Ag7  1  0.41954900  0.01742500  0.48554300  1
+  S  S8  1  0.00603700  0.00348000  0.96365700  1
+  S  S9  1  0.52139000  0.28588300  0.77860400  1
+  S  S10  1  0.74837400  0.11404100  0.36983800  1
+  S  S11  1  0.72917400  0.60017700  0.38607200  1
+  S  S12  1  0.21569600  0.59795600  0.86471400  1
+  S  S13  1  0.24197800  0.61291600  0.38598100  1
+"
+"True","mp-561242","TaAgS3","Orthorhombic","Cmc2_1","36","10","0.00020056400000000003","-0.9553398292999981","False","189.64022178739583","6.742514150089965","0.0","False","True","NM","0.0008173","# generated using pymatgen
+data_TaAgS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37868464
+_cell_length_b   7.37868464
+_cell_length_c   7.78558500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.42397583
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAgS3
+_chemical_formula_sum   'Ta2 Ag2 S6'
+_cell_volume   189.64022179
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.26285600  0.73714400  0.51067600  1
+  Ta  Ta1  1  0.73714400  0.26285600  0.01067600  1
+  Ag  Ag2  1  0.00303300  0.99696700  0.75598600  1
+  Ag  Ag3  1  0.99696700  0.00303300  0.25598600  1
+  S  S4  1  0.32567400  0.67432600  0.19062700  1
+  S  S5  1  0.32535300  0.67464700  0.83078800  1
+  S  S6  1  0.67464700  0.32535300  0.33078800  1
+  S  S7  1  0.10444400  0.89555600  0.01092300  1
+  S  S8  1  0.89555600  0.10444400  0.51092300  1
+  S  S9  1  0.67432600  0.32567400  0.69062700  1
+"
+"True","mp-5821","TaAgS3","Orthorhombic","Cmcm","63","10","0.0","-0.9555403932999991","True","186.09968231755818","6.870790228678843","0.0","False","True","NM","1e-07","# generated using pymatgen
+data_TaAgS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.39027577
+_cell_length_b   7.24814296
+_cell_length_c   7.78929486
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   103.52514615
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAgS3
+_chemical_formula_sum   'Ta2 Ag2 S6'
+_cell_volume   186.09968232
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.26270931  0.52541963  0.75000000  1
+  Ta  Ta1  1  0.73729069  0.47458037  0.25000000  1
+  Ag  Ag2  1  -0.00000000  -0.00000000  0.50000000  1
+  Ag  Ag3  1  -0.00000000  -0.00000000  -0.00000000  1
+  S  S4  1  0.67315422  0.34630744  0.92916361  1
+  S  S5  1  0.32684578  0.65369256  0.07083639  1
+  S  S6  1  0.32684578  0.65369256  0.42916361  1
+  S  S7  1  0.67315422  0.34630744  0.57083639  1
+  S  S8  1  0.89669095  0.79338189  0.75000000  1
+  S  S9  1  0.10330905  0.20661811  0.25000000  1
+"

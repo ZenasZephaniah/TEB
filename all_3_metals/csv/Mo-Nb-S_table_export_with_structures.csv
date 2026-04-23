@@ -1,0 +1,113 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1103562","Nb(Mo3S4)2","Trigonal","R-3","148","15","0.13563531922222702","-0.8818426920000001","False","260.24718422652785","5.902499455483676","0.0","False","True","FiM","1.0018058","# generated using pymatgen
+data_Nb(Mo3S4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38452752
+_cell_length_b   6.38452752
+_cell_length_c   6.38452735
+_cell_angle_alpha   90.03473212
+_cell_angle_beta   90.03473212
+_cell_angle_gamma   90.03473631
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb(Mo3S4)2
+_chemical_formula_sum   'Nb1 Mo6 S8'
+_cell_volume   260.24718423
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo1  1  0.78390600  0.57894200  0.44375800  1
+  Mo  Mo2  1  0.44375800  0.78390600  0.57894200  1
+  Mo  Mo3  1  0.57894200  0.44375800  0.78390600  1
+  Mo  Mo4  1  0.21609400  0.42105800  0.55624200  1
+  Mo  Mo5  1  0.55624200  0.21609400  0.42105800  1
+  Mo  Mo6  1  0.42105800  0.55624200  0.21609400  1
+  S  S7  1  0.77046900  0.77046900  0.77046900  1
+  S  S8  1  0.22953100  0.22953100  0.22953100  1
+  S  S9  1  0.23867900  0.64463900  0.86935500  1
+  S  S10  1  0.86935500  0.23867900  0.64463900  1
+  S  S11  1  0.64463900  0.86935500  0.23867900  1
+  S  S12  1  0.76132100  0.35536100  0.13064500  1
+  S  S13  1  0.13064500  0.76132100  0.35536100  1
+  S  S14  1  0.35536100  0.13064500  0.76132100  1
+"
+"True","mp-1220398","NbMoS3","Monoclinic","P2_1/m","11","10","0.06579250216667301","-1.182717036499998","False","175.55002194293814","5.392449876667375","0.0","False","True","NM","7.7e-05","# generated using pymatgen
+data_NbMoS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.28209000
+_cell_length_b   6.26914200
+_cell_length_c   8.80014441
+_cell_angle_alpha   75.81521402
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbMoS3
+_chemical_formula_sum   'Nb2 Mo2 S6'
+_cell_volume   175.55002194
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.25000000  0.69102700  0.00635700  1
+  Nb  Nb1  1  0.75000000  0.30897300  0.99364300  1
+  Mo  Mo2  1  0.25000000  0.88702300  0.62361300  1
+  Mo  Mo3  1  0.75000000  0.11297700  0.37638700  1
+  S  S4  1  0.25000000  0.02927600  0.16414800  1
+  S  S5  1  0.75000000  0.97072400  0.83585200  1
+  S  S6  1  0.25000000  0.49306600  0.79771400  1
+  S  S7  1  0.75000000  0.50693400  0.20228600  1
+  S  S8  1  0.25000000  0.26835300  0.51414000  1
+  S  S9  1  0.75000000  0.73164700  0.48586000  1
+"
+"True","mp-1220404","NbMoS4","Monoclinic","Pm","6","6","0.015993975000001","-1.2595844599999961","False","117.09127981797307","4.497068723449709","0.0","False","True","NM","0.0","# generated using pymatgen
+data_NbMoS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.28607481
+_cell_length_b   5.70306943
+_cell_length_c   6.53757305
+_cell_angle_alpha   72.88201625
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbMoS4
+_chemical_formula_sum   'Nb1 Mo1 S4'
+_cell_volume   117.09127982
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.50000000  0.49463816  0.00093220  1
+  Mo  Mo1  1  0.00000000  0.00357954  0.00074505  1
+  S  S2  1  -0.00000000  0.41183302  0.75099577  1
+  S  S3  1  0.50000000  0.92128208  0.75743629  1
+  S  S4  1  0.50000000  0.75731774  0.24378312  1
+  S  S5  1  0.00000000  0.24334746  0.25010857  1
+"

@@ -1,0 +1,28 @@
+rows: 1186
+unique chemsys: 198
+unique pairs: 154
+delta_E min: -1.682540
+delta_E max: -0.000137
+
+Top 20 rows by most negative delta_E:
+chemsys  pair                      source ligand   delta_E  dip_cell_length  baseline_slope  IE_avg  IE_diff
+ V-Zr-O  V-Zr      Zr9V9O2_1217608_POSCAR      O -1.682540        12.313658        0.043500  645.50     10.8
+Sc-Zr-O Sc-Zr    Zr25Sc6O59_686417_POSCAR      O -0.765614        18.686644        0.039699  636.60      7.0
+Nb-Ni-O Nb-Ni       Nb6Ni6O_541419_POSCAR      O -0.673687         9.901357        0.034508  694.60     85.0
+Hf-Re-S Hf-Re      Hf9Re4S_1399219_POSCAR      S -0.645395        17.552239        0.044892  709.25    101.5
+Mn-Ni-O Mn-Ni   Mn_Ni9O10_2_758680_POSCAR      O -0.635059         7.368965        0.054330  727.20     19.8
+  W-Y-O   W-Y      Y10W2O21_556220_POSCAR      O -0.620339        14.901272        0.030606  685.00    170.0
+Pd-Zr-O Pd-Zr        Zr4Pd2O_22479_POSCAR      O -0.615224        10.723610        0.033302  722.25    164.3
+Mo-Zr-S Mo-Zr      Zr9Mo4S_1207420_POSCAR      S -0.595052        12.268524        0.024131  662.20     44.2
+ V-Zr-S  V-Zr          Zr9V4S_9483_POSCAR      S -0.580545        12.551664        0.016431  645.50     10.8
+Mn-Ni-O Mn-Ni Mn3_Ni17O20_2_758834_POSCAR      O -0.571318         7.380975        0.052103  727.20     19.8
+Ni-Ti-O Ni-Ti       Ti4Ni2O_540679_POSCAR      O -0.565493         9.744439        0.018164  697.95     78.3
+ V-Zr-O  V-Zr        Zr3V3O_504834_POSCAR      O -0.561121        10.673425        0.017038  645.50     10.8
+Ni-Ti-O Ni-Ti       Ti3Ni3O_504735_POSCAR      O -0.550251         9.420916        0.018763  697.95     78.3
+Mn-Ti-O Mn-Ti       Ti3Mn3O_504732_POSCAR      O -0.548300         9.831912        0.018729  688.05     58.5
+Ni-Ti-O Ni-Ti      Ti4Ni2O_1217223_POSCAR      O -0.537694        10.023708        0.018354  697.95     78.3
+Mn-Ti-O Mn-Ti      Ti4Mn2O_1217173_POSCAR      O -0.536739        10.192998        0.018290  688.05     58.5
+ Ti-Y-O  Ti-Y    Y16Ti16O35_685259_POSCAR      O -0.527580        10.107779        0.028273  629.40     58.8
+Fe-Zr-S Fe-Zr      Zr6FeS2_1207526_POSCAR      S -0.526448         5.014123        0.054772  701.30    122.4
+Ni-Zr-O Ni-Zr        Zr4Ni2O_21602_POSCAR      O -0.524857        10.598087        0.019446  688.60     97.0
+Mo-Zr-O Mo-Zr     Zr9Mo4O3_1207427_POSCAR      O -0.523175        12.219475        0.028678  662.20     44.2

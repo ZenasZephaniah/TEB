@@ -1,0 +1,154 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1188182","Fe(CoS)8","Cubic","Fm-3m","225","17","0.001109725363321","-0.703073324117647","False","232.71986811296972","5.592909952334303","0.0","False","True","NM","0.019130499999999002","# generated using pymatgen
+data_Fe(CoS)8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90424435
+_cell_length_b   6.90424435
+_cell_length_c   6.90424435
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe(CoS)8
+_chemical_formula_sum   'Fe1 Co8 S8'
+_cell_volume   232.71986811
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.50000000  0.50000000  1
+  Co  Co1  1  0.62183900  0.12605400  0.12605400  1
+  Co  Co2  1  0.12605400  0.62183900  0.12605400  1
+  Co  Co3  1  0.12605400  0.12605400  0.62183900  1
+  Co  Co4  1  0.12605400  0.12605400  0.12605400  1
+  Co  Co5  1  0.37816100  0.87394600  0.87394600  1
+  Co  Co6  1  0.87394600  0.37816100  0.87394600  1
+  Co  Co7  1  0.87394600  0.87394600  0.37816100  1
+  Co  Co8  1  0.87394600  0.87394600  0.87394600  1
+  S  S9  1  0.25000000  0.25000000  0.25000000  1
+  S  S10  1  0.75000000  0.75000000  0.75000000  1
+  S  S11  1  0.73512200  0.26487800  0.26487800  1
+  S  S12  1  0.73512200  0.26487800  0.73512200  1
+  S  S13  1  0.73512200  0.73512200  0.26487800  1
+  S  S14  1  0.26487800  0.73512200  0.73512200  1
+  S  S15  1  0.26487800  0.73512200  0.26487800  1
+  S  S16  1  0.26487800  0.26487800  0.73512200  1
+"
+"True","mp-1224978","FeCo3S8","Trigonal","R-3","148","12","0.007675967499999","-0.7168945049999991","False","165.62397200447225","4.90434381906831","0.0","False","True","FiM","2.999997699999999","# generated using pymatgen
+data_FeCo3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49170505
+_cell_length_b   5.49174112
+_cell_length_c   5.49169597
+_cell_angle_alpha   89.94732773
+_cell_angle_beta   89.94749345
+_cell_angle_gamma   89.94721260
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCo3S8
+_chemical_formula_sum   'Fe1 Co3 S8'
+_cell_volume   165.62397200
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Co  Co1  1  0.50000000  0.50000000  -0.00000000  1
+  Co  Co2  1  -0.00000000  0.50000000  0.50000000  1
+  Co  Co3  1  0.50000000  -0.00000000  0.50000000  1
+  S  S4  1  0.89158232  0.10907859  0.38378334  1
+  S  S5  1  0.38378008  0.89158336  0.10908181  1
+  S  S6  1  0.10907922  0.38378600  0.89158674  1
+  S  S7  1  0.60909237  0.60909648  0.60909403  1
+  S  S8  1  0.10841768  0.89092141  0.61621666  1
+  S  S9  1  0.61621992  0.10841664  0.89091819  1
+  S  S10  1  0.89092078  0.61621400  0.10841326  1
+  S  S11  1  0.39090763  0.39090352  0.39090597  1
+"
+"True","mp-1224971","FeCoS2","Trigonal","P-3m1","164","4","0.23131617236110902","-0.507725218749999","False","49.41681995070623","6.01180018116777","0.0","False","True","NM","0.0081219","# generated using pymatgen
+data_FeCoS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34393331
+_cell_length_b   3.34393331
+_cell_length_c   5.10303900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998642
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCoS2
+_chemical_formula_sum   'Fe1 Co1 S2'
+_cell_volume   49.41681995
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00000000  0.00000000  0.50000000  1
+  Co  Co1  1  0.00000000  0.00000000  0.00000000  1
+  S  S2  1  0.33333300  0.66666700  0.25421900  1
+  S  S3  1  0.66666700  0.33333300  0.74578100  1
+"
+"True","mp-1225004","FeCoS4","Monoclinic","P2_1/c","14","12","0.014097574166666","-0.7514417308333321","False","162.39232810009506","4.970363097752922","0.0","False","True","FM","1.9712352","# generated using pymatgen
+data_FeCoS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46326500
+_cell_length_b   5.44195400
+_cell_length_c   5.46211793
+_cell_angle_alpha   89.79804209
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCoS4
+_chemical_formula_sum   'Fe2 Co2 S8'
+_cell_volume   162.39232810
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe1  1  0.50000000  0.00000000  0.50000000  1
+  Co  Co2  1  0.00000000  0.50000000  0.50000000  1
+  Co  Co3  1  0.50000000  0.50000000  0.00000000  1
+  S  S4  1  0.61827000  0.88742000  0.88135000  1
+  S  S5  1  0.11827000  0.11258000  0.61865000  1
+  S  S6  1  0.38701400  0.61861300  0.38830000  1
+  S  S7  1  0.88701400  0.38138700  0.11170000  1
+  S  S8  1  0.38173000  0.11258000  0.11865000  1
+  S  S9  1  0.88173000  0.88742000  0.38135000  1
+  S  S10  1  0.61298600  0.38138700  0.61170000  1
+  S  S11  1  0.11298600  0.61861300  0.88830000  1
+"

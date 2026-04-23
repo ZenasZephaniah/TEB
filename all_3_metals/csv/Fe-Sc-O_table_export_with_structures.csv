@@ -1,0 +1,228 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1219340","ScFe3O8","Monoclinic","C2/m","12","12","0.36237723203125005","-1.53137416375","False","151.62199072216185","3.728947812371009","0.0","False","True","FiM","10.9983667","# generated using pymatgen
+data_ScFe3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79630076
+_cell_length_b   5.79630076
+_cell_length_c   6.29443560
+_cell_angle_alpha   60.52197193
+_cell_angle_beta   60.52197193
+_cell_angle_gamma   60.81217397
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScFe3O8
+_chemical_formula_sum   'Sc1 Fe3 O8'
+_cell_volume   151.62199072
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.50000000  0.50000000  0.00000000  1
+  Fe  Fe1  1  0.12048900  0.12048900  0.61967800  1
+  Fe  Fe2  1  0.87951100  0.87951100  0.38032200  1
+  Fe  Fe3  1  0.50000000  0.50000000  0.50000000  1
+  O  O4  1  0.73983200  0.73983200  0.28575300  1
+  O  O5  1  0.75422400  0.75422400  0.72216400  1
+  O  O6  1  0.72802800  0.26907500  0.26242200  1
+  O  O7  1  0.26907500  0.72802800  0.26242200  1
+  O  O8  1  0.26016800  0.26016800  0.71424700  1
+  O  O9  1  0.24577600  0.24577600  0.27783600  1
+  O  O10  1  0.27197200  0.73092500  0.73757800  1
+  O  O11  1  0.73092500  0.27197200  0.73757800  1
+"
+"True","mp-754342","ScFeO3","Hexagonal","P6_3/mmc","194","10","0.072947626874997","-2.76496437","False","117.43344650570573","4.208115250017525","0.0","False","True","FM","10.0","# generated using pymatgen
+data_ScFeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.36938834
+_cell_length_b   3.36938834
+_cell_length_c   11.94425500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000675
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScFeO3
+_chemical_formula_sum   'Sc2 Fe2 O6'
+_cell_volume   117.43344651
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.00000000  0.00000000  1
+  Sc  Sc1  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe2  1  0.33333300  0.66666700  0.75000000  1
+  Fe  Fe3  1  0.66666700  0.33333300  0.25000000  1
+  O  O4  1  0.00000000  0.00000000  0.25000000  1
+  O  O5  1  0.00000000  0.00000000  0.75000000  1
+  O  O6  1  0.33333300  0.66666700  0.58136300  1
+  O  O7  1  0.33333300  0.66666700  0.91863700  1
+  O  O8  1  0.66666700  0.33333300  0.41863700  1
+  O  O9  1  0.66666700  0.33333300  0.08136300  1
+"
+"True","mp-756419","ScFeO3","Monoclinic","P2_1/c","14","20","0.138111688874998","-2.699800307999999","False","201.36983821600379","4.908118132097733","1.2694","True","False","FM","19.9996066","# generated using pymatgen
+data_ScFeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02317448
+_cell_length_b   5.39746641
+_cell_length_c   7.42736828
+_cell_angle_alpha   90.10703547
+_cell_angle_beta   89.65309211
+_cell_angle_gamma   90.02223936
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScFeO3
+_chemical_formula_sum   'Sc4 Fe4 O12'
+_cell_volume   201.36983822
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.02922500  0.92282500  0.74965700  1
+  Sc  Sc1  1  0.47068500  0.42223400  0.74916200  1
+  Sc  Sc2  1  0.52931300  0.57776500  0.25083700  1
+  Sc  Sc3  1  0.97077600  0.07717500  0.25034500  1
+  Fe  Fe4  1  0.00000300  0.50000100  0.99999900  1
+  Fe  Fe5  1  0.00000100  0.50000000  0.50000000  1
+  Fe  Fe6  1  0.49999800  0.00000100  0.99999900  1
+  Fe  Fe7  1  0.50000000  0.00000100  0.50000100  1
+  O  O8  1  0.14050700  0.44374100  0.24106700  1
+  O  O9  1  0.19333300  0.18776500  0.56835600  1
+  O  O10  1  0.18042000  0.19860100  0.92961300  1
+  O  O11  1  0.31926800  0.69851200  0.56943000  1
+  O  O12  1  0.30609900  0.68796100  0.93085600  1
+  O  O13  1  0.36049000  0.94410600  0.25850400  1
+  O  O14  1  0.63951100  0.05589500  0.74149600  1
+  O  O15  1  0.69389900  0.31203800  0.06914400  1
+  O  O16  1  0.68073400  0.30148800  0.43056900  1
+  O  O17  1  0.81957900  0.80140100  0.07038700  1
+  O  O18  1  0.80666900  0.81223400  0.43164400  1
+  O  O19  1  0.85949200  0.55625800  0.75893300  1
+"
+"True","mp-769734","ScFeO3","Orthorhombic","Pnma","62","20","0.083946180374997","-2.7539658165","False","212.22287513266605","4.657117917131759","1.7076","True","False","FM","19.9990706","# generated using pymatgen
+data_ScFeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10201200
+_cell_length_b   5.42055000
+_cell_length_c   7.67374500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScFeO3
+_chemical_formula_sum   'Sc4 Fe4 O12'
+_cell_volume   212.22287513
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.52527700  0.42995800  0.25000000  1
+  Sc  Sc1  1  0.97472300  0.92995800  0.25000000  1
+  Sc  Sc2  1  0.02527700  0.07004200  0.75000000  1
+  Sc  Sc3  1  0.47472300  0.57004200  0.75000000  1
+  Fe  Fe4  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe5  1  0.50000000  0.00000000  0.00000000  1
+  Fe  Fe6  1  0.00000000  0.50000000  0.50000000  1
+  Fe  Fe7  1  0.00000000  0.50000000  0.00000000  1
+  O  O8  1  0.64621500  0.93619100  0.75000000  1
+  O  O9  1  0.68483000  0.68752100  0.07503900  1
+  O  O10  1  0.68483000  0.68752100  0.42496100  1
+  O  O11  1  0.81517000  0.18752100  0.07503900  1
+  O  O12  1  0.81517000  0.18752100  0.42496100  1
+  O  O13  1  0.85378500  0.43619100  0.75000000  1
+  O  O14  1  0.14621500  0.56380900  0.25000000  1
+  O  O15  1  0.18483000  0.81247900  0.57503900  1
+  O  O16  1  0.18483000  0.81247900  0.92496100  1
+  O  O17  1  0.31517000  0.31247900  0.57503900  1
+  O  O18  1  0.31517000  0.31247900  0.92496100  1
+  O  O19  1  0.35378500  0.06380900  0.25000000  1
+"
+"True","mp-771123","ScFeO3","Hexagonal","P6_3cm","185","30","0.05839788554166601","-2.779514111333333","False","342.91604718674466","4.323275167408495","0.9222999999999991","False","False","FM","29.9977918","# generated using pymatgen
+data_ScFeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84717964
+_cell_length_b   5.84717964
+_cell_length_c   11.58148600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999588
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScFeO3
+_chemical_formula_sum   'Sc6 Fe6 O18'
+_cell_volume   342.91604719
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.33333300  0.66666700  0.23488800  1
+  Sc  Sc1  1  0.00000000  0.00000000  0.27690900  1
+  Sc  Sc2  1  0.00000000  0.00000000  0.77690900  1
+  Sc  Sc3  1  0.33333300  0.66666700  0.73488800  1
+  Sc  Sc4  1  0.66666700  0.33333300  0.73488800  1
+  Sc  Sc5  1  0.66666700  0.33333300  0.23488800  1
+  Fe  Fe6  1  0.00000000  0.66612000  0.50271900  1
+  Fe  Fe7  1  0.00000000  0.33388000  0.00271900  1
+  Fe  Fe8  1  0.33388000  0.33388000  0.50271900  1
+  Fe  Fe9  1  0.66612000  0.66612000  0.00271900  1
+  Fe  Fe10  1  0.33388000  0.00000000  0.00271900  1
+  Fe  Fe11  1  0.66612000  0.00000000  0.50271900  1
+  O  O12  1  0.00000000  0.69867100  0.67307000  1
+  O  O13  1  0.00000000  0.63250000  0.33610700  1
+  O  O14  1  0.00000000  0.36750000  0.83610700  1
+  O  O15  1  0.00000000  0.30132900  0.17307000  1
+  O  O16  1  0.33333300  0.66666700  0.03029400  1
+  O  O17  1  0.00000000  0.00000000  0.47185200  1
+  O  O18  1  0.00000000  0.00000000  0.97185200  1
+  O  O19  1  0.33333300  0.66666700  0.53029400  1
+  O  O20  1  0.30132900  0.30132900  0.67307000  1
+  O  O21  1  0.36750000  0.36750000  0.33610700  1
+  O  O22  1  0.30132900  0.00000000  0.17307000  1
+  O  O23  1  0.63250000  0.63250000  0.83610700  1
+  O  O24  1  0.69867100  0.69867100  0.17307000  1
+  O  O25  1  0.36750000  0.00000000  0.83610700  1
+  O  O26  1  0.66666700  0.33333300  0.53029400  1
+  O  O27  1  0.66666700  0.33333300  0.03029400  1
+  O  O28  1  0.63250000  0.00000000  0.33610700  1
+  O  O29  1  0.69867100  0.00000000  0.67307000  1
+"

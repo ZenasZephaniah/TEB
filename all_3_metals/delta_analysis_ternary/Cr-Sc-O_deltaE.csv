@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cr-Sc-O,Cr,Sc,O,ScCrO3_18961_POSCAR,35,local_max_drop,7.1244376,-0.23683707342353,-0.11336559435331228,-0.12347147907021772,6.615549,12.467766,0.01849654

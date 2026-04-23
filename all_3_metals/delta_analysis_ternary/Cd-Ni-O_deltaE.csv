@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cd-Ni-O,Cd,Ni,O,Cd_NiO2_2_756341_POSCAR,35,global_gradient_fallback,7.195130319,-0.081184561011829,-0.06902692227158516,-0.012157638740243837,6.907325,14.102455,0.0088486

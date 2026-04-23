@@ -1,0 +1,89 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-674341","Sc3TaO7","Orthorhombic","Cmme","67","22","0.18440166943181702","-3.611415811575756","False","251.09035072942058","5.658501550073514","2.6639","False","False","NM","0.0004434","# generated using pymatgen
+data_Sc3TaO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.74901333
+_cell_length_b   7.74901333
+_cell_length_c   5.10293100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   124.97115893
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc3TaO7
+_chemical_formula_sum   'Sc6 Ta2 O14'
+_cell_volume   251.09035073
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.37425500  0.62574500  0.52763000  1
+  Sc  Sc1  1  0.50000000  0.00000000  0.00000000  1
+  Sc  Sc2  1  0.87425500  0.12574500  0.47237000  1
+  Sc  Sc3  1  0.62574500  0.37425500  0.47237000  1
+  Sc  Sc4  1  0.00000000  0.50000000  0.00000000  1
+  Sc  Sc5  1  0.12574500  0.87425500  0.52763000  1
+  Ta  Ta6  1  0.75000000  0.75000000  0.00000000  1
+  Ta  Ta7  1  0.25000000  0.25000000  0.00000000  1
+  O  O8  1  0.52153800  0.47846200  0.21974700  1
+  O  O9  1  0.66896200  0.92365200  0.75786000  1
+  O  O10  1  0.97846200  0.02153800  0.21974700  1
+  O  O11  1  0.02153800  0.97846200  0.78025300  1
+  O  O12  1  0.75000000  0.25000000  0.23597300  1
+  O  O13  1  0.07634800  0.33103800  0.75786000  1
+  O  O14  1  0.16896200  0.42365200  0.24214000  1
+  O  O15  1  0.83103800  0.57634800  0.75786000  1
+  O  O16  1  0.47846200  0.52153800  0.78025300  1
+  O  O17  1  0.25000000  0.75000000  0.76402700  1
+  O  O18  1  0.57634800  0.83103800  0.24214000  1
+  O  O19  1  0.42365200  0.16896200  0.75786000  1
+  O  O20  1  0.33103800  0.07634800  0.24214000  1
+  O  O21  1  0.92365200  0.66896200  0.24214000  1
+"
+"True","mp-558781","ScTaO4","Monoclinic","P2/c","13","12","0.0","-3.651721514555548","True","140.5524534342617","6.850006173714704","4.027699999999999","True","False","NM","0.0","# generated using pymatgen
+data_ScTaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81674116
+_cell_length_b   5.12263273
+_cell_length_c   5.69800721
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   91.40771000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTaO4
+_chemical_formula_sum   'Sc2 Ta2 O8'
+_cell_volume   140.55245343
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.50000000  0.25000000  0.32314868  1
+  Sc  Sc1  1  0.50000000  0.75000000  0.67685232  1
+  Ta  Ta2  1  0.00000000  0.25000000  0.82255287  1
+  Ta  Ta3  1  0.00000000  0.75000000  0.17744713  1
+  O  O4  1  0.21714014  0.43512489  0.10663090  1
+  O  O5  1  0.26440239  0.40518357  0.61575829  1
+  O  O6  1  0.78285986  0.06487511  0.10663090  1
+  O  O7  1  0.73559761  0.59481643  0.38424171  1
+  O  O8  1  0.73559761  0.09481643  0.61575829  1
+  O  O9  1  0.21714014  0.93512489  0.89336910  1
+  O  O10  1  0.26440239  0.90518357  0.38424171  1
+  O  O11  1  0.78285986  0.56487511  0.89336910  1
+"

@@ -1,0 +1,122 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-3925","Co2CuS4","Cubic","Fd-3m","227","14","0.0","-0.5034428230357141","True","209.05941875074078","4.91939664345373","0.0","False","True","NM","0.0002515","# generated using pymatgen
+data_Co2CuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66185095
+_cell_length_b   6.66185103
+_cell_length_c   6.66185066
+_cell_angle_alpha   60.00000184
+_cell_angle_beta   60.00000143
+_cell_angle_gamma   60.00000133
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2CuS4
+_chemical_formula_sum   'Co4 Cu2 S8'
+_cell_volume   209.05941875
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.50000000  0.50000000  0.50000000  1
+  Co  Co1  1  0.50000000  0.50000000  -0.00000000  1
+  Co  Co2  1  0.50000000  -0.00000000  0.50000000  1
+  Co  Co3  1  -0.00000000  0.50000000  0.50000000  1
+  Cu  Cu4  1  0.87500000  0.87500000  0.87500000  1
+  Cu  Cu5  1  0.12500000  0.12500000  0.12500000  1
+  S  S6  1  0.73795247  0.73795247  0.73795247  1
+  S  S7  1  0.26204753  0.26204753  0.71385642  1
+  S  S8  1  0.26204753  0.71385642  0.26204753  1
+  S  S9  1  0.71385642  0.26204753  0.26204753  1
+  S  S10  1  0.73795247  0.28614358  0.73795247  1
+  S  S11  1  0.28614358  0.73795247  0.73795247  1
+  S  S12  1  0.26204753  0.26204753  0.26204753  1
+  S  S13  1  0.73795247  0.73795247  0.28614358  1
+"
+"True","mp-1226056","Co5CuS8","Cubic","F-43m","216","14","0.004674237857143","-0.503141700892854","False","206.76228704632544","4.937005072627028","0.0","False","True","FM","0.231184299999999","# generated using pymatgen
+data_Co5CuS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63736104
+_cell_length_b   6.63736104
+_cell_length_c   6.63736104
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co5CuS8
+_chemical_formula_sum   'Co5 Cu1 S8'
+_cell_volume   206.76228705
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.62561500  0.62561500  0.12315500  1
+  Co  Co1  1  0.62561500  0.12315500  0.62561500  1
+  Co  Co2  1  0.12315500  0.62561500  0.62561500  1
+  Co  Co3  1  0.62561500  0.62561500  0.62561500  1
+  Co  Co4  1  0.25000000  0.25000000  0.25000000  1
+  Cu  Cu5  1  0.00000000  0.00000000  0.00000000  1
+  S  S6  1  0.86227700  0.86227700  0.41316800  1
+  S  S7  1  0.86227700  0.41316800  0.86227700  1
+  S  S8  1  0.41316800  0.86227700  0.86227700  1
+  S  S9  1  0.86227700  0.86227700  0.86227700  1
+  S  S10  1  0.38247400  0.38247400  0.85257800  1
+  S  S11  1  0.38247400  0.85257800  0.38247400  1
+  S  S12  1  0.85257800  0.38247400  0.38247400  1
+  S  S13  1  0.38247400  0.38247400  0.38247400  1
+"
+"True","mp-1226070","CoCuS4","Monoclinic","P2_1/c","14","12","0.033098305407987","-0.30687424437500005","False","179.56488163098865","4.637457224859508","0.0","False","True","FiM","0.8993451","# generated using pymatgen
+data_CoCuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58069859
+_cell_length_b   5.58518064
+_cell_length_c   5.76188438
+_cell_angle_alpha   88.97923254
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoCuS4
+_chemical_formula_sum   'Co2 Cu2 S8'
+_cell_volume   179.56488163
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.50000000  0.50000000  1
+  Co  Co1  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu3  1  0.50000000  0.50000000  0.00000000  1
+  S  S4  1  0.59840550  0.09992543  0.11216239  1
+  S  S5  1  0.09840550  0.40007457  0.88783761  1
+  S  S6  1  0.38525886  0.61552091  0.40872490  1
+  S  S7  1  0.88525886  0.88447909  0.59127510  1
+  S  S8  1  0.40159450  0.90007457  0.88783761  1
+  S  S9  1  0.90159450  0.59992543  0.11216239  1
+  S  S10  1  0.61474114  0.38447909  0.59127510  1
+  S  S11  1  0.11474114  0.11552091  0.40872490  1
+"

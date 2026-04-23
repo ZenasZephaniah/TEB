@@ -1,0 +1,179 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1192773","Co(MoS2)2","Monoclinic","C2/c","15","28","0.13781355392857","-0.690308627678571","False","428.91810513856603","5.870266065779852","0.0","False","True","FM","0.4648983","# generated using pymatgen
+data_Co(MoS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43469900
+_cell_length_b   6.75321223
+_cell_length_c   11.70020272
+_cell_angle_alpha   79.35060341
+_cell_angle_beta   74.03903379
+_cell_angle_gamma   61.54830190
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(MoS2)2
+_chemical_formula_sum   'Co4 Mo8 S16'
+_cell_volume   428.91810514
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.53884300  0.71699400  0.45278900  1
+  Co  Co1  1  0.29137400  0.21699400  0.95278900  1
+  Co  Co2  1  0.79358700  0.20925800  0.95307100  1
+  Co  Co3  1  0.04408400  0.70925800  0.45307100  1
+  Mo  Mo4  1  0.88062600  0.77044400  0.70992100  1
+  Mo  Mo5  1  0.63900900  0.27044400  0.20992100  1
+  Mo  Mo6  1  0.45879500  0.16160900  0.68995000  1
+  Mo  Mo7  1  0.68964600  0.66160900  0.18995000  1
+  Mo  Mo8  1  0.94186400  0.15860400  0.68929300  1
+  Mo  Mo9  1  0.21024000  0.65860400  0.18929300  1
+  Mo  Mo10  1  0.38546500  0.77695900  0.71101200  1
+  Mo  Mo11  1  0.12656400  0.27695900  0.21101200  1
+  S  S12  1  0.82986400  0.04262100  0.54617700  1
+  S  S13  1  0.58133900  0.54262100  0.04617700  1
+  S  S14  1  0.50564300  0.88924600  0.85297800  1
+  S  S15  1  0.75213200  0.38924600  0.35297800  1
+  S  S16  1  0.03226800  0.36931500  0.81600000  1
+  S  S17  1  0.78241700  0.86931500  0.31600000  1
+  S  S18  1  0.30476500  0.56188500  0.58305500  1
+  S  S19  1  0.55029500  0.06188500  0.08305500  1
+  S  S20  1  0.53032700  0.37288800  0.81957300  1
+  S  S21  1  0.27721200  0.87288800  0.31957300  1
+  S  S22  1  0.80132800  0.55931000  0.58152500  1
+  S  S23  1  0.05783600  0.05931000  0.08152500  1
+  S  S24  1  0.32407000  0.05207800  0.55097500  1
+  S  S25  1  0.07287700  0.55207800  0.05097500  1
+  S  S26  1  0.00652600  0.88338800  0.85108200  1
+  S  S27  1  0.25900300  0.38338800  0.35108200  1
+"
+"True","mp-1193597","Co(MoS2)2","Monoclinic","Cc","9","28","0.144530137142854","-0.683592044464286","False","441.4854482280907","5.703162828353699","0.0","False","True","FM","4.4984555","# generated using pymatgen
+data_Co(MoS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57264600
+_cell_length_b   6.80388806
+_cell_length_c   11.75193707
+_cell_angle_alpha   80.35847697
+_cell_angle_beta   73.76122256
+_cell_angle_gamma   61.11804585
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(MoS2)2
+_chemical_formula_sum   'Co4 Mo8 S16'
+_cell_volume   441.48544823
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.71167300  0.29447900  0.53362400  1
+  Co  Co1  1  0.46022300  0.79447900  0.03362400  1
+  Co  Co2  1  0.95560500  0.81393100  0.03455500  1
+  Co  Co3  1  0.19590900  0.31393100  0.53455500  1
+  Mo  Mo4  1  0.34253000  0.25821400  0.27373300  1
+  Mo  Mo5  1  0.12552300  0.75821400  0.77373300  1
+  Mo  Mo6  1  0.32109200  0.85670300  0.29000300  1
+  Mo  Mo7  1  0.53220200  0.35670300  0.79000300  1
+  Mo  Mo8  1  0.78002100  0.86905400  0.29173000  1
+  Mo  Mo9  1  0.05919500  0.36905400  0.79173000  1
+  Mo  Mo10  1  0.88670800  0.24758600  0.27294200  1
+  Mo  Mo11  1  0.59276400  0.74758600  0.77294200  1
+  S  S12  1  0.41346600  0.98549400  0.43546200  1
+  S  S13  1  0.16557900  0.48549400  0.93546200  1
+  S  S14  1  0.25169900  0.12819500  0.12819400  1
+  S  S15  1  0.49191200  0.62819500  0.62819400  1
+  S  S16  1  0.21094600  0.65426100  0.17062700  1
+  S  S17  1  0.96416600  0.15426100  0.67062700  1
+  S  S18  1  0.45366700  0.45986800  0.39238500  1
+  S  S19  1  0.69407900  0.95986800  0.89238500  1
+  S  S20  1  0.72853300  0.64648000  0.16332600  1
+  S  S21  1  0.46166100  0.14648000  0.66332600  1
+  S  S22  1  0.93731300  0.46887800  0.40049200  1
+  S  S23  1  0.19331700  0.96887800  0.90049200  1
+  S  S24  1  0.93305300  0.96657900  0.42731600  1
+  S  S25  1  0.67305200  0.46657900  0.92731600  1
+  S  S26  1  0.73223400  0.15007900  0.13721100  1
+  S  S27  1  0.98047500  0.65007900  0.63721100  1
+"
+"True","mp-7923","Co(MoS2)2","Monoclinic","C2/m","12","7","0.13563889928571202","-0.6924832823214291","False","107.13109167464734","5.875659806679103","0.0","False","True","NM","0.005266499999999","# generated using pymatgen
+data_Co(MoS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40221682
+_cell_length_b   6.40221682
+_cell_length_c   5.93824564
+_cell_angle_alpha   66.00684822
+_cell_angle_beta   66.00684822
+_cell_angle_gamma   29.01251494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(MoS2)2
+_chemical_formula_sum   'Co1 Mo2 S4'
+_cell_volume   107.13109167
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo1  1  0.26057400  0.26057400  0.68309100  1
+  Mo  Mo2  1  0.73942600  0.73942600  0.31690900  1
+  S  S3  1  0.90224800  0.90224800  0.42834600  1
+  S  S4  1  0.09775200  0.09775200  0.57165400  1
+  S  S5  1  0.63183700  0.63183700  0.02378900  1
+  S  S6  1  0.36816300  0.36816300  0.97621100  1
+"
+"True","mp-1023124","Co2MoS4","Tetragonal","I-4","82","7","0.344842192976187","-0.332321478869047","False","131.29877823044507","4.326122539913492","0.0","False","True","NM","0.0003943","# generated using pymatgen
+data_Co2MoS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.26975818
+_cell_length_b   6.26975818
+_cell_length_c   6.26975818
+_cell_angle_alpha   132.53490865
+_cell_angle_beta   132.53490865
+_cell_angle_gamma   69.38549759
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2MoS4
+_chemical_formula_sum   'Co2 Mo1 S4'
+_cell_volume   131.29877823
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.25000000  0.75000000  0.50000000  1
+  Co  Co1  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo2  1  0.75000000  0.25000000  0.50000000  1
+  S  S3  1  0.88801500  0.37565100  0.01774600  1
+  S  S4  1  0.62434900  0.64209500  0.51236400  1
+  S  S5  1  0.12973100  0.11198500  0.48763600  1
+  S  S6  1  0.35790500  0.87026900  0.98225400  1
+"

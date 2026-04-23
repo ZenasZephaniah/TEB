@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cu-Y-S,Cu,Y,S,Y2_CuS2_3_1352540_POSCAR,35,local_max_drop,8.7870314,-0.27081830398448,-0.17761610689341376,-0.09320219709106622,7.845564,15.377305,0.02335237

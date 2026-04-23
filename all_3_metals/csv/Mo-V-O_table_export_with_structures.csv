@@ -1,0 +1,330 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1216790","V2MoO8","Monoclinic","Cm","8","11","0.015077154431816002","-2.141442864545455","False","143.8341362094934","3.7615121414660573","1.4089","False","False","NM","0.0","# generated using pymatgen
+data_V2MoO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.65400456
+_cell_length_b   9.65400456
+_cell_length_c   4.15982732
+_cell_angle_alpha   90.16521335
+_cell_angle_beta   90.16521335
+_cell_angle_gamma   21.77728361
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2MoO8
+_chemical_formula_sum   'V2 Mo1 O8'
+_cell_volume   143.83413621
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.83697669  0.83697669  0.89094514  1
+  V  V1  1  0.21543944  0.21543944  0.10041220  1
+  Mo  Mo2  1  0.02674601  0.02674601  0.90607373  1
+  O  O3  1  0.31716453  0.31716453  0.98928067  1
+  O  O4  1  0.73456379  0.73456379  0.00389587  1
+  O  O5  1  0.83751573  0.83751573  0.50630970  1
+  O  O6  1  0.21349261  0.21349261  0.48495311  1
+  O  O7  1  0.92795027  0.92795027  0.98735406  1
+  O  O8  1  0.12447488  0.12447488  0.99303879  1
+  O  O9  1  0.02658730  0.02658730  0.50015008  1
+  O  O10  1  0.52588876  0.52588876  0.00268765  1
+"
+"True","mp-27877","V2MoO8","Monoclinic","C2/m","12","11","0.052243698977271005","-2.104276319999999","False","144.07083624478213","3.755332194990899","0.07940000000000001","False","False","NM","6.0800000000000014e-05","# generated using pymatgen
+data_V2MoO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.94040242
+_cell_length_b   9.94040242
+_cell_length_c   3.90943493
+_cell_angle_alpha   89.86700247
+_cell_angle_beta   89.86700247
+_cell_angle_gamma   21.89791917
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2MoO8
+_chemical_formula_sum   'V2 Mo1 O8'
+_cell_volume   144.07083624
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.18978800  0.18978800  0.41173600  1
+  V  V1  1  0.81021200  0.81021200  0.58826400  1
+  Mo  Mo2  1  0.00000000  0.00000000  0.50000000  1
+  O  O3  1  0.50000000  0.50000000  0.50000000  1
+  O  O4  1  0.00000000  0.00000000  0.00000000  1
+  O  O5  1  0.18860200  0.18860200  0.99374800  1
+  O  O6  1  0.81139800  0.81139800  0.00625200  1
+  O  O7  1  0.09867100  0.09867100  0.49454900  1
+  O  O8  1  0.90132900  0.90132900  0.50545100  1
+  O  O9  1  0.29085300  0.29085300  0.50760000  1
+  O  O10  1  0.70914700  0.70914700  0.49240000  1
+"
+"True","mp-546989","V2MoO8","Orthorhombic","Cmm2","35","11","0.029647015340907003","-2.126873003636363","False","155.9343359666035","3.469626149722184","1.3417","False","False","NM","3.5600000000000005e-05","# generated using pymatgen
+data_V2MoO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.86750188
+_cell_length_b   9.86750188
+_cell_length_c   4.33319900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   158.30974634
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2MoO8
+_chemical_formula_sum   'V2 Mo1 O8'
+_cell_volume   155.93433597
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.31205100  0.68794900  0.95597200  1
+  V  V1  1  0.68794900  0.31205100  0.95597200  1
+  Mo  Mo2  1  0.50000000  0.50000000  0.96389200  1
+  O  O3  1  0.50000000  0.50000000  0.56719300  1
+  O  O4  1  0.20933400  0.79066600  0.04009600  1
+  O  O5  1  0.40243500  0.59756500  0.05450300  1
+  O  O6  1  0.68609500  0.31390500  0.58278600  1
+  O  O7  1  0.79066600  0.20933400  0.04009600  1
+  O  O8  1  0.31390500  0.68609500  0.58278600  1
+  O  O9  1  0.59756500  0.40243500  0.05450300  1
+  O  O10  1  0.00000000  0.00000000  0.05519100  1
+"
+"True","mp-1216518","V3MoO6","Trigonal","R3","146","10","0.026905756312496","-2.328854931000001","False","112.90191296696865","5.070675314896277","1.0915","False","False","FM","8.9999917","# generated using pymatgen
+data_V3MoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63842749
+_cell_length_b   5.63842749
+_cell_length_c   5.63842756
+_cell_angle_alpha   55.29750152
+_cell_angle_beta   55.29750152
+_cell_angle_gamma   55.29750766
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V3MoO6
+_chemical_formula_sum   'V3 Mo1 O6'
+_cell_volume   112.90191297
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.35041200  0.35041200  0.35041200  1
+  V  V1  1  0.14928100  0.14928100  0.14928100  1
+  V  V2  1  0.65065400  0.65065400  0.65065400  1
+  Mo  Mo3  1  0.85079600  0.85079600  0.85079600  1
+  O  O4  1  0.75294000  0.43430800  0.05614200  1
+  O  O5  1  0.43430800  0.05614200  0.75294000  1
+  O  O6  1  0.05614200  0.75294000  0.43430800  1
+  O  O7  1  0.54021700  0.94819600  0.26705300  1
+  O  O8  1  0.94819600  0.26705300  0.54021700  1
+  O  O9  1  0.26705300  0.54021700  0.94819600  1
+"
+"True","mp-1100912","VMoO5","Monoclinic","Cm","8","7","0.07043052053571501","-2.110422625","False","106.9683011281108","3.521983696557019","1.5372","False","False","FM","1.0003044","# generated using pymatgen
+data_VMoO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82238284
+_cell_length_b   4.87962937
+_cell_length_c   6.04959418
+_cell_angle_alpha   89.28621704
+_cell_angle_beta   108.54520132
+_cell_angle_gamma   90.16813912
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VMoO5
+_chemical_formula_sum   'V1 Mo1 O5'
+_cell_volume   106.96830113
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.14967200  0.12354800  0.30116500  1
+  Mo  Mo1  1  0.84785100  0.87288300  0.69374100  1
+  O  O2  1  0.00701300  0.00841400  0.01086900  1
+  O  O3  1  0.14549300  0.45367600  0.29336100  1
+  O  O4  1  0.31725800  0.98018500  0.63251900  1
+  O  O5  1  0.68336700  0.03717100  0.36600900  1
+  O  O6  1  0.84934600  0.52412200  0.70233500  1
+"
+"True","mp-1100928","VMoO5","Triclinic","P1","1","35","0.067508955964287","-2.113344189571429","False","530.9902798456928","3.5475283345213953","1.1782","False","False","FM","4.9987851","# generated using pymatgen
+data_VMoO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   18.97880735
+_cell_length_b   6.15856561
+_cell_length_c   6.16320521
+_cell_angle_alpha   100.42219054
+_cell_angle_beta   107.93672776
+_cell_angle_gamma   50.79590184
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VMoO5
+_chemical_formula_sum   'V5 Mo5 O25'
+_cell_volume   530.99027985
+_cell_formula_units_Z   5
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.02022600  0.19607900  0.59912400  1
+  V  V1  1  0.21769300  0.19211600  0.59853700  1
+  V  V2  1  0.40663900  0.95182300  0.98771000  1
+  V  V3  1  0.60596000  0.95387000  0.99060200  1
+  V  V4  1  0.80559500  0.94833700  0.99027700  1
+  Mo  Mo5  1  0.00507700  0.96555300  0.00116100  1
+  Mo  Mo6  1  0.20624700  0.96608800  0.99691000  1
+  Mo  Mo7  1  0.41602400  0.18457700  0.59399800  1
+  Mo  Mo8  1  0.61779600  0.18687500  0.59499900  1
+  Mo  Mo9  1  0.81894900  0.18731300  0.59174700  1
+  O  O10  1  0.01323400  0.08051600  0.31446300  1
+  O  O11  1  0.07341300  0.08571000  0.93341200  1
+  O  O12  1  0.14270100  0.10168100  0.66152800  1
+  O  O13  1  0.08169700  0.60840900  0.01706500  1
+  O  O14  1  0.21309600  0.08187600  0.31104700  1
+  O  O15  1  0.14802600  0.53085800  0.58572700  1
+  O  O16  1  0.27567400  0.07587800  0.92807100  1
+  O  O17  1  0.34271100  0.09372900  0.65513700  1
+  O  O18  1  0.27965500  0.60881700  0.00904200  1
+  O  O19  1  0.41333800  0.07549400  0.30144700  1
+  O  O20  1  0.34167500  0.54252100  0.57625200  1
+  O  O21  1  0.47809100  0.05954700  0.92511200  1
+  O  O22  1  0.54409600  0.09224400  0.65614500  1
+  O  O23  1  0.47527200  0.61114500  0.99850700  1
+  O  O24  1  0.61303400  0.07534600  0.30262600  1
+  O  O25  1  0.54394200  0.54489100  0.57849300  1
+  O  O26  1  0.67798500  0.06057500  0.92630500  1
+  O  O27  1  0.74582400  0.08890300  0.65731800  1
+  O  O28  1  0.67745600  0.61353200  0.00369000  1
+  O  O29  1  0.81242600  0.07582300  0.30147900  1
+  O  O30  1  0.74275000  0.54477200  0.57218400  1
+  O  O31  1  0.87629900  0.06683600  0.93164500  1
+  O  O32  1  0.94440400  0.09621500  0.66147900  1
+  O  O33  1  0.87704700  0.60713500  0.00369900  1
+  O  O34  1  0.94794700  0.53491700  0.58306300  1
+"
+"True","mp-22006","VMoO5","Tetragonal","P4/n","85","14","0.033124601250001","-2.147728544285714","False","182.1025603934285","4.137675075052963","0.0","False","True","FM","2.0000001","# generated using pymatgen
+data_VMoO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19990801
+_cell_length_b   6.58478024
+_cell_length_c   6.58468477
+_cell_angle_alpha   89.99998241
+_cell_angle_beta   89.99942876
+_cell_angle_gamma   90.00006480
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VMoO5
+_chemical_formula_sum   'V2 Mo2 O10'
+_cell_volume   182.10256039
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.83976402  0.24999563  0.25000591  1
+  V  V1  1  0.16005634  0.75000206  0.74999549  1
+  Mo  Mo2  1  0.50007322  0.24999990  0.75000253  1
+  Mo  Mo3  1  0.50006300  0.74999827  0.24999470  1
+  O  O4  1  0.74010317  0.19944136  0.96385465  1
+  O  O5  1  0.74010787  0.53614434  0.19944686  1
+  O  O6  1  0.74010369  0.96384937  0.30056276  1
+  O  O7  1  0.74011446  0.30055345  0.53615272  1
+  O  O8  1  0.22589250  0.24999782  0.25000346  1
+  O  O9  1  0.77395565  0.75000433  0.74999506  1
+  O  O10  1  0.25994309  0.69942182  0.46378652  1
+  O  O11  1  0.25994392  0.03621275  0.69941198  1
+  O  O12  1  0.25994219  0.46378944  0.80057843  1
+  O  O13  1  0.25993887  0.80058747  0.03620892  1
+"
+"True","mp-674948","VMoO5","Monoclinic","Cm","8","14","0.07366874982143101","-2.107184395714284","False","180.34567051547938","4.177983441962048","1.0124","False","False","AFM","6e-07","# generated using pymatgen
+data_VMoO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17214461
+_cell_length_b   5.29826433
+_cell_length_c   7.47436310
+_cell_angle_alpha   102.28218747
+_cell_angle_beta   71.60399602
+_cell_angle_gamma   77.09325305
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VMoO5
+_chemical_formula_sum   'V2 Mo2 O10'
+_cell_volume   180.34567052
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.04382000  0.64691700  0.18259600  1
+  V  V1  1  0.54379500  0.64693300  0.68263700  1
+  Mo  Mo2  1  0.55895300  0.33599500  0.25070900  1
+  Mo  Mo3  1  0.05895900  0.33597500  0.75072300  1
+  O  O4  1  0.75825700  0.75229300  0.78908400  1
+  O  O5  1  0.25832500  0.75226800  0.28909100  1
+  O  O6  1  0.23245700  0.58563800  0.89173200  1
+  O  O7  1  0.73244600  0.58564000  0.39175600  1
+  O  O8  1  0.77623800  0.00312900  0.21218300  1
+  O  O9  1  0.27622700  0.00311900  0.71217000  1
+  O  O10  1  0.30583600  0.26767100  0.14364900  1
+  O  O11  1  0.80579600  0.26764100  0.64361600  1
+  O  O12  1  0.82445000  0.40838700  0.03002100  1
+  O  O13  1  0.32443700  0.40839600  0.53003200  1
+"

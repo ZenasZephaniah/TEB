@@ -1,0 +1,130 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1096980","FeAgO2","Trigonal","R3m","160","4","0.163738658124988","-1.055370417916666","False","45.83200631782362","7.090839959062293","0.5564","False","False","FM","5.0000338","# generated using pymatgen
+data_FeAgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32370626
+_cell_length_b   6.32370626
+_cell_length_c   6.32370612
+_cell_angle_alpha   26.95631889
+_cell_angle_beta   26.95631889
+_cell_angle_gamma   26.95632126
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeAgO2
+_chemical_formula_sum   'Fe1 Ag1 O2'
+_cell_volume   45.83200632
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.99853900  0.99853900  0.99853900  1
+  Ag  Ag1  1  0.16002900  0.16002900  0.16002900  1
+  O  O2  1  0.27928700  0.27928700  0.27928700  1
+  O  O3  1  0.72114400  0.72114400  0.72114400  1
+"
+"True","mp-18966","FeAgO2","Hexagonal","P6_3/mmc","194","8","0.005959758124989001","-1.213149317916666","False","99.05329238418065","6.561870160598951","1.158","False","False","FM","9.9996183","# generated using pymatgen
+data_FeAgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.02697145
+_cell_length_b   3.02696995
+_cell_length_c   12.48307974
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99997619
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeAgO2
+_chemical_formula_sum   'Fe2 Ag2 O4'
+_cell_volume   99.05329238
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  -0.00000000  0.00000000  0.50000000  1
+  Fe  Fe1  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag2  1  0.66666600  0.33333300  0.75000000  1
+  Ag  Ag3  1  0.33333300  0.66666700  0.25000000  1
+  O  O4  1  0.33333300  0.66666700  0.41682684  1
+  O  O5  1  0.66666600  0.33333300  0.91682684  1
+  O  O6  1  0.66666600  0.33333300  0.58317216  1
+  O  O7  1  0.33333300  0.66666700  0.08317316  1
+"
+"True","mp-19225","FeAgO2","Trigonal","R-3m","166","4","0.0","-1.219109076041666","True","44.86647144072492","7.243436164392254","1.148499999999999","False","False","FM","0.9999977","# generated using pymatgen
+data_FeAgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35311275
+_cell_length_b   6.35311282
+_cell_length_c   6.35311311
+_cell_angle_alpha   26.45837823
+_cell_angle_beta   26.45838748
+_cell_angle_gamma   26.45837999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeAgO2
+_chemical_formula_sum   'Fe1 Ag1 O2'
+_cell_volume   44.86647144
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.50000000  0.50000000  1
+  Ag  Ag1  1  -0.00000000  0.00000000  0.00000000  1
+  O  O2  1  0.88569500  0.88569500  0.88569500  1
+  O  O3  1  0.11430500  0.11430500  0.11430500  1
+"
+"True","mp-1184234","FeAgO3","Cubic","Pm-3m","221","5","0.345864825833333","-0.695022397333332","False","57.61912852121193","6.101360078973732","0.0","False","True","FM","5.4824302","# generated using pymatgen
+data_FeAgO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86238500
+_cell_length_b   3.86238500
+_cell_length_c   3.86238500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeAgO3
+_chemical_formula_sum   'Fe1 Ag1 O3'
+_cell_volume   57.61912852
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.50000000  0.50000000  1
+  Ag  Ag1  1  0.00000000  0.00000000  0.00000000  1
+  O  O2  1  0.50000000  0.50000000  0.00000000  1
+  O  O3  1  0.50000000  0.00000000  0.50000000  1
+  O  O4  1  0.00000000  0.50000000  0.50000000  1
+"

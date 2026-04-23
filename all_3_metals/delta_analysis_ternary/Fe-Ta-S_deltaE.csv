@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Fe-Ta-S,Fe,Ta,S,Ta9_FeS3_2_3652_POSCAR,35,local_max_drop,15.055566746,-0.3951438606307,-0.1939475662214933,-0.2011962944092067,12.978937,25.438716,0.01418624
+Fe-Ta-S,Fe,Ta,S,Ta9_FeS3_2_615821_POSCAR,35,local_max_drop,15.377757555,-0.19962436259655,-0.09481714484119458,-0.10480721775535543,12.814798,25.117004,0.00725353

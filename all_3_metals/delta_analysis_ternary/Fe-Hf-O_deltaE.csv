@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Fe-Hf-O,Fe,Hf,O,HfFeO3_753790_POSCAR,35,global_gradient_fallback,6.2974325,-0.10662222271678,-0.08860149351967248,-0.018020729197107524,5.793638,12.342968,0.01273869

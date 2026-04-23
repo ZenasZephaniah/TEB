@@ -1,0 +1,292 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-684978","Sc29S42","Monoclinic","Cm","8","71","0.23137149954225403","-1.9321204952200661","False","1499.7418730739405","2.934623785965033","0.0","False","True","NM","1.3752383","# generated using pymatgen
+data_Sc29S42
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37649868
+_cell_length_b   6.37649868
+_cell_length_c   66.51574723
+_cell_angle_alpha   84.98143575
+_cell_angle_beta   84.98143575
+_cell_angle_gamma   33.83932880
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc29S42
+_chemical_formula_sum   'Sc29 S42'
+_cell_volume   1499.74187307
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00155600  0.00155600  0.00065300  1
+  Sc  Sc1  1  0.42796500  0.42796500  0.04685100  1
+  Sc  Sc2  1  0.14611100  0.14611100  0.07208400  1
+  Sc  Sc3  1  0.85531700  0.85531700  0.09824700  1
+  Sc  Sc4  1  0.28493800  0.28493800  0.14464500  1
+  Sc  Sc5  1  0.71413400  0.71413400  0.19016500  1
+  Sc  Sc6  1  0.14300400  0.14300400  0.23818700  1
+  Sc  Sc7  1  0.57136200  0.57136200  0.28575100  1
+  Sc  Sc8  1  0.00001400  0.00001400  0.33332400  1
+  Sc  Sc9  1  0.42869600  0.42869600  0.38091800  1
+  Sc  Sc10  1  0.85696700  0.85696700  0.42850900  1
+  Sc  Sc11  1  0.71492400  0.71492400  0.52201700  1
+  Sc  Sc12  1  0.28582300  0.28582300  0.47652300  1
+  Sc  Sc13  1  0.57202500  0.57202500  0.61978400  1
+  Sc  Sc14  1  0.14469100  0.14469100  0.56840700  1
+  Sc  Sc15  1  0.85402300  0.85402300  0.59454300  1
+  Sc  Sc16  1  0.99839300  0.99839300  0.66606900  1
+  Sc  Sc17  1  0.71444400  0.71444400  0.68999600  1
+  Sc  Sc18  1  0.42828500  0.42828500  0.71436200  1
+  Sc  Sc19  1  0.14282200  0.14282200  0.73878800  1
+  Sc  Sc20  1  0.85863000  0.85863000  0.76266600  1
+  Sc  Sc21  1  0.28442000  0.28442000  0.80873000  1
+  Sc  Sc22  1  0.99907000  0.99907000  0.83270000  1
+  Sc  Sc23  1  0.71578400  0.71578400  0.85700900  1
+  Sc  Sc24  1  0.42694800  0.42694800  0.88091400  1
+  Sc  Sc25  1  0.14270700  0.14270700  0.90473500  1
+  Sc  Sc26  1  0.85865800  0.85865800  0.92857900  1
+  Sc  Sc27  1  0.57052000  0.57052000  0.95245900  1
+  Sc  Sc28  1  0.28632500  0.28632500  0.97669500  1
+  S  S29  1  0.36249200  0.36249200  0.01109500  1
+  S  S30  1  0.78546600  0.78546600  0.05923000  1
+  S  S31  1  0.06519800  0.06519800  0.03598700  1
+  S  S32  1  0.21560700  0.21560700  0.10550400  1
+  S  S33  1  0.50125000  0.50125000  0.08188000  1
+  S  S34  1  0.65133200  0.65133200  0.15470700  1
+  S  S35  1  0.92107500  0.92107500  0.13017800  1
+  S  S36  1  0.08099200  0.08099200  0.20266300  1
+  S  S37  1  0.34935200  0.34935200  0.17897700  1
+  S  S38  1  0.50921200  0.50921200  0.24996100  1
+  S  S39  1  0.77559700  0.77559700  0.22621100  1
+  S  S40  1  0.93757300  0.93757300  0.29766800  1
+  S  S41  1  0.20505000  0.20505000  0.27378100  1
+  S  S42  1  0.36599900  0.36599900  0.34532900  1
+  S  S43  1  0.63403400  0.63403400  0.32135700  1
+  S  S44  1  0.79501200  0.79501200  0.39290400  1
+  S  S45  1  0.06243500  0.06243500  0.36899600  1
+  S  S46  1  0.22440100  0.22440100  0.44046200  1
+  S  S47  1  0.49071200  0.49071200  0.41671600  1
+  S  S48  1  0.65062600  0.65062600  0.48766700  1
+  S  S49  1  0.91904700  0.91904700  0.46400000  1
+  S  S50  1  0.07886500  0.07886500  0.53648100  1
+  S  S51  1  0.34858600  0.34858600  0.51195200  1
+  S  S52  1  0.49879400  0.49879400  0.58473200  1
+  S  S53  1  0.78439900  0.78439900  0.56112600  1
+  S  S54  1  0.93484900  0.93484900  0.63062700  1
+  S  S55  1  0.21456000  0.21456000  0.60739900  1
+  S  S56  1  0.35561400  0.35561400  0.67843900  1
+  S  S57  1  0.63723800  0.63723800  0.65559700  1
+  S  S58  1  0.78561700  0.78561700  0.72636500  1
+  S  S59  1  0.07153000  0.07153000  0.70242400  1
+  S  S60  1  0.21927800  0.21927800  0.77336500  1
+  S  S61  1  0.50123100  0.50123100  0.75022600  1
+  S  S62  1  0.64156400  0.64156400  0.82140500  1
+  S  S63  1  0.92377600  0.92377600  0.79809700  1
+  S  S64  1  0.07098200  0.07098200  0.86886000  1
+  S  S65  1  0.35651700  0.35651700  0.84493500  1
+  S  S66  1  0.50016100  0.50016100  0.91652700  1
+  S  S67  1  0.78553300  0.78553300  0.89299500  1
+  S  S68  1  0.92931300  0.92931300  0.96447400  1
+  S  S69  1  0.21467600  0.21467600  0.94058700  1
+  S  S70  1  0.64445500  0.64445500  0.98809200  1
+"
+"True","mp-1105836","Sc2S3","Orthorhombic","Pnma","62","20","0.093005298999999","-2.078628673687498","False","399.73057971565817","3.092459446386907","1.3929","False","False","NM","0.0080264","# generated using pymatgen
+data_Sc2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19630000
+_cell_length_b   6.74855300
+_cell_length_c   9.55926000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2S3
+_chemical_formula_sum   'Sc8 S12'
+_cell_volume   399.73057972
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.54503800  0.39671600  0.99147000  1
+  Sc  Sc1  1  0.45496200  0.60328400  0.49147000  1
+  Sc  Sc2  1  0.04503800  0.10328400  0.49147000  1
+  Sc  Sc3  1  0.95496200  0.89671600  0.99147000  1
+  Sc  Sc4  1  0.00368000  0.49689500  0.23875000  1
+  Sc  Sc5  1  0.99632000  0.50310500  0.73875000  1
+  Sc  Sc6  1  0.50368000  0.00310500  0.73875000  1
+  Sc  Sc7  1  0.49632000  0.99689500  0.23875000  1
+  S  S8  1  0.82811200  0.18313600  0.82635300  1
+  S  S9  1  0.17188800  0.81686400  0.32635300  1
+  S  S10  1  0.32811200  0.31686400  0.32635300  1
+  S  S11  1  0.67188800  0.68313600  0.82635300  1
+  S  S12  1  0.82565200  0.17848200  0.15848200  1
+  S  S13  1  0.17434800  0.82151800  0.65848200  1
+  S  S14  1  0.32565200  0.32151800  0.65848200  1
+  S  S15  1  0.67434800  0.67848200  0.15848200  1
+  S  S16  1  0.83922700  0.43897400  0.48994500  1
+  S  S17  1  0.16077300  0.56102600  0.98994500  1
+  S  S18  1  0.33922700  0.06102600  0.98994500  1
+  S  S19  1  0.66077300  0.93897400  0.48994500  1
+"
+"True","mp-401","Sc2S3","Orthorhombic","Fddd","70","20","0.0","-2.171633972687499","True","428.62771743663023","2.883972633977312","1.034999999999999","False","False","NM","0.0","# generated using pymatgen
+data_Sc2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40031047
+_cell_length_b   6.40031089
+_cell_length_c   11.67889711
+_cell_angle_alpha   100.62259485
+_cell_angle_beta   100.62259240
+_cell_angle_gamma   109.10249021
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2S3
+_chemical_formula_sum   'Sc8 S12'
+_cell_volume   428.62771744
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.04141919  0.79141919  0.58283638  1
+  Sc  Sc1  1  0.20858081  0.95858081  0.91716362  1
+  Sc  Sc2  1  0.95858081  0.20858081  0.41716362  1
+  Sc  Sc3  1  0.79141919  0.04141919  0.08283638  1
+  Sc  Sc4  1  0.37722378  0.12722378  0.25444855  1
+  Sc  Sc5  1  0.87277622  0.62277622  0.24555145  1
+  Sc  Sc6  1  0.62277622  0.87277622  0.74555145  1
+  Sc  Sc7  1  0.12722378  0.37722378  0.75444855  1
+  S  S8  1  0.88467294  0.63467294  0.75000000  1
+  S  S9  1  0.36532706  0.11532706  0.75000000  1
+  S  S10  1  0.11532706  0.36532706  0.25000000  1
+  S  S11  1  0.63467294  0.88467294  0.25000000  1
+  S  S12  1  0.95205870  0.19278107  0.91124649  1
+  S  S13  1  0.28153358  0.54081321  0.58875351  1
+  S  S14  1  0.80721893  0.04794130  0.58875351  1
+  S  S15  1  0.45918679  0.71846642  0.91124649  1
+  S  S16  1  0.04794130  0.80721893  0.08875351  1
+  S  S17  1  0.71846642  0.45918679  0.41124649  1
+  S  S18  1  0.19278107  0.95205870  0.41124649  1
+  S  S19  1  0.54081321  0.28153358  0.08875351  1
+"
+"True","mp-684969","Sc2S3","Monoclinic","C2/m","12","10","0.003690487","-2.167943485687499","False","213.5916809677279","2.893723673250585","0.927999999999999","False","False","NM","0.0","# generated using pymatgen
+data_Sc2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40366205
+_cell_length_b   6.40366205
+_cell_length_c   6.37924870
+_cell_angle_alpha   80.35540723
+_cell_angle_beta   80.35540723
+_cell_angle_gamma   119.94467012
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2S3
+_chemical_formula_sum   'Sc4 S6'
+_cell_volume   213.59168097
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.66713399  0.33286601  0.50000000  1
+  Sc  Sc1  1  0.33286601  0.66713399  0.50000000  1
+  Sc  Sc2  1  -0.00000000  0.00000000  0.50000000  1
+  Sc  Sc3  1  0.50000000  0.50000000  0.00000000  1
+  S  S4  1  0.91071204  0.58647482  0.74086572  1
+  S  S5  1  0.58647482  0.91071204  0.74086572  1
+  S  S6  1  0.26169265  0.26169265  0.74468203  1
+  S  S7  1  0.08928796  0.41352518  0.25913428  1
+  S  S8  1  0.73830735  0.73830835  0.25531797  1
+  S  S9  1  0.41352518  0.08928796  0.25913428  1
+"
+"True","mp-1476","ScS","Cubic","Fm-3m","225","2","0.0","-2.07528723390625","True","35.50954359817304","3.601742527824012","0.0","False","True","NM","5e-07","# generated using pymatgen
+data_ScS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68937865
+_cell_length_b   3.68938033
+_cell_length_c   3.68937958
+_cell_angle_alpha   60.00001608
+_cell_angle_beta   60.00000095
+_cell_angle_gamma   60.00001044
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScS
+_chemical_formula_sum   'Sc1 S1'
+_cell_volume   35.50954360
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.50000000  0.50000000  0.50000000  1
+  S  S1  1  -0.00000000  -0.00000000  -0.00000000  1
+"
+"True","mp-862373","ScS2","Tetragonal","P4_2/mnm","136","6","0.314399350729166","-1.495295626510416","False","138.583250612177","2.614189199510279","0.0","False","True","NM","0.193835099999999","# generated using pymatgen
+data_ScS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06186100
+_cell_length_b   6.06186100
+_cell_length_c   3.77136700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScS2
+_chemical_formula_sum   'Sc2 S4'
+_cell_volume   138.58325061
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.00000000  0.00000000  1
+  Sc  Sc1  1  0.50000000  0.50000000  0.50000000  1
+  S  S2  1  0.29680900  0.29680900  0.00000000  1
+  S  S3  1  0.70319100  0.70319100  0.00000000  1
+  S  S4  1  0.20319100  0.79680900  0.50000000  1
+  S  S5  1  0.79680900  0.20319100  0.50000000  1
+"

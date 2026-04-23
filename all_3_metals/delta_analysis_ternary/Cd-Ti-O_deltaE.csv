@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cd-Ti-O,Cd,Ti,O,Ti2CdO5_849246_POSCAR,35,global_gradient_fallback,7.66250156,-0.056998281638846,-0.05140756962333959,-0.005590712015506413,7.388841,13.409378,0.0073665
+Cd-Ti-O,Cd,Ti,O,TiCdO3_1101047_POSCAR,35,global_gradient_fallback,8.0988812631,-0.025740292887444,-0.015578222204770863,-0.010162070682673139,7.558956,13.228173,0.0020855

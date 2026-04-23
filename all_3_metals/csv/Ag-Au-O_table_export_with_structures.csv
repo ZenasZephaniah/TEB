@@ -1,0 +1,200 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-996977","AgAuO2","Tetragonal","I4_122","98","8","0.0342497","-0.43529505916666605","False","125.02440961755349","8.947457572129613","0.0","False","True","NM","0.0025788","# generated using pymatgen
+data_AgAuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40462644
+_cell_length_b   6.40462644
+_cell_length_c   6.40462644
+_cell_angle_alpha   136.01088905
+_cell_angle_beta   136.01088905
+_cell_angle_gamma   63.96350104
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgAuO2
+_chemical_formula_sum   'Ag2 Au2 O4'
+_cell_volume   125.02440962
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.75000000  0.25000000  0.50000000  1
+  Ag  Ag1  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au2  1  0.25000000  0.75000000  0.50000000  1
+  Au  Au3  1  0.50000000  0.50000000  0.00000000  1
+  O  O4  1  0.59487100  0.62500000  0.46987100  1
+  O  O5  1  0.37500000  0.40512900  0.53012900  1
+  O  O6  1  0.87500000  0.84487100  0.46987100  1
+  O  O7  1  0.15512900  0.12500000  0.53012900  1
+"
+"True","mp-996980","AgAuO2","Orthorhombic","Pmna","53","8","0.013503406249999001","-0.45604135291666703","False","117.87814173834778","9.489890017240551","0.0","False","True","NM","0.0","# generated using pymatgen
+data_AgAuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06996494
+_cell_length_b   5.34289136
+_cell_length_c   5.42083601
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgAuO2
+_chemical_formula_sum   'Ag2 Au2 O4'
+_cell_volume   117.87814174
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.50000000  -0.00000000  0.00000000  1
+  Ag  Ag1  1  -0.00000000  -0.00000000  0.50000000  1
+  Au  Au2  1  0.50000000  0.50000000  0.50000000  1
+  Au  Au3  1  -0.00000000  0.50000000  0.00000000  1
+  O  O4  1  0.75000000  0.29739317  0.25000000  1
+  O  O5  1  0.75000000  0.29739317  0.75000000  1
+  O  O6  1  0.25000000  0.70260683  0.75000000  1
+  O  O7  1  0.25000000  0.70260683  0.25000000  1
+"
+"True","mp-996983","AgAuO2","Monoclinic","P2_1/c","14","8","0.0","-0.46954475916666605","True","115.7161805496547","9.66719256736608","0.6522999999999991","False","False","NM","0.0","# generated using pymatgen
+data_AgAuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87882231
+_cell_length_b   5.47932747
+_cell_length_c   5.61158550
+_cell_angle_alpha   104.01203467
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgAuO2
+_chemical_formula_sum   'Ag2 Au2 O4'
+_cell_volume   115.71618055
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.50000000  0.00000000  0.50000000  1
+  Ag  Ag1  1  -0.00000000  0.50000000  0.50000000  1
+  Au  Au2  1  0.50000000  0.50000000  -0.00000000  1
+  Au  Au3  1  -0.00000000  0.00000000  -0.00000000  1
+  O  O4  1  0.20574577  0.77745314  0.20016493  1
+  O  O5  1  0.70574577  0.72254686  0.79983507  1
+  O  O6  1  0.79425423  0.22254686  0.79983507  1
+  O  O7  1  0.29425423  0.27745314  0.20016493  1
+"
+"True","mp-752678","AgAuO3","Orthorhombic","Cmcm","63","20","0.41873277333333103","0.002464529166667","False","294.29506712515894","7.963340122990181","0.0","False","True","NM","1.1e-06","# generated using pymatgen
+data_AgAuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42351961
+_cell_length_b   6.42351961
+_cell_length_c   7.53973300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   108.91903068
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgAuO3
+_chemical_formula_sum   'Ag4 Au4 O12'
+_cell_volume   294.29506713
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.63809300  0.36190700  0.25000000  1
+  Ag  Ag1  1  0.99950300  0.00049700  0.75000000  1
+  Ag  Ag2  1  0.36190700  0.63809300  0.75000000  1
+  Ag  Ag3  1  0.00049700  0.99950300  0.25000000  1
+  Au  Au4  1  0.50000000  0.00000000  0.00000000  1
+  Au  Au5  1  0.50000000  0.00000000  0.50000000  1
+  Au  Au6  1  0.00000000  0.50000000  0.00000000  1
+  Au  Au7  1  0.00000000  0.50000000  0.50000000  1
+  O  O8  1  0.47694300  0.18600900  0.75000000  1
+  O  O9  1  0.18600900  0.47694300  0.25000000  1
+  O  O10  1  0.26797900  0.30702800  0.25000000  1
+  O  O11  1  0.30702800  0.26797900  0.75000000  1
+  O  O12  1  0.83898800  0.16101200  0.01878400  1
+  O  O13  1  0.83898800  0.16101200  0.48121600  1
+  O  O14  1  0.16101200  0.83898800  0.51878400  1
+  O  O15  1  0.16101200  0.83898800  0.98121600  1
+  O  O16  1  0.73202100  0.69297200  0.75000000  1
+  O  O17  1  0.69297200  0.73202100  0.25000000  1
+  O  O18  1  0.52305700  0.81399100  0.25000000  1
+  O  O19  1  0.81399100  0.52305700  0.75000000  1
+"
+"True","mp-776165","AgAuO3","Cubic","Fd-3m","227","20","0.059424401833331","-0.35684384233333205","False","273.488677155319","8.569172736555055","0.24230000000000002","False","False","NM","3.77e-05","# generated using pymatgen
+data_AgAuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28592645
+_cell_length_b   7.28592645
+_cell_length_c   7.28592645
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgAuO3
+_chemical_formula_sum   'Ag4 Au4 O12'
+_cell_volume   273.48867716
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.12500000  0.12500000  0.12500000  1
+  Ag  Ag1  1  0.62500000  0.12500000  0.12500000  1
+  Ag  Ag2  1  0.12500000  0.62500000  0.12500000  1
+  Ag  Ag3  1  0.12500000  0.12500000  0.62500000  1
+  Au  Au4  1  0.62500000  0.62500000  0.12500000  1
+  Au  Au5  1  0.62500000  0.62500000  0.62500000  1
+  Au  Au6  1  0.62500000  0.12500000  0.62500000  1
+  Au  Au7  1  0.12500000  0.62500000  0.62500000  1
+  O  O8  1  0.96628700  0.53371300  0.53371300  1
+  O  O9  1  0.71628700  0.71628700  0.28371300  1
+  O  O10  1  0.71628700  0.28371300  0.28371300  1
+  O  O11  1  0.96628700  0.53371300  0.96628700  1
+  O  O12  1  0.53371300  0.96628700  0.53371300  1
+  O  O13  1  0.96628700  0.96628700  0.53371300  1
+  O  O14  1  0.71628700  0.28371300  0.71628700  1
+  O  O15  1  0.28371300  0.71628700  0.28371300  1
+  O  O16  1  0.28371300  0.28371300  0.71628700  1
+  O  O17  1  0.53371300  0.96628700  0.96628700  1
+  O  O18  1  0.53371300  0.53371300  0.96628700  1
+  O  O19  1  0.28371300  0.71628700  0.71628700  1
+"

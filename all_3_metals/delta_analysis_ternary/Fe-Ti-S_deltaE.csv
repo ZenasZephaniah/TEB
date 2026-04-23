@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Fe-Ti-S,Fe,Ti,S,Ti3FeS6_16335_POSCAR,35,local_max_drop,8.309857066,-0.13449788875927,-0.0791448268970331,-0.05535306186223689,8.013076,14.54225,0.01027967

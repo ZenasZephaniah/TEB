@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Mo-Ti-O,Mo,Ti,O,TiMoO4_1216722_POSCAR,35,global_gradient_fallback,6.59347367,-0.031874783079434,-0.02781427302968236,-0.004060510049751637,5.651549,11.538579,0.00491479

@@ -1,0 +1,456 @@
+ARTIFACT SUMMARY REPORT
+This report uses exact rows from the generated CSV files.
+
+====================================================================================================
+BINARY M-L OVERALL
+====================================================================================================
+rows: 848
+unique chemsys: 37
+delta_E min: -1.605766
+delta_E max: -0.000039
+delta_E mean: -0.133002
+dip_cell_length mean: 9.140130
+
+====================================================================================================
+BINARY TOP CONFIGURATIONS
+====================================================================================================
+ 1. Ti-O | Ti3O_1245140_POSCAR | delta_E=-1.605766 | dip_cell_length=15.659452 | dip_method=local_max_drop
+ 2. Ti-O | Ti3O_1245176_POSCAR | delta_E=-1.602777 | dip_cell_length=15.828042 | dip_method=local_max_drop
+ 3. Ti-O | Ti3O_1244956_POSCAR | delta_E=-1.531325 | dip_cell_length=16.585576 | dip_method=local_max_drop
+ 4. Ti-O | Ti2O_1245186_POSCAR | delta_E=-1.391084 | dip_cell_length=15.796892 | dip_method=local_max_drop
+ 5. Ti-O | Ti2O_1245309_POSCAR | delta_E=-1.381869 | dip_cell_length=16.171976 | dip_method=local_max_drop
+ 6. Ti-O | Ti2O_1245066_POSCAR | delta_E=-1.377615 | dip_cell_length=15.334560 | dip_method=local_max_drop
+ 7. Ti-O | Ti2O_1245206_POSCAR | delta_E=-1.350447 | dip_cell_length=15.700261 | dip_method=local_max_drop
+ 8. Ti-O | Ti2O_1244955_POSCAR | delta_E=-1.337580 | dip_cell_length=16.162399 | dip_method=local_max_drop
+ 9. Nb-S | Nb14S5_683941_POSCAR | delta_E=-1.084202 | dip_cell_length=4.928632 | dip_method=local_max_drop
+10. Ti-O | TiO_1245294_POSCAR | delta_E=-0.877266 | dip_cell_length=15.314712 | dip_method=local_max_drop
+11. Ti-O | TiO_1244944_POSCAR | delta_E=-0.872976 | dip_cell_length=15.463253 | dip_method=local_max_drop
+12. Ti-O | TiO_1245141_POSCAR | delta_E=-0.866157 | dip_cell_length=15.658661 | dip_method=local_max_drop
+13. Ti-O | TiO_1244926_POSCAR | delta_E=-0.864447 | dip_cell_length=15.117430 | dip_method=local_max_drop
+14. Ti-O | TiO_1245324_POSCAR | delta_E=-0.849539 | dip_cell_length=15.061690 | dip_method=local_max_drop
+15. Zr-S | Zr9S2_27191_POSCAR | delta_E=-0.723144 | dip_cell_length=12.944354 | dip_method=local_max_drop
+16. Ti-S | Ti8S3_680850_POSCAR | delta_E=-0.706923 | dip_cell_length=14.872315 | dip_method=local_max_drop
+17. V-O | V16O3_30064_POSCAR | delta_E=-0.689161 | dip_cell_length=12.812257 | dip_method=local_max_drop
+18. Y-O | Y2O3_1244949_POSCAR | delta_E=-0.632697 | dip_cell_length=16.530017 | dip_method=local_max_drop
+19. Y-O | Y2O3_1245291_POSCAR | delta_E=-0.631003 | dip_cell_length=17.129958 | dip_method=local_max_drop
+20. Y-O | Y2O3_1245017_POSCAR | delta_E=-0.618279 | dip_cell_length=16.806758 | dip_method=local_max_drop
+
+====================================================================================================
+BINARY BOTTOM CONFIGURATIONS
+====================================================================================================
+ 1. Ni-O | NiO2_25206_POSCAR | delta_E=-0.000039 | dip_cell_length=4.811681 | dip_method=global_gradient_fallback
+ 2. Pd-O | PdO_10728_POSCAR | delta_E=-0.000062 | dip_cell_length=3.341230 | dip_method=global_gradient_fallback
+ 3. Nb-S | NbS6_1210578_POSCAR | delta_E=-0.000075 | dip_cell_length=13.880345 | dip_method=global_gradient_fallback
+ 4. Co-O | CoO2_1408926_POSCAR | delta_E=-0.000448 | dip_cell_length=4.263748 | dip_method=global_gradient_fallback
+ 5. V-S | VS2_611224_POSCAR | delta_E=-0.000501 | dip_cell_length=3.697014 | dip_method=global_gradient_fallback
+ 6. Fe-O | FeO2_1384466_POSCAR | delta_E=-0.000521 | dip_cell_length=3.753262 | dip_method=global_gradient_fallback
+ 7. Ni-O | NiO3_1209929_POSCAR | delta_E=-0.000545 | dip_cell_length=4.716916 | dip_method=global_gradient_fallback
+ 8. Fe-O | FeO3_863316_POSCAR | delta_E=-0.000756 | dip_cell_length=9.562091 | dip_method=global_gradient_fallback
+ 9. Fe-O | FeO_755189_POSCAR | delta_E=-0.000799 | dip_cell_length=3.699574 | dip_method=global_gradient_fallback
+10. Fe-O | FeO2_1097003_POSCAR | delta_E=-0.000910 | dip_cell_length=7.211008 | dip_method=global_gradient_fallback
+11. Ta-S | TaS2_1217915_POSCAR | delta_E=-0.001158 | dip_cell_length=4.675237 | dip_method=global_gradient_fallback
+12. Y-O | Y2O3_13061_POSCAR | delta_E=-0.001341 | dip_cell_length=5.117971 | dip_method=global_gradient_fallback
+13. Ti-O | TiO2_1445035_POSCAR | delta_E=-0.001354 | dip_cell_length=4.995984 | dip_method=global_gradient_fallback
+14. Ni-O | NiO2_634706_POSCAR | delta_E=-0.001467 | dip_cell_length=5.340657 | dip_method=global_gradient_fallback
+15. V-S | VS2_849098_POSCAR | delta_E=-0.001625 | dip_cell_length=4.183323 | dip_method=global_gradient_fallback
+16. Mn-O | MnO2_796077_POSCAR | delta_E=-0.001688 | dip_cell_length=4.379272 | dip_method=global_gradient_fallback
+17. Co-O | CoO2_1062643_POSCAR | delta_E=-0.001694 | dip_cell_length=11.879940 | dip_method=global_gradient_fallback
+18. Nb-S | NbS2_1874_POSCAR | delta_E=-0.001770 | dip_cell_length=4.888581 | dip_method=global_gradient_fallback
+19. Nb-O | NbO_2692_POSCAR | delta_E=-0.001873 | dip_cell_length=3.867447 | dip_method=global_gradient_fallback
+20. V-O | VO2_1420871_POSCAR | delta_E=-0.002033 | dip_cell_length=4.243086 | dip_method=global_gradient_fallback
+
+====================================================================================================
+ALL BINARY EXAMPLES CLOSE TO ZERO (delta_E >= -0.01)
+====================================================================================================
+count: 74
+- Ni-O | NiO2_25206_POSCAR | delta_E=-0.000039 | dip_cell_length=4.811681 | baseline_slope=0.001086
+- Pd-O | PdO_10728_POSCAR | delta_E=-0.000062 | dip_cell_length=3.341230 | baseline_slope=0.009482
+- Nb-S | NbS6_1210578_POSCAR | delta_E=-0.000075 | dip_cell_length=13.880345 | baseline_slope=0.000291
+- Co-O | CoO2_1408926_POSCAR | delta_E=-0.000448 | dip_cell_length=4.263748 | baseline_slope=0.002843
+- V-S | VS2_611224_POSCAR | delta_E=-0.000501 | dip_cell_length=3.697014 | baseline_slope=0.003933
+- Fe-O | FeO2_1384466_POSCAR | delta_E=-0.000521 | dip_cell_length=3.753262 | baseline_slope=0.003608
+- Ni-O | NiO3_1209929_POSCAR | delta_E=-0.000545 | dip_cell_length=4.716916 | baseline_slope=0.001013
+- Fe-O | FeO3_863316_POSCAR | delta_E=-0.000756 | dip_cell_length=9.562091 | baseline_slope=0.001400
+- Fe-O | FeO_755189_POSCAR | delta_E=-0.000799 | dip_cell_length=3.699574 | baseline_slope=0.007488
+- Fe-O | FeO2_1097003_POSCAR | delta_E=-0.000910 | dip_cell_length=7.211008 | baseline_slope=0.002832
+- Ta-S | TaS2_1217915_POSCAR | delta_E=-0.001158 | dip_cell_length=4.675237 | baseline_slope=0.005137
+- Y-O | Y2O3_13061_POSCAR | delta_E=-0.001341 | dip_cell_length=5.117971 | baseline_slope=0.008450
+- Ti-O | TiO2_1445035_POSCAR | delta_E=-0.001354 | dip_cell_length=4.995984 | baseline_slope=0.001834
+- Ni-O | NiO2_634706_POSCAR | delta_E=-0.001467 | dip_cell_length=5.340657 | baseline_slope=0.001069
+- V-S | VS2_849098_POSCAR | delta_E=-0.001625 | dip_cell_length=4.183323 | baseline_slope=0.002325
+- Mn-O | MnO2_796077_POSCAR | delta_E=-0.001688 | dip_cell_length=4.379272 | baseline_slope=0.001515
+- Co-O | CoO2_1062643_POSCAR | delta_E=-0.001694 | dip_cell_length=11.879940 | baseline_slope=0.000687
+- Nb-S | NbS2_1874_POSCAR | delta_E=-0.001770 | dip_cell_length=4.888581 | baseline_slope=0.005082
+- Nb-O | NbO_2692_POSCAR | delta_E=-0.001873 | dip_cell_length=3.867447 | baseline_slope=0.010623
+- V-O | VO2_1420871_POSCAR | delta_E=-0.002033 | dip_cell_length=4.243086 | baseline_slope=0.003300
+- Nb-S | NbS2_555293_POSCAR | delta_E=-0.002071 | dip_cell_length=4.886848 | baseline_slope=0.004986
+- Co-O | CoO2_1272749_POSCAR | delta_E=-0.002555 | dip_cell_length=3.736715 | baseline_slope=0.005494
+- Co-O | CoO2_550206_POSCAR | delta_E=-0.002612 | dip_cell_length=3.706709 | baseline_slope=0.002261
+- Co-O | CoO2_1063268_POSCAR | delta_E=-0.002628 | dip_cell_length=35.238817 | baseline_slope=0.000098
+- Fe-O | FeO2_1062652_POSCAR | delta_E=-0.002683 | dip_cell_length=3.948812 | baseline_slope=0.002136
+- Co-O | Co3O4_18748_POSCAR | delta_E=-0.002698 | dip_cell_length=6.405153 | baseline_slope=0.017615
+- Co-O | CoO2_1226115_POSCAR | delta_E=-0.002709 | dip_cell_length=4.107472 | baseline_slope=0.001175
+- Ti-O | TiO2_1426806_POSCAR | delta_E=-0.002779 | dip_cell_length=4.247123 | baseline_slope=0.003623
+- Ni-S | Ni3S_976809_POSCAR | delta_E=-0.002879 | dip_cell_length=4.162810 | baseline_slope=0.020565
+- Fe-O | FeO2_25332_POSCAR | delta_E=-0.002962 | dip_cell_length=4.684304 | baseline_slope=0.003930
+- Fe-O | FeO2_540003_POSCAR | delta_E=-0.003098 | dip_cell_length=6.493340 | baseline_slope=0.004756
+- Co-O | CoO2_796278_POSCAR | delta_E=-0.003279 | dip_cell_length=3.711846 | baseline_slope=0.003904
+- Fe-O | Fe2O3_1068212_POSCAR | delta_E=-0.003377 | dip_cell_length=3.977938 | baseline_slope=0.004386
+- V-O | VO2_19094_POSCAR | delta_E=-0.003465 | dip_cell_length=4.262230 | baseline_slope=0.003888
+- Ni-O | NiO2_35925_POSCAR | delta_E=-0.003648 | dip_cell_length=3.574946 | baseline_slope=0.001471
+- Mn-O | MnO3_1086672_POSCAR | delta_E=-0.003668 | dip_cell_length=6.066583 | baseline_slope=0.002772
+- Fe-O | Fe3O4_611817_POSCAR | delta_E=-0.003743 | dip_cell_length=6.963532 | baseline_slope=0.005574
+- Co-O | CoO2_556750_POSCAR | delta_E=-0.003801 | dip_cell_length=3.700777 | baseline_slope=0.001267
+- Zr-O | ZrO_33088_POSCAR | delta_E=-0.004004 | dip_cell_length=4.309467 | baseline_slope=0.006311
+- Fe-O | FeO2_821313_POSCAR | delta_E=-0.004315 | dip_cell_length=3.888794 | baseline_slope=0.001899
+- Fe-O | FeO2_25236_POSCAR | delta_E=-0.004341 | dip_cell_length=3.725823 | baseline_slope=0.001930
+- Cr-S | CrS2_28910_POSCAR | delta_E=-0.004521 | dip_cell_length=4.459111 | baseline_slope=0.005783
+- Y-O | YO2_1206610_POSCAR | delta_E=-0.004696 | dip_cell_length=5.054866 | baseline_slope=0.006334
+- Co-O | CoO2_1281832_POSCAR | delta_E=-0.004869 | dip_cell_length=3.301008 | baseline_slope=0.005301
+- Fe-O | FeO2_1431292_POSCAR | delta_E=-0.005010 | dip_cell_length=3.845789 | baseline_slope=0.001416
+- Mn-O | MnO_1238773_POSCAR | delta_E=-0.005146 | dip_cell_length=4.339408 | baseline_slope=0.001386
+- Mn-O | Mn5O8_18922_POSCAR | delta_E=-0.005474 | dip_cell_length=6.275606 | baseline_slope=0.012318
+- Cr-O | CrO2_1009555_POSCAR | delta_E=-0.005622 | dip_cell_length=3.794241 | baseline_slope=0.004717
+- V-S | VS2_849060_POSCAR | delta_E=-0.005644 | dip_cell_length=4.702219 | baseline_slope=0.002113
+- Ni-O | NiO_19009_POSCAR | delta_E=-0.005798 | dip_cell_length=3.076318 | baseline_slope=0.006458
+- Mn-S | MnS_2562_POSCAR | delta_E=-0.005822 | dip_cell_length=5.139650 | baseline_slope=0.004590
+- Cr-O | CrO2_25302_POSCAR | delta_E=-0.005897 | dip_cell_length=3.846666 | baseline_slope=0.002546
+- Fe-O | FeO_753682_POSCAR | delta_E=-0.006046 | dip_cell_length=4.852941 | baseline_slope=0.008507
+- Fe-O | Fe2O3_19770_POSCAR | delta_E=-0.006058 | dip_cell_length=5.512962 | baseline_slope=0.008090
+- Ti-O | TiO_2664_POSCAR | delta_E=-0.006154 | dip_cell_length=3.677369 | baseline_slope=0.009666
+- Ti-S | TiS2_1062030_POSCAR | delta_E=-0.006177 | dip_cell_length=4.780996 | baseline_slope=0.001660
+- Ti-S | TiS2_558110_POSCAR | delta_E=-0.006192 | dip_cell_length=4.797417 | baseline_slope=0.001718
+- Mn-O | Mn5O8_752536_POSCAR | delta_E=-0.006249 | dip_cell_length=6.818767 | baseline_slope=0.008340
+- Cr-O | CrO2_1421109_POSCAR | delta_E=-0.006625 | dip_cell_length=3.926441 | baseline_slope=0.001776
+- Cr-O | CrO2_1102170_POSCAR | delta_E=-0.006733 | dip_cell_length=6.286834 | baseline_slope=0.009934
+- Mn-O | MnO2_1221542_POSCAR | delta_E=-0.007148 | dip_cell_length=3.943346 | baseline_slope=0.002799
+- Ti-O | TiO_754333_POSCAR | delta_E=-0.007457 | dip_cell_length=3.992251 | baseline_slope=0.017652
+- Cr-O | Cr2O3_1181863_POSCAR | delta_E=-0.007611 | dip_cell_length=7.012961 | baseline_slope=0.005030
+- Cr-O | CrO2_21395_POSCAR | delta_E=-0.007628 | dip_cell_length=4.031051 | baseline_slope=0.007355
+- Ni-O | NiO_1180047_POSCAR | delta_E=-0.007688 | dip_cell_length=3.802291 | baseline_slope=0.002406
+- Mn-O | MnO2_1272141_POSCAR | delta_E=-0.008287 | dip_cell_length=3.916335 | baseline_slope=0.001267
+- Mn-O | MnO2_25223_POSCAR | delta_E=-0.008389 | dip_cell_length=3.999216 | baseline_slope=0.001964
+- Mn-O | MnO2_25424_POSCAR | delta_E=-0.008415 | dip_cell_length=3.823822 | baseline_slope=0.002061
+- Cr-O | CrO2_1399565_POSCAR | delta_E=-0.008509 | dip_cell_length=3.976558 | baseline_slope=0.005067
+- Fe-O | FeO_756436_POSCAR | delta_E=-0.008966 | dip_cell_length=3.564997 | baseline_slope=0.005515
+- Fe-O | Fe5O8_1225007_POSCAR | delta_E=-0.008998 | dip_cell_length=6.509116 | baseline_slope=0.007008
+- Ni-O | Ni2O5_1094139_POSCAR | delta_E=-0.009332 | dip_cell_length=7.464207 | baseline_slope=0.005270
+- Ni-S | Ni3S2_1220109_POSCAR | delta_E=-0.009644 | dip_cell_length=4.287658 | baseline_slope=0.007353
+- Co-O | CoO_19079_POSCAR | delta_E=-0.009943 | dip_cell_length=3.129060 | baseline_slope=0.010828
+
+====================================================================================================
+BINARY CHEMSYS THAT APPEAR IN THE CLOSE-TO-ZERO SET
+====================================================================================================
+- Ni-O | count=7 | closest_to_zero=-0.000039 | strongest_in_same_chemsys=-0.009332 | mean_close_to_zero=-0.004074
+- Pd-O | count=1 | closest_to_zero=-0.000062 | strongest_in_same_chemsys=-0.000062 | mean_close_to_zero=-0.000062
+- Nb-S | count=3 | closest_to_zero=-0.000075 | strongest_in_same_chemsys=-0.002071 | mean_close_to_zero=-0.001306
+- Co-O | count=11 | closest_to_zero=-0.000448 | strongest_in_same_chemsys=-0.009943 | mean_close_to_zero=-0.003385
+- V-S | count=3 | closest_to_zero=-0.000501 | strongest_in_same_chemsys=-0.005644 | mean_close_to_zero=-0.002590
+- Fe-O | count=16 | closest_to_zero=-0.000521 | strongest_in_same_chemsys=-0.008998 | mean_close_to_zero=-0.003911
+- Ta-S | count=1 | closest_to_zero=-0.001158 | strongest_in_same_chemsys=-0.001158 | mean_close_to_zero=-0.001158
+- Y-O | count=2 | closest_to_zero=-0.001341 | strongest_in_same_chemsys=-0.004696 | mean_close_to_zero=-0.003018
+- Ti-O | count=4 | closest_to_zero=-0.001354 | strongest_in_same_chemsys=-0.007457 | mean_close_to_zero=-0.004436
+- Mn-O | count=9 | closest_to_zero=-0.001688 | strongest_in_same_chemsys=-0.008415 | mean_close_to_zero=-0.006052
+- Nb-O | count=1 | closest_to_zero=-0.001873 | strongest_in_same_chemsys=-0.001873 | mean_close_to_zero=-0.001873
+- V-O | count=2 | closest_to_zero=-0.002033 | strongest_in_same_chemsys=-0.003465 | mean_close_to_zero=-0.002749
+- Ni-S | count=2 | closest_to_zero=-0.002879 | strongest_in_same_chemsys=-0.009644 | mean_close_to_zero=-0.006262
+- Zr-O | count=1 | closest_to_zero=-0.004004 | strongest_in_same_chemsys=-0.004004 | mean_close_to_zero=-0.004004
+- Cr-S | count=1 | closest_to_zero=-0.004521 | strongest_in_same_chemsys=-0.004521 | mean_close_to_zero=-0.004521
+- Cr-O | count=7 | closest_to_zero=-0.005622 | strongest_in_same_chemsys=-0.008509 | mean_close_to_zero=-0.006946
+- Mn-S | count=1 | closest_to_zero=-0.005822 | strongest_in_same_chemsys=-0.005822 | mean_close_to_zero=-0.005822
+- Ti-S | count=2 | closest_to_zero=-0.006177 | strongest_in_same_chemsys=-0.006192 | mean_close_to_zero=-0.006184
+
+====================================================================================================
+BINARY STRONGEST CHEMSYS
+====================================================================================================
+ 1. Ti-O | n=107 | best_delta_E=-1.605766 | worst_delta_E=-0.001354 | mean_delta_E=-0.282674 | median_delta_E=-0.138339
+ 2. Nb-S | n=13 | best_delta_E=-1.084202 | worst_delta_E=-0.000075 | mean_delta_E=-0.223553 | median_delta_E=-0.129977
+ 3. Zr-S | n=11 | best_delta_E=-0.723144 | worst_delta_E=-0.057710 | mean_delta_E=-0.349360 | median_delta_E=-0.405121
+ 4. Ti-S | n=14 | best_delta_E=-0.706923 | worst_delta_E=-0.006177 | mean_delta_E=-0.158470 | median_delta_E=-0.064538
+ 5. V-O | n=130 | best_delta_E=-0.689161 | worst_delta_E=-0.002033 | mean_delta_E=-0.098709 | median_delta_E=-0.083180
+ 6. Y-O | n=19 | best_delta_E=-0.632697 | worst_delta_E=-0.001341 | mean_delta_E=-0.206990 | median_delta_E=-0.116515
+ 7. Mn-O | n=62 | best_delta_E=-0.565084 | worst_delta_E=-0.001688 | mean_delta_E=-0.104514 | median_delta_E=-0.068635
+ 8. Fe-O | n=122 | best_delta_E=-0.471383 | worst_delta_E=-0.000521 | mean_delta_E=-0.097240 | median_delta_E=-0.075346
+ 9. Cu-O | n=1 | best_delta_E=-0.448176 | worst_delta_E=-0.448176 | mean_delta_E=-0.448176 | median_delta_E=-0.448176
+10. V-S | n=13 | best_delta_E=-0.442325 | worst_delta_E=-0.000501 | mean_delta_E=-0.103563 | median_delta_E=-0.073244
+11. Sc-O | n=8 | best_delta_E=-0.438709 | worst_delta_E=-0.026776 | mean_delta_E=-0.183116 | median_delta_E=-0.150898
+12. Pd-O | n=3 | best_delta_E=-0.365919 | worst_delta_E=-0.000062 | mean_delta_E=-0.141048 | median_delta_E=-0.057164
+13. Co-O | n=39 | best_delta_E=-0.356583 | worst_delta_E=-0.000448 | mean_delta_E=-0.092291 | median_delta_E=-0.070898
+14. Zr-O | n=19 | best_delta_E=-0.341938 | worst_delta_E=-0.004004 | mean_delta_E=-0.155728 | median_delta_E=-0.129006
+15. Ni-S | n=12 | best_delta_E=-0.336641 | worst_delta_E=-0.002879 | mean_delta_E=-0.091159 | median_delta_E=-0.059113
+16. Cu-S | n=4 | best_delta_E=-0.330845 | worst_delta_E=-0.079807 | mean_delta_E=-0.157016 | median_delta_E=-0.108705
+17. Ta-S | n=6 | best_delta_E=-0.279881 | worst_delta_E=-0.001158 | mean_delta_E=-0.153058 | median_delta_E=-0.141597
+18. Sc-S | n=3 | best_delta_E=-0.277945 | worst_delta_E=-0.064685 | mean_delta_E=-0.136845 | median_delta_E=-0.067904
+19. Nb-O | n=17 | best_delta_E=-0.268412 | worst_delta_E=-0.001873 | mean_delta_E=-0.113889 | median_delta_E=-0.095004
+20. Ni-O | n=29 | best_delta_E=-0.264147 | worst_delta_E=-0.000039 | mean_delta_E=-0.083119 | median_delta_E=-0.072468
+21. Ta-O | n=6 | best_delta_E=-0.255898 | worst_delta_E=-0.058233 | mean_delta_E=-0.130081 | median_delta_E=-0.121728
+22. Hf-O | n=8 | best_delta_E=-0.254708 | worst_delta_E=-0.072306 | mean_delta_E=-0.186374 | median_delta_E=-0.248136
+23. Rh-S | n=1 | best_delta_E=-0.254427 | worst_delta_E=-0.254427 | mean_delta_E=-0.254427 | median_delta_E=-0.254427
+24. Cr-O | n=52 | best_delta_E=-0.253605 | worst_delta_E=-0.005622 | mean_delta_E=-0.072393 | median_delta_E=-0.037865
+25. Y-S | n=4 | best_delta_E=-0.215544 | worst_delta_E=-0.018239 | mean_delta_E=-0.113991 | median_delta_E=-0.111091
+26. Zn-S | n=98 | best_delta_E=-0.204952 | worst_delta_E=-0.059109 | mean_delta_E=-0.102635 | median_delta_E=-0.107916
+27. Zn-O | n=5 | best_delta_E=-0.204579 | worst_delta_E=-0.113638 | mean_delta_E=-0.183989 | median_delta_E=-0.203888
+28. Rh-O | n=4 | best_delta_E=-0.166984 | worst_delta_E=-0.081589 | mean_delta_E=-0.106768 | median_delta_E=-0.089250
+29. Pd-S | n=3 | best_delta_E=-0.165404 | worst_delta_E=-0.070396 | mean_delta_E=-0.116594 | median_delta_E=-0.113982
+30. Mo-S | n=4 | best_delta_E=-0.158613 | worst_delta_E=-0.065984 | mean_delta_E=-0.112558 | median_delta_E=-0.112817
+31. Mo-O | n=1 | best_delta_E=-0.118420 | worst_delta_E=-0.118420 | mean_delta_E=-0.118420 | median_delta_E=-0.118420
+32. Tc-O | n=1 | best_delta_E=-0.117830 | worst_delta_E=-0.117830 | mean_delta_E=-0.117830 | median_delta_E=-0.117830
+33. Fe-S | n=12 | best_delta_E=-0.116390 | worst_delta_E=-0.013860 | mean_delta_E=-0.068199 | median_delta_E=-0.073902
+34. Cr-S | n=7 | best_delta_E=-0.113076 | worst_delta_E=-0.004521 | mean_delta_E=-0.073153 | median_delta_E=-0.077824
+35. Co-S | n=4 | best_delta_E=-0.088213 | worst_delta_E=-0.010607 | mean_delta_E=-0.049168 | median_delta_E=-0.048927
+36. Hf-S | n=1 | best_delta_E=-0.034301 | worst_delta_E=-0.034301 | mean_delta_E=-0.034301 | median_delta_E=-0.034301
+37. Mn-S | n=5 | best_delta_E=-0.028039 | worst_delta_E=-0.005822 | mean_delta_E=-0.015352 | median_delta_E=-0.013067
+
+====================================================================================================
+TERNARY M1-M2-L OVERALL
+====================================================================================================
+rows: 1186
+unique chemsys: 198
+unique pairs: 154
+delta_E min: -1.682540
+delta_E max: -0.000137
+delta_E mean: -0.114599
+dip_cell_length mean: 8.084255
+
+====================================================================================================
+TERNARY TOP CONFIGURATIONS
+====================================================================================================
+ 1. V-Zr-O | Zr9V9O2_1217608_POSCAR | pair=V-Zr | ligand=O | delta_E=-1.682540 | dip_cell_length=12.313658 | IE_avg=645.50 | IE_diff=10.80
+ 2. Sc-Zr-O | Zr25Sc6O59_686417_POSCAR | pair=Sc-Zr | ligand=O | delta_E=-0.765614 | dip_cell_length=18.686644 | IE_avg=636.60 | IE_diff=7.00
+ 3. Nb-Ni-O | Nb6Ni6O_541419_POSCAR | pair=Nb-Ni | ligand=O | delta_E=-0.673687 | dip_cell_length=9.901357 | IE_avg=694.60 | IE_diff=85.00
+ 4. Hf-Re-S | Hf9Re4S_1399219_POSCAR | pair=Hf-Re | ligand=S | delta_E=-0.645395 | dip_cell_length=17.552239 | IE_avg=709.25 | IE_diff=101.50
+ 5. Mn-Ni-O | Mn_Ni9O10_2_758680_POSCAR | pair=Mn-Ni | ligand=O | delta_E=-0.635059 | dip_cell_length=7.368965 | IE_avg=727.20 | IE_diff=19.80
+ 6. W-Y-O | Y10W2O21_556220_POSCAR | pair=W-Y | ligand=O | delta_E=-0.620339 | dip_cell_length=14.901272 | IE_avg=685.00 | IE_diff=170.00
+ 7. Pd-Zr-O | Zr4Pd2O_22479_POSCAR | pair=Pd-Zr | ligand=O | delta_E=-0.615224 | dip_cell_length=10.723610 | IE_avg=722.25 | IE_diff=164.30
+ 8. Mo-Zr-S | Zr9Mo4S_1207420_POSCAR | pair=Mo-Zr | ligand=S | delta_E=-0.595052 | dip_cell_length=12.268524 | IE_avg=662.20 | IE_diff=44.20
+ 9. V-Zr-S | Zr9V4S_9483_POSCAR | pair=V-Zr | ligand=S | delta_E=-0.580545 | dip_cell_length=12.551664 | IE_avg=645.50 | IE_diff=10.80
+10. Mn-Ni-O | Mn3_Ni17O20_2_758834_POSCAR | pair=Mn-Ni | ligand=O | delta_E=-0.571318 | dip_cell_length=7.380975 | IE_avg=727.20 | IE_diff=19.80
+11. Ni-Ti-O | Ti4Ni2O_540679_POSCAR | pair=Ni-Ti | ligand=O | delta_E=-0.565493 | dip_cell_length=9.744439 | IE_avg=697.95 | IE_diff=78.30
+12. V-Zr-O | Zr3V3O_504834_POSCAR | pair=V-Zr | ligand=O | delta_E=-0.561121 | dip_cell_length=10.673425 | IE_avg=645.50 | IE_diff=10.80
+13. Ni-Ti-O | Ti3Ni3O_504735_POSCAR | pair=Ni-Ti | ligand=O | delta_E=-0.550251 | dip_cell_length=9.420916 | IE_avg=697.95 | IE_diff=78.30
+14. Mn-Ti-O | Ti3Mn3O_504732_POSCAR | pair=Mn-Ti | ligand=O | delta_E=-0.548300 | dip_cell_length=9.831912 | IE_avg=688.05 | IE_diff=58.50
+15. Ni-Ti-O | Ti4Ni2O_1217223_POSCAR | pair=Ni-Ti | ligand=O | delta_E=-0.537694 | dip_cell_length=10.023708 | IE_avg=697.95 | IE_diff=78.30
+16. Mn-Ti-O | Ti4Mn2O_1217173_POSCAR | pair=Mn-Ti | ligand=O | delta_E=-0.536739 | dip_cell_length=10.192998 | IE_avg=688.05 | IE_diff=58.50
+17. Ti-Y-O | Y16Ti16O35_685259_POSCAR | pair=Ti-Y | ligand=O | delta_E=-0.527580 | dip_cell_length=10.107779 | IE_avg=629.40 | IE_diff=58.80
+18. Fe-Zr-S | Zr6FeS2_1207526_POSCAR | pair=Fe-Zr | ligand=S | delta_E=-0.526448 | dip_cell_length=5.014123 | IE_avg=701.30 | IE_diff=122.40
+19. Ni-Zr-O | Zr4Ni2O_21602_POSCAR | pair=Ni-Zr | ligand=O | delta_E=-0.524857 | dip_cell_length=10.598087 | IE_avg=688.60 | IE_diff=97.00
+20. Mo-Zr-O | Zr9Mo4O3_1207427_POSCAR | pair=Mo-Zr | ligand=O | delta_E=-0.523175 | dip_cell_length=12.219475 | IE_avg=662.20 | IE_diff=44.20
+
+====================================================================================================
+TERNARY BOTTOM CONFIGURATIONS
+====================================================================================================
+ 1. Ti-Zn-O | Ti3Zn2O8_1385787_POSCAR | pair=Ti-Zn | ligand=O | delta_E=-0.000137 | dip_cell_length=7.982198 | IE_avg=782.60 | IE_diff=247.60
+ 2. Fe-Ti-O | TiFeO3_19417_POSCAR | pair=Fe-Ti | ligand=O | delta_E=-0.000317 | dip_cell_length=6.295883 | IE_avg=710.65 | IE_diff=103.70
+ 3. Fe-Ti-O | TiFeO3_19270_POSCAR | pair=Fe-Ti | ligand=O | delta_E=-0.000633 | dip_cell_length=6.293957 | IE_avg=710.65 | IE_diff=103.70
+ 4. V-Zn-O | V4ZnO8_1048588_POSCAR | pair=V-Zn | ligand=O | delta_E=-0.000975 | dip_cell_length=7.692401 | IE_avg=778.65 | IE_diff=255.50
+ 5. Ni-Y-O | Y_NiO2_2_1045534_POSCAR | pair=Ni-Y | ligand=O | delta_E=-0.001108 | dip_cell_length=6.633546 | IE_avg=668.55 | IE_diff=137.10
+ 6. Fe-Mn-O | MnFeO4_1221655_POSCAR | pair=Fe-Mn | ligand=O | delta_E=-0.001249 | dip_cell_length=6.597709 | IE_avg=739.90 | IE_diff=45.20
+ 7. Fe-Ti-O | Ti4_FeO4_3_1337025_POSCAR | pair=Fe-Ti | ligand=O | delta_E=-0.001321 | dip_cell_length=8.551070 | IE_avg=710.65 | IE_diff=103.70
+ 8. Pd-Zn-O | Zn2PdO4_22257_POSCAR | pair=Pd-Zn | ligand=O | delta_E=-0.001454 | dip_cell_length=6.652321 | IE_avg=855.40 | IE_diff=102.00
+ 9. Cd-Fe-O | Cd_FeO2_2_1283389_POSCAR | pair=Cd-Fe | ligand=O | delta_E=-0.001611 | dip_cell_length=6.657521 | IE_avg=815.15 | IE_diff=105.30
+10. Fe-Zn-O | Zn2Fe3O8_1042894_POSCAR | pair=Fe-Zn | ligand=O | delta_E=-0.002310 | dip_cell_length=7.430684 | IE_avg=834.45 | IE_diff=143.90
+11. Mn-Nb-O | Mn3NbO8_1176463_POSCAR | pair=Mn-Nb | ligand=O | delta_E=-0.002515 | dip_cell_length=7.666076 | IE_avg=684.70 | IE_diff=65.20
+12. Fe-Ti-O | TiFeO4_1278941_POSCAR | pair=Fe-Ti | ligand=O | delta_E=-0.002698 | dip_cell_length=7.545832 | IE_avg=710.65 | IE_diff=103.70
+13. Co-V-O | V2CoO6_1078719_POSCAR | pair=Co-V | ligand=O | delta_E=-0.002714 | dip_cell_length=11.027401 | IE_avg=705.65 | IE_diff=109.50
+14. Cd-Mn-S | Mn4CdS5_1221768_POSCAR | pair=Cd-Mn | ligand=S | delta_E=-0.002725 | dip_cell_length=7.657900 | IE_avg=792.55 | IE_diff=150.50
+15. Fe-Zn-O | Zn_FeO2_4_1045634_POSCAR | pair=Fe-Zn | ligand=O | delta_E=-0.003254 | dip_cell_length=7.130703 | IE_avg=834.45 | IE_diff=143.90
+16. V-Zn-O | V2ZnO4_1396989_POSCAR | pair=V-Zn | ligand=O | delta_E=-0.003412 | dip_cell_length=7.852263 | IE_avg=778.65 | IE_diff=255.50
+17. Cu-Mn-O | MnCuO3_1176440_POSCAR | pair=Cu-Mn | ligand=O | delta_E=-0.003421 | dip_cell_length=5.795917 | IE_avg=731.40 | IE_diff=28.20
+18. Ag-Mn-O | MnAgO2_996995_POSCAR | pair=Ag-Mn | ligand=O | delta_E=-0.003657 | dip_cell_length=3.774143 | IE_avg=724.15 | IE_diff=13.70
+19. Mn-Y-S | Y_MnS2_2_1045492_POSCAR | pair=Mn-Y | ligand=S | delta_E=-0.003686 | dip_cell_length=8.143848 | IE_avg=658.65 | IE_diff=117.30
+20. Co-Fe-O | FeCo3O8_771245_POSCAR | pair=Co-Fe | ligand=O | delta_E=-0.003784 | dip_cell_length=6.414803 | IE_avg=761.45 | IE_diff=2.10
+
+====================================================================================================
+ALL TERNARY EXAMPLES CLOSE TO ZERO (delta_E >= -0.01)
+====================================================================================================
+count: 60
+- Ti-Zn-O | Ti3Zn2O8_1385787_POSCAR | pair=Ti-Zn | ligand=O | delta_E=-0.000137 | dip_cell_length=7.982198 | baseline_slope=0.006672
+- Fe-Ti-O | TiFeO3_19417_POSCAR | pair=Fe-Ti | ligand=O | delta_E=-0.000317 | dip_cell_length=6.295883 | baseline_slope=0.008027
+- Fe-Ti-O | TiFeO3_19270_POSCAR | pair=Fe-Ti | ligand=O | delta_E=-0.000633 | dip_cell_length=6.293957 | baseline_slope=0.008678
+- V-Zn-O | V4ZnO8_1048588_POSCAR | pair=V-Zn | ligand=O | delta_E=-0.000975 | dip_cell_length=7.692401 | baseline_slope=0.006576
+- Ni-Y-O | Y_NiO2_2_1045534_POSCAR | pair=Ni-Y | ligand=O | delta_E=-0.001108 | dip_cell_length=6.633546 | baseline_slope=0.008071
+- Fe-Mn-O | MnFeO4_1221655_POSCAR | pair=Fe-Mn | ligand=O | delta_E=-0.001249 | dip_cell_length=6.597709 | baseline_slope=0.005275
+- Fe-Ti-O | Ti4_FeO4_3_1337025_POSCAR | pair=Fe-Ti | ligand=O | delta_E=-0.001321 | dip_cell_length=8.551070 | baseline_slope=0.009712
+- Pd-Zn-O | Zn2PdO4_22257_POSCAR | pair=Pd-Zn | ligand=O | delta_E=-0.001454 | dip_cell_length=6.652321 | baseline_slope=0.017183
+- Cd-Fe-O | Cd_FeO2_2_1283389_POSCAR | pair=Cd-Fe | ligand=O | delta_E=-0.001611 | dip_cell_length=6.657521 | baseline_slope=0.010007
+- Fe-Zn-O | Zn2Fe3O8_1042894_POSCAR | pair=Fe-Zn | ligand=O | delta_E=-0.002310 | dip_cell_length=7.430684 | baseline_slope=0.013761
+- Mn-Nb-O | Mn3NbO8_1176463_POSCAR | pair=Mn-Nb | ligand=O | delta_E=-0.002515 | dip_cell_length=7.666076 | baseline_slope=0.011641
+- Fe-Ti-O | TiFeO4_1278941_POSCAR | pair=Fe-Ti | ligand=O | delta_E=-0.002698 | dip_cell_length=7.545832 | baseline_slope=0.004791
+- Co-V-O | V2CoO6_1078719_POSCAR | pair=Co-V | ligand=O | delta_E=-0.002714 | dip_cell_length=11.027401 | baseline_slope=0.000939
+- Cd-Mn-S | Mn4CdS5_1221768_POSCAR | pair=Cd-Mn | ligand=S | delta_E=-0.002725 | dip_cell_length=7.657900 | baseline_slope=0.008651
+- Fe-Zn-O | Zn_FeO2_4_1045634_POSCAR | pair=Fe-Zn | ligand=O | delta_E=-0.003254 | dip_cell_length=7.130703 | baseline_slope=0.006436
+- V-Zn-O | V2ZnO4_1396989_POSCAR | pair=V-Zn | ligand=O | delta_E=-0.003412 | dip_cell_length=7.852263 | baseline_slope=0.008928
+- Cu-Mn-O | MnCuO3_1176440_POSCAR | pair=Cu-Mn | ligand=O | delta_E=-0.003421 | dip_cell_length=5.795917 | baseline_slope=0.007408
+- Ag-Mn-O | MnAgO2_996995_POSCAR | pair=Ag-Mn | ligand=O | delta_E=-0.003657 | dip_cell_length=3.774143 | baseline_slope=0.007603
+- Mn-Y-S | Y_MnS2_2_1045492_POSCAR | pair=Mn-Y | ligand=S | delta_E=-0.003686 | dip_cell_length=8.143848 | baseline_slope=0.008244
+- Co-Fe-O | FeCo3O8_771245_POSCAR | pair=Co-Fe | ligand=O | delta_E=-0.003784 | dip_cell_length=6.414803 | baseline_slope=0.004914
+- Fe-Sc-O | ScFeO3_754342_POSCAR | pair=Fe-Sc | ligand=O | delta_E=-0.003960 | dip_cell_length=4.548674 | baseline_slope=0.009284
+- Mo-Ti-O | TiMoO4_1216722_POSCAR | pair=Mo-Ti | ligand=O | delta_E=-0.004061 | dip_cell_length=6.593474 | baseline_slope=0.004915
+- Fe-Zn-O | Zn_FeO2_2_19313_POSCAR | pair=Fe-Zn | ligand=O | delta_E=-0.004141 | dip_cell_length=6.455729 | baseline_slope=0.009778
+- Co-V-O | V2CoO4_758452_POSCAR | pair=Co-V | ligand=O | delta_E=-0.004478 | dip_cell_length=7.038865 | baseline_slope=0.010447
+- Ti-Zn-O | Ti3Zn2O8_37995_POSCAR | pair=Ti-Zn | ligand=O | delta_E=-0.004684 | dip_cell_length=7.252062 | baseline_slope=0.006695
+- Cr-V-S | V_CrS2_2_1025224_POSCAR | pair=Cr-V | ligand=S | delta_E=-0.004921 | dip_cell_length=7.821116 | baseline_slope=0.006882
+- Ag-Mn-O | MnAgO2_997160_POSCAR | pair=Ag-Mn | ligand=O | delta_E=-0.004978 | dip_cell_length=3.902796 | baseline_slope=0.013973
+- Co-Rh-O | Co_RhO3_2_1226570_POSCAR | pair=Co-Rh | ligand=O | delta_E=-0.005186 | dip_cell_length=6.714786 | baseline_slope=0.004617
+- Cr-Ti-O | TiCrO4_755596_POSCAR | pair=Cr-Ti | ligand=O | delta_E=-0.005229 | dip_cell_length=4.938505 | baseline_slope=0.004578
+- Fe-Ti-O | TiFeO3_19074_POSCAR | pair=Fe-Ti | ligand=O | delta_E=-0.005401 | dip_cell_length=4.088792 | baseline_slope=0.013540
+- Cd-Ti-O | Ti2CdO5_849246_POSCAR | pair=Cd-Ti | ligand=O | delta_E=-0.005591 | dip_cell_length=7.662502 | baseline_slope=0.007366
+- Cr-Fe-O | Cr2FeO4_1104680_POSCAR | pair=Cr-Fe | ligand=O | delta_E=-0.005642 | dip_cell_length=6.576438 | baseline_slope=0.013958
+- Co-Fe-O | FeCoO4_755732_POSCAR | pair=Co-Fe | ligand=O | delta_E=-0.005697 | dip_cell_length=3.787640 | baseline_slope=0.003709
+- Cr-V-S | V_CrS2_2_1216843_POSCAR | pair=Cr-V | ligand=S | delta_E=-0.005822 | dip_cell_length=4.503236 | baseline_slope=0.012405
+- Cu-Mn-O | MnCuO2_510589_POSCAR | pair=Cu-Mn | ligand=O | delta_E=-0.005988 | dip_cell_length=3.760596 | baseline_slope=0.005528
+- Mn-Ti-O | TiMnO3_697089_POSCAR | pair=Mn-Ti | ligand=O | delta_E=-0.006073 | dip_cell_length=7.909024 | baseline_slope=0.006087
+- Co-Mn-O | MnCo3O8_773602_POSCAR | pair=Co-Mn | ligand=O | delta_E=-0.006161 | dip_cell_length=6.452979 | baseline_slope=0.004259
+- Co-Cr-O | CrCo3O8_754623_POSCAR | pair=Co-Cr | ligand=O | delta_E=-0.006312 | dip_cell_length=6.432657 | baseline_slope=0.006390
+- Cr-Fe-O | Cr2FeO4_35432_POSCAR | pair=Cr-Fe | ligand=O | delta_E=-0.006781 | dip_cell_length=6.692764 | baseline_slope=0.015193
+- Fe-V-O | V3FeO8_771199_POSCAR | pair=Fe-V | ligand=O | delta_E=-0.006847 | dip_cell_length=8.903720 | baseline_slope=0.004266
+- Ag-Mn-O | MnAgO2_997162_POSCAR | pair=Ag-Mn | ligand=O | delta_E=-0.007005 | dip_cell_length=3.910112 | baseline_slope=0.013928
+- Cr-Zr-O | ZrCrO4_1650178_POSCAR | pair=Cr-Zr | ligand=O | delta_E=-0.007097 | dip_cell_length=6.706159 | baseline_slope=0.018954
+- Fe-Zn-O | ZnFeO2_1370181_POSCAR | pair=Fe-Zn | ligand=O | delta_E=-0.007187 | dip_cell_length=3.564701 | baseline_slope=0.020579
+- Fe-Zn-O | ZnFeO2_1046293_POSCAR | pair=Fe-Zn | ligand=O | delta_E=-0.007360 | dip_cell_length=3.700047 | baseline_slope=0.019594
+- Cr-Zn-O | ZnCr2O4_1409107_POSCAR | pair=Cr-Zn | ligand=O | delta_E=-0.007480 | dip_cell_length=7.161091 | baseline_slope=0.012073
+- Ag-Mn-O | MnAgO2_1279432_POSCAR | pair=Ag-Mn | ligand=O | delta_E=-0.007686 | dip_cell_length=4.078589 | baseline_slope=0.028146
+- Cr-Zn-O | ZnCr2O4_1048872_POSCAR | pair=Cr-Zn | ligand=O | delta_E=-0.008348 | dip_cell_length=6.514929 | baseline_slope=0.012979
+- V-Y-O | Y2V2O7_754039_POSCAR | pair=V-Y | ligand=O | delta_E=-0.008349 | dip_cell_length=8.121900 | baseline_slope=0.004812
+- Mn-Ti-O | TiMnO4_775296_POSCAR | pair=Mn-Ti | ligand=O | delta_E=-0.008377 | dip_cell_length=5.295411 | baseline_slope=0.006795
+- Fe-Mn-O | Mn5Fe3O16_773198_POSCAR | pair=Fe-Mn | ligand=O | delta_E=-0.008525 | dip_cell_length=7.620300 | baseline_slope=0.009383
+- Fe-Zn-O | ZnFeO3_755099_POSCAR | pair=Fe-Zn | ligand=O | delta_E=-0.008681 | dip_cell_length=5.673097 | baseline_slope=0.007816
+- Mn-Ta-O | Ta2Mn2O7_755851_POSCAR | pair=Mn-Ta | ligand=O | delta_E=-0.008962 | dip_cell_length=6.982583 | baseline_slope=0.012302
+- Co-Fe-O | FeCo3O8_761579_POSCAR | pair=Co-Fe | ligand=O | delta_E=-0.008986 | dip_cell_length=7.297525 | baseline_slope=0.009274
+- Co-Fe-O | FeCoO4_761526_POSCAR | pair=Co-Fe | ligand=O | delta_E=-0.009145 | dip_cell_length=7.109744 | baseline_slope=0.005982
+- Co-Fe-O | Fe5Co3O16_771307_POSCAR | pair=Co-Fe | ligand=O | delta_E=-0.009227 | dip_cell_length=7.395958 | baseline_slope=0.009437
+- Mn-V-O | MnV3O8_756087_POSCAR | pair=Mn-V | ligand=O | delta_E=-0.009444 | dip_cell_length=8.799521 | baseline_slope=0.004306
+- Fe-Y-O | Y_FeO2_2_1279116_POSCAR | pair=Fe-Y | ligand=O | delta_E=-0.009644 | dip_cell_length=4.391907 | baseline_slope=0.013876
+- Cr-Ti-S | TiCrS2_1216903_POSCAR | pair=Cr-Ti | ligand=S | delta_E=-0.009655 | dip_cell_length=4.643304 | baseline_slope=0.007640
+- Fe-Zn-O | ZnFe5O8_35033_POSCAR | pair=Fe-Zn | ligand=O | delta_E=-0.009722 | dip_cell_length=6.462438 | baseline_slope=0.009935
+- Co-Mn-O | MnCoO4_761556_POSCAR | pair=Co-Mn | ligand=O | delta_E=-0.009996 | dip_cell_length=5.878675 | baseline_slope=0.003862
+
+====================================================================================================
+TERNARY STRONGEST CHEMSYS
+====================================================================================================
+ 1. V-Zr-O | ligands=O | n_total=8 | best_overall_delta_E=-1.682540 | worst_overall_delta_E=-0.112150 | mean_overall_delta_E=-0.393261
+ 2. Sc-Zr-O | ligands=O | n_total=7 | best_overall_delta_E=-0.765614 | worst_overall_delta_E=-0.122419 | mean_overall_delta_E=-0.284206
+ 3. Nb-Ni-O | ligands=O | n_total=3 | best_overall_delta_E=-0.673687 | worst_overall_delta_E=-0.156590 | mean_overall_delta_E=-0.374487
+ 4. Hf-Re-S | ligands=S | n_total=2 | best_overall_delta_E=-0.645395 | worst_overall_delta_E=-0.344362 | mean_overall_delta_E=-0.494878
+ 5. Mn-Ni-O | ligands=O | n_total=25 | best_overall_delta_E=-0.635059 | worst_overall_delta_E=-0.013899 | mean_overall_delta_E=-0.112917
+ 6. W-Y-O | ligands=O | n_total=13 | best_overall_delta_E=-0.620339 | worst_overall_delta_E=-0.076937 | mean_overall_delta_E=-0.142660
+ 7. Pd-Zr-O | ligands=O | n_total=1 | best_overall_delta_E=-0.615224 | worst_overall_delta_E=-0.615224 | mean_overall_delta_E=-0.615224
+ 8. Mo-Zr-S | ligands=S | n_total=1 | best_overall_delta_E=-0.595052 | worst_overall_delta_E=-0.595052 | mean_overall_delta_E=-0.595052
+ 9. V-Zr-S | ligands=S | n_total=1 | best_overall_delta_E=-0.580545 | worst_overall_delta_E=-0.580545 | mean_overall_delta_E=-0.580545
+10. Ni-Ti-O | ligands=O | n_total=8 | best_overall_delta_E=-0.565493 | worst_overall_delta_E=-0.080948 | mean_overall_delta_E=-0.288880
+11. Mn-Ti-O | ligands=O | n_total=22 | best_overall_delta_E=-0.548300 | worst_overall_delta_E=-0.006073 | mean_overall_delta_E=-0.126001
+12. Ti-Y-O | ligands=O | n_total=15 | best_overall_delta_E=-0.527580 | worst_overall_delta_E=-0.060612 | mean_overall_delta_E=-0.193425
+13. Fe-Zr-S | ligands=S | n_total=1 | best_overall_delta_E=-0.526448 | worst_overall_delta_E=-0.526448 | mean_overall_delta_E=-0.526448
+14. Ni-Zr-O | ligands=O | n_total=4 | best_overall_delta_E=-0.524857 | worst_overall_delta_E=-0.075838 | mean_overall_delta_E=-0.235948
+15. Mo-Zr-O | ligands=O | n_total=1 | best_overall_delta_E=-0.523175 | worst_overall_delta_E=-0.523175 | mean_overall_delta_E=-0.523175
+
+====================================================================================================
+TERNARY WEAKEST CHEMSYS
+====================================================================================================
+ 1. Pd-Zn-O | ligands=O | n_total=1 | best_overall_delta_E=-0.001454 | worst_overall_delta_E=-0.001454 | mean_overall_delta_E=-0.001454
+ 2. Mo-Ti-O | ligands=O | n_total=1 | best_overall_delta_E=-0.004061 | worst_overall_delta_E=-0.004061 | mean_overall_delta_E=-0.004061
+ 3. Co-Rh-O | ligands=O | n_total=1 | best_overall_delta_E=-0.005186 | worst_overall_delta_E=-0.005186 | mean_overall_delta_E=-0.005186
+ 4. Cr-Zr-O | ligands=O | n_total=1 | best_overall_delta_E=-0.007097 | worst_overall_delta_E=-0.007097 | mean_overall_delta_E=-0.007097
+ 5. Cr-Ti-S | ligands=S | n_total=1 | best_overall_delta_E=-0.009655 | worst_overall_delta_E=-0.009655 | mean_overall_delta_E=-0.009655
+ 6. Cd-Ti-O | ligands=O | n_total=2 | best_overall_delta_E=-0.010162 | worst_overall_delta_E=-0.005591 | mean_overall_delta_E=-0.007876
+ 7. Mo-Ni-O | ligands=O | n_total=1 | best_overall_delta_E=-0.010808 | worst_overall_delta_E=-0.010808 | mean_overall_delta_E=-0.010808
+ 8. Ni-Pt-O | ligands=O | n_total=1 | best_overall_delta_E=-0.011403 | worst_overall_delta_E=-0.011403 | mean_overall_delta_E=-0.011403
+ 9. Cd-Ni-O | ligands=O | n_total=1 | best_overall_delta_E=-0.012158 | worst_overall_delta_E=-0.012158 | mean_overall_delta_E=-0.012158
+10. Fe-Rh-O | ligands=O | n_total=1 | best_overall_delta_E=-0.012757 | worst_overall_delta_E=-0.012757 | mean_overall_delta_E=-0.012757
+11. Cr-Tc-O | ligands=O | n_total=1 | best_overall_delta_E=-0.015216 | worst_overall_delta_E=-0.015216 | mean_overall_delta_E=-0.015216
+12. Hg-Mn-O | ligands=O | n_total=1 | best_overall_delta_E=-0.016828 | worst_overall_delta_E=-0.016828 | mean_overall_delta_E=-0.016828
+13. Fe-Hf-O | ligands=O | n_total=1 | best_overall_delta_E=-0.018021 | worst_overall_delta_E=-0.018021 | mean_overall_delta_E=-0.018021
+14. Cd-Cr-O | ligands=O | n_total=1 | best_overall_delta_E=-0.020864 | worst_overall_delta_E=-0.020864 | mean_overall_delta_E=-0.020864
+15. Co-Mn-S | ligands=S | n_total=2 | best_overall_delta_E=-0.021955 | worst_overall_delta_E=-0.016401 | mean_overall_delta_E=-0.019178
+
+====================================================================================================
+TERNARY STRONGEST PAIRS
+====================================================================================================
+ 1. V-Zr | ligands=O,S | n_total=9 | best_overall_delta_E=-1.682540 | worst_overall_delta_E=-0.112150 | mean_overall_delta_E=-0.486903
+ 2. Sc-Zr | ligands=O | n_total=7 | best_overall_delta_E=-0.765614 | worst_overall_delta_E=-0.122419 | mean_overall_delta_E=-0.284206
+ 3. Nb-Ni | ligands=O,S | n_total=7 | best_overall_delta_E=-0.673687 | worst_overall_delta_E=-0.083268 | mean_overall_delta_E=-0.241157
+ 4. Hf-Re | ligands=O,S | n_total=3 | best_overall_delta_E=-0.645395 | worst_overall_delta_E=-0.344362 | mean_overall_delta_E=-0.426096
+ 5. Mn-Ni | ligands=O | n_total=25 | best_overall_delta_E=-0.635059 | worst_overall_delta_E=-0.013899 | mean_overall_delta_E=-0.112917
+ 6. W-Y | ligands=O | n_total=13 | best_overall_delta_E=-0.620339 | worst_overall_delta_E=-0.076937 | mean_overall_delta_E=-0.142660
+ 7. Pd-Zr | ligands=O | n_total=1 | best_overall_delta_E=-0.615224 | worst_overall_delta_E=-0.615224 | mean_overall_delta_E=-0.615224
+ 8. Mo-Zr | ligands=O,S | n_total=2 | best_overall_delta_E=-0.595052 | worst_overall_delta_E=-0.523175 | mean_overall_delta_E=-0.559113
+ 9. Ni-Ti | ligands=O,S | n_total=9 | best_overall_delta_E=-0.565493 | worst_overall_delta_E=-0.062495 | mean_overall_delta_E=-0.175688
+10. Mn-Ti | ligands=O | n_total=22 | best_overall_delta_E=-0.548300 | worst_overall_delta_E=-0.006073 | mean_overall_delta_E=-0.126001
+11. Ti-Y | ligands=O,S | n_total=17 | best_overall_delta_E=-0.527580 | worst_overall_delta_E=-0.015890 | mean_overall_delta_E=-0.115724
+12. Fe-Zr | ligands=O,S | n_total=2 | best_overall_delta_E=-0.526448 | worst_overall_delta_E=-0.168493 | mean_overall_delta_E=-0.347471
+13. Ni-Zr | ligands=O | n_total=4 | best_overall_delta_E=-0.524857 | worst_overall_delta_E=-0.075838 | mean_overall_delta_E=-0.235948
+14. Co-Zr | ligands=O | n_total=3 | best_overall_delta_E=-0.512075 | worst_overall_delta_E=-0.070508 | mean_overall_delta_E=-0.245990
+15. Fe-Ti | ligands=O,S | n_total=48 | best_overall_delta_E=-0.502760 | worst_overall_delta_E=-0.000317 | mean_overall_delta_E=-0.084763
+
+====================================================================================================
+TERNARY WEAKEST PAIRS
+====================================================================================================
+ 1. Pd-Zn | ligands=O | n_total=1 | best_overall_delta_E=-0.001454 | worst_overall_delta_E=-0.001454 | mean_overall_delta_E=-0.001454
+ 2. Mo-Ti | ligands=O | n_total=1 | best_overall_delta_E=-0.004061 | worst_overall_delta_E=-0.004061 | mean_overall_delta_E=-0.004061
+ 3. Cr-Zr | ligands=O | n_total=1 | best_overall_delta_E=-0.007097 | worst_overall_delta_E=-0.007097 | mean_overall_delta_E=-0.007097
+ 4. Cd-Ti | ligands=O | n_total=2 | best_overall_delta_E=-0.010162 | worst_overall_delta_E=-0.005591 | mean_overall_delta_E=-0.007876
+ 5. Mo-Ni | ligands=O | n_total=1 | best_overall_delta_E=-0.010808 | worst_overall_delta_E=-0.010808 | mean_overall_delta_E=-0.010808
+ 6. Ni-Pt | ligands=O | n_total=1 | best_overall_delta_E=-0.011403 | worst_overall_delta_E=-0.011403 | mean_overall_delta_E=-0.011403
+ 7. Cd-Ni | ligands=O | n_total=1 | best_overall_delta_E=-0.012158 | worst_overall_delta_E=-0.012158 | mean_overall_delta_E=-0.012158
+ 8. Fe-Rh | ligands=O | n_total=1 | best_overall_delta_E=-0.012757 | worst_overall_delta_E=-0.012757 | mean_overall_delta_E=-0.012757
+ 9. Cr-Tc | ligands=O | n_total=1 | best_overall_delta_E=-0.015216 | worst_overall_delta_E=-0.015216 | mean_overall_delta_E=-0.015216
+10. Hg-Mn | ligands=O | n_total=1 | best_overall_delta_E=-0.016828 | worst_overall_delta_E=-0.016828 | mean_overall_delta_E=-0.016828
+11. Fe-Hf | ligands=O | n_total=1 | best_overall_delta_E=-0.018021 | worst_overall_delta_E=-0.018021 | mean_overall_delta_E=-0.018021
+12. Cd-Cr | ligands=O | n_total=1 | best_overall_delta_E=-0.020864 | worst_overall_delta_E=-0.020864 | mean_overall_delta_E=-0.020864
+13. V-W | ligands=O | n_total=1 | best_overall_delta_E=-0.024290 | worst_overall_delta_E=-0.024290 | mean_overall_delta_E=-0.024290
+14. Co-Cr | ligands=O | n_total=5 | best_overall_delta_E=-0.057674 | worst_overall_delta_E=-0.006312 | mean_overall_delta_E=-0.019187
+15. Co-Rh | ligands=O,S | n_total=2 | best_overall_delta_E=-0.057884 | worst_overall_delta_E=-0.005186 | mean_overall_delta_E=-0.031535
+
+====================================================================================================
+TERNARY IONIZATION-ENERGY CHECKS
+====================================================================================================
+corr(delta_E, IE_avg) in ternary top set: 0.2865
+corr(delta_E, IE_diff) in ternary top set: 0.2788
+
+Lowest IE_avg examples in ternary top set:
+- Ti-Y-O | delta_E=-0.527580 | IE_avg=629.40 | IE_diff=58.80
+- Sc-Zr-O | delta_E=-0.765614 | IE_avg=636.60 | IE_diff=7.00
+- V-Zr-O | delta_E=-0.561121 | IE_avg=645.50 | IE_diff=10.80
+- V-Zr-O | delta_E=-1.682540 | IE_avg=645.50 | IE_diff=10.80
+- V-Zr-S | delta_E=-0.580545 | IE_avg=645.50 | IE_diff=10.80
+- Mo-Zr-S | delta_E=-0.595052 | IE_avg=662.20 | IE_diff=44.20
+- Mo-Zr-O | delta_E=-0.523175 | IE_avg=662.20 | IE_diff=44.20
+- W-Y-O | delta_E=-0.620339 | IE_avg=685.00 | IE_diff=170.00
+- Mn-Ti-O | delta_E=-0.548300 | IE_avg=688.05 | IE_diff=58.50
+- Mn-Ti-O | delta_E=-0.536739 | IE_avg=688.05 | IE_diff=58.50
+
+Highest IE_avg examples in ternary top set:
+- Mn-Ni-O | delta_E=-0.571318 | IE_avg=727.20 | IE_diff=19.80
+- Mn-Ni-O | delta_E=-0.635059 | IE_avg=727.20 | IE_diff=19.80
+- Pd-Zr-O | delta_E=-0.615224 | IE_avg=722.25 | IE_diff=164.30
+- Hf-Re-S | delta_E=-0.645395 | IE_avg=709.25 | IE_diff=101.50
+- Fe-Zr-S | delta_E=-0.526448 | IE_avg=701.30 | IE_diff=122.40
+- Ni-Ti-O | delta_E=-0.550251 | IE_avg=697.95 | IE_diff=78.30
+- Ni-Ti-O | delta_E=-0.565493 | IE_avg=697.95 | IE_diff=78.30
+- Ni-Ti-O | delta_E=-0.537694 | IE_avg=697.95 | IE_diff=78.30
+- Nb-Ni-O | delta_E=-0.673687 | IE_avg=694.60 | IE_diff=85.00
+- Ni-Zr-O | delta_E=-0.524857 | IE_avg=688.60 | IE_diff=97.00
+
+Lowest IE_diff examples in ternary top set:
+- Sc-Zr-O | delta_E=-0.765614 | IE_avg=636.60 | IE_diff=7.00
+- V-Zr-O | delta_E=-1.682540 | IE_avg=645.50 | IE_diff=10.80
+- V-Zr-O | delta_E=-0.561121 | IE_avg=645.50 | IE_diff=10.80
+- V-Zr-S | delta_E=-0.580545 | IE_avg=645.50 | IE_diff=10.80
+- Mn-Ni-O | delta_E=-0.635059 | IE_avg=727.20 | IE_diff=19.80
+- Mn-Ni-O | delta_E=-0.571318 | IE_avg=727.20 | IE_diff=19.80
+- Mo-Zr-S | delta_E=-0.595052 | IE_avg=662.20 | IE_diff=44.20
+- Mo-Zr-O | delta_E=-0.523175 | IE_avg=662.20 | IE_diff=44.20
+- Mn-Ti-O | delta_E=-0.536739 | IE_avg=688.05 | IE_diff=58.50
+- Mn-Ti-O | delta_E=-0.548300 | IE_avg=688.05 | IE_diff=58.50
+
+Highest IE_diff examples in ternary top set:
+- W-Y-O | delta_E=-0.620339 | IE_avg=685.00 | IE_diff=170.00
+- Pd-Zr-O | delta_E=-0.615224 | IE_avg=722.25 | IE_diff=164.30
+- Fe-Zr-S | delta_E=-0.526448 | IE_avg=701.30 | IE_diff=122.40
+- Hf-Re-S | delta_E=-0.645395 | IE_avg=709.25 | IE_diff=101.50
+- Ni-Zr-O | delta_E=-0.524857 | IE_avg=688.60 | IE_diff=97.00
+- Nb-Ni-O | delta_E=-0.673687 | IE_avg=694.60 | IE_diff=85.00
+- Ni-Ti-O | delta_E=-0.537694 | IE_avg=697.95 | IE_diff=78.30
+- Ni-Ti-O | delta_E=-0.550251 | IE_avg=697.95 | IE_diff=78.30
+- Ni-Ti-O | delta_E=-0.565493 | IE_avg=697.95 | IE_diff=78.30
+- Ti-Y-O | delta_E=-0.527580 | IE_avg=629.40 | IE_diff=58.80

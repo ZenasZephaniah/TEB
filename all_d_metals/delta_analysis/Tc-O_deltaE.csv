@@ -1,0 +1,2 @@
+chemsys,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Tc-O,Tc2O7_27485_POSCAR,35,local_max_drop,4.687697691,-0.37474705355392,-0.25691739064373154,-0.11782966291018848,4.411951,13.511599,0.0271782

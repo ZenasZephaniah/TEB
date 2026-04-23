@@ -1,0 +1,373 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1395289","Zn(FeS2)2","Cubic","Fd-3m","227","14","0.15108743499999902","-0.7324233335714271","False","226.93512350053956","4.4687709951315995","0.0","False","True","FM","3.9987043","# generated using pymatgen
+data_Zn(FeS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84655717
+_cell_length_b   6.84655717
+_cell_length_c   6.84655717
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(FeS2)2
+_chemical_formula_sum   'Zn2 Fe4 S8'
+_cell_volume   226.93512350
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50000000  0.50000000  0.50000000  1
+  Zn  Zn1  1  0.75000000  0.75000000  0.75000000  1
+  Fe  Fe2  1  0.12500000  0.12500000  0.12500000  1
+  Fe  Fe3  1  0.62500000  0.12500000  0.12500000  1
+  Fe  Fe4  1  0.12500000  0.62500000  0.12500000  1
+  Fe  Fe5  1  0.12500000  0.12500000  0.62500000  1
+  S  S6  1  0.36073300  0.36073300  0.36073300  1
+  S  S7  1  0.33219800  0.88926700  0.88926700  1
+  S  S8  1  0.88926700  0.88926700  0.33219800  1
+  S  S9  1  0.88926700  0.33219800  0.88926700  1
+  S  S10  1  0.36073300  0.36073300  0.91780200  1
+  S  S11  1  0.36073300  0.91780200  0.36073300  1
+  S  S12  1  0.88926700  0.88926700  0.88926700  1
+  S  S13  1  0.91780200  0.36073300  0.36073300  1
+"
+"True","mp-1389627","Zn(FeS2)4","Trigonal","R-3m","166","13","0.274349767692307","-0.592530016923075","False","220.43972081596797","4.107730197247587","0.0","False","True","FM","7.1402989","# generated using pymatgen
+data_Zn(FeS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76556216
+_cell_length_b   6.76556216
+_cell_length_c   6.76556225
+_cell_angle_alpha   60.29536223
+_cell_angle_beta   60.29536223
+_cell_angle_gamma   60.29536404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(FeS2)4
+_chemical_formula_sum   'Zn1 Fe4 S8'
+_cell_volume   220.43972082
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe1  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe2  1  0.50000000  0.50000000  0.00000000  1
+  Fe  Fe3  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe4  1  0.00000000  0.50000000  0.50000000  1
+  S  S5  1  0.74295500  0.27918700  0.74295500  1
+  S  S6  1  0.74295500  0.74295500  0.27918700  1
+  S  S7  1  0.27918700  0.74295500  0.74295500  1
+  S  S8  1  0.74037900  0.74037900  0.74037900  1
+  S  S9  1  0.25962100  0.25962100  0.25962100  1
+  S  S10  1  0.25704500  0.25704500  0.72081300  1
+  S  S11  1  0.72081300  0.25704500  0.25704500  1
+  S  S12  1  0.25704500  0.72081300  0.25704500  1
+"
+"True","mp-1446023","Zn(FeS2)4","Trigonal","R-3m","166","13","0.231878902307692","-0.635000882307691","False","233.038494134538","3.885653746740275","0.0","False","True","FM","7.5032358","# generated using pymatgen
+data_Zn(FeS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28458394
+_cell_length_b   7.28458394
+_cell_length_c   7.28458441
+_cell_angle_alpha   53.69493268
+_cell_angle_beta   53.69493268
+_cell_angle_gamma   53.69493616
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(FeS2)4
+_chemical_formula_sum   'Zn1 Fe4 S8'
+_cell_volume   233.03849413
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe1  1  0.00000000  0.50000000  0.50000000  1
+  Fe  Fe2  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe3  1  0.50000000  0.50000000  0.00000000  1
+  Fe  Fe4  1  0.00000000  0.00000000  0.00000000  1
+  S  S5  1  0.27163700  0.75733400  0.75733400  1
+  S  S6  1  0.24266600  0.24266600  0.72836300  1
+  S  S7  1  0.72836300  0.24266600  0.24266600  1
+  S  S8  1  0.24266600  0.72836300  0.24266600  1
+  S  S9  1  0.26346700  0.26346700  0.26346700  1
+  S  S10  1  0.73653300  0.73653300  0.73653300  1
+  S  S11  1  0.75733400  0.27163700  0.75733400  1
+  S  S12  1  0.75733400  0.75733400  0.27163700  1
+"
+"True","mp-1215436","Zn2FeS3","Trigonal","P3m1","156","6","0.140456802500001","-0.821111010416665","False","120.04818059631319","3.912568745042419","0.0","False","True","FM","3.9995355","# generated using pymatgen
+data_Zn2FeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82934607
+_cell_length_b   3.82934607
+_cell_length_c   9.45313200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000126
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2FeS3
+_chemical_formula_sum   'Zn2 Fe1 S3'
+_cell_volume   120.04818060
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.66666700  0.33333300  0.33384100  1
+  Zn  Zn1  1  0.33333300  0.66666700  0.66733200  1
+  Fe  Fe2  1  0.00000000  0.00000000  0.00086900  1
+  S  S3  1  0.00000000  0.00000000  0.24719600  1
+  S  S4  1  0.66666700  0.33333300  0.58308700  1
+  S  S5  1  0.33333300  0.66666700  0.91767600  1
+"
+"True","mp-1215530","Zn2FeS3","Orthorhombic","Imm2","44","6","0.139550339166667","-0.8220174737499991","False","120.03826728316787","3.912891862995136","0.0","False","True","FM","3.999987","# generated using pymatgen
+data_Zn2FeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65027000
+_cell_length_b   6.65027000
+_cell_length_c   6.65027000
+_cell_angle_alpha   146.45569462
+_cell_angle_beta   131.80684847
+_cell_angle_gamma   59.99468428
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2FeS3
+_chemical_formula_sum   'Zn2 Fe1 S3'
+_cell_volume   120.03826728
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.33314300  0.33347100  0.99967200  1
+  Zn  Zn1  1  0.66620100  0.66652900  0.99967200  1
+  Fe  Fe2  1  0.99857800  0.00000000  0.99857800  1
+  S  S3  1  0.58734200  0.83472500  0.75261800  1
+  S  S4  1  0.91789300  0.16527500  0.75261800  1
+  S  S5  1  0.24684400  0.50000000  0.74684400  1
+"
+"True","mp-1215640","Zn2FeS3","Trigonal","R3","146","12","0.137250916666666","-0.824316896249999","False","240.41896675956772","3.907318674820406","0.0","False","True","FM","7.9999559","# generated using pymatgen
+data_Zn2FeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37866184
+_cell_length_b   7.37866184
+_cell_length_c   7.37866215
+_cell_angle_alpha   53.43511275
+_cell_angle_beta   53.43511275
+_cell_angle_gamma   53.43511876
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2FeS3
+_chemical_formula_sum   'Zn4 Fe2 S6'
+_cell_volume   240.41896676
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50002900  0.50002900  0.50002900  1
+  Zn  Zn1  1  0.00074900  0.66643700  0.33391400  1
+  Zn  Zn2  1  0.66643700  0.33391400  0.00074900  1
+  Zn  Zn3  1  0.33391400  0.00074900  0.66643700  1
+  Fe  Fe4  1  0.16718000  0.16718000  0.16718000  1
+  Fe  Fe5  1  0.83378100  0.83378100  0.83378100  1
+  S  S6  1  0.29017500  0.29017500  0.29017500  1
+  S  S7  1  0.95699600  0.95699600  0.95699600  1
+  S  S8  1  0.62487200  0.62487200  0.62487200  1
+  S  S9  1  0.12255200  0.79506800  0.45881900  1
+  S  S10  1  0.79506800  0.45881900  0.12255200  1
+  S  S11  1  0.45881900  0.12255200  0.79506800  1
+"
+"True","mp-1215502","Zn3FeS4","Trigonal","R3m","160","8","0.10753960937499801","-0.879544051249999","False","160.064033706799","3.945646811793952","0.0","False","True","FM","4.0019821","# generated using pymatgen
+data_Zn3FeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.76113067
+_cell_length_b   12.76113067
+_cell_length_c   12.76113058
+_cell_angle_alpha   17.28370955
+_cell_angle_beta   17.28370955
+_cell_angle_gamma   17.28371150
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3FeS4
+_chemical_formula_sum   'Zn3 Fe1 S4'
+_cell_volume   160.06403371
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00003800  0.00003800  0.00003800  1
+  Zn  Zn1  1  0.75005500  0.75005500  0.75005500  1
+  Zn  Zn2  1  0.50007700  0.50007700  0.50007700  1
+  Fe  Fe3  1  0.25011500  0.25011500  0.25011500  1
+  S  S4  1  0.06248100  0.06248100  0.06248100  1
+  S  S5  1  0.81246300  0.81246300  0.81246300  1
+  S  S6  1  0.56275400  0.56275400  0.56275400  1
+  S  S7  1  0.31201800  0.31201800  0.31201800  1
+"
+"True","mp-1215515","Zn4FeS5","Trigonal","R3m","160","10","0.0949518835","-0.907441285749999","False","200.7814179508691","3.951638240995125","0.0","False","True","FM","3.998112","# generated using pymatgen
+data_Zn4FeS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   15.86413042
+_cell_length_b   15.86413042
+_cell_length_c   15.86413028
+_cell_angle_alpha   13.90929328
+_cell_angle_beta   13.90929328
+_cell_angle_gamma   13.90929577
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn4FeS5
+_chemical_formula_sum   'Zn4 Fe1 S5'
+_cell_volume   200.78141795
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.99995900  0.99995900  0.99995900  1
+  Zn  Zn1  1  0.59997000  0.59997000  0.59997000  1
+  Zn  Zn2  1  0.19998000  0.19998000  0.19998000  1
+  Zn  Zn3  1  0.79997400  0.79997400  0.79997400  1
+  Fe  Fe4  1  0.39994300  0.39994300  0.39994300  1
+  S  S5  1  0.95000900  0.95000900  0.95000900  1
+  S  S6  1  0.55002000  0.55002000  0.55002000  1
+  S  S7  1  0.15000300  0.15000300  0.15000300  1
+  S  S8  1  0.74982900  0.74982900  0.74982900  1
+  S  S9  1  0.35031400  0.35031400  0.35031400  1
+"
+"True","mp-1348032","ZnFe2S5","Orthorhombic","Pmmn","59","16","0.42303013312499904","-0.47848539531249906","False","292.18904478267973","3.83522752829542","0.0","False","True","FM","4.6590298","# generated using pymatgen
+data_ZnFe2S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66105200
+_cell_length_b   5.92466200
+_cell_length_c   13.47083300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnFe2S5
+_chemical_formula_sum   'Zn2 Fe4 S10'
+_cell_volume   292.18904478
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.05490400  0.50000000  1
+  Zn  Zn1  1  0.50000000  0.94509600  0.00000000  1
+  Fe  Fe2  1  0.50000000  0.56573400  0.64524900  1
+  Fe  Fe3  1  0.00000000  0.43426600  0.85475100  1
+  Fe  Fe4  1  0.00000000  0.43426600  0.14524900  1
+  Fe  Fe5  1  0.50000000  0.56573400  0.35475100  1
+  S  S6  1  0.00000000  0.59905800  0.00000000  1
+  S  S7  1  0.50000000  0.40094200  0.50000000  1
+  S  S8  1  0.00000000  0.38831000  0.68954400  1
+  S  S9  1  0.50000000  0.61169000  0.81045600  1
+  S  S10  1  0.00000000  0.38831000  0.31045600  1
+  S  S11  1  0.50000000  0.61169000  0.18954400  1
+  S  S12  1  0.50000000  0.90570800  0.39250000  1
+  S  S13  1  0.00000000  0.09429200  0.10750000  1
+  S  S14  1  0.00000000  0.09429200  0.89250000  1
+  S  S15  1  0.50000000  0.90570800  0.60750000  1
+"
+"True","mp-1215469","ZnFeS2","Trigonal","R3m","160","4","0.20819544374999902","-0.7023406737500001","False","79.34316750966151","3.879822094134185","0.0","False","True","FM","3.9853677","# generated using pymatgen
+data_ZnFeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65631757
+_cell_length_b   6.65631757
+_cell_length_c   6.65631799
+_cell_angle_alpha   33.34488454
+_cell_angle_beta   33.34488454
+_cell_angle_gamma   33.34488137
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnFeS2
+_chemical_formula_sum   'Zn1 Fe1 S2'
+_cell_volume   79.34316751
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.99975400  0.99975400  0.99975400  1
+  Fe  Fe1  1  0.49971200  0.49971200  0.49971200  1
+  S  S2  1  0.87448100  0.87448100  0.87448100  1
+  S  S3  1  0.37605200  0.37605200  0.37605200  1
+"

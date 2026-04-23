@@ -1,0 +1,297 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-17619","Sc2Mn2O7","Cubic","Fd-3m","227","22","0.0","-2.805036003260187","True","220.52968669696315","4.695322840031684","0.0","False","True","FM","11.9999995","# generated using pymatgen
+data_Sc2Mn2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78153111
+_cell_length_b   6.78153127
+_cell_length_c   6.78152882
+_cell_angle_alpha   59.99985881
+_cell_angle_beta   59.99985991
+_cell_angle_gamma   59.99995209
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2Mn2O7
+_chemical_formula_sum   'Sc4 Mn4 O14'
+_cell_volume   220.52968670
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.49999946  0.50000044  0.49999992  1
+  Sc  Sc1  1  0.49999972  0.50000076  0.00000018  1
+  Sc  Sc2  1  0.00000008  0.49999950  0.50000057  1
+  Sc  Sc3  1  0.50000044  -0.00000007  0.49999979  1
+  Mn  Mn4  1  -0.00000034  0.00000034  -0.00000022  1
+  Mn  Mn5  1  0.00000003  0.00000049  0.49999957  1
+  Mn  Mn6  1  0.49999996  -0.00000022  -0.00000001  1
+  Mn  Mn7  1  -0.00000033  0.49999990  0.00000004  1
+  O  O8  1  0.91561231  0.91561234  0.33438728  1
+  O  O9  1  0.66561106  0.66561097  0.08438867  1
+  O  O10  1  0.33438796  0.91561184  0.91561148  1
+  O  O11  1  0.91561213  0.33438729  0.91561179  1
+  O  O12  1  0.33438839  0.91561196  0.33438848  1
+  O  O13  1  0.91561160  0.33438810  0.33438881  1
+  O  O14  1  0.08438774  0.08438768  0.66561245  1
+  O  O15  1  0.08438851  0.66561161  0.08438838  1
+  O  O16  1  0.37499992  0.37499957  0.37500009  1
+  O  O17  1  0.62500036  0.62500028  0.62500001  1
+  O  O18  1  0.33438849  0.33438803  0.91561117  1
+  O  O19  1  0.66561234  0.08438799  0.08438785  1
+  O  O20  1  0.08438868  0.66561098  0.66561141  1
+  O  O21  1  0.66561149  0.08438822  0.66561129  1
+"
+"True","mp-1219298","ScMn2O4","Orthorhombic","Imma","74","14","0.038378947053589005","-2.69459729726601","False","171.4438370452114","4.238998721822866","0.0","False","True","FiM","10.0000021","# generated using pymatgen
+data_ScMn2O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01204281
+_cell_length_b   6.29565855
+_cell_length_c   6.23767700
+_cell_angle_alpha   60.30404723
+_cell_angle_beta   89.99994389
+_cell_angle_gamma   61.52837589
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScMn2O4
+_chemical_formula_sum   'Sc2 Mn4 O8'
+_cell_volume   171.44383705
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.37501100  0.24997800  0.62502000  1
+  Sc  Sc1  1  0.37502300  0.24993500  0.12502800  1
+  Mn  Mn2  1  0.74492000  0.50914200  0.24544800  1
+  Mn  Mn3  1  0.00505900  0.99096600  0.00453400  1
+  Mn  Mn4  1  0.37525400  0.75003500  0.62483300  1
+  Mn  Mn5  1  0.87477000  0.74998700  0.62503100  1
+  O  O6  1  0.13746800  0.72796000  0.42213000  1
+  O  O7  1  0.13745100  0.72795200  0.84994900  1
+  O  O8  1  0.61251300  0.77202900  0.40011900  1
+  O  O9  1  0.61252900  0.77203200  0.82788500  1
+  O  O10  1  0.14047500  0.25934200  0.87033000  1
+  O  O11  1  0.60154200  0.25820900  0.87090200  1
+  O  O12  1  0.14845700  0.24178700  0.37911400  1
+  O  O13  1  0.60952800  0.24064500  0.37967600  1
+"
+"True","mp-770412","ScMn2O5","Orthorhombic","Cmcm","63","16","0.039516378867178","-2.518295824482759","False","192.74611906307683","4.046179852410718","0.0","False","True","FM","14.0","# generated using pymatgen
+data_ScMn2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27431675
+_cell_length_b   5.27431675
+_cell_length_c   9.89139000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   135.53445207
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScMn2O5
+_chemical_formula_sum   'Sc2 Mn4 O10'
+_cell_volume   192.74611906
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.79645000  0.20355000  0.25000000  1
+  Sc  Sc1  1  0.20355000  0.79645000  0.75000000  1
+  Mn  Mn2  1  0.86173900  0.13826100  0.55585800  1
+  Mn  Mn3  1  0.86173900  0.13826100  0.94414200  1
+  Mn  Mn4  1  0.13826100  0.86173900  0.05585800  1
+  Mn  Mn5  1  0.13826100  0.86173900  0.44414200  1
+  O  O6  1  0.95216100  0.04783900  0.11508100  1
+  O  O7  1  0.95216100  0.04783900  0.38491900  1
+  O  O8  1  0.68750600  0.31249400  0.44570500  1
+  O  O9  1  0.68750600  0.31249400  0.05429500  1
+  O  O10  1  0.21939700  0.78060300  0.25000000  1
+  O  O11  1  0.04783900  0.95216100  0.61508100  1
+  O  O12  1  0.31249400  0.68750600  0.55429500  1
+  O  O13  1  0.78060300  0.21939700  0.75000000  1
+  O  O14  1  0.04783900  0.95216100  0.88491900  1
+  O  O15  1  0.31249400  0.68750600  0.94570500  1
+"
+"True","mp-773517","ScMn2O5","Orthorhombic","Pbam","55","32","0.022629635117178002","-2.535182568232759","False","337.78270434041355","4.617675526674802","1.1108","False","False","FM","28.0000002","# generated using pymatgen
+data_ScMn2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72056400
+_cell_length_b   7.10703800
+_cell_length_c   8.30825700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScMn2O5
+_chemical_formula_sum   'Sc4 Mn8 O20'
+_cell_volume   337.78270434
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.14049400  0.16650600  1
+  Sc  Sc1  1  0.00000000  0.35950600  0.66650600  1
+  Sc  Sc2  1  0.00000000  0.64049400  0.33349400  1
+  Sc  Sc3  1  0.00000000  0.85950600  0.83349400  1
+  Mn  Mn4  1  0.25052500  0.00000000  0.50000000  1
+  Mn  Mn5  1  0.74947500  0.00000000  0.50000000  1
+  Mn  Mn6  1  0.50000000  0.08619800  0.84516500  1
+  Mn  Mn7  1  0.50000000  0.41380200  0.34516500  1
+  Mn  Mn8  1  0.25052500  0.50000000  0.00000000  1
+  Mn  Mn9  1  0.74947500  0.50000000  0.00000000  1
+  Mn  Mn10  1  0.50000000  0.58619800  0.65483500  1
+  Mn  Mn11  1  0.50000000  0.91380200  0.15483500  1
+  O  O12  1  0.26053000  0.00000000  0.00000000  1
+  O  O13  1  0.73947000  0.00000000  0.00000000  1
+  O  O14  1  0.23340100  0.12135800  0.70500000  1
+  O  O15  1  0.76659900  0.12135800  0.70500000  1
+  O  O16  1  0.50000000  0.14782900  0.42195600  1
+  O  O17  1  0.00000000  0.16672200  0.43331600  1
+  O  O18  1  0.00000000  0.33327800  0.93331600  1
+  O  O19  1  0.50000000  0.35217100  0.92195600  1
+  O  O20  1  0.23340100  0.37864200  0.20500000  1
+  O  O21  1  0.76659900  0.37864200  0.20500000  1
+  O  O22  1  0.26053000  0.50000000  0.50000000  1
+  O  O23  1  0.73947000  0.50000000  0.50000000  1
+  O  O24  1  0.23340100  0.62135800  0.79500000  1
+  O  O25  1  0.76659900  0.62135800  0.79500000  1
+  O  O26  1  0.50000000  0.64782900  0.07804400  1
+  O  O27  1  0.00000000  0.66672200  0.06668400  1
+  O  O28  1  0.00000000  0.83327800  0.56668400  1
+  O  O29  1  0.50000000  0.85217100  0.57804400  1
+  O  O30  1  0.23340100  0.87864200  0.29500000  1
+  O  O31  1  0.76659900  0.87864200  0.29500000  1
+"
+"True","mp-1105811","ScMnO3","Monoclinic","P2_1/c","14","20","0.049973920562498005","-2.941352321586206","False","218.73503434359637","4.49092583781479","1.7979999999999992","False","False","FM","15.9997915","# generated using pymatgen
+data_ScMnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11673391
+_cell_length_b   5.42253500
+_cell_length_c   7.90438429
+_cell_angle_alpha   89.99940596
+_cell_angle_beta   94.15850618
+_cell_angle_gamma   90.00043305
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScMnO3
+_chemical_formula_sum   'Sc4 Mn4 O12'
+_cell_volume   218.73503434
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.02472600  0.92939500  0.23036400  1
+  Sc  Sc1  1  0.52472100  0.57060800  0.73036600  1
+  Sc  Sc2  1  0.97528200  0.07060600  0.76963300  1
+  Sc  Sc3  1  0.47527900  0.42939700  0.26963700  1
+  Mn  Mn4  1  0.00000100  0.50000700  0.50000300  1
+  Mn  Mn5  1  0.49999900  0.00000200  0.00000000  1
+  Mn  Mn6  1  0.50000500  0.00000200  0.49999500  1
+  Mn  Mn7  1  0.99999900  0.49999700  0.99999800  1
+  O  O8  1  0.20485500  0.18126200  0.40019900  1
+  O  O9  1  0.70483900  0.31873500  0.90019900  1
+  O  O10  1  0.79514600  0.81873500  0.59980400  1
+  O  O11  1  0.29514500  0.68126700  0.09980100  1
+  O  O12  1  0.84795000  0.57756600  0.27311300  1
+  O  O13  1  0.34794300  0.92242600  0.77310200  1
+  O  O14  1  0.15205500  0.42242200  0.72689800  1
+  O  O15  1  0.65206400  0.07756800  0.22689500  1
+  O  O16  1  0.31880000  0.68738000  0.44707000  1
+  O  O17  1  0.81879600  0.81261500  0.94707500  1
+  O  O18  1  0.68119600  0.31262900  0.55292400  1
+  O  O19  1  0.18119900  0.18738000  0.05292600  1
+"
+"True","mp-18954","ScMnO3","Hexagonal","P6_3cm","185","30","0.007785438895831001","-2.983540803252874","False","332.2624241651375","4.434700161343278","0.0","False","True","FM","23.9999995","# generated using pymatgen
+data_ScMnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85748645
+_cell_length_b   5.85748599
+_cell_length_c   11.18225755
+_cell_angle_alpha   89.99999734
+_cell_angle_beta   89.99999650
+_cell_angle_gamma   120.00033005
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScMnO3
+_chemical_formula_sum   'Sc6 Mn6 O18'
+_cell_volume   332.26242417
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000127  0.00000176  0.27530243  1
+  Sc  Sc1  1  -0.00000151  -0.00000319  0.77530283  1
+  Sc  Sc2  1  0.33333453  0.66666765  0.23025463  1
+  Sc  Sc3  1  0.66666610  0.33333279  0.73025667  1
+  Sc  Sc4  1  0.33333244  0.66666594  0.73025654  1
+  Sc  Sc5  1  0.66666732  0.33333374  0.23025466  1
+  Mn  Mn6  1  0.33320440  -0.00001046  0.00014733  1
+  Mn  Mn7  1  0.33321797  0.33321830  0.50014692  1
+  Mn  Mn8  1  0.00001022  0.66679653  0.50014812  1
+  Mn  Mn9  1  -0.00001015  0.33320450  0.00014699  1
+  Mn  Mn10  1  0.66678100  0.66678116  0.00014567  1
+  Mn  Mn11  1  0.66679657  0.00001019  0.50014811  1
+  O  O12  1  0.66666766  0.33333498  0.02553495  1
+  O  O13  1  0.33333241  0.66666520  0.52553508  1
+  O  O14  1  0.66666512  0.33333252  0.52553510  1
+  O  O15  1  0.33333486  0.66666760  0.02553495  1
+  O  O16  1  0.00000252  0.00000244  0.96935758  1
+  O  O17  1  -0.00000255  -0.00000241  0.46935696  1
+  O  O18  1  0.36520654  -0.00000059  0.83305604  1
+  O  O19  1  0.36520102  0.36520105  0.33305423  1
+  O  O20  1  0.00000054  0.63479762  0.33305446  1
+  O  O21  1  -0.00000059  0.36520665  0.83305607  1
+  O  O22  1  0.63479471  0.63479480  0.83305574  1
+  O  O23  1  0.63479756  0.00000063  0.33305446  1
+  O  O24  1  0.30249683  -0.00000023  0.16814896  1
+  O  O25  1  0.30250071  0.30250073  0.66815186  1
+  O  O26  1  0.00000032  0.69749977  0.66815181  1
+  O  O27  1  -0.00000034  0.30249689  0.16814900  1
+  O  O28  1  0.69750284  0.69750301  0.16814902  1
+  O  O29  1  0.69749969  0.00000043  0.66815182  1
+"

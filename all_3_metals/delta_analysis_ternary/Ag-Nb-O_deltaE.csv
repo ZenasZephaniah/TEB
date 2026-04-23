@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Ag-Nb-O,Ag,Nb,O,Nb13AgO33_1210284_POSCAR,35,local_max_drop,5.7712823999,-0.16521497294258,-0.10521356925815581,-0.06000140368442419,5.578906,9.426428,0.02163488
+Ag-Nb-O,Ag,Nb,O,Nb14AgO36_1210596_POSCAR,35,local_max_drop,5.6355685669,-0.17366959094643,-0.11226177849893251,-0.06140781244749749,5.447716,9.204762,0.02374744

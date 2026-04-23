@@ -1,0 +1,163 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1218045","Ta2TiO6","Monoclinic","C2/m","12","18","0.027229537837037004","-3.232986774777776","False","205.94185349885444","8.156019082109228","0.0","False","True","FM","2.0007048","# generated using pymatgen
+data_Ta2TiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65298591
+_cell_length_b   5.65298591
+_cell_length_c   7.36919617
+_cell_angle_alpha   70.60224327
+_cell_angle_beta   70.60224327
+_cell_angle_gamma   74.10167252
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2TiO6
+_chemical_formula_sum   'Ta4 Ti2 O12'
+_cell_volume   205.94185350
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.32027348  0.32027348  0.17961413  1
+  Ta  Ta1  1  0.67972652  0.67972652  0.82038587  1
+  Ta  Ta2  1  -0.00000000  -0.00000000  0.50000000  1
+  Ta  Ta3  1  -0.00000000  -0.00000000  0.00000000  1
+  Ti  Ti4  1  0.34716809  0.34716809  0.65410622  1
+  Ti  Ti5  1  0.65283191  0.65283191  0.34589378  1
+  O  O6  1  0.22842293  0.22842293  0.96991485  1
+  O  O7  1  0.56987004  0.56987004  0.63944436  1
+  O  O8  1  0.90467324  0.90467324  0.29674082  1
+  O  O9  1  0.43012996  0.43012996  0.36055564  1
+  O  O10  1  0.77157707  0.77157707  0.03008515  1
+  O  O11  1  0.09532676  0.09532676  0.70325918  1
+  O  O12  1  0.95945145  0.38179826  0.32876372  1
+  O  O13  1  0.30063572  0.69936428  0.00000000  1
+  O  O14  1  0.61820174  0.04054855  0.67123628  1
+  O  O15  1  0.38179826  0.95945145  0.32876372  1
+  O  O16  1  0.69936428  0.30063572  0.00000000  1
+  O  O17  1  0.04054855  0.61820174  0.67123628  1
+"
+"True","mp-753676","Ta2TiO6","Monoclinic","C2/m","12","18","0.03226161228148","-3.227954700333332","False","213.1319420492041","7.880872621870206","0.0","False","True","FM","3.3565854","# generated using pymatgen
+data_Ta2TiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71217203
+_cell_length_b   5.71217203
+_cell_length_c   7.47159990
+_cell_angle_alpha   70.73226204
+_cell_angle_beta   70.73226204
+_cell_angle_gamma   73.65317614
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2TiO6
+_chemical_formula_sum   'Ta4 Ti2 O12'
+_cell_volume   213.13194205
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.82880500  0.82880500  0.67145700  1
+  Ta  Ta1  1  0.82141800  0.82141800  0.17319200  1
+  Ta  Ta2  1  0.17119500  0.17119500  0.32854300  1
+  Ta  Ta3  1  0.17858200  0.17858200  0.82680800  1
+  Ti  Ti4  1  0.50000000  0.50000000  0.50000000  1
+  Ti  Ti5  1  0.50000000  0.50000000  0.00000000  1
+  O  O6  1  0.12477000  0.53214100  0.17153100  1
+  O  O7  1  0.80643500  0.19356500  0.50000000  1
+  O  O8  1  0.39826100  0.39826100  0.80510200  1
+  O  O9  1  0.73883700  0.73883700  0.46644500  1
+  O  O10  1  0.06565900  0.06565900  0.12922200  1
+  O  O11  1  0.26116300  0.26116300  0.53355500  1
+  O  O12  1  0.60173900  0.60173900  0.19489800  1
+  O  O13  1  0.93434100  0.93434100  0.87077800  1
+  O  O14  1  0.87523000  0.46785900  0.82846900  1
+  O  O15  1  0.19356500  0.80643500  0.50000000  1
+  O  O16  1  0.53214100  0.12477000  0.17153100  1
+  O  O17  1  0.46785900  0.87523000  0.82846900  1
+"
+"True","mp-1173109","TaTiO4","Orthorhombic","Cmmm","65","6","0.023404785833335003","-3.305190221777775","False","67.56010800370696","7.196947675118464","0.0","False","True","FM","0.9020663","# generated using pymatgen
+data_TaTiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71932391
+_cell_length_b   4.71932391
+_cell_length_c   3.03412976
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   91.25015400
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTiO4
+_chemical_formula_sum   'Ta1 Ti1 O4'
+_cell_volume   67.56010800
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti1  1  0.50000000  0.50000000  0.50000000  1
+  O  O2  1  0.19661432  0.80338568  0.50000000  1
+  O  O3  1  0.80338568  0.19661432  0.50000000  1
+  O  O4  1  0.30222609  0.30222609  -0.00000000  1
+  O  O5  1  0.69777391  0.69777391  0.00000000  1
+"
+"True","mp-760439","TaTiO4","Tetragonal","I4_1md","109","12","0.012904026666667002","-3.315690980944443","False","136.4985498381144","7.124274401518401","0.0","False","True","FM","1.9983734","# generated using pymatgen
+data_TaTiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62709756
+_cell_length_b   5.62709610
+_cell_length_c   5.62717425
+_cell_angle_alpha   107.22686728
+_cell_angle_beta   107.22797662
+_cell_angle_gamma   114.05832773
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTiO4
+_chemical_formula_sum   'Ta2 Ti2 O8'
+_cell_volume   136.49854984
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.75971287  0.25970913  0.50000122  1
+  Ta  Ta1  1  0.50971287  0.50971483  0.00000428  1
+  Ti  Ti2  1  0.24768250  0.74768173  0.49999956  1
+  Ti  Ti3  1  0.99767491  0.99767716  -0.00000405  1
+  O  O4  1  0.94124261  0.73741147  0.20379741  1
+  O  O5  1  0.45775592  0.25886731  0.19886030  1
+  O  O6  1  0.98741188  0.28353379  0.29616572  1
+  O  O7  1  0.50891569  0.81002974  0.30112805  1
+  O  O8  1  0.50890171  0.20779500  0.69886556  1
+  O  O9  1  0.98737263  0.69124284  0.70384102  1
+  O  O10  1  0.06000382  0.25888516  0.80113329  1
+  O  O11  1  0.53361260  0.73745085  0.79620865  1
+"

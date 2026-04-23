@@ -1,0 +1,208 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1226707","Cr12Fe3S20","Triclinic","P-1","2","35","0.044049386857142006","-0.8939817408571411","False","509.85389475100095","4.66643641395626","0.0","False","True","FiM","17.947741100000002","# generated using pymatgen
+data_Cr12Fe3S20
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.78621200
+_cell_length_b   8.64657257
+_cell_length_c   7.97618410
+_cell_angle_alpha   78.53926077
+_cell_angle_beta   88.62155139
+_cell_angle_gamma   75.72391853
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr12Fe3S20
+_chemical_formula_sum   'Cr12 Fe3 S20'
+_cell_volume   509.85389475
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.20117700  0.20019800  0.20295500  1
+  Cr  Cr1  1  0.59882300  0.59980200  0.59704500  1
+  Cr  Cr2  1  0.84127000  0.63080000  0.32204600  1
+  Cr  Cr3  1  0.24349400  0.03270300  0.72333700  1
+  Cr  Cr4  1  0.64039600  0.43679600  0.11801600  1
+  Cr  Cr5  1  0.03541600  0.82147300  0.51601200  1
+  Cr  Cr6  1  0.43363400  0.23522800  0.91592400  1
+  Cr  Cr7  1  0.76458400  0.97852700  0.28398800  1
+  Cr  Cr8  1  0.15960400  0.36320400  0.68198400  1
+  Cr  Cr9  1  0.55650600  0.76729700  0.07666300  1
+  Cr  Cr10  1  0.95873000  0.16920000  0.47795400  1
+  Cr  Cr11  1  0.36636600  0.56477200  0.88407600  1
+  Fe  Fe12  1  0.99218000  0.99131600  0.99097600  1
+  Fe  Fe13  1  0.40000000  0.40000000  0.40000000  1
+  Fe  Fe14  1  0.80782000  0.80868400  0.80902400  1
+  S  S15  1  0.89715700  0.19942500  0.17235100  1
+  S  S16  1  0.69300400  0.99630100  0.98010300  1
+  S  S17  1  0.50015500  0.79555300  0.77514100  1
+  S  S18  1  0.29506500  0.59067400  0.57562200  1
+  S  S19  1  0.09966100  0.39741000  0.37677400  1
+  S  S20  1  0.29984500  0.00444700  0.02485900  1
+  S  S21  1  0.10699600  0.80369900  0.81989700  1
+  S  S22  1  0.90284300  0.60057500  0.62764900  1
+  S  S23  1  0.70033900  0.40259000  0.42322600  1
+  S  S24  1  0.50493500  0.20932600  0.22437800  1
+  S  S25  1  0.37482700  0.59820200  0.15827400  1
+  S  S26  1  0.17305200  0.40638600  0.95237300  1
+  S  S27  1  0.97576200  0.19696500  0.75799600  1
+  S  S28  1  0.77729000  0.99791200  0.56325600  1
+  S  S29  1  0.57697600  0.80719800  0.35036200  1
+  S  S30  1  0.82423800  0.60303500  0.04200400  1
+  S  S31  1  0.62694800  0.39361400  0.84762700  1
+  S  S32  1  0.42517300  0.20179800  0.64172600  1
+  S  S33  1  0.22302400  0.99280200  0.44963800  1
+  S  S34  1  0.02271000  0.80208800  0.23674400  1
+"
+"True","mp-1078247","Cr2FeS4","Monoclinic","C2/m","12","7","0.07822198285714001","-0.8477451057142841","False","97.71352165920749","4.8959104886892035","0.0","False","True","FM","3.0053324","# generated using pymatgen
+data_Cr2FeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17496295
+_cell_length_b   6.17496295
+_cell_length_c   5.67351830
+_cell_angle_alpha   65.93091833
+_cell_angle_beta   65.93091833
+_cell_angle_gamma   29.88407047
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2FeS4
+_chemical_formula_sum   'Cr2 Fe1 S4'
+_cell_volume   97.71352166
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.26187100  0.26187100  0.68053600  1
+  Cr  Cr1  1  0.73812900  0.73812900  0.31946400  1
+  Fe  Fe2  1  0.00000000  0.00000000  0.00000000  1
+  S  S3  1  0.36178700  0.36178700  0.97865600  1
+  S  S4  1  0.63821300  0.63821300  0.02134400  1
+  S  S5  1  0.10649400  0.10649400  0.56019500  1
+  S  S6  1  0.89350600  0.89350600  0.43980500  1
+"
+"True","mp-21019","Cr2FeS4","Cubic","Fd-3m","227","14","0.08043542714285401","-0.8455316614285701","False","250.76788485737285","3.815453927445032","0.0","False","True","FM","20.000001","# generated using pymatgen
+data_Cr2FeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.07830010
+_cell_length_b   7.07830010
+_cell_length_c   7.07830010
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2FeS4
+_chemical_formula_sum   'Cr4 Fe2 S8'
+_cell_volume   250.76788486
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.12500000  0.62500000  0.12500000  1
+  Cr  Cr1  1  0.12500000  0.12500000  0.62500000  1
+  Cr  Cr2  1  0.12500000  0.12500000  0.12500000  1
+  Cr  Cr3  1  0.62500000  0.12500000  0.12500000  1
+  Fe  Fe4  1  0.75000000  0.75000000  0.75000000  1
+  Fe  Fe5  1  0.50000000  0.50000000  0.50000000  1
+  S  S6  1  0.88342300  0.34973000  0.88342300  1
+  S  S7  1  0.36657700  0.36657700  0.90027000  1
+  S  S8  1  0.36657700  0.36657700  0.36657600  1
+  S  S9  1  0.90027000  0.36657700  0.36657600  1
+  S  S10  1  0.88342300  0.88342300  0.88342300  1
+  S  S11  1  0.34973000  0.88342400  0.88342300  1
+  S  S12  1  0.36657700  0.90027000  0.36657700  1
+  S  S13  1  0.88342300  0.88342300  0.34973000  1
+"
+"True","mp-1226240","CrFeS2","Trigonal","P-3m1","164","4","0.20747324624999802","-0.602747956249999","False","49.9323802310804","5.7190289858929155","0.0","False","True","FiM","0.3718897","# generated using pymatgen
+data_CrFeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.29334797
+_cell_length_b   3.29334797
+_cell_length_c   5.31589500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999945
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrFeS2
+_chemical_formula_sum   'Cr1 Fe1 S2'
+_cell_volume   49.93238023
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe1  1  0.00000000  0.00000000  0.00000000  1
+  S  S2  1  0.33333300  0.66666700  0.23631000  1
+  S  S3  1  0.66666700  0.33333300  0.76369000  1
+"
+"True","mp-1226336","CrFeS4","Orthorhombic","Imma","74","12","0.309598198333331","-0.5487344591666651","False","220.85753186865844","3.550298664483709","0.0","False","True","FM","5.960605099999999","# generated using pymatgen
+data_CrFeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78039063
+_cell_length_b   6.78039063
+_cell_length_c   6.78039063
+_cell_angle_alpha   120.32411927
+_cell_angle_beta   119.40069236
+_cell_angle_gamma   90.24033840
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrFeS4
+_chemical_formula_sum   'Cr2 Fe2 S8'
+_cell_volume   220.85753187
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.50000000  0.50000000  0.00000000  1
+  Cr  Cr1  1  0.00000000  0.50000000  0.50000000  1
+  Fe  Fe2  1  0.12409600  0.87409600  0.25000000  1
+  Fe  Fe3  1  0.87590400  0.12590400  0.75000000  1
+  S  S4  1  0.22925700  0.74343000  0.48582700  1
+  S  S5  1  0.75760300  0.74343000  0.01417300  1
+  S  S6  1  0.25488800  0.74544800  0.99056000  1
+  S  S7  1  0.25488800  0.26432700  0.50944000  1
+  S  S8  1  0.77074300  0.25657000  0.51417300  1
+  S  S9  1  0.24239700  0.25657000  0.98582700  1
+  S  S10  1  0.74511200  0.25455200  0.00944000  1
+  S  S11  1  0.74511200  0.73567300  0.49056000  1
+"

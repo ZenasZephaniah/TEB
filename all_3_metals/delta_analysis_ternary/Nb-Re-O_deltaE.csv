@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Nb-Re-O,Nb,Re,O,Nb4ReO4_795582_POSCAR,35,local_max_drop,7.3177342969,-0.26788851609206,-0.1149906810161535,-0.15289783507590649,6.308392,12.364448,0.01871261

@@ -1,0 +1,145 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1226907","Cd3FeS4","Tetragonal","P-4m2","115","8","0.11138226249999901","-0.726582282499999","False","195.38131493117845","4.430833706938903","0.0","False","True","FM","4.0001582","# generated using pymatgen
+data_Cd3FeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09672700
+_cell_length_b   4.09672700
+_cell_length_c   11.64150100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd3FeS4
+_chemical_formula_sum   'Cd3 Fe1 S4'
+_cell_volume   195.38131493
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.76481800  1
+  Cd  Cd1  1  0.50000000  0.50000000  0.50000000  1
+  Cd  Cd2  1  0.00000000  0.00000000  0.23518200  1
+  Fe  Fe3  1  0.50000000  0.50000000  0.00000000  1
+  S  S4  1  0.00000000  0.50000000  0.36739200  1
+  S  S5  1  0.50000000  0.00000000  0.10142200  1
+  S  S6  1  0.00000000  0.50000000  0.89857800  1
+  S  S7  1  0.50000000  0.00000000  0.63260800  1
+"
+"True","mp-1227026","Cd4FeS5","Monoclinic","Cm","8","20","0.15589481400000002","-0.687437965249998","False","502.2269386693695","4.402830963303097","0.0","False","True","FM","8.0003391","# generated using pymatgen
+data_Cd4FeS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   17.94694269
+_cell_length_b   17.94694269
+_cell_length_c   6.79451000
+_cell_angle_alpha   89.27717376
+_cell_angle_beta   89.27717376
+_cell_angle_gamma   13.26804860
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd4FeS5
+_chemical_formula_sum   'Cd8 Fe2 S10'
+_cell_volume   502.22693867
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.93030300  0.93030300  0.49818500  1
+  Cd  Cd1  1  0.33188900  0.33188900  0.49444800  1
+  Cd  Cd2  1  0.73454400  0.73454400  0.49514900  1
+  Cd  Cd3  1  0.13279500  0.13279500  0.50055800  1
+  Cd  Cd4  1  0.53187400  0.53187400  0.50030900  1
+  Cd  Cd5  1  0.46215200  0.46215200  0.00303900  1
+  Cd  Cd6  1  0.66956800  0.66956800  0.00236700  1
+  Cd  Cd7  1  0.06566200  0.06566200  0.00142700  1
+  Fe  Fe8  1  0.86138600  0.86138600  0.99737600  1
+  Fe  Fe9  1  0.26862900  0.26862900  0.00286400  1
+  S  S10  1  0.92440500  0.92440500  0.11842000  1
+  S  S11  1  0.33212800  0.33212800  0.10868700  1
+  S  S12  1  0.73965300  0.73965300  0.11037500  1
+  S  S13  1  0.13355600  0.13355600  0.12209300  1
+  S  S14  1  0.53031300  0.53031300  0.12252700  1
+  S  S15  1  0.46445700  0.46445700  0.62333400  1
+  S  S16  1  0.86403500  0.86403500  0.64985300  1
+  S  S17  1  0.26571700  0.26571700  0.65236200  1
+  S  S18  1  0.66671800  0.66671800  0.62257100  1
+  S  S19  1  0.06544600  0.06544600  0.62405600  1
+"
+"True","mp-1226715","CdFeS2","Trigonal","R3m","160","4","0.23893314249999903","-0.572190231249998","False","90.85215616572657","4.247406421780452","0.0","False","True","FM","4.000092","# generated using pymatgen
+data_CdFeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97225941
+_cell_length_b   6.97225941
+_cell_length_c   6.97225965
+_cell_angle_alpha   33.27789742
+_cell_angle_beta   33.27789742
+_cell_angle_gamma   33.27789678
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdFeS2
+_chemical_formula_sum   'Cd1 Fe1 S2'
+_cell_volume   90.85215617
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00242300  0.00242300  0.00242300  1
+  Fe  Fe1  1  0.49921200  0.49921200  0.49921200  1
+  S  S2  1  0.13239200  0.13239200  0.13239200  1
+  S  S3  1  0.61597400  0.61597400  0.61597400  1
+"
+"True","mp-1226763","CdFeS2","Trigonal","P3m1","156","4","0.238744292499999","-0.572379081249998","False","90.59454469599588","4.259484197705373","0.0","False","True","FM","4.0000964","# generated using pymatgen
+data_CdFeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97221963
+_cell_length_b   3.97221963
+_cell_length_c   6.62986800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999381
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdFeS2
+_chemical_formula_sum   'Cd1 Fe1 S2'
+_cell_volume   90.59454470
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.50985400  1
+  Fe  Fe1  1  0.66666700  0.33333300  0.99908900  1
+  S  S2  1  0.00000000  0.00000000  0.89442700  1
+  S  S3  1  0.66666700  0.33333300  0.34663100  1
+"

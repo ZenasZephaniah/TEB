@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cd-V-O,Cd,V,O,V3CdO7_1179420_POSCAR,35,local_max_drop,8.077866,-0.1622731968485,-0.09309865546153887,-0.06917454138696114,7.539342,13.193848,0.01357696
+Cd-V-O,Cd,V,O,V3CdO7_541360_POSCAR,35,local_max_drop,8.0657025,-0.17282875970147,-0.10141428264562873,-0.07141447705584127,7.527989,13.173981,0.01528216

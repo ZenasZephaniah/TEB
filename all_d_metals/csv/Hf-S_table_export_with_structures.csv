@@ -1,0 +1,128 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-10000","Hf2S","Hexagonal","P6_3/mmc","194","6","0.0","-1.171399257604169","True","115.53745581748092","11.182943515494184","0.0","False","True","NM","1.2e-06","# generated using pymatgen
+data_Hf2S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.37427404
+_cell_length_b   3.37427349
+_cell_length_c   11.71740703
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999520
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2S
+_chemical_formula_sum   'Hf4 S2'
+_cell_volume   115.53745582
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.66666700  0.33333300  0.89981164  1
+  Hf  Hf1  1  0.33333300  0.66666700  0.39981164  1
+  Hf  Hf2  1  0.66666700  0.33333300  0.60018836  1
+  Hf  Hf3  1  0.33333300  0.66666700  0.10018836  1
+  S  S4  1  0.00000000  0.00000000  0.75000000  1
+  S  S5  1  -0.00000000  -0.00000000  0.25000000  1
+"
+"True","mp-1206743","HfS","Hexagonal","P-6m2","187","2","0.0","-1.691345381406254","True","34.03264056478587","10.273513819839645","0.0","False","True","NM","1e-07","# generated using pymatgen
+data_HfS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.38519600
+_cell_length_b   3.38519600
+_cell_length_c   3.42923596
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfS
+_chemical_formula_sum   'Hf1 S1'
+_cell_volume   34.03264056
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  -0.00000000  0.00000000  0.00000000  1
+  S  S1  1  0.66666700  0.33333300  0.50000000  1
+"
+"True","mp-985829","HfS2","Trigonal","P-3m1","164","3","0.0","-1.806995168541668","True","69.47166295179909","5.79919885634548","1.2237","False","False","NM","0.0","# generated using pymatgen
+data_HfS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.63966434
+_cell_length_b   3.63966402
+_cell_length_c   6.05556247
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001252
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfS2
+_chemical_formula_sum   'Hf1 S2'
+_cell_volume   69.47166295
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00000000  0.00000000  -0.00000000  1
+  S  S1  1  0.66666700  0.33333300  0.76395205  1
+  S  S2  1  0.33333300  0.66666700  0.23604795  1
+"
+"True","mp-9922","HfS3","Monoclinic","P2_1/m","11","8","0.0","-1.373804485859373","True","167.9432437929641","5.431896671846112","1.1326","False","False","NM","0.0","# generated using pymatgen
+data_HfS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.59888445
+_cell_length_b   5.13401151
+_cell_length_c   9.16909621
+_cell_angle_alpha   97.55719919
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfS3
+_chemical_formula_sum   'Hf2 S6'
+_cell_volume   167.94324379
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.25000000  0.28558485  0.65135954  1
+  Hf  Hf1  1  0.75000000  0.71441515  0.34864046  1
+  S  S2  1  0.25000000  0.87572904  0.17818478  1
+  S  S3  1  0.75000000  0.12427096  0.82181422  1
+  S  S4  1  0.75000000  0.23770236  0.44809899  1
+  S  S5  1  0.25000000  0.76229764  0.55190101  1
+  S  S6  1  0.75000000  0.52715722  0.82195145  1
+  S  S7  1  0.25000000  0.47284278  0.17804855  1
+"

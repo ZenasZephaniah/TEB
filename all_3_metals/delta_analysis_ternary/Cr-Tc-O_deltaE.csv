@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cr-Tc-O,Cr,Tc,O,CrTcO3_1183695_POSCAR,35,global_gradient_fallback,4.2818798,-0.066739774742646,-0.05152382645582591,-0.015215948286820095,3.114094,9.536914,0.00925667

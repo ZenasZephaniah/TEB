@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Hf-Re-O,Hf,Re,O,Hf9Re4O3_1212448_POSCAR,35,local_max_drop,12.1934616695,-0.56378969790222,-0.20647640209429385,-0.35731329580792615,10.511605,20.602746,0.01823102

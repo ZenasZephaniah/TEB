@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cu-Ta-S,Cu,Ta,S,Ta14_CuS8_3_676854_POSCAR,35,local_max_drop,9.5747663171,-0.27524065357004,-0.19172655286017487,-0.08351410070986515,8.584273,16.178053,0.0241233
+Cu-Ta-S,Cu,Ta,S,Ta22_CuS12_3_686369_POSCAR,35,local_max_drop,17.7206045788,-0.42724437401107,-0.27812397662825566,-0.14912039738281435,15.276383,29.941711,0.01882117

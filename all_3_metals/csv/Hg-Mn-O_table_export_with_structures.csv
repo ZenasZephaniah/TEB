@@ -1,0 +1,123 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-754289","Mn2Hg2O7","Cubic","Fd-3m","227","22","0.05859331621212101","-1.166442817805644","False","261.36726123632644","7.916844665013236","0.0","False","True","FiM","8.0028096","# generated using pymatgen
+data_Mn2Hg2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17682553
+_cell_length_b   7.17663250
+_cell_length_c   7.17693301
+_cell_angle_alpha   59.99746754
+_cell_angle_beta   59.99822047
+_cell_angle_gamma   59.99645063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Hg2O7
+_chemical_formula_sum   'Mn4 Hg4 O14'
+_cell_volume   261.36726124
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000100  0.99999600  0.00000200  1
+  Mn  Mn1  1  0.49999800  0.00000500  0.99999400  1
+  Mn  Mn2  1  0.99999700  0.00000100  0.50000000  1
+  Mn  Mn3  1  0.00000900  0.49999700  0.99999800  1
+  Hg  Hg4  1  0.49999800  0.00000000  0.50000100  1
+  Hg  Hg5  1  0.50000100  0.50000100  0.00000000  1
+  Hg  Hg6  1  0.99999900  0.49999900  0.50000200  1
+  Hg  Hg7  1  0.50000000  0.50000200  0.49999800  1
+  O  O8  1  0.67888000  0.07110300  0.07110800  1
+  O  O9  1  0.92891000  0.32111200  0.32111500  1
+  O  O10  1  0.07109100  0.07111100  0.67889300  1
+  O  O11  1  0.67887800  0.67889300  0.07110300  1
+  O  O12  1  0.37496800  0.37499900  0.37500400  1
+  O  O13  1  0.67886800  0.07111100  0.67888300  1
+  O  O14  1  0.07108700  0.67889600  0.07111000  1
+  O  O15  1  0.32112600  0.92889300  0.32111600  1
+  O  O16  1  0.92890500  0.92888600  0.32111200  1
+  O  O17  1  0.32112900  0.32111000  0.92889200  1
+  O  O18  1  0.62503100  0.62500100  0.62499600  1
+  O  O19  1  0.92891600  0.32109900  0.92889300  1
+  O  O20  1  0.07108900  0.67889000  0.67888300  1
+  O  O21  1  0.32111600  0.92889700  0.92889400  1
+"
+"True","mp-1176488","Mn2HgO4","Tetragonal","I4_1/amd","141","14","0.008577295624999001","-1.611381873337439","False","172.05067019171855","7.228237885679817","0.5427999999999991","False","False","FM","15.9999997","# generated using pymatgen
+data_Mn2HgO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86611955
+_cell_length_b   6.50223511
+_cell_length_c   5.86610689
+_cell_angle_alpha   63.06193968
+_cell_angle_beta   90.24425473
+_cell_angle_gamma   116.93770408
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2HgO4
+_chemical_formula_sum   'Mn4 Hg2 O8'
+_cell_volume   172.05067019
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.87507473  0.25001971  0.37499424  1
+  Mn  Mn1  1  0.37501309  0.74999801  0.87504372  1
+  Mn  Mn2  1  0.37504570  0.24997938  0.37502360  1
+  Mn  Mn3  1  0.37501553  0.75000766  0.37504761  1
+  Hg  Hg4  1  0.99994661  0.99999918  -0.00001734  1
+  Hg  Hg5  1  0.74992050  0.50000191  0.74995172  1
+  O  O6  1  0.14461376  0.29111006  0.14062242  1
+  O  O7  1  0.60351403  0.20888784  0.18174933  1
+  O  O8  1  0.56820402  0.70886097  0.14652562  1
+  O  O9  1  0.14061355  0.70888759  0.14458953  1
+  O  O10  1  0.60541191  0.20885306  0.60935341  1
+  O  O11  1  0.14654018  0.29113452  0.56822264  1
+  O  O12  1  0.18173690  0.79111236  0.60350089  1
+  O  O13  1  0.60934548  0.79114875  0.60539362  1
+"
+"True","mp-1080187","MnHgO3","Cubic","Pm-3m","221","5","0.30272734433333504","-1.044812403086208","False","58.70689215358241","8.585315438643036","0.0","False","True","FM","3.4296805","# generated using pymatgen
+data_MnHgO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88653900
+_cell_length_b   3.88653900
+_cell_length_c   3.88653900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnHgO3
+_chemical_formula_sum   'Mn1 Hg1 O3'
+_cell_volume   58.70689215
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.50000000  1
+  Hg  Hg1  1  0.00000000  0.00000000  0.00000000  1
+  O  O2  1  0.50000000  0.50000000  0.00000000  1
+  O  O3  1  0.50000000  0.00000000  0.50000000  1
+  O  O4  1  0.00000000  0.50000000  0.50000000  1
+"

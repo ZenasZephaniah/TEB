@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cr-Mo-O,Cr,Mo,O,Cr14MoO24_674480_POSCAR,35,local_max_drop,6.8411752469,-0.30834923097358,-0.1827519583773035,-0.12559727259627654,6.334422,12.415466,0.02848564
+Cr-Mo-O,Cr,Mo,O,CrMoO3_1226313_POSCAR,35,global_gradient_fallback,5.0925237241,-0.037482810234895,-0.026365663803883974,-0.011117146431011023,4.700791,9.597449,0.00527992

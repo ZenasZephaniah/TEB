@@ -1,0 +1,330 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1104259","V2CuS4","Tetragonal","I-4m2","119","14","0.074899435714288","-1.046797645714285","False","239.4859920897082","4.072739734589639","0.0","False","True","FiM","5.9989554","# generated using pymatgen
+data_V2CuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94402600
+_cell_length_b   6.96446237
+_cell_length_c   6.96446237
+_cell_angle_alpha   60.54848320
+_cell_angle_beta   60.09702109
+_cell_angle_gamma   60.09702109
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2CuS4
+_chemical_formula_sum   'V4 Cu2 S8'
+_cell_volume   239.48599209
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.01624800  0.25269400  0.25269400  1
+  V  V1  1  0.47836500  0.25269400  0.25269400  1
+  V  V2  1  0.50626900  0.23061600  0.75684600  1
+  V  V3  1  0.50626900  0.75684600  0.23061600  1
+  Cu  Cu4  1  0.12572900  0.87427100  0.87427100  1
+  Cu  Cu5  1  0.87412800  0.62587200  0.62587200  1
+  S  S6  1  0.25390800  0.00591600  0.00591600  1
+  S  S7  1  0.73426000  0.00591600  0.00591600  1
+  S  S8  1  0.73997000  0.49345100  0.49345100  1
+  S  S9  1  0.27312800  0.49345100  0.49345100  1
+  S  S10  1  0.74548900  0.02269300  0.48632800  1
+  S  S11  1  0.74548900  0.48632800  0.02269300  1
+  S  S12  1  0.25637400  0.00076000  0.48649200  1
+  S  S13  1  0.25637400  0.48649200  0.00076000  1
+"
+"True","mp-2221507","V2CuS4","Cubic","F-43m","216","14","0.068357790714289","-1.053339290714285","False","240.51458503414526","4.055322115799774","0.06869999999999901","True","False","FM","6.0024676","# generated using pymatgen
+data_V2CuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98174627
+_cell_length_b   6.98273443
+_cell_length_c   6.98247475
+_cell_angle_alpha   89.94155822
+_cell_angle_beta   120.05016096
+_cell_angle_gamma   120.03570246
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2CuS4
+_chemical_formula_sum   'V4 Cu2 S8'
+_cell_volume   240.51458503
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.73216700  0.49129900  0.75948500  1
+  V  V1  1  0.26792100  0.02742300  0.75913500  1
+  V  V2  1  0.26878800  0.49181500  0.76087200  1
+  V  V3  1  0.73127900  0.49217900  0.22313500  1
+  Cu  Cu4  1  0.99992200  0.12600900  0.12594100  1
+  Cu  Cu5  1  0.49983200  0.87706600  0.37719900  1
+  S  S6  1  0.74489100  0.74189700  0.99699100  1
+  S  S7  1  0.25513200  0.25211500  0.99704900  1
+  S  S8  1  0.76949100  0.28024600  0.51051600  1
+  S  S9  1  0.23043500  0.74099200  0.51084000  1
+  S  S10  1  0.23174200  0.74130800  0.97273600  1
+  S  S11  1  0.76832700  0.74109300  0.50960000  1
+  S  S12  1  0.74428600  0.25426500  0.99857300  1
+  S  S13  1  0.25578700  0.25429400  0.50992800  1
+"
+"True","mp-5178","V2CuS4","Cubic","Fd-3m","227","14","0.078905366428574","-1.042791715","False","240.5571493186837","4.054604565376014","0.0","False","True","FiM","6.0000661","# generated using pymatgen
+data_V2CuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98089473
+_cell_length_b   6.98089473
+_cell_length_c   6.98089473
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2CuS4
+_chemical_formula_sum   'V4 Cu2 S8'
+_cell_volume   240.55714932
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.62500000  0.12500000  0.12500000  1
+  V  V1  1  0.12500000  0.62500000  0.12500000  1
+  V  V2  1  0.12500000  0.12500000  0.12500000  1
+  V  V3  1  0.12500000  0.12500000  0.62500000  1
+  Cu  Cu4  1  0.75000000  0.75000000  0.75000000  1
+  Cu  Cu5  1  0.50000000  0.50000000  0.50000000  1
+  S  S6  1  0.88107400  0.88107400  0.35677900  1
+  S  S7  1  0.36892600  0.36892600  0.36892600  1
+  S  S8  1  0.88107400  0.88107400  0.88107400  1
+  S  S9  1  0.89322100  0.36892600  0.36892600  1
+  S  S10  1  0.36892600  0.89322100  0.36892600  1
+  S  S11  1  0.35677900  0.88107400  0.88107400  1
+  S  S12  1  0.88107400  0.35677900  0.88107400  1
+  S  S13  1  0.36892600  0.36892600  0.89322100  1
+"
+"True","mp-1208142","V3(CuS2)4","Trigonal","R3m","160","15","0.23567204266666403","-0.744469805999998","False","277.5249986315782","3.9701468389706633","0.0","False","True","FiM","3.0045312","# generated using pymatgen
+data_V3(CuS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28715881
+_cell_length_b   7.28715881
+_cell_length_c   7.28715885
+_cell_angle_alpha   60.63080650
+_cell_angle_beta   60.63080650
+_cell_angle_gamma   60.63080230
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V3(CuS2)4
+_chemical_formula_sum   'V3 Cu4 S8'
+_cell_volume   277.52499863
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.60185400  0.08500200  0.60185400  1
+  V  V1  1  0.60185400  0.60185400  0.08500200  1
+  V  V2  1  0.08500200  0.60185400  0.60185400  1
+  Cu  Cu3  1  0.22381600  0.22381600  0.22381600  1
+  Cu  Cu4  1  0.85058500  0.31344400  0.85058500  1
+  Cu  Cu5  1  0.85058500  0.85058500  0.31344400  1
+  Cu  Cu6  1  0.31344400  0.85058500  0.85058500  1
+  S  S7  1  0.46518100  0.99008100  0.46518100  1
+  S  S8  1  0.46518100  0.46518100  0.99008100  1
+  S  S9  1  0.99008100  0.46518100  0.46518100  1
+  S  S10  1  0.47085000  0.47085000  0.47085000  1
+  S  S11  1  0.94573700  0.94573700  0.94573700  1
+  S  S12  1  0.98058600  0.44834900  0.98058600  1
+  S  S13  1  0.44834900  0.98058600  0.98058600  1
+  S  S14  1  0.98058600  0.98058600  0.44834900  1
+"
+"True","mp-29211","V4Cu3S8","Trigonal","R3m","160","15","0.111652552666663","-0.9783288660000001","False","239.42579584362355","4.514487369997082","0.0","False","True","FiM","0.9784547","# generated using pymatgen
+data_V4Cu3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.32773755
+_cell_length_b   7.32773755
+_cell_length_c   7.32773822
+_cell_angle_alpha   54.02912913
+_cell_angle_beta   54.02912913
+_cell_angle_gamma   54.02913250
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V4Cu3S8
+_chemical_formula_sum   'V4 Cu3 S8'
+_cell_volume   239.42579584
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.99970100  0.99970100  0.99970100  1
+  V  V1  1  0.47076300  0.47076300  0.05483100  1
+  V  V2  1  0.47076300  0.05483100  0.47076300  1
+  V  V3  1  0.05483100  0.47076300  0.47076300  1
+  Cu  Cu4  1  0.66261000  0.66261000  0.10729900  1
+  Cu  Cu5  1  0.10729900  0.66261000  0.66261000  1
+  Cu  Cu6  1  0.66261000  0.10729900  0.66261000  1
+  S  S7  1  0.76098700  0.26399800  0.76098700  1
+  S  S8  1  0.26399800  0.76098700  0.76098700  1
+  S  S9  1  0.75166000  0.24542900  0.24542900  1
+  S  S10  1  0.24542900  0.75166000  0.24542900  1
+  S  S11  1  0.76098700  0.76098700  0.26399800  1
+  S  S12  1  0.72680000  0.72680000  0.72680000  1
+  S  S13  1  0.24518100  0.24518100  0.24518100  1
+  S  S14  1  0.24542900  0.24542900  0.75166000  1
+"
+"True","mp-1216478","V7(CuS6)2","Triclinic","P-1","2","21","0.08456990142857801","-1.1155840157142851","False","325.183934905655","4.434769846626957","0.0","False","True","FM","3.0156013","# generated using pymatgen
+data_V7(CuS6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65619800
+_cell_length_b   6.70742887
+_cell_length_c   8.02854629
+_cell_angle_alpha   108.01552420
+_cell_angle_beta   90.05983249
+_cell_angle_gamma   106.54850921
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V7(CuS6)2
+_chemical_formula_sum   'V7 Cu2 S12'
+_cell_volume   325.18393491
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.05177600  0.35796900  0.84554400  1
+  V  V1  1  0.71597100  0.02486100  0.51300900  1
+  V  V2  1  0.38482800  0.68988700  0.18118100  1
+  V  V3  1  0.61517200  0.31011300  0.81881900  1
+  V  V4  1  0.28402900  0.97513900  0.48699100  1
+  V  V5  1  0.94822400  0.64203100  0.15445600  1
+  V  V6  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu7  1  0.66686400  0.66732700  0.66606500  1
+  Cu  Cu8  1  0.33313600  0.33267300  0.33393500  1
+  S  S9  1  0.85575900  0.40308800  0.62771700  1
+  S  S10  1  0.52250200  0.06914700  0.29568800  1
+  S  S11  1  0.18832800  0.73918900  0.96343000  1
+  S  S12  1  0.81167200  0.26081100  0.03657000  1
+  S  S13  1  0.47749800  0.93085300  0.70431200  1
+  S  S14  1  0.14424100  0.59691200  0.37228300  1
+  S  S15  1  0.31954100  0.29850000  0.01426000  1
+  S  S16  1  0.99232800  0.96964100  0.68812400  1
+  S  S17  1  0.65759600  0.63618800  0.35002700  1
+  S  S18  1  0.34240400  0.36381200  0.64997300  1
+  S  S19  1  0.00767200  0.03035900  0.31187600  1
+  S  S20  1  0.68045900  0.70150000  0.98574000  1
+"
+"True","mp-3762","VCu3S4","Cubic","P-43m","215","8","0.0","-0.8562810200000001","True","154.84416641947865","3.966135452969545","1.0358","False","False","NM","0.0","# generated using pymatgen
+data_VCu3S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36988456
+_cell_length_b   5.36988456
+_cell_length_c   5.36988456
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VCu3S4
+_chemical_formula_sum   'V1 Cu3 S4'
+_cell_volume   154.84416642
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  -0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  -0.00000000  0.50000000  0.00000000  1
+  Cu  Cu2  1  -0.00000000  0.00000000  0.50000000  1
+  Cu  Cu3  1  0.50000000  0.00000000  0.00000000  1
+  S  S4  1  0.76291890  0.23708110  0.76291890  1
+  S  S5  1  0.23708110  0.76291890  0.76291890  1
+  S  S6  1  0.76291890  0.76291890  0.23708110  1
+  S  S7  1  0.23708110  0.23708110  0.23708110  1
+"
+"True","mp-1216385","VCuS4","Orthorhombic","Imma","74","12","0.368350677777779","-0.540586807499999","False","224.852275085873","3.5853914034495693","0.0","False","True","NM","0.01357","# generated using pymatgen
+data_VCuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82581863
+_cell_length_b   6.82581863
+_cell_length_c   6.82581863
+_cell_angle_alpha   121.50631054
+_cell_angle_beta   118.38684074
+_cell_angle_gamma   90.11375302
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VCuS4
+_chemical_formula_sum   'V2 Cu2 S8'
+_cell_volume   224.85227509
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.50000000  0.50000000  0.50000000  1
+  V  V1  1  0.50000000  0.00000000  0.00000000  1
+  Cu  Cu2  1  0.12754700  0.87754700  0.25000000  1
+  Cu  Cu3  1  0.87245300  0.12245300  0.75000000  1
+  S  S4  1  0.26278800  0.74666700  0.98387900  1
+  S  S5  1  0.26278800  0.27890800  0.51612100  1
+  S  S6  1  0.26253000  0.74627800  0.51625200  1
+  S  S7  1  0.73002700  0.74627800  0.98374800  1
+  S  S8  1  0.73721200  0.25333300  0.01612100  1
+  S  S9  1  0.73721200  0.72109200  0.48387900  1
+  S  S10  1  0.73747000  0.25372200  0.48374800  1
+  S  S11  1  0.26997300  0.25372200  0.01625200  1
+"

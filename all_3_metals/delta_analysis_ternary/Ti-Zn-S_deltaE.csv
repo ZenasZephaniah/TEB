@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Ti-Zn-S,Ti,Zn,S,Ti9ZnS16_531696_POSCAR,35,local_max_drop,19.4878866,-0.35996987180282,-0.19383375834564567,-0.1661361134571743,18.791891,34.103802,0.0106672

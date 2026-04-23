@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Co-Mn-S,Co,Mn,S,Mn4CoS5_1221850_POSCAR,35,global_gradient_fallback,4.4335689541,-0.091897723554694,-0.06994263578752037,-0.02195508776717363,4.078883,8.689795,0.01479566
+Co-Mn-S,Co,Mn,S,MnCoS_1008876_POSCAR,35,global_gradient_fallback,4.4972631682,-0.035425040138251,-0.01902378265834581,-0.016401257479905187,3.997567,8.1617,0.00400333

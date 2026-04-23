@@ -1,0 +1,1408 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-19442","Mn(Ni3O4)2","Cubic","Fm-3m","225","15","0.0","-1.361432144528734","True","144.6642070855784","6.142112964309543","1.4245","False","False","FM","14.9999789","# generated using pymatgen
+data_Mn(Ni3O4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.89233324
+_cell_length_b   5.89233555
+_cell_length_c   5.89237318
+_cell_angle_alpha   60.00125997
+_cell_angle_beta   60.00127179
+_cell_angle_gamma   60.00084230
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(Ni3O4)2
+_chemical_formula_sum   'Mn1 Ni6 O8'
+_cell_volume   144.66420709
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  -0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  -0.00000000  0.50000000  0.50000000  1
+  Ni  Ni2  1  -0.00000000  0.50000000  0.00000000  1
+  Ni  Ni3  1  0.50000000  0.00000000  0.50000000  1
+  Ni  Ni4  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni5  1  -0.00000000  0.00000000  0.50000000  1
+  Ni  Ni6  1  0.50000000  0.00000000  0.00000000  1
+  O  O7  1  0.22819505  0.77180431  0.77180278  1
+  O  O8  1  0.22819586  0.77180484  0.22819735  1
+  O  O9  1  0.77180414  0.22819516  0.77180265  1
+  O  O10  1  0.22819638  0.22819828  0.77180283  1
+  O  O11  1  0.77180362  0.77180172  0.22819617  1
+  O  O12  1  0.77180495  0.22819569  0.22819722  1
+  O  O13  1  0.75000036  0.75000032  0.74999903  1
+  O  O14  1  0.24999964  0.24999968  0.25000097  1
+"
+"True","mp-758680","Mn(Ni9O10)2","Tetragonal","I4/mmm","139","78","0.040933841153846004","-1.232284860587974","False","743.4339454742478","6.394401721918984","1.325899999999999","True","False","FM","77.9998739","# generated using pymatgen
+data_Mn(Ni9O10)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95305845
+_cell_length_b   5.95305845
+_cell_length_c   21.39607227
+_cell_angle_alpha   97.99667792
+_cell_angle_beta   97.99667792
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(Ni9O10)2
+_chemical_formula_sum   'Mn2 Ni36 O40'
+_cell_volume   743.43394547
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.59968200  0.59968200  0.19936400  1
+  Mn  Mn1  1  0.20031800  0.20031800  0.40063600  1
+  Ni  Ni2  1  0.99959800  0.99959800  0.99919500  1
+  Ni  Ni3  1  0.50035700  0.00035700  0.00071400  1
+  Ni  Ni4  1  0.49998800  0.49998800  0.99997700  1
+  Ni  Ni5  1  0.00035700  0.50035700  0.00071400  1
+  Ni  Ni6  1  0.80740200  0.80740200  0.10114200  1
+  Ni  Ni7  1  0.29373900  0.80740200  0.10114200  1
+  Ni  Ni8  1  0.29373900  0.29373900  0.10114200  1
+  Ni  Ni9  1  0.80740200  0.29373900  0.10114200  1
+  Ni  Ni10  1  0.10011300  0.60011300  0.20022700  1
+  Ni  Ni11  1  0.60011300  0.10011300  0.20022700  1
+  Ni  Ni12  1  0.90000000  0.40000000  0.30000000  1
+  Ni  Ni13  1  0.40000000  0.40000000  0.30000000  1
+  Ni  Ni14  1  0.90000000  0.90000000  0.30000000  1
+  Ni  Ni15  1  0.40000000  0.90000000  0.30000000  1
+  Ni  Ni16  1  0.69988700  0.19988700  0.39977300  1
+  Ni  Ni17  1  0.19988700  0.69988700  0.39977300  1
+  Ni  Ni18  1  0.99259800  0.99259800  0.49885800  1
+  Ni  Ni19  1  0.50626100  0.50626100  0.49885800  1
+  Ni  Ni20  1  0.99259800  0.50626100  0.49885800  1
+  Ni  Ni21  1  0.50626100  0.99259800  0.49885800  1
+  Ni  Ni22  1  0.29964300  0.79964300  0.59928600  1
+  Ni  Ni23  1  0.80040200  0.80040200  0.60080500  1
+  Ni  Ni24  1  0.30001200  0.30001200  0.60002300  1
+  Ni  Ni25  1  0.79964300  0.29964300  0.59928600  1
+  Ni  Ni26  1  0.10009400  0.59974100  0.69983600  1
+  Ni  Ni27  1  0.59974100  0.59974100  0.69983600  1
+  Ni  Ni28  1  0.59974100  0.10009400  0.69983600  1
+  Ni  Ni29  1  0.10009400  0.10009400  0.69983600  1
+  Ni  Ni30  1  0.90000000  0.40000000  0.80000000  1
+  Ni  Ni31  1  0.40000000  0.40000000  0.80000000  1
+  Ni  Ni32  1  0.40000000  0.90000000  0.80000000  1
+  Ni  Ni33  1  0.90000000  0.90000000  0.80000000  1
+  Ni  Ni34  1  0.20025900  0.20025900  0.90016400  1
+  Ni  Ni35  1  0.69990600  0.69990600  0.90016400  1
+  Ni  Ni36  1  0.20025900  0.69990600  0.90016400  1
+  Ni  Ni37  1  0.69990600  0.20025900  0.90016400  1
+  O  O38  1  0.25248300  0.25248300  0.00048400  1
+  O  O39  1  0.74800100  0.25248300  0.00048400  1
+  O  O40  1  0.74800100  0.74800100  0.00048400  1
+  O  O41  1  0.25248300  0.74800100  0.00048400  1
+  O  O42  1  0.04731900  0.04731900  0.09463800  1
+  O  O43  1  0.05069000  0.55069000  0.10137900  1
+  O  O44  1  0.55069000  0.05069000  0.10137900  1
+  O  O45  1  0.55253100  0.55253100  0.10506200  1
+  O  O46  1  0.37179100  0.82857300  0.20036400  1
+  O  O47  1  0.82857300  0.37179100  0.20036400  1
+  O  O48  1  0.37179100  0.37179100  0.20036400  1
+  O  O49  1  0.82857300  0.82857300  0.20036400  1
+  O  O50  1  0.64532200  0.64532200  0.29064400  1
+  O  O51  1  0.15000000  0.65000000  0.30000000  1
+  O  O52  1  0.65000000  0.15000000  0.30000000  1
+  O  O53  1  0.15467800  0.15467800  0.30935600  1
+  O  O54  1  0.97142700  0.42820900  0.39963600  1
+  O  O55  1  0.42820900  0.42820900  0.39963600  1
+  O  O56  1  0.42820900  0.97142700  0.39963600  1
+  O  O57  1  0.97142700  0.97142700  0.39963600  1
+  O  O58  1  0.24746900  0.24746900  0.49493800  1
+  O  O59  1  0.74931000  0.24931000  0.49862100  1
+  O  O60  1  0.24931000  0.74931000  0.49862100  1
+  O  O61  1  0.75268100  0.75268100  0.50536200  1
+  O  O62  1  0.54751700  0.54751700  0.59951600  1
+  O  O63  1  0.05199900  0.54751700  0.59951600  1
+  O  O64  1  0.05199900  0.05199900  0.59951600  1
+  O  O65  1  0.54751700  0.05199900  0.59951600  1
+  O  O66  1  0.84992200  0.84992200  0.69984400  1
+  O  O67  1  0.84979100  0.34979100  0.69958100  1
+  O  O68  1  0.34979100  0.84979100  0.69958100  1
+  O  O69  1  0.35000300  0.35000300  0.70000600  1
+  O  O70  1  0.65016100  0.14983900  0.80000000  1
+  O  O71  1  0.14983900  0.14983900  0.80000000  1
+  O  O72  1  0.65016100  0.65016100  0.80000000  1
+  O  O73  1  0.14983900  0.65016100  0.80000000  1
+  O  O74  1  0.44999700  0.44999700  0.89999400  1
+  O  O75  1  0.95020900  0.45020900  0.90041900  1
+  O  O76  1  0.45020900  0.95020900  0.90041900  1
+  O  O77  1  0.95007800  0.95007800  0.90015600  1
+"
+"True","mp-851082","Mn15NiO32","Trigonal","R-3m","166","48","0.061508577361112","-1.701877558311781","False","558.5752748090487","4.146313768845887","1.1139000000000001","False","False","FM","45.0005403","# generated using pymatgen
+data_Mn15NiO32
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.23564595
+_cell_length_b   8.23564595
+_cell_length_c   8.23564610
+_cell_angle_alpha   90.23833908
+_cell_angle_beta   90.23833908
+_cell_angle_gamma   90.23834391
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn15NiO32
+_chemical_formula_sum   'Mn15 Ni1 O32'
+_cell_volume   558.57527481
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.99943100  0.24879200  0.24879200  1
+  Mn  Mn1  1  0.00000000  0.50000000  0.50000000  1
+  Mn  Mn2  1  0.00056900  0.75120800  0.75120800  1
+  Mn  Mn3  1  0.75050300  0.50000000  0.24949700  1
+  Mn  Mn4  1  0.75050300  0.24949700  0.50000000  1
+  Mn  Mn5  1  0.75120800  0.75120800  0.00056900  1
+  Mn  Mn6  1  0.75120800  0.00056900  0.75120800  1
+  Mn  Mn7  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn8  1  0.50000000  0.24949700  0.75050300  1
+  Mn  Mn9  1  0.50000000  0.75050300  0.24949700  1
+  Mn  Mn10  1  0.50000000  0.00000000  0.50000000  1
+  Mn  Mn11  1  0.24879200  0.24879200  0.99943100  1
+  Mn  Mn12  1  0.24949700  0.50000000  0.75050300  1
+  Mn  Mn13  1  0.24879200  0.99943100  0.24879200  1
+  Mn  Mn14  1  0.24949700  0.75050300  0.50000000  1
+  Ni  Ni15  1  0.00000000  0.00000000  0.00000000  1
+  O  O16  1  0.01388200  0.23133200  0.01388200  1
+  O  O17  1  0.01388200  0.01388200  0.23133200  1
+  O  O18  1  0.01425000  0.73609900  0.51499400  1
+  O  O19  1  0.01425000  0.51499400  0.73609900  1
+  O  O20  1  0.98575000  0.26390100  0.48500600  1
+  O  O21  1  0.98575000  0.48500600  0.26390100  1
+  O  O22  1  0.98611800  0.76866800  0.98611800  1
+  O  O23  1  0.98611800  0.98611800  0.76866800  1
+  O  O24  1  0.76424200  0.26423600  0.26423600  1
+  O  O25  1  0.76504600  0.48509400  0.48509400  1
+  O  O26  1  0.76483000  0.76483000  0.76483000  1
+  O  O27  1  0.76866800  0.98611800  0.98611800  1
+  O  O28  1  0.73576400  0.73576400  0.23575800  1
+  O  O29  1  0.73609900  0.51499400  0.01425000  1
+  O  O30  1  0.73576400  0.23575800  0.73576400  1
+  O  O31  1  0.73609900  0.01425000  0.51499400  1
+  O  O32  1  0.51490600  0.51490600  0.23495400  1
+  O  O33  1  0.51499400  0.73609900  0.01425000  1
+  O  O34  1  0.51499400  0.01425000  0.73609900  1
+  O  O35  1  0.51490600  0.23495400  0.51490600  1
+  O  O36  1  0.48509400  0.48509400  0.76504600  1
+  O  O37  1  0.48500600  0.26390100  0.98575000  1
+  O  O38  1  0.48500600  0.98575000  0.26390100  1
+  O  O39  1  0.48509400  0.76504600  0.48509400  1
+  O  O40  1  0.26390100  0.48500600  0.98575000  1
+  O  O41  1  0.26423600  0.26423600  0.76424200  1
+  O  O42  1  0.26390100  0.98575000  0.48500600  1
+  O  O43  1  0.26423600  0.76424200  0.26423600  1
+  O  O44  1  0.23133200  0.01388200  0.01388200  1
+  O  O45  1  0.23517000  0.23517000  0.23517000  1
+  O  O46  1  0.23495400  0.51490600  0.51490600  1
+  O  O47  1  0.23575800  0.73576400  0.73576400  1
+"
+"True","mp-1190558","Mn2NiO14","Monoclinic","Cm","8","17","0.7326139711274521","-0.06526517446247501","False","270.4422338568918","2.410359568014147","0.004899999999999001","False","False","FiM","9.9985305","# generated using pymatgen
+data_Mn2NiO14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20867984
+_cell_length_b   7.68771457
+_cell_length_c   7.86011812
+_cell_angle_alpha   120.74465781
+_cell_angle_beta   90.00000294
+_cell_angle_gamma   88.93202687
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2NiO14
+_chemical_formula_sum   'Mn2 Ni1 O14'
+_cell_volume   270.44223386
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.49684400  0.66625300  0.33312600  1
+  Mn  Mn1  1  0.00464600  0.33191200  0.66595600  1
+  Ni  Ni2  1  0.73748800  0.00019600  0.00009800  1
+  O  O3  1  0.18502800  0.66838400  0.33419200  1
+  O  O4  1  0.58881600  0.90147800  0.45073900  1
+  O  O5  1  0.60201000  0.55222200  0.44356300  1
+  O  O6  1  0.60201000  0.55222200  0.10866000  1
+  O  O7  1  0.69219500  0.33435700  0.66717900  1
+  O  O8  1  0.11018600  0.10025700  0.55012900  1
+  O  O9  1  0.10261800  0.44910800  0.55726100  1
+  O  O10  1  0.10261800  0.44910800  0.89184700  1
+  O  O11  1  0.99551600  0.18619200  0.09309600  1
+  O  O12  1  0.97070200  0.92710800  0.12517300  1
+  O  O13  1  0.97070200  0.92710800  0.80193500  1
+  O  O14  1  0.48321700  0.81048500  0.90524300  1
+  O  O15  1  0.50675200  0.07180400  0.87350500  1
+  O  O16  1  0.50675200  0.07180400  0.19829800  1
+"
+"True","mp-1239107","Mn2NiO14","Trigonal","P3m1","156","17","0.716028931715687","-0.081850213874239","False","225.62824138774727","2.889102099820195","0.0","False","True","FiM","9.9999726","# generated using pymatgen
+data_Mn2NiO14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62559166
+_cell_length_b   7.62559166
+_cell_length_c   4.48038900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999706
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2NiO14
+_chemical_formula_sum   'Mn2 Ni1 O14'
+_cell_volume   225.62824139
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.66666700  0.33333300  0.49949300  1
+  Mn  Mn1  1  0.33333300  0.66666700  0.99251200  1
+  Ni  Ni2  1  0.00000000  0.00000000  0.25397100  1
+  O  O3  1  0.66666700  0.33333300  0.86149000  1
+  O  O4  1  0.55067200  0.10134400  0.39131000  1
+  O  O5  1  0.55067200  0.44932800  0.39131000  1
+  O  O6  1  0.89865600  0.44932800  0.39131000  1
+  O  O7  1  0.33333300  0.66666700  0.35371700  1
+  O  O8  1  0.45154300  0.90308600  0.88388300  1
+  O  O9  1  0.45154300  0.54845700  0.88388300  1
+  O  O10  1  0.09691400  0.54845700  0.88388300  1
+  O  O11  1  0.89717900  0.79435900  0.96586400  1
+  O  O12  1  0.89717900  0.10282100  0.96586400  1
+  O  O13  1  0.20564100  0.10282100  0.96586400  1
+  O  O14  1  0.09979700  0.19959400  0.55443900  1
+  O  O15  1  0.09979700  0.90020300  0.55443900  1
+  O  O16  1  0.80040600  0.90020300  0.55443900  1
+"
+"True","mp-1221867","Mn2NiO3","Trigonal","P-3m1","164","6","0.07710111583333601","-1.683973828477011","False","64.60187451948892","5.566697754255245","0.6211000000000001","False","False","FM","11.9967161","# generated using pymatgen
+data_Mn2NiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.13189557
+_cell_length_b   3.13189557
+_cell_length_c   7.60501200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999089
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2NiO3
+_chemical_formula_sum   'Mn2 Ni1 O3'
+_cell_volume   64.60187452
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.33333300  0.66666700  0.67350600  1
+  Mn  Mn1  1  0.66666700  0.33333300  0.32649400  1
+  Ni  Ni2  1  0.00000000  0.00000000  0.00000000  1
+  O  O3  1  0.33333300  0.66666700  0.15391800  1
+  O  O4  1  0.66666700  0.33333300  0.84608200  1
+  O  O5  1  0.00000000  0.00000000  0.50000000  1
+"
+"True","mp-1221937","Mn2NiO3","Orthorhombic","Immm","71","6","0.072076517500002","-1.688998426810345","False","64.18701003620627","5.602677389170582","0.0","False","True","FiM","8.0","# generated using pymatgen
+data_Mn2NiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38579298
+_cell_length_b   5.38579298
+_cell_length_c   5.38579298
+_cell_angle_alpha   146.31412142
+_cell_angle_beta   131.60605545
+_cell_angle_gamma   60.25794634
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2NiO3
+_chemical_formula_sum   'Mn2 Ni1 O3'
+_cell_volume   64.18701004
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.66534000  0.66534000  0.00000000  1
+  Mn  Mn1  1  0.33466000  0.33466000  0.00000000  1
+  Ni  Ni2  1  0.00000000  0.00000000  0.00000000  1
+  O  O3  1  0.50000000  0.00000000  0.50000000  1
+  O  O4  1  0.15829400  0.65829400  0.50000000  1
+  O  O5  1  0.84170600  0.34170600  0.50000000  1
+"
+"True","mp-1180531","Mn2NiO4","Orthorhombic","Imma","74","14","0.068174602797613","-1.718795485837438","False","158.01464712874107","4.887986595772173","0.8203","False","False","FM","19.9994391","# generated using pymatgen
+data_Mn2NiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21125452
+_cell_length_b   6.21125452
+_cell_length_c   6.21125452
+_cell_angle_alpha   124.53740183
+_cell_angle_beta   123.42634800
+_cell_angle_gamma   83.23434745
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2NiO4
+_chemical_formula_sum   'Mn4 Ni2 O8'
+_cell_volume   158.01464713
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn1  1  0.50000000  0.00000000  0.00000000  1
+  Mn  Mn2  1  0.50000000  0.50000000  0.50000000  1
+  Mn  Mn3  1  0.00000000  0.50000000  0.50000000  1
+  Ni  Ni4  1  0.88039200  0.13039200  0.75000000  1
+  Ni  Ni5  1  0.11960800  0.86960800  0.25000000  1
+  O  O6  1  0.72520500  0.74876600  0.97643900  1
+  O  O7  1  0.74905600  0.27036300  0.02130700  1
+  O  O8  1  0.72767300  0.25123400  0.47643900  1
+  O  O9  1  0.74905600  0.72774900  0.47869300  1
+  O  O10  1  0.27232700  0.74876600  0.52356100  1
+  O  O11  1  0.25094400  0.27225100  0.52130700  1
+  O  O12  1  0.27479500  0.25123400  0.02356100  1
+  O  O13  1  0.25094400  0.72963700  0.97869300  1
+"
+"True","mp-1422345","Mn2NiO4","Tetragonal","I4_1md","109","14","1.102204827797614","-0.684765260837438","False","157.83598068955826","4.893519676100402","0.0","False","True","FiM","3.0500192","# generated using pymatgen
+data_Mn2NiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19500548
+_cell_length_b   6.19500548
+_cell_length_c   6.19500548
+_cell_angle_alpha   123.64645511
+_cell_angle_beta   123.64645511
+_cell_angle_gamma   83.79227513
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2NiO4
+_chemical_formula_sum   'Mn4 Ni2 O8'
+_cell_volume   157.83598069
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.37500000  0.62500000  0.75000000  1
+  Mn  Mn1  1  0.37500000  0.12500000  0.75000000  1
+  Mn  Mn2  1  0.37500000  0.62500000  0.25000000  1
+  Mn  Mn3  1  0.87500000  0.62500000  0.25000000  1
+  Ni  Ni4  1  0.75000000  0.25000000  0.50000000  1
+  Ni  Ni5  1  0.00000000  0.00000000  0.00000000  1
+  O  O6  1  0.59963800  0.87766800  0.72197000  1
+  O  O7  1  0.62766800  0.40569700  0.77803000  1
+  O  O8  1  0.61051400  0.38291500  0.22759900  1
+  O  O9  1  0.62766800  0.84963800  0.22197000  1
+  O  O10  1  0.15569700  0.87766800  0.27803000  1
+  O  O11  1  0.13291500  0.40531600  0.27240100  1
+  O  O12  1  0.15531600  0.38291500  0.77240100  1
+  O  O13  1  0.13291500  0.86051400  0.72759900  1
+"
+"True","mp-2352352","Mn2NiO4","Orthorhombic","Fdd2","43","14","0.04920176994047001","-1.737768318694581","False","158.93791698409035","4.859592297150029","0.9243999999999991","False","False","FM","16.0000007","# generated using pymatgen
+data_Mn2NiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80121999
+_cell_length_b   5.80121999
+_cell_length_c   6.20877881
+_cell_angle_alpha   63.24452930
+_cell_angle_beta   63.24452930
+_cell_angle_gamma   92.08695492
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2NiO4
+_chemical_formula_sum   'Mn4 Ni2 O8'
+_cell_volume   158.93791698
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.49629781  0.00393722  0.00132853  1
+  Mn  Mn1  1  0.00393722  0.49629781  0.50132853  1
+  Mn  Mn2  1  0.50521279  0.49759092  0.49873503  1
+  Mn  Mn3  1  0.49759092  0.50521279  -0.00126497  1
+  Ni  Ni4  1  0.86740794  0.11741679  0.25003710  1
+  Ni  Ni5  1  0.11741679  0.86740794  0.75003710  1
+  O  O6  1  0.27233229  0.73463092  0.48274320  1
+  O  O7  1  0.73463092  0.27233229  0.98274320  1
+  O  O8  1  0.75504875  0.71736150  0.51730170  1
+  O  O9  1  0.27310555  0.25099180  0.99259023  1
+  O  O10  1  0.25099180  0.27310555  0.49259023  1
+  O  O11  1  0.71736150  0.75504875  0.01730170  1
+  O  O12  1  0.74354604  0.26564568  0.50748121  1
+  O  O13  1  0.26564568  0.74354604  0.00748121  1
+"
+"True","mp-29399","Mn2NiO4","Cubic","Fd-3m","227","14","0.342535812797613","-1.444434275837438","False","154.38170677501404","5.003011647141353","0.0","False","True","FM","21.8624452","# generated using pymatgen
+data_Mn2NiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02148477
+_cell_length_b   6.02148482
+_cell_length_c   6.02148500
+_cell_angle_alpha   60.00000451
+_cell_angle_beta   60.00000422
+_cell_angle_gamma   60.00000311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2NiO4
+_chemical_formula_sum   'Mn4 Ni2 O8'
+_cell_volume   154.38170678
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.00000000  0.49999900  1
+  Mn  Mn1  1  0.99999900  0.50000000  0.50000000  1
+  Mn  Mn2  1  0.49999900  0.50000000  0.00000000  1
+  Mn  Mn3  1  0.49999900  0.50000000  0.50000100  1
+  Ni  Ni4  1  0.12500000  0.12499900  0.12500000  1
+  Ni  Ni5  1  0.87500000  0.87499900  0.87500000  1
+  O  O6  1  0.74434100  0.74434000  0.74434200  1
+  O  O7  1  0.25566000  0.25565800  0.73302300  1
+  O  O8  1  0.25565900  0.73302200  0.25565900  1
+  O  O9  1  0.73302400  0.25565800  0.25565800  1
+  O  O10  1  0.74434100  0.26697800  0.74434000  1
+  O  O11  1  0.26697700  0.74434000  0.74434100  1
+  O  O12  1  0.25566000  0.25565800  0.25565900  1
+  O  O13  1  0.74434100  0.74434000  0.26697700  1
+"
+"True","mp-36843","Mn2NiO4","Orthorhombic","Imma","74","14","0.012463314226184002","-1.774506774408867","False","147.10609501138975","5.250451907116119","0.0","False","True","FM","20.0000007","# generated using pymatgen
+data_Mn2NiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86457587
+_cell_length_b   5.93653792
+_cell_length_c   5.94253855
+_cell_angle_alpha   120.03165002
+_cell_angle_beta   90.00127306
+_cell_angle_gamma   119.59774520
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2NiO4
+_chemical_formula_sum   'Mn4 Ni2 O8'
+_cell_volume   147.10609501
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.99441322  0.98886471  0.99443135  1
+  Mn  Mn1  1  0.75549175  0.51095100  0.25547355  1
+  Mn  Mn2  1  0.37497351  0.25000561  0.62500319  1
+  Mn  Mn3  1  0.87503226  0.25000455  0.62500193  1
+  Ni  Ni4  1  0.37504042  0.75007110  0.62502166  1
+  Ni  Ni5  1  0.37503010  0.75007017  0.12505468  1
+  O  O6  1  0.16548329  0.79891146  0.39945093  1
+  O  O7  1  0.63344945  0.79891124  0.39945901  1
+  O  O8  1  0.11666221  0.70114853  0.85056802  1
+  O  O9  1  0.58446265  0.70115278  0.85058022  1
+  O  O10  1  0.62226819  0.24453053  0.84015221  1
+  O  O11  1  0.62226644  0.24453589  0.40438548  1
+  O  O12  1  0.12771204  0.25542067  0.84559643  1
+  O  O13  1  0.12771047  0.25542376  0.40982135  1
+"
+"True","mp-622693","Mn2NiO4","Tetragonal","I4_1/amd","141","14","0.058827972083327004","-1.728142116551725","False","157.83520104539602","4.893543848173697","0.0","False","True","FM","19.9962146","# generated using pymatgen
+data_Mn2NiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85048192
+_cell_length_b   5.85048192
+_cell_length_c   6.19014498
+_cell_angle_alpha   61.82338508
+_cell_angle_beta   61.82338508
+_cell_angle_gamma   89.88896550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2NiO4
+_chemical_formula_sum   'Mn4 Ni2 O8'
+_cell_volume   157.83520105
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50208400  0.99993100  0.99648000  1
+  Mn  Mn1  1  0.99993100  0.50208400  0.49648000  1
+  Mn  Mn2  1  0.50185000  0.50183700  0.49772100  1
+  Mn  Mn3  1  0.50183700  0.50185000  0.99772100  1
+  Ni  Ni4  1  0.87873700  0.12805000  0.24352800  1
+  Ni  Ni5  1  0.12805000  0.87873700  0.74352800  1
+  O  O6  1  0.25013300  0.72324100  0.49817700  1
+  O  O7  1  0.72324100  0.25013300  0.99817700  1
+  O  O8  1  0.74497200  0.72362200  0.50867100  1
+  O  O9  1  0.28029100  0.25099200  0.99743300  1
+  O  O10  1  0.25099200  0.28029100  0.49743300  1
+  O  O11  1  0.72362200  0.74497200  0.00867100  1
+  O  O12  1  0.74611500  0.26867100  0.50820700  1
+  O  O13  1  0.26867100  0.74611500  0.00820700  1
+"
+"True","mp-690543","Mn2NiO4","Monoclinic","Cm","8","28","0.040669639226184","-1.7463004494088672","False","308.2161695900472","5.011894594162769","0.0","False","True","FM","40.0000941","# generated using pymatgen
+data_Mn2NiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00116995
+_cell_length_b   6.00116995
+_cell_length_c   10.33141781
+_cell_angle_alpha   73.92031394
+_cell_angle_beta   73.92031394
+_cell_angle_gamma   61.02249564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2NiO4
+_chemical_formula_sum   'Mn8 Ni4 O16'
+_cell_volume   308.21616959
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.43125700  0.43125700  0.68794400  1
+  Mn  Mn1  1  0.50564400  0.99905500  0.49947500  1
+  Mn  Mn2  1  0.24786200  0.24786200  0.24840300  1
+  Mn  Mn3  1  0.99905500  0.50564400  0.49947500  1
+  Mn  Mn4  1  0.06983400  0.06983400  0.81344000  1
+  Mn  Mn5  1  0.99634000  0.50060500  0.00011200  1
+  Mn  Mn6  1  0.50060500  0.99634000  0.00011200  1
+  Mn  Mn7  1  0.56685800  0.56685800  0.31377100  1
+  Ni  Ni8  1  0.92845900  0.92845900  0.18438900  1
+  Ni  Ni9  1  0.00024000  0.00024000  0.49883500  1
+  Ni  Ni10  1  0.75087200  0.75087200  0.75079500  1
+  Ni  Ni11  1  0.50081000  0.50081000  0.00041200  1
+  O  O12  1  0.86524400  0.40908400  0.88704300  1
+  O  O13  1  0.86236600  0.86236600  0.88678200  1
+  O  O14  1  0.36404800  0.91851000  0.37681800  1
+  O  O15  1  0.35667500  0.35667500  0.89827600  1
+  O  O16  1  0.40908400  0.86524400  0.88704300  1
+  O  O17  1  0.35750900  0.35750900  0.38029000  1
+  O  O18  1  0.09635500  0.63704400  0.61168300  1
+  O  O19  1  0.86103800  0.86103800  0.38926500  1
+  O  O20  1  0.14514200  0.14514200  0.60265300  1
+  O  O21  1  0.91851000  0.36404800  0.37681800  1
+  O  O22  1  0.63927300  0.63927300  0.60988300  1
+  O  O23  1  0.58030700  0.13797100  0.12564600  1
+  O  O24  1  0.64026200  0.64026200  0.10719100  1
+  O  O25  1  0.63704400  0.09635500  0.61168300  1
+  O  O26  1  0.13133900  0.13133900  0.12611600  1
+  O  O27  1  0.13797100  0.58030700  0.12564600  1
+"
+"True","mp-25285","Mn2NiO6","Orthorhombic","Cmce","64","18","0.09669745824074301","-1.4104075945402301","False","217.66691342552346","4.036644698277636","1.0781","False","False","FM","11.9991678","# generated using pymatgen
+data_Mn2NiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01128075
+_cell_length_b   5.01128075
+_cell_length_c   10.01321300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.04774300
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2NiO6
+_chemical_formula_sum   'Mn4 Ni2 O12'
+_cell_volume   217.66691343
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.33338600  0.66661400  0.00000000  1
+  Mn  Mn1  1  0.16661400  0.83338600  0.50000000  1
+  Mn  Mn2  1  0.66661400  0.33338600  0.00000000  1
+  Mn  Mn3  1  0.83338600  0.16661400  0.50000000  1
+  Ni  Ni4  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni5  1  0.50000000  0.50000000  0.50000000  1
+  O  O6  1  0.50018200  0.17255800  0.59554600  1
+  O  O7  1  0.49981800  0.82744200  0.40445400  1
+  O  O8  1  0.99981800  0.32744200  0.09554600  1
+  O  O9  1  0.67255800  0.00018200  0.90445400  1
+  O  O10  1  0.32756100  0.32756100  0.90454200  1
+  O  O11  1  0.17243900  0.17243900  0.40454200  1
+  O  O12  1  0.17255800  0.50018200  0.59554600  1
+  O  O13  1  0.82744200  0.49981800  0.40445400  1
+  O  O14  1  0.32744200  0.99981800  0.09554600  1
+  O  O15  1  0.67243900  0.67243900  0.09545800  1
+  O  O16  1  0.82756100  0.82756100  0.59545800  1
+  O  O17  1  0.00018200  0.67255800  0.90445400  1
+"
+"True","mp-758834","Mn3(Ni17O20)2","Tetragonal","I4/mmm","139","77","0.03732001051948","-1.264539419399909","False","748.715679561411","6.21079113296987","1.1360000000000001","False","False","FM","76.9958138","# generated using pymatgen
+data_Mn3(Ni17O20)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96249833
+_cell_length_b   5.96249833
+_cell_length_c   21.47797525
+_cell_angle_alpha   97.97869945
+_cell_angle_beta   97.97869945
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3(Ni17O20)2
+_chemical_formula_sum   'Mn3 Ni34 O40'
+_cell_volume   748.71567956
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.59966500  0.59966500  0.19932900  1
+  Mn  Mn1  1  0.20000000  0.20000000  0.40000000  1
+  Mn  Mn2  1  0.80033500  0.80033500  0.60067100  1
+  Ni  Ni3  1  0.50017700  0.00017700  0.00035400  1
+  Ni  Ni4  1  0.99932400  0.99932400  0.99864800  1
+  Ni  Ni5  1  0.00017700  0.50017700  0.00035400  1
+  Ni  Ni6  1  0.49993600  0.49993600  0.99987100  1
+  Ni  Ni7  1  0.80718300  0.80718300  0.10106600  1
+  Ni  Ni8  1  0.29388400  0.80718300  0.10106600  1
+  Ni  Ni9  1  0.80718300  0.29388400  0.10106600  1
+  Ni  Ni10  1  0.29388400  0.29388400  0.10106600  1
+  Ni  Ni11  1  0.10020700  0.60020700  0.20041400  1
+  Ni  Ni12  1  0.60020700  0.10020700  0.20041400  1
+  Ni  Ni13  1  0.39976900  0.39976900  0.29993300  1
+  Ni  Ni14  1  0.90016500  0.39976900  0.29993300  1
+  Ni  Ni15  1  0.90016500  0.90016500  0.29993300  1
+  Ni  Ni16  1  0.39976900  0.90016500  0.29993300  1
+  Ni  Ni17  1  0.70000000  0.20000000  0.40000000  1
+  Ni  Ni18  1  0.20000000  0.70000000  0.40000000  1
+  Ni  Ni19  1  0.49983500  0.49983500  0.50006700  1
+  Ni  Ni20  1  0.00023100  0.00023100  0.50006700  1
+  Ni  Ni21  1  0.00023100  0.49983500  0.50006700  1
+  Ni  Ni22  1  0.49983500  0.00023100  0.50006700  1
+  Ni  Ni23  1  0.29979300  0.79979300  0.59958600  1
+  Ni  Ni24  1  0.79979300  0.29979300  0.59958600  1
+  Ni  Ni25  1  0.59281700  0.10611600  0.69893400  1
+  Ni  Ni26  1  0.59281700  0.59281700  0.69893400  1
+  Ni  Ni27  1  0.10611600  0.10611600  0.69893400  1
+  Ni  Ni28  1  0.10611600  0.59281700  0.69893400  1
+  Ni  Ni29  1  0.39982300  0.89982300  0.79964600  1
+  Ni  Ni30  1  0.90006400  0.90006400  0.80012900  1
+  Ni  Ni31  1  0.40067600  0.40067600  0.80135200  1
+  Ni  Ni32  1  0.89982300  0.39982300  0.79964600  1
+  Ni  Ni33  1  0.70000000  0.20000000  0.90000000  1
+  Ni  Ni34  1  0.70000000  0.70000000  0.90000000  1
+  Ni  Ni35  1  0.20000000  0.20000000  0.90000000  1
+  Ni  Ni36  1  0.20000000  0.70000000  0.90000000  1
+  O  O37  1  0.74755500  0.25270800  0.00026300  1
+  O  O38  1  0.25270800  0.25270800  0.00026300  1
+  O  O39  1  0.25270800  0.74755500  0.00026300  1
+  O  O40  1  0.74755500  0.74755500  0.00026300  1
+  O  O41  1  0.04684100  0.04684100  0.09368300  1
+  O  O42  1  0.55044900  0.05044900  0.10089800  1
+  O  O43  1  0.05044900  0.55044900  0.10089800  1
+  O  O44  1  0.55262000  0.55262000  0.10523900  1
+  O  O45  1  0.37095300  0.82961500  0.20056800  1
+  O  O46  1  0.82961500  0.82961500  0.20056800  1
+  O  O47  1  0.82961500  0.37095300  0.20056800  1
+  O  O48  1  0.37095300  0.37095300  0.20056800  1
+  O  O49  1  0.64520300  0.64520300  0.29040600  1
+  O  O50  1  0.15020500  0.65020500  0.30041000  1
+  O  O51  1  0.65020500  0.15020500  0.30041000  1
+  O  O52  1  0.15416000  0.15416000  0.30832100  1
+  O  O53  1  0.97045100  0.42954900  0.40000000  1
+  O  O54  1  0.42954900  0.42954900  0.40000000  1
+  O  O55  1  0.42954900  0.97045100  0.40000000  1
+  O  O56  1  0.97045100  0.97045100  0.40000000  1
+  O  O57  1  0.24584000  0.24584000  0.49167900  1
+  O  O58  1  0.74979500  0.24979500  0.49959000  1
+  O  O59  1  0.24979500  0.74979500  0.49959000  1
+  O  O60  1  0.75479700  0.75479700  0.50959400  1
+  O  O61  1  0.57038500  0.02904700  0.59943200  1
+  O  O62  1  0.02904700  0.02904700  0.59943200  1
+  O  O63  1  0.57038500  0.57038500  0.59943200  1
+  O  O64  1  0.02904700  0.57038500  0.59943200  1
+  O  O65  1  0.84738000  0.84738000  0.69476100  1
+  O  O66  1  0.34955100  0.84955100  0.69910200  1
+  O  O67  1  0.84955100  0.34955100  0.69910200  1
+  O  O68  1  0.35315900  0.35315900  0.70631700  1
+  O  O69  1  0.14729200  0.65244500  0.79973700  1
+  O  O70  1  0.65244500  0.14729200  0.79973700  1
+  O  O71  1  0.14729200  0.14729200  0.79973700  1
+  O  O72  1  0.65244500  0.65244500  0.79973700  1
+  O  O73  1  0.45008000  0.45008000  0.90016100  1
+  O  O74  1  0.95000000  0.45000000  0.90000000  1
+  O  O75  1  0.45000000  0.95000000  0.90000000  1
+  O  O76  1  0.94992000  0.94992000  0.89983900  1
+"
+"True","mp-1192587","Mn3NiO10","Trigonal","R-3","148","28","0.345806012738094","-1.013588933485222","False","345.9751372404615","3.681300835938171","0.0","False","True","FiM","26.0033651","# generated using pymatgen
+data_Mn3NiO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.16427351
+_cell_length_b   8.16427351
+_cell_length_c   8.16427366
+_cell_angle_alpha   55.65135251
+_cell_angle_beta   55.65135251
+_cell_angle_gamma   55.65135049
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3NiO10
+_chemical_formula_sum   'Mn6 Ni2 O20'
+_cell_volume   345.97513724
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.57670800  0.14204200  0.28296800  1
+  Mn  Mn1  1  0.28296800  0.57670800  0.14204200  1
+  Mn  Mn2  1  0.14204200  0.28296800  0.57670800  1
+  Mn  Mn3  1  0.42329200  0.85795800  0.71703200  1
+  Mn  Mn4  1  0.71703200  0.42329200  0.85795800  1
+  Mn  Mn5  1  0.85795800  0.71703200  0.42329200  1
+  Ni  Ni6  1  0.90453900  0.90453900  0.90453900  1
+  Ni  Ni7  1  0.09546100  0.09546100  0.09546100  1
+  O  O8  1  0.57326800  0.85909100  0.42685400  1
+  O  O9  1  0.42685400  0.57326800  0.85909100  1
+  O  O10  1  0.85909100  0.42685400  0.57326800  1
+  O  O11  1  0.42673200  0.14090900  0.57314600  1
+  O  O12  1  0.57314600  0.42673200  0.14090900  1
+  O  O13  1  0.14090900  0.57314600  0.42673200  1
+  O  O14  1  0.14458800  0.99929700  0.70511600  1
+  O  O15  1  0.70511600  0.14458800  0.99929700  1
+  O  O16  1  0.99929700  0.70511600  0.14458800  1
+  O  O17  1  0.85541200  0.00070300  0.29488400  1
+  O  O18  1  0.29488400  0.85541200  0.00070300  1
+  O  O19  1  0.00070300  0.29488400  0.85541200  1
+  O  O20  1  0.28844700  0.28844700  0.28844700  1
+  O  O21  1  0.71155300  0.71155300  0.71155300  1
+  O  O22  1  0.80449400  0.02093600  0.69644600  1
+  O  O23  1  0.69644600  0.80449400  0.02093600  1
+  O  O24  1  0.02093600  0.69644600  0.80449400  1
+  O  O25  1  0.19550600  0.97906400  0.30355400  1
+  O  O26  1  0.30355400  0.19550600  0.97906400  1
+  O  O27  1  0.97906400  0.30355400  0.19550600  1
+"
+"True","mp-1221811","Mn3NiO4","Tetragonal","P4/mmm","123","8","0.09052417312500001","-1.7384244767241381","False","88.14295063202485","5.41635496761041","0.041999999999999","False","False","FM","16.995981","# generated using pymatgen
+data_Mn3NiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.14864600
+_cell_length_b   3.14864600
+_cell_length_c   8.89078100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3NiO4
+_chemical_formula_sum   'Mn3 Ni1 O4'
+_cell_volume   88.14295063
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.75572200  1
+  Mn  Mn1  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn2  1  0.50000000  0.50000000  0.24427800  1
+  Ni  Ni3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.00000000  0.00000000  0.24236100  1
+  O  O5  1  0.50000000  0.50000000  0.00000000  1
+  O  O6  1  0.00000000  0.00000000  0.75763900  1
+  O  O7  1  0.50000000  0.50000000  0.50000000  1
+"
+"True","mp-776651","Mn3NiO4","Orthorhombic","Cmmm","65","8","0.087066673125001","-1.741881976724138","False","87.20233463225763","5.474778978440372","0.09050000000000001","True","False","FM","16.9996971","# generated using pymatgen
+data_Mn3NiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.14062467
+_cell_length_b   5.42842392
+_cell_length_c   5.42842392
+_cell_angle_alpha   109.56767332
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3NiO4
+_chemical_formula_sum   'Mn3 Ni1 O4'
+_cell_volume   87.20233463
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.50000000  0.50000000  1
+  Mn  Mn1  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn2  1  0.50000000  0.00000000  0.50000000  1
+  Ni  Ni3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.00000000  0.24688200  0.75311800  1
+  O  O5  1  0.50000000  0.24088200  0.24088200  1
+  O  O6  1  0.50000000  0.75911800  0.75911800  1
+  O  O7  1  0.00000000  0.75311800  0.24688200  1
+"
+"True","mp-1176568","Mn3NiO8","Trigonal","R-3m","166","12","0.08896531694444601","-1.496995453649424","False","134.68376886266262","4.333736933657025","0.40220000000000006","False","False","FiM","9.0013159","# generated using pymatgen
+data_Mn3NiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67771411
+_cell_length_b   5.67771411
+_cell_length_c   5.67771373
+_cell_angle_alpha   61.81548624
+_cell_angle_beta   61.81548624
+_cell_angle_gamma   61.81549143
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3NiO8
+_chemical_formula_sum   'Mn3 Ni1 O8'
+_cell_volume   134.68376886
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn1  1  0.00000000  0.50000000  0.50000000  1
+  Mn  Mn2  1  0.50000000  0.00000000  0.50000000  1
+  Ni  Ni3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.26318200  0.26318200  0.26318200  1
+  O  O5  1  0.76576200  0.76576200  0.25866200  1
+  O  O6  1  0.25866200  0.76576200  0.76576200  1
+  O  O7  1  0.73681800  0.73681800  0.73681800  1
+  O  O8  1  0.76576200  0.25866200  0.76576200  1
+  O  O9  1  0.23423800  0.23423800  0.74133800  1
+  O  O10  1  0.74133800  0.23423800  0.23423800  1
+  O  O11  1  0.23423800  0.74133800  0.23423800  1
+"
+"True","mp-757044","Mn3NiO8","Trigonal","R-3m","166","12","0.09804865444444501","-1.487912116149425","False","134.7023991673421","4.333137546860845","0.8148000000000001","False","False","FM","8.9988153","# generated using pymatgen
+data_Mn3NiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72022769
+_cell_length_b   5.72022769
+_cell_length_c   5.72022746
+_cell_angle_alpha   60.78785639
+_cell_angle_beta   60.78785639
+_cell_angle_gamma   60.78786829
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3NiO8
+_chemical_formula_sum   'Mn3 Ni1 O8'
+_cell_volume   134.70239917
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.50000000  0.00000000  1
+  Mn  Mn1  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn2  1  0.50000000  0.00000000  0.00000000  1
+  Ni  Ni3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.76670400  0.76670400  0.20623200  1
+  O  O5  1  0.20623200  0.76670400  0.76670400  1
+  O  O6  1  0.76670400  0.20623200  0.76670400  1
+  O  O7  1  0.76266100  0.76266100  0.76266100  1
+  O  O8  1  0.23733900  0.23733900  0.23733900  1
+  O  O9  1  0.23329600  0.79376800  0.23329600  1
+  O  O10  1  0.79376800  0.23329600  0.23329600  1
+  O  O11  1  0.23329600  0.23329600  0.79376800  1
+"
+"True","mp-775810","Mn3NiO8","Cubic","P4_332","212","48","0.09600796090277901","-1.489952809691091","False","539.7448330152235","4.325629355068115","0.7207","True","False","FM","36.0013361","# generated using pymatgen
+data_Mn3NiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.14197000
+_cell_length_b   8.14197000
+_cell_length_c   8.14197000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3NiO8
+_chemical_formula_sum   'Mn12 Ni4 O32'
+_cell_volume   539.74483302
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.12808000  0.12192000  0.62500000  1
+  Mn  Mn1  1  0.12500000  0.37192000  0.87808000  1
+  Mn  Mn2  1  0.12192000  0.62500000  0.12808000  1
+  Mn  Mn3  1  0.37808000  0.37500000  0.62808000  1
+  Mn  Mn4  1  0.37500000  0.62808000  0.37808000  1
+  Mn  Mn5  1  0.37192000  0.87808000  0.12500000  1
+  Mn  Mn6  1  0.62808000  0.37808000  0.37500000  1
+  Mn  Mn7  1  0.62500000  0.12808000  0.12192000  1
+  Mn  Mn8  1  0.62192000  0.87500000  0.87192000  1
+  Mn  Mn9  1  0.87808000  0.12500000  0.37192000  1
+  Mn  Mn10  1  0.87500000  0.87192000  0.62192000  1
+  Mn  Mn11  1  0.87192000  0.62192000  0.87500000  1
+  Ni  Ni12  1  0.12500000  0.87500000  0.37500000  1
+  Ni  Ni13  1  0.37500000  0.12500000  0.87500000  1
+  Ni  Ni14  1  0.62500000  0.62500000  0.62500000  1
+  Ni  Ni15  1  0.87500000  0.37500000  0.12500000  1
+  O  O16  1  0.11452500  0.10773800  0.38795200  1
+  O  O17  1  0.11204800  0.88547500  0.60773800  1
+  O  O18  1  0.10964700  0.60964700  0.89035300  1
+  O  O19  1  0.10773800  0.38795200  0.11452500  1
+  O  O20  1  0.14226200  0.13547500  0.86204800  1
+  O  O21  1  0.14035300  0.35964700  0.64035300  1
+  O  O22  1  0.13795200  0.64226200  0.36452500  1
+  O  O23  1  0.13547500  0.86204800  0.14226200  1
+  O  O24  1  0.36452500  0.13795200  0.64226200  1
+  O  O25  1  0.36204800  0.35773800  0.86452500  1
+  O  O26  1  0.35964700  0.64035300  0.14035300  1
+  O  O27  1  0.35773800  0.86452500  0.36204800  1
+  O  O28  1  0.39226200  0.61204800  0.61452500  1
+  O  O29  1  0.39035300  0.39035300  0.39035300  1
+  O  O30  1  0.38795200  0.11452500  0.10773800  1
+  O  O31  1  0.38547500  0.89226200  0.88795200  1
+  O  O32  1  0.61452500  0.39226200  0.61204800  1
+  O  O33  1  0.61204800  0.61452500  0.39226200  1
+  O  O34  1  0.60964700  0.89035300  0.10964700  1
+  O  O35  1  0.60773800  0.11204800  0.88547500  1
+  O  O36  1  0.64226200  0.36452500  0.13795200  1
+  O  O37  1  0.64035300  0.14035300  0.35964700  1
+  O  O38  1  0.63795200  0.85773800  0.63547500  1
+  O  O39  1  0.63547500  0.63795200  0.85773800  1
+  O  O40  1  0.86452500  0.36204800  0.35773800  1
+  O  O41  1  0.86204800  0.14226200  0.13547500  1
+  O  O42  1  0.85964700  0.85964700  0.85964700  1
+  O  O43  1  0.85773800  0.63547500  0.63795200  1
+  O  O44  1  0.89226200  0.88795200  0.38547500  1
+  O  O45  1  0.89035300  0.10964700  0.60964700  1
+  O  O46  1  0.88795200  0.38547500  0.89226200  1
+  O  O47  1  0.88547500  0.60773800  0.11204800  1
+"
+"True","mp-757060","Mn4NiO8","Monoclinic","C2/m","12","13","0.09671527854166201","-1.721249697824935","False","149.1667656349388","4.524538630147076","0.0","False","True","FM","16.0003294","# generated using pymatgen
+data_Mn4NiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92836547
+_cell_length_b   5.92836547
+_cell_length_c   5.94482125
+_cell_angle_alpha   61.43181063
+_cell_angle_beta   61.43181063
+_cell_angle_gamma   58.62706452
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4NiO8
+_chemical_formula_sum   'Mn4 Ni1 O8'
+_cell_volume   149.16676563
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.50000000  1
+  Mn  Mn1  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn2  1  0.00000000  0.50000000  0.00000000  1
+  Mn  Mn3  1  0.50000000  0.00000000  0.00000000  1
+  Ni  Ni4  1  0.50000000  0.50000000  0.00000000  1
+  O  O5  1  0.73051700  0.73051700  0.80598300  1
+  O  O6  1  0.72591400  0.21894400  0.79451900  1
+  O  O7  1  0.21894400  0.72591400  0.79451900  1
+  O  O8  1  0.25603800  0.25603800  0.77551700  1
+  O  O9  1  0.74396200  0.74396200  0.22448300  1
+  O  O10  1  0.78105600  0.27408600  0.20548100  1
+  O  O11  1  0.27408600  0.78105600  0.20548100  1
+  O  O12  1  0.26948300  0.26948300  0.19401700  1
+"
+"True","mp-755683","Mn5NiO12","Monoclinic","C2/m","12","18","0.066927645648148","-1.597888842758619","False","212.607413512111","4.103375625391579","1.1440000000000001","False","False","FM","14.999405","# generated using pymatgen
+data_Mn5NiO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02989933
+_cell_length_b   5.02989933
+_cell_length_c   9.71011407
+_cell_angle_alpha   89.99660470
+_cell_angle_beta   89.99660470
+_cell_angle_gamma   120.06735070
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn5NiO12
+_chemical_formula_sum   'Mn5 Ni1 O12'
+_cell_volume   212.60741351
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.16662100  0.83337900  0.50000000  1
+  Mn  Mn1  1  0.33334700  0.66665300  0.00000000  1
+  Mn  Mn2  1  0.50000000  0.50000000  0.50000000  1
+  Mn  Mn3  1  0.66665300  0.33334700  0.00000000  1
+  Mn  Mn4  1  0.83337900  0.16662100  0.50000000  1
+  Ni  Ni5  1  0.00000000  0.00000000  0.00000000  1
+  O  O6  1  0.00016100  0.67247000  0.90254800  1
+  O  O7  1  0.32753000  0.99983900  0.09745200  1
+  O  O8  1  0.16677100  0.50016300  0.59910000  1
+  O  O9  1  0.49983700  0.83322900  0.40090000  1
+  O  O10  1  0.32776900  0.32776900  0.90257800  1
+  O  O11  1  0.16669700  0.16669700  0.40102400  1
+  O  O12  1  0.67223100  0.67223100  0.09742200  1
+  O  O13  1  0.83330300  0.83330300  0.59897600  1
+  O  O14  1  0.50016300  0.16677100  0.59910000  1
+  O  O15  1  0.83322900  0.49983700  0.40090000  1
+  O  O16  1  0.99983900  0.32753000  0.09745200  1
+  O  O17  1  0.67247000  0.00016100  0.90254800  1
+"
+"True","mp-1221715","MnNi3O4","Orthorhombic","Pmmm","47","8","0.062218149375000004","-1.359488267241379","False","79.24538412993313","6.181878493834787","0.6421","False","False","FM","10.9978453","# generated using pymatgen
+data_MnNi3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.03972100
+_cell_length_b   4.30159200
+_cell_length_c   6.06053600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNi3O4
+_chemical_formula_sum   'Mn1 Ni3 O4'
+_cell_volume   79.24538413
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.50000000  0.50000000  0.25397400  1
+  Ni  Ni2  1  0.00000000  0.00000000  0.50000000  1
+  Ni  Ni3  1  0.50000000  0.50000000  0.74602600  1
+  O  O4  1  0.00000000  0.50000000  0.50000000  1
+  O  O5  1  0.50000000  0.00000000  0.73711400  1
+  O  O6  1  0.00000000  0.50000000  0.00000000  1
+  O  O7  1  0.50000000  0.00000000  0.26288600  1
+"
+"True","mp-759859","MnNi3O4","Orthorhombic","Cmmm","65","8","0.060134379375000005","-1.361572037241379","False","79.07849114181673","6.194925178958791","0.9829999999999991","False","False","FM","10.9998848","# generated using pymatgen
+data_MnNi3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24665379
+_cell_length_b   5.24665379
+_cell_length_c   3.04906200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.58149755
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNi3O4
+_chemical_formula_sum   'Mn1 Ni3 O4'
+_cell_volume   79.07849114
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni1  1  0.00000000  0.50000000  0.50000000  1
+  Ni  Ni2  1  0.50000000  0.00000000  0.50000000  1
+  Ni  Ni3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.24442600  0.75557400  0.00000000  1
+  O  O5  1  0.75990800  0.75990800  0.50000000  1
+  O  O6  1  0.24009200  0.24009200  0.50000000  1
+  O  O7  1  0.75557400  0.24442600  0.00000000  1
+"
+"True","mp-1221343","MnNi7O8","Cubic","Fm-3m","225","16","0.050435430937501004","-1.269460427370688","False","154.88218595611036","6.36617167672776","1.0111","True","False","FM","18.9985527","# generated using pymatgen
+data_MnNi7O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02798490
+_cell_length_b   6.02798490
+_cell_length_c   6.02798490
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNi7O8
+_chemical_formula_sum   'Mn1 Ni7 O8'
+_cell_volume   154.88218596
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.00000000  0.00000000  0.50000000  1
+  Ni  Ni2  1  0.50000000  0.00000000  0.50000000  1
+  Ni  Ni3  1  0.00000000  0.50000000  0.50000000  1
+  Ni  Ni4  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni5  1  0.00000000  0.50000000  0.00000000  1
+  Ni  Ni6  1  0.50000000  0.00000000  0.00000000  1
+  Ni  Ni7  1  0.50000000  0.50000000  0.50000000  1
+  O  O8  1  0.75000000  0.75000000  0.75000000  1
+  O  O9  1  0.25000000  0.25000000  0.25000000  1
+  O  O10  1  0.74473600  0.74473600  0.25526400  1
+  O  O11  1  0.25526400  0.74473600  0.25526400  1
+  O  O12  1  0.74473600  0.25526400  0.25526400  1
+  O  O13  1  0.25526400  0.25526400  0.74473600  1
+  O  O14  1  0.74473600  0.25526400  0.74473600  1
+  O  O15  1  0.25526400  0.74473600  0.74473600  1
+"
+"True","mp-752562","MnNiO2","Tetragonal","P4/mmm","123","4","0.095897183749999","-1.529430349482758","False","41.8842465496526","5.773643577767428","0.0","False","True","FM","6.9969084","# generated using pymatgen
+data_MnNiO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.09443700
+_cell_length_b   3.09443700
+_cell_length_c   4.37408700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNiO2
+_chemical_formula_sum   'Mn1 Ni1 O2'
+_cell_volume   41.88424655
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.00000000  0.00000000  0.00000000  1
+  O  O2  1  0.50000000  0.50000000  0.00000000  1
+  O  O3  1  0.00000000  0.00000000  0.50000000  1
+"
+"True","mp-1180705","MnNiO3","Monoclinic","C2/m","12","10","0.25346269800000004","-1.365809642586207","False","113.16751063504739","4.743275492004497","0.0","False","True","FM","9.9985373","# generated using pymatgen
+data_MnNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.17356188
+_cell_length_b   5.72228014
+_cell_length_c   6.11209817
+_cell_angle_alpha   117.17736598
+_cell_angle_beta   144.61585936
+_cell_angle_gamma   35.54709974
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNiO3
+_chemical_formula_sum   'Mn2 Ni2 O6'
+_cell_volume   113.16751064
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.66574900  0.65268500  0.81991000  1
+  Mn  Mn1  1  0.33425100  0.34731500  0.18009000  1
+  Ni  Ni2  1  0.00911900  0.23082700  0.74794100  1
+  Ni  Ni3  1  0.99088100  0.76917300  0.25205900  1
+  O  O4  1  0.85576800  0.81718900  0.73515900  1
+  O  O5  1  0.48872200  0.21854900  0.68989600  1
+  O  O6  1  0.15103600  0.68522200  0.77383100  1
+  O  O7  1  0.14423200  0.18281100  0.26484100  1
+  O  O8  1  0.51127800  0.78145100  0.31010400  1
+  O  O9  1  0.84896400  0.31477800  0.22616900  1
+"
+"True","mp-19331","MnNiO3","Trigonal","R-3","148","10","0.0","-1.6192723405862082","True","94.5143295599752","5.679399961735489","0.0","False","True","FM","10.004428","# generated using pymatgen
+data_MnNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34130838
+_cell_length_b   5.34130044
+_cell_length_c   5.34134469
+_cell_angle_alpha   54.72510480
+_cell_angle_beta   54.72511675
+_cell_angle_gamma   54.72560670
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNiO3
+_chemical_formula_sum   'Mn2 Ni2 O6'
+_cell_volume   94.51432956
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.84288588  0.84288393  0.84288803  1
+  Mn  Mn1  1  0.15711412  0.15711407  0.15711297  1
+  Ni  Ni2  1  0.64728530  0.64728450  0.64727237  1
+  Ni  Ni3  1  0.35271570  0.35271650  0.35272663  1
+  O  O4  1  0.77102783  0.43906760  0.05404590  1
+  O  O5  1  0.43906735  0.05403708  0.77103158  1
+  O  O6  1  0.05402952  0.77102733  0.43907560  1
+  O  O7  1  0.22897117  0.56093340  0.94595410  1
+  O  O8  1  0.94596948  0.22897367  0.56092440  1
+  O  O9  1  0.56093365  0.94596392  0.22896742  1
+"

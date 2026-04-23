@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Co-Mo-O,Co,Mo,O,Co4_MoO4_3_1213876_POSCAR,35,local_max_drop,6.1985256,-0.53978064409054,-0.452252583796801,-0.08752806029373905,5.940254,12.655323,0.06447748
+Co-Mo-O,Co,Mo,O,CoMoO3_1183772_POSCAR,35,global_gradient_fallback,4.18278,-0.072494547405946,-0.05006650089350293,-0.022428046512443074,3.18688,9.75982,0.00858388

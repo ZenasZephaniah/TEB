@@ -1,0 +1,73 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1219520","Sc(CuS)3","Trigonal","R-3","148","14","0.007183582767847","-0.9260874397767851","False","227.5004788856635","4.8434926637460265","1.0553","False","False","NM","0.0","# generated using pymatgen
+data_Sc(CuS)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21427901
+_cell_length_b   7.21427902
+_cell_length_c   7.21427947
+_cell_angle_alpha   53.87530319
+_cell_angle_beta   53.87530322
+_cell_angle_gamma   53.87530012
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc(CuS)3
+_chemical_formula_sum   'Sc2 Cu6 S6'
+_cell_volume   227.50047889
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.66645541  0.66645541  0.66645541  1
+  Sc  Sc1  1  0.33354459  0.33354459  0.33354459  1
+  Cu  Cu2  1  0.87643202  0.54026064  0.21299079  1
+  Cu  Cu3  1  0.54026064  0.21299079  0.87643202  1
+  Cu  Cu4  1  0.21299079  0.87643202  0.54026064  1
+  Cu  Cu5  1  0.78700921  0.12356798  0.45973936  1
+  Cu  Cu6  1  0.45973936  0.78700921  0.12356798  1
+  Cu  Cu7  1  0.12356798  0.45973936  0.78700921  1
+  S  S8  1  0.07846647  0.74324011  0.41779769  1
+  S  S9  1  0.41779769  0.07846647  0.74324011  1
+  S  S10  1  0.74324011  0.41779769  0.07846647  1
+  S  S11  1  0.25675989  0.58220231  0.92153353  1
+  S  S12  1  0.58220231  0.92153353  0.25675989  1
+  S  S13  1  0.92153353  0.25675989  0.58220231  1
+"
+"True","mp-6980","ScCuS2","Trigonal","P3m1","156","4","0.0","-1.474168582656251","True","72.54168961050509","3.9516867549820693","0.8709000000000001","False","False","NM","0.0","# generated using pymatgen
+data_ScCuS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73793898
+_cell_length_b   3.73793907
+_cell_length_c   5.99504719
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999919
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScCuS2
+_chemical_formula_sum   'Sc1 Cu1 S2'
+_cell_volume   72.54168961
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.00000000  0.00234087  1
+  Cu  Cu1  1  0.33333300  0.66666700  0.40052352  1
+  S  S2  1  0.66666700  0.33333300  0.26227064  1
+  S  S3  1  0.33333300  0.66666700  0.77766497  1
+"

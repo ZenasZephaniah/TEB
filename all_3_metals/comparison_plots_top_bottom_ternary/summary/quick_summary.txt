@@ -1,0 +1,95 @@
+rows: 1186
+unique chemsys: 198
+unique pairs: 154
+ligands: O, S
+delta_E min: -1.682540
+delta_E max: -0.000137
+delta_E mean: -0.114599
+
+Largest artifact configuration:
+chemsys                            V-Zr-O
+metal_1                                 V
+metal_2                                Zr
+ligand                                  O
+source             Zr9V9O2_1217608_POSCAR
+n_points                               35
+dip_method                 local_max_drop
+dip_cell_length                 12.313658
+E_min                           -2.227801
+E_expected                      -0.545261
+delta_E                          -1.68254
+left_x                          10.554564
+right_x                         21.548902
+baseline_slope                     0.0435
+pair                                 V-Zr
+IE_1                                650.9
+IE_2                                640.1
+IE_avg                              645.5
+IE_diff                              10.8
+
+Smallest accepted artifact configuration:
+chemsys                             Ti-Zn-O
+metal_1                                  Ti
+metal_2                                  Zn
+ligand                                    O
+source              Ti3Zn2O8_1385787_POSCAR
+n_points                                 35
+dip_method         global_gradient_fallback
+dip_cell_length                    7.982198
+E_min                             -0.048561
+E_expected                        -0.048424
+delta_E                           -0.000137
+left_x                             7.697119
+right_x                           13.968846
+baseline_slope                     0.006672
+pair                                  Ti-Zn
+IE_1                                  658.8
+IE_2                                  906.4
+IE_avg                                782.6
+IE_diff                               247.6
+
+Top 20 configurations by most negative delta_E:
+chemsys  pair ligand                      source   delta_E  dip_cell_length  IE_avg  IE_diff
+ V-Zr-O  V-Zr      O      Zr9V9O2_1217608_POSCAR -1.682540        12.313658  645.50     10.8
+Sc-Zr-O Sc-Zr      O    Zr25Sc6O59_686417_POSCAR -0.765614        18.686644  636.60      7.0
+Nb-Ni-O Nb-Ni      O       Nb6Ni6O_541419_POSCAR -0.673687         9.901357  694.60     85.0
+Hf-Re-S Hf-Re      S      Hf9Re4S_1399219_POSCAR -0.645395        17.552239  709.25    101.5
+Mn-Ni-O Mn-Ni      O   Mn_Ni9O10_2_758680_POSCAR -0.635059         7.368965  727.20     19.8
+  W-Y-O   W-Y      O      Y10W2O21_556220_POSCAR -0.620339        14.901272  685.00    170.0
+Pd-Zr-O Pd-Zr      O        Zr4Pd2O_22479_POSCAR -0.615224        10.723610  722.25    164.3
+Mo-Zr-S Mo-Zr      S      Zr9Mo4S_1207420_POSCAR -0.595052        12.268524  662.20     44.2
+ V-Zr-S  V-Zr      S          Zr9V4S_9483_POSCAR -0.580545        12.551664  645.50     10.8
+Mn-Ni-O Mn-Ni      O Mn3_Ni17O20_2_758834_POSCAR -0.571318         7.380975  727.20     19.8
+Ni-Ti-O Ni-Ti      O       Ti4Ni2O_540679_POSCAR -0.565493         9.744439  697.95     78.3
+ V-Zr-O  V-Zr      O        Zr3V3O_504834_POSCAR -0.561121        10.673425  645.50     10.8
+Ni-Ti-O Ni-Ti      O       Ti3Ni3O_504735_POSCAR -0.550251         9.420916  697.95     78.3
+Mn-Ti-O Mn-Ti      O       Ti3Mn3O_504732_POSCAR -0.548300         9.831912  688.05     58.5
+Ni-Ti-O Ni-Ti      O      Ti4Ni2O_1217223_POSCAR -0.537694        10.023708  697.95     78.3
+Mn-Ti-O Mn-Ti      O      Ti4Mn2O_1217173_POSCAR -0.536739        10.192998  688.05     58.5
+ Ti-Y-O  Ti-Y      O    Y16Ti16O35_685259_POSCAR -0.527580        10.107779  629.40     58.8
+Fe-Zr-S Fe-Zr      S      Zr6FeS2_1207526_POSCAR -0.526448         5.014123  701.30    122.4
+Ni-Zr-O Ni-Zr      O        Zr4Ni2O_21602_POSCAR -0.524857        10.598087  688.60     97.0
+Mo-Zr-O Mo-Zr      O     Zr9Mo4O3_1207427_POSCAR -0.523175        12.219475  662.20     44.2
+
+Bottom 20 configurations by weakest accepted delta_E:
+chemsys  pair ligand                    source   delta_E  dip_cell_length  IE_avg  IE_diff
+Ti-Zn-O Ti-Zn      O   Ti3Zn2O8_1385787_POSCAR -0.000137         7.982198  782.60    247.6
+Fe-Ti-O Fe-Ti      O       TiFeO3_19417_POSCAR -0.000317         6.295883  710.65    103.7
+Fe-Ti-O Fe-Ti      O       TiFeO3_19270_POSCAR -0.000633         6.293957  710.65    103.7
+ V-Zn-O  V-Zn      O     V4ZnO8_1048588_POSCAR -0.000975         7.692401  778.65    255.5
+ Ni-Y-O  Ni-Y      O   Y_NiO2_2_1045534_POSCAR -0.001108         6.633546  668.55    137.1
+Fe-Mn-O Fe-Mn      O     MnFeO4_1221655_POSCAR -0.001249         6.597709  739.90     45.2
+Fe-Ti-O Fe-Ti      O Ti4_FeO4_3_1337025_POSCAR -0.001321         8.551070  710.65    103.7
+Pd-Zn-O Pd-Zn      O      Zn2PdO4_22257_POSCAR -0.001454         6.652321  855.40    102.0
+Cd-Fe-O Cd-Fe      O  Cd_FeO2_2_1283389_POSCAR -0.001611         6.657521  815.15    105.3
+Fe-Zn-O Fe-Zn      O   Zn2Fe3O8_1042894_POSCAR -0.002310         7.430684  834.45    143.9
+Mn-Nb-O Mn-Nb      O    Mn3NbO8_1176463_POSCAR -0.002515         7.666076  684.70     65.2
+Fe-Ti-O Fe-Ti      O     TiFeO4_1278941_POSCAR -0.002698         7.545832  710.65    103.7
+ Co-V-O  Co-V      O     V2CoO6_1078719_POSCAR -0.002714        11.027401  705.65    109.5
+Cd-Mn-S Cd-Mn      S    Mn4CdS5_1221768_POSCAR -0.002725         7.657900  792.55    150.5
+Fe-Zn-O Fe-Zn      O  Zn_FeO2_4_1045634_POSCAR -0.003254         7.130703  834.45    143.9
+ V-Zn-O  V-Zn      O     V2ZnO4_1396989_POSCAR -0.003412         7.852263  778.65    255.5
+Cu-Mn-O Cu-Mn      O     MnCuO3_1176440_POSCAR -0.003421         5.795917  731.40     28.2
+Ag-Mn-O Ag-Mn      O      MnAgO2_996995_POSCAR -0.003657         3.774143  724.15     13.7
+ Mn-Y-S  Mn-Y      S   Y_MnS2_2_1045492_POSCAR -0.003686         8.143848  658.65    117.3
+Co-Fe-O Co-Fe      O     FeCo3O8_771245_POSCAR -0.003784         6.414803  761.45      2.1

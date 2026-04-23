@@ -1,0 +1,75 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1221805","Mn4FeS5","Trigonal","R-3m","166","10","0.08184614450000001","-0.6574670519224141","False","162.94256929982473","4.442459775845793","0.0","False","True","FM","21.521599","# generated using pymatgen
+data_Mn4FeS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.77040727
+_cell_length_b   14.77040727
+_cell_length_c   14.77040717
+_cell_angle_alpha   13.94807489
+_cell_angle_beta   13.94807489
+_cell_angle_gamma   13.94807807
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4FeS5
+_chemical_formula_sum   'Mn4 Fe1 S5'
+_cell_volume   162.94256930
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.60152100  0.60152100  0.60152100  1
+  Mn  Mn1  1  0.19986500  0.19986500  0.19986500  1
+  Mn  Mn2  1  0.80013500  0.80013500  0.80013500  1
+  Mn  Mn3  1  0.39847900  0.39847900  0.39847900  1
+  Fe  Fe4  1  0.00000000  0.00000000  0.00000000  1
+  S  S5  1  0.69889200  0.69889200  0.69889200  1
+  S  S6  1  0.50000000  0.50000000  0.50000000  1
+  S  S7  1  0.09989700  0.09989700  0.09989700  1
+  S  S8  1  0.30110800  0.30110800  0.30110800  1
+  S  S9  1  0.90010300  0.90010300  0.90010300  1
+"
+"True","mp-1222234","Mn4FeS5","Monoclinic","C2/m","12","10","0.081004794500001","-0.658308401922413","False","159.8733951489501","4.527744026534428","0.0","False","True","FM","21.0629438","# generated using pymatgen
+data_Mn4FeS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17606284
+_cell_length_b   6.17606284
+_cell_length_c   8.71741262
+_cell_angle_alpha   61.46897643
+_cell_angle_beta   61.46897643
+_cell_angle_gamma   33.69925439
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4FeS5
+_chemical_formula_sum   'Mn4 Fe1 S5'
+_cell_volume   159.87339515
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.60248300  0.60248300  0.60024900  1
+  Mn  Mn1  1  0.20116100  0.20116100  0.19360600  1
+  Mn  Mn2  1  0.79883900  0.79883900  0.80639400  1
+  Mn  Mn3  1  0.39751700  0.39751700  0.39975100  1
+  Fe  Fe4  1  0.00000000  0.00000000  0.00000000  1
+  S  S5  1  0.00000000  0.00000000  0.50000000  1
+  S  S6  1  0.59610700  0.59610700  0.10017400  1
+  S  S7  1  0.19905800  0.19905800  0.70458100  1
+  S  S8  1  0.80094200  0.80094200  0.29541900  1
+  S  S9  1  0.40389300  0.40389300  0.89982600  1
+"

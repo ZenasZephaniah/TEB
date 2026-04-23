@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Hf-Zr-O,Hf,Zr,O,HfZrO4_1178248_POSCAR,35,local_max_drop,14.83292145,-0.71830870718634,-0.3203708062571176,-0.3979379009292224,12.787001,25.062522,0.0249333
+Hf-Zr-O,Hf,Zr,O,HfZrO4_781634_POSCAR,35,local_max_drop,9.1554231663,-0.16990706820105,-0.07979665126759192,-0.09011041693345809,7.892606,15.469508,0.01008276

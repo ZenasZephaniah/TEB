@@ -1,0 +1,181 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1189260","Nb3CrS6","Hexagonal","P6_322","182","20","0.0","-1.382076497499998","True","356.5716319680581","4.872158125248628","0.0","False","True","FM","6.0368431","# generated using pymatgen
+data_Nb3CrS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80431450
+_cell_length_b   5.80431445
+_cell_length_c   12.22120952
+_cell_angle_alpha   90.00000629
+_cell_angle_beta   89.99999898
+_cell_angle_gamma   119.99997752
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3CrS6
+_chemical_formula_sum   'Nb6 Cr2 S12'
+_cell_volume   356.57163197
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.00000004  0.00000018  0.50002123  1
+  Nb  Nb1  1  -0.00000027  -0.00000004  -0.00002094  1
+  Nb  Nb2  1  0.33333314  0.66666663  0.99646330  1
+  Nb  Nb3  1  0.66666639  0.33333339  0.00349124  1
+  Nb  Nb4  1  0.66666669  0.33333358  0.49650904  1
+  Nb  Nb5  1  0.33333333  0.66666683  0.50353694  1
+  Cr  Cr6  1  0.33333325  0.66666660  0.25000004  1
+  Cr  Cr7  1  0.66666655  0.33333337  0.75000012  1
+  S  S8  1  0.33144291  0.33481485  0.37072733  1
+  S  S9  1  0.66518519  -0.00337172  0.37072750  1
+  S  S10  1  0.00337199  0.66855725  0.37072730  1
+  S  S11  1  0.33482233  0.33144157  0.62930211  1
+  S  S12  1  -0.00338078  0.66517791  0.62930198  1
+  S  S13  1  0.66855859  0.00338107  0.62930209  1
+  S  S14  1  0.66855833  0.66517781  0.87069821  1
+  S  S15  1  0.33482190  0.00338065  0.87069836  1
+  S  S16  1  -0.00338097  0.33144139  0.87069822  1
+  S  S17  1  0.66518506  0.66855689  0.12927269  1
+  S  S18  1  0.00337155  0.33481468  0.12927254  1
+  S  S19  1  0.33144280  -0.00337188  0.12927269  1
+"
+"True","mp-5306","Nb4CrS8","Hexagonal","P6_3/mmc","194","26","0.0","-1.3976660511538461","True","471.0728716848243","4.7950191943392095","0.0","False","True","FiM","5.00507","# generated using pymatgen
+data_Nb4CrS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.70030072
+_cell_length_b   6.70030009
+_cell_length_c   12.11626501
+_cell_angle_alpha   89.99983250
+_cell_angle_beta   90.00018874
+_cell_angle_gamma   119.99996568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb4CrS8
+_chemical_formula_sum   'Nb8 Cr2 S16'
+_cell_volume   471.07287168
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.50640935  0.01282130  0.74996099  1
+  Nb  Nb1  1  0.49359066  0.50640962  0.25003920  1
+  Nb  Nb2  1  0.01282337  0.50641020  0.25003827  1
+  Nb  Nb3  1  0.98717869  0.49359076  0.74996097  1
+  Nb  Nb4  1  0.50640973  0.49359100  0.74996082  1
+  Nb  Nb5  1  0.49358993  0.98717664  0.25003823  1
+  Nb  Nb6  1  -0.00000057  0.00000068  0.74994716  1
+  Nb  Nb7  1  0.00000046  -0.00000036  0.25005529  1
+  Cr  Cr8  1  0.00000052  -0.00000049  0.50000245  1
+  Cr  Cr9  1  -0.00000020  0.00000054  -0.00000264  1
+  S  S10  1  0.83396489  0.16603518  0.12063370  1
+  S  S11  1  0.83396494  0.66792995  0.12063395  1
+  S  S12  1  0.33207021  0.16603522  0.12063399  1
+  S  S13  1  0.66792855  0.83396582  0.62058495  1
+  S  S14  1  0.16604105  0.33208345  0.87936131  1
+  S  S15  1  0.16603482  0.83396514  0.62058521  1
+  S  S16  1  0.16603448  0.33207166  0.62058500  1
+  S  S17  1  0.83396665  0.16603334  0.37941809  1
+  S  S18  1  0.33206883  0.16603107  0.37941794  1
+  S  S19  1  0.66791687  0.83395925  0.87936138  1
+  S  S20  1  0.33333397  0.66666595  0.11789547  1
+  S  S21  1  0.66666575  0.33333443  0.61784040  1
+  S  S22  1  0.66666622  0.33333388  0.88210429  1
+  S  S23  1  0.33333464  0.66666539  0.38216277  1
+  S  S24  1  0.83396904  0.66793129  0.37941796  1
+  S  S25  1  0.16604114  0.83395908  0.87936183  1
+"
+"True","mp-1247748","NbCr3S8","Trigonal","R-3m","166","12","0.055458349027790003","-0.966482930833333","False","226.6910863412225","3.702222414294031","0.0","False","True","FM","7.0001839","# generated using pymatgen
+data_NbCr3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76487276
+_cell_length_b   6.90813882
+_cell_length_c   6.89568056
+_cell_angle_alpha   60.21879005
+_cell_angle_beta   59.52970020
+_cell_angle_gamma   59.58114002
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCr3S8
+_chemical_formula_sum   'Nb1 Cr3 S8'
+_cell_volume   226.69108634
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.99995900  0.50002600  0.50006100  1
+  Cr  Cr1  1  0.50006500  0.49994800  0.49994600  1
+  Cr  Cr2  1  0.49984600  0.49996900  0.00004400  1
+  Cr  Cr3  1  0.50001800  0.00003400  0.50008600  1
+  S  S4  1  0.73842000  0.75457500  0.75489300  1
+  S  S5  1  0.26160800  0.24563200  0.74797900  1
+  S  S6  1  0.26166400  0.74785100  0.24547700  1
+  S  S7  1  0.73380300  0.25538800  0.25533800  1
+  S  S8  1  0.73837400  0.25212600  0.75448400  1
+  S  S9  1  0.26626200  0.74465800  0.74445000  1
+  S  S10  1  0.26158500  0.24544000  0.24514000  1
+  S  S11  1  0.73839000  0.75435800  0.25209100  1
+"
+"True","mp-1209946","NbCrS5","Monoclinic","P2_1/m","11","14","0.061470667619045","-0.9678718496428551","False","273.3262234499934","3.708697602025733","0.0","False","True","FM","0.4214019","# generated using pymatgen
+data_NbCrS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.40542300
+_cell_length_b   8.89696300
+_cell_length_c   9.97407221
+_cell_angle_alpha   64.75249233
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCrS5
+_chemical_formula_sum   'Nb2 Cr2 S10'
+_cell_volume   273.32622345
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.25000000  0.22425400  0.86224100  1
+  Nb  Nb1  1  0.75000000  0.77574600  0.13775900  1
+  Cr  Cr2  1  0.25000000  0.92868800  0.40002100  1
+  Cr  Cr3  1  0.75000000  0.07131200  0.59997900  1
+  S  S4  1  0.25000000  0.86474700  0.64805500  1
+  S  S5  1  0.75000000  0.13525300  0.35194500  1
+  S  S6  1  0.25000000  0.98723900  0.13465700  1
+  S  S7  1  0.75000000  0.01276100  0.86534300  1
+  S  S8  1  0.25000000  0.26301600  0.59012200  1
+  S  S9  1  0.75000000  0.73698400  0.40987800  1
+  S  S10  1  0.25000000  0.53946500  0.24481700  1
+  S  S11  1  0.75000000  0.46053500  0.75518300  1
+  S  S12  1  0.25000000  0.65896600  0.01745000  1
+  S  S13  1  0.75000000  0.34103400  0.98255000  1
+"

@@ -1,0 +1,106 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-641367","Cr3AuO8","Monoclinic","C2/m","12","12","0.06861480177083701","-1.571547349999999","False","200.4044060247718","3.985123852814627","1.1076","False","False","FM","3.0008995","# generated using pymatgen
+data_Cr3AuO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21919767
+_cell_length_b   5.21905342
+_cell_length_c   8.35470878
+_cell_angle_alpha   80.48991815
+_cell_angle_beta   80.49473674
+_cell_angle_gamma   63.86684873
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr3AuO8
+_chemical_formula_sum   'Cr3 Au1 O8'
+_cell_volume   200.40440602
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.67948400  0.67952400  0.30439900  1
+  Cr  Cr1  1  0.32049000  0.32047600  0.69561000  1
+  Cr  Cr2  1  0.99998300  0.99999200  0.49997700  1
+  Au  Au3  1  0.00007800  0.00003600  0.00001500  1
+  O  O4  1  0.31902800  0.81631300  0.33018800  1
+  O  O5  1  0.68091200  0.18372600  0.66976200  1
+  O  O6  1  0.79357200  0.79358000  0.43892900  1
+  O  O7  1  0.18374900  0.68087300  0.66975100  1
+  O  O8  1  0.20634600  0.20632200  0.56111100  1
+  O  O9  1  0.21962200  0.21956800  0.88683300  1
+  O  O10  1  0.81624900  0.31907500  0.33019000  1
+  O  O11  1  0.78048800  0.78051400  0.11323600  1
+"
+"True","mp-996996","CrAuO2","Trigonal","R-3m","166","4","0.0","-1.6227390800000001","True","48.13559510446606","9.692359562010237","1.266","False","False","FM","2.9999998","# generated using pymatgen
+data_CrAuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.01504443
+_cell_length_b   3.01504559
+_cell_length_c   6.35728448
+_cell_angle_alpha   76.28260637
+_cell_angle_beta   76.28262768
+_cell_angle_gamma   59.99999288
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrAuO2
+_chemical_formula_sum   'Cr1 Au1 O2'
+_cell_volume   48.13559510
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.50000000  0.50000000  0.50000000  1
+  Au  Au1  1  0.00000000  0.00000000  -0.00000000  1
+  O  O2  1  0.88672432  0.88672432  0.33982905  1
+  O  O3  1  0.11327568  0.11327568  0.66017095  1
+"
+"True","mp-997159","CrAuO2","Hexagonal","P6_3/mmc","194","8","0.000260337499987","-1.622478742499999","False","96.34616709761174","9.684816937473991","0.0","False","True","FM","5.9999997","# generated using pymatgen
+data_CrAuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.01611137
+_cell_length_b   3.01611137
+_cell_length_c   12.22951187
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001384
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrAuO2
+_chemical_formula_sum   'Cr2 Au2 O4'
+_cell_volume   96.34616710
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  -0.00000000  0.00000000  -0.00000000  1
+  Cr  Cr1  1  -0.00000000  0.00000000  0.50000000  1
+  Au  Au2  1  0.33333300  0.66666700  0.25000000  1
+  Au  Au3  1  0.66666700  0.33333300  0.75000000  1
+  O  O4  1  0.66666700  0.33333300  0.58005152  1
+  O  O5  1  0.66666700  0.33333300  0.91994848  1
+  O  O6  1  0.33333300  0.66666700  0.41994848  1
+  O  O7  1  0.33333300  0.66666700  0.08005152  1
+"

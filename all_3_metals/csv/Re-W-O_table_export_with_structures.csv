@@ -1,0 +1,204 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1041585","Re(WO4)2","Monoclinic","P2/c","13","22","0.195141152386364","-1.93316775840909","False","278.0679001198052","8.143996710381224","0.1038","False","False","FM","4.6497613","# generated using pymatgen
+data_Re(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81731100
+_cell_length_b   5.09010100
+_cell_length_c   10.66090972
+_cell_angle_alpha   61.74652989
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re(WO4)2
+_chemical_formula_sum   'Re2 W4 O16'
+_cell_volume   278.06790012
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.64850600  0.00000000  0.75000000  1
+  Re  Re1  1  0.35149400  0.00000000  0.25000000  1
+  W  W2  1  0.83328900  0.26140600  0.00365800  1
+  W  W3  1  0.83328900  0.73859400  0.49634200  1
+  W  W4  1  0.16671100  0.73859400  0.99634200  1
+  W  W5  1  0.16671100  0.26140600  0.50365800  1
+  O  O6  1  0.65686500  0.43969900  0.63626400  1
+  O  O7  1  0.65686500  0.56030100  0.86373600  1
+  O  O8  1  0.34313500  0.56030100  0.36373600  1
+  O  O9  1  0.34313500  0.43969900  0.13626400  1
+  O  O10  1  0.11144000  0.97315100  0.10822800  1
+  O  O11  1  0.11144000  0.02684900  0.39177200  1
+  O  O12  1  0.88856000  0.02684900  0.89177200  1
+  O  O13  1  0.88856000  0.97315100  0.60822800  1
+  O  O14  1  0.40254500  0.01910400  0.61939200  1
+  O  O15  1  0.40254500  0.98089600  0.88060800  1
+  O  O16  1  0.59745500  0.98089600  0.38060800  1
+  O  O17  1  0.59745500  0.01910400  0.11939200  1
+  O  O18  1  0.10670100  0.45386400  0.61150700  1
+  O  O19  1  0.89329900  0.54613600  0.38849300  1
+  O  O20  1  0.10670100  0.54613600  0.88849300  1
+  O  O21  1  0.89329900  0.45386400  0.11150700  1
+"
+"True","mp-1394133","Re(WO4)2","Triclinic","P-1","2","11","3.052314376022727","0.9240054652272721","False","161.72939248466372","7.001151828518281","0.0","False","True","NM","0.729288199999999","# generated using pymatgen
+data_Re(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96724900
+_cell_length_b   6.12917246
+_cell_length_c   6.44511153
+_cell_angle_alpha   117.31630099
+_cell_angle_beta   88.31335167
+_cell_angle_gamma   110.13627242
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re(WO4)2
+_chemical_formula_sum   'Re1 W2 O8'
+_cell_volume   161.72939248
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.00000000  0.50000000  0.50000000  1
+  W  W1  1  0.76694000  0.84241400  0.68264700  1
+  W  W2  1  0.23306000  0.15758600  0.31735300  1
+  O  O3  1  0.69846700  0.74337400  0.96466700  1
+  O  O4  1  0.82780100  0.53812900  0.70608400  1
+  O  O5  1  0.66615000  0.20919300  0.49361700  1
+  O  O6  1  0.85568400  0.96966300  0.30967300  1
+  O  O7  1  0.17219900  0.46187100  0.29391600  1
+  O  O8  1  0.30153300  0.25662600  0.03533300  1
+  O  O9  1  0.33385000  0.79080700  0.50638300  1
+  O  O10  1  0.14431600  0.03033700  0.69032700  1
+"
+"True","mp-1780696","Re(WO4)2","Triclinic","P-1","2","11","0.39596570238636203","-1.732343208409091","False","161.7293822651482","7.00115227091396","0.386","False","False","FM","3.0000767","# generated using pymatgen
+data_Re(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96724856
+_cell_length_b   6.44511150
+_cell_length_c   6.42484164
+_cell_angle_alpha   114.52107669
+_cell_angle_beta   116.40541908
+_cell_angle_gamma   91.68664717
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re(WO4)2
+_chemical_formula_sum   'Re1 W2 O8'
+_cell_volume   161.72938227
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.12453300  0.22324300  0.09958200  1
+  W  W1  1  0.88265500  0.40589000  0.62464400  1
+  W  W2  1  0.36671000  0.04054100  0.57458100  1
+  O  O3  1  0.13410600  0.68790900  0.80762200  1
+  O  O4  1  0.54094400  0.42932600  0.34379500  1
+  O  O5  1  0.16119300  0.21685900  0.80239200  1
+  O  O6  1  0.54818500  0.03291500  0.37891700  1
+  O  O7  1  0.70815800  0.01711300  0.85573300  1
+  O  O8  1  0.11508600  0.75869300  0.39153100  1
+  O  O9  1  0.08836000  0.22968900  0.39708800  1
+  O  O10  1  0.70172800  0.41345300  0.82072800  1
+"
+"True","mp-1404693","ReWO6","Cubic","Fm-3m","225","8","0.025334403906249","-2.1373404015625","False","112.59514382600295","6.8731496415777755","0.0","False","True","NM","0.004631","# generated using pymatgen
+data_ReWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42015308
+_cell_length_b   5.42015308
+_cell_length_c   5.42015308
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReWO6
+_chemical_formula_sum   'Re1 W1 O6'
+_cell_volume   112.59514383
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.50000000  0.50000000  0.50000000  1
+  W  W1  1  0.00000000  0.00000000  0.00000000  1
+  O  O2  1  0.74697600  0.74697600  0.25302400  1
+  O  O3  1  0.25302400  0.25302400  0.74697600  1
+  O  O4  1  0.74697600  0.25302400  0.74697600  1
+  O  O5  1  0.74697600  0.25302400  0.25302400  1
+  O  O6  1  0.25302400  0.74697600  0.74697600  1
+  O  O7  1  0.25302400  0.74697600  0.25302400  1
+"
+"True","mp-1443382","ReWO6","Monoclinic","P2_1/c","14","16","0.036033384531251","-2.126641420937499","False","217.45159906597812","7.11775195726459","0.0","False","True","NM","0.0001097","# generated using pymatgen
+data_ReWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38250500
+_cell_length_b   5.32979500
+_cell_length_c   9.26542402
+_cell_angle_alpha   54.89428932
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReWO6
+_chemical_formula_sum   'Re2 W2 O12'
+_cell_volume   217.45159907
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.00000000  0.50000000  0.00000000  1
+  Re  Re1  1  0.50000000  0.50000000  0.50000000  1
+  W  W2  1  0.00000000  0.00000000  0.50000000  1
+  W  W3  1  0.50000000  0.00000000  0.00000000  1
+  O  O4  1  0.28191600  0.75090600  0.52595300  1
+  O  O5  1  0.78191600  0.24909400  0.97404700  1
+  O  O6  1  0.71808400  0.24909400  0.47404700  1
+  O  O7  1  0.21808400  0.75090600  0.02595300  1
+  O  O8  1  0.22363500  0.30824500  0.47402300  1
+  O  O9  1  0.72363500  0.69175500  0.02597700  1
+  O  O10  1  0.77636500  0.69175500  0.52597700  1
+  O  O11  1  0.27636500  0.30824500  0.97402300  1
+  O  O12  1  0.49427800  0.19957200  0.74736400  1
+  O  O13  1  0.99427800  0.80042800  0.75263600  1
+  O  O14  1  0.00572200  0.19957200  0.24736400  1
+  O  O15  1  0.50572200  0.80042800  0.25263600  1
+"

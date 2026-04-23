@@ -1,0 +1,2 @@
+chemsys,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Mo-O,Mo4O5_543061_POSCAR,35,local_max_drop,8.4220595164,-0.26802953127154,-0.1496095352769678,-0.1184199959945722,6.617332,14.738604,0.02009155

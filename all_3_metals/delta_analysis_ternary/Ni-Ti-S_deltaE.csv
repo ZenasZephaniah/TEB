@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Ni-Ti-S,Ni,Ti,S,Ti3NiS6_13994_POSCAR,35,local_max_drop,8.254756006,-0.15679272675445,-0.09429773433630932,-0.062494992418140674,7.959943,14.445823,0.01263724

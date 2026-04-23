@@ -1,0 +1,240 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1186352","Os3O","Cubic","Fm-3m","225","4","1.1605669325","0.6567916062499991","False","52.98187056640697","18.38781187310167","0.0","False","True","NM","0.0002578","# generated using pymatgen
+data_Os3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21580740
+_cell_length_b   4.21580740
+_cell_length_c   4.21580740
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Os3O
+_chemical_formula_sum   'Os3 O1'
+_cell_volume   52.98187057
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Os  Os0  1  0.75000000  0.75000000  0.75000000  1
+  Os  Os1  1  0.25000000  0.25000000  0.25000000  1
+  Os  Os2  1  0.50000000  0.50000000  0.50000000  1
+  O  O3  1  0.00000000  0.00000000  0.00000000  1
+"
+"True","mp-1186373","Os3O","Hexagonal","P6_3/mmc","194","8","1.1670559725","0.663280646249999","False","108.88278742983624","17.894851732885677","0.0","False","True","NM","0.0058222","# generated using pymatgen
+data_Os3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10970324
+_cell_length_b   6.10970324
+_cell_length_c   3.36812600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999181
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Os3O
+_chemical_formula_sum   'Os6 O2'
+_cell_volume   108.88278743
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Os  Os0  1  0.81584700  0.18415300  0.75000000  1
+  Os  Os1  1  0.36830700  0.18415300  0.75000000  1
+  Os  Os2  1  0.81584700  0.63169300  0.75000000  1
+  Os  Os3  1  0.18415300  0.81584700  0.25000000  1
+  Os  Os4  1  0.63169300  0.81584700  0.25000000  1
+  Os  Os5  1  0.18415300  0.36830700  0.25000000  1
+  O  O6  1  0.66666700  0.33333300  0.25000000  1
+  O  O7  1  0.33333300  0.66666700  0.75000000  1
+"
+"True","mp-1095264","OsO2","Cubic","Pa-3","205","12","0.07342120083333101","-1.269979669166666","False","117.36859418945855","12.576434323749666","0.0","False","True","NM","3.9300000000000007e-05","# generated using pymatgen
+data_OsO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89610400
+_cell_length_b   4.89610400
+_cell_length_c   4.89610400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   OsO2
+_chemical_formula_sum   'Os4 O8'
+_cell_volume   117.36859419
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Os  Os0  1  0.50000000  0.50000000  -0.00000000  1
+  Os  Os1  1  0.50000000  0.00000000  0.50000000  1
+  Os  Os2  1  -0.00000000  0.50000000  0.50000000  1
+  Os  Os3  1  -0.00000000  0.00000000  -0.00000000  1
+  O  O4  1  0.15046621  0.84953379  0.34953379  1
+  O  O5  1  0.84953379  0.34953379  0.15046621  1
+  O  O6  1  0.34953379  0.15046621  0.84953379  1
+  O  O7  1  0.65046621  0.65046621  0.65046621  1
+  O  O8  1  0.84953379  0.15046621  0.65046621  1
+  O  O9  1  0.15046621  0.65046621  0.84953379  1
+  O  O10  1  0.65046621  0.84953379  0.15046621  1
+  O  O11  1  0.34953379  0.34953379  0.34953379  1
+"
+"True","mp-996","OsO2","Tetragonal","P4_2/mnm","136","6","0.0","-1.343400869999998","True","64.3569258510722","11.467906499374536","0.0","False","True","NM","0.0","# generated using pymatgen
+data_OsO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.20912377
+_cell_length_b   4.47820955
+_cell_length_c   4.47820955
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   OsO2
+_chemical_formula_sum   'Os2 O4'
+_cell_volume   64.35692585
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Os  Os0  1  -0.00000000  0.00000000  0.00000000  1
+  Os  Os1  1  0.50000000  0.50000000  0.50000000  1
+  O  O2  1  0.00000000  0.30825528  0.30825528  1
+  O  O3  1  0.50000000  0.19174472  0.80825528  1
+  O  O4  1  0.50000000  0.80825528  0.19174472  1
+  O  O5  1  0.00000000  0.69174472  0.69174472  1
+"
+"True","mp-1524458","OsO4","Tetragonal","I-42m","121","5","0.0","-1.529192906999997","True","81.69548341351152","5.167419837289786","3.1633","False","False","NM","0.0","# generated using pymatgen
+data_OsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08686429
+_cell_length_b   5.08686429
+_cell_length_c   4.54456287
+_cell_angle_alpha   63.88960918
+_cell_angle_beta   63.88960918
+_cell_angle_gamma   52.91715920
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   OsO4
+_chemical_formula_sum   'Os1 O4'
+_cell_volume   81.69548341
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Os  Os0  1  0.00022215  -0.00022215  0.50000000  1
+  O  O1  1  0.65495319  0.09299079  0.41041797  1
+  O  O2  1  0.09749343  0.66003899  0.84226769  1
+  O  O3  1  0.90700921  0.34504681  0.58958203  1
+  O  O4  1  0.33996101  0.90250657  0.15773231  1
+"
+"True","mp-540783","OsO4","Monoclinic","C2/c","15","10","0.00079814","-1.528394766999996","False","156.73901730485102","5.386723342623542","3.2877","False","False","NM","0.0","# generated using pymatgen
+data_OsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43591107
+_cell_length_b   5.16195566
+_cell_length_c   7.94970020
+_cell_angle_alpha   77.21008738
+_cell_angle_beta   73.77760631
+_cell_angle_gamma   64.54765965
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   OsO4
+_chemical_formula_sum   'Os2 O8'
+_cell_volume   156.73901730
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Os  Os0  1  0.74666829  0.75010520  0.25008741  1
+  Os  Os1  1  0.25333171  0.24989480  0.74991259  1
+  O  O2  1  0.85082473  0.04579595  0.19281429  1
+  O  O3  1  0.08938651  0.45448266  0.30721878  1
+  O  O4  1  0.14917527  0.95420405  0.80718571  1
+  O  O5  1  0.91061349  0.54551734  0.69278122  1
+  O  O6  1  0.40600432  0.80926302  0.42526470  1
+  O  O7  1  0.64017036  0.69090769  0.07510176  1
+  O  O8  1  0.59399568  0.19073698  0.57473530  1
+  O  O9  1  0.35982964  0.30909231  0.92489824  1
+"
+"True","mp-551905","OsO4","Monoclinic","C2","5","5","0.001462714999997","-1.527730192","False","96.17423151129474","4.389479957096201","3.2472","False","False","NM","0.00015639999999900002","# generated using pymatgen
+data_OsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24507824
+_cell_length_b   5.24507824
+_cell_length_c   4.92671378
+_cell_angle_alpha   64.28770538
+_cell_angle_beta   64.28770538
+_cell_angle_gamma   54.37085961
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   OsO4
+_chemical_formula_sum   'Os1 O4'
+_cell_volume   96.17423151
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Os  Os0  1  0.00040000  0.99960000  0.50000000  1
+  O  O1  1  0.66284500  0.07977200  0.42961500  1
+  O  O2  1  0.09441000  0.67824500  0.81978200  1
+  O  O3  1  0.92022800  0.33715500  0.57038500  1
+  O  O4  1  0.32175500  0.90559000  0.18021800  1
+"

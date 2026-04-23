@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Co-Hf-O,Co,Hf,O,HfCoO3_753534_POSCAR,35,local_max_drop,7.0250959999,-0.14756013378528,-0.0868051809796418,-0.060754952805638196,6.214508,13.239604,0.01202803

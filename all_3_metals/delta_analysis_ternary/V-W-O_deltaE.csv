@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+V-W-O,V,W,O,V2WO6_20312_POSCAR,35,global_gradient_fallback,6.482731766,-0.084651488721294,-0.06036166697315462,-0.024289821748139373,5.788153,11.344781,0.01000866

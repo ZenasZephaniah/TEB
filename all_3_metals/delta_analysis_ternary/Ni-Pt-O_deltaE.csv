@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Ni-Pt-O,Ni,Pt,O,NiPtO3_1186112_POSCAR,35,global_gradient_fallback,3.95444,-0.07373638258922,-0.062333475647790085,-0.01140290694142991,3.163552,9.688378,0.01055918

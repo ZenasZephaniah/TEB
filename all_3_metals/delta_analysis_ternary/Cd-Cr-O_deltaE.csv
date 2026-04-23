@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cd-Cr-O,Cd,Cr,O,Cr2CdO4_19262_POSCAR,35,global_gradient_fallback,6.8722386641,-0.10486281546647,-0.08399911460628037,-0.020863700860189627,6.343605,12.951527,0.01253195

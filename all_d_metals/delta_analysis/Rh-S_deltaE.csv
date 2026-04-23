@@ -1,0 +1,2 @@
+chemsys,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Rh-S,Rh17S15_21991_POSCAR,35,local_max_drop,13.9242096,-0.72864553689384,-0.4742183635684136,-0.2544271733254264,12.929623,24.367367,0.03972198

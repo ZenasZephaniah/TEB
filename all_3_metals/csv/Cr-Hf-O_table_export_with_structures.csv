@@ -1,0 +1,150 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-756322","HfCrO3","Orthorhombic","Pnma","62","20","0.09728987566666601","-3.103459338499999","False","244.80676715117258","7.555903212417212","1.7873","False","False","AFM","0.0","# generated using pymatgen
+data_HfCrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90680400
+_cell_length_b   5.32920500
+_cell_length_c   9.36186300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCrO3
+_chemical_formula_sum   'Hf4 Cr4 O12'
+_cell_volume   244.80676715
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.04829700  0.95641300  0.75000000  1
+  Hf  Hf1  1  0.45170300  0.45641300  0.75000000  1
+  Hf  Hf2  1  0.54829700  0.54358700  0.25000000  1
+  Hf  Hf3  1  0.95170300  0.04358700  0.25000000  1
+  Cr  Cr4  1  0.00000000  0.50000000  0.50000000  1
+  Cr  Cr5  1  0.50000000  0.00000000  0.50000000  1
+  Cr  Cr6  1  0.00000000  0.50000000  0.00000000  1
+  Cr  Cr7  1  0.50000000  0.00000000  0.00000000  1
+  O  O8  1  0.19367800  0.35983600  0.25000000  1
+  O  O9  1  0.30632200  0.85983700  0.25000000  1
+  O  O10  1  0.69367800  0.14016400  0.75000000  1
+  O  O11  1  0.80632200  0.64016300  0.75000000  1
+  O  O12  1  0.21401900  0.22121300  0.60426200  1
+  O  O13  1  0.21401900  0.22121300  0.89573800  1
+  O  O14  1  0.28598100  0.72121300  0.60426200  1
+  O  O15  1  0.28598100  0.72121300  0.89573800  1
+  O  O16  1  0.71401900  0.27878700  0.10426200  1
+  O  O17  1  0.71401900  0.27878700  0.39573800  1
+  O  O18  1  0.78598100  0.77878700  0.10426200  1
+  O  O19  1  0.78598100  0.77878700  0.39573800  1
+"
+"True","mp-1980701","HfCrO4","Monoclinic","P2_1/c","14","24","0.05614226750000201","-2.97761368375","False","270.80718904860015","7.222876025483298","1.1371","False","False","AFM","3.3700000000000006e-05","# generated using pymatgen
+data_HfCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70932300
+_cell_length_b   11.72224029
+_cell_length_c   4.90640809
+_cell_angle_alpha   88.95255826
+_cell_angle_beta   89.99751624
+_cell_angle_gamma   89.99601504
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCrO4
+_chemical_formula_sum   'Hf4 Cr4 O16'
+_cell_volume   270.80718905
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.99526300  0.16928600  0.23654700  1
+  Hf  Hf1  1  0.00463000  0.83066300  0.76344300  1
+  Hf  Hf2  1  0.50471600  0.66931100  0.23664500  1
+  Hf  Hf3  1  0.49533800  0.33073300  0.76334500  1
+  Cr  Cr4  1  0.99800900  0.56865000  0.74075800  1
+  Cr  Cr5  1  0.49791900  0.93137800  0.25933100  1
+  Cr  Cr6  1  0.00215300  0.43133800  0.25916400  1
+  Cr  Cr7  1  0.50215800  0.06862000  0.74068300  1
+  O  O8  1  0.21642200  0.31395300  0.41166400  1
+  O  O9  1  0.22813800  0.68855300  0.91239800  1
+  O  O10  1  0.27173900  0.18852900  0.91231600  1
+  O  O11  1  0.28353000  0.81402100  0.41164800  1
+  O  O12  1  0.71638400  0.18602900  0.58828100  1
+  O  O13  1  0.72810800  0.81149000  0.08770000  1
+  O  O14  1  0.78358400  0.68599500  0.58843000  1
+  O  O15  1  0.77175800  0.31145200  0.08763100  1
+  O  O16  1  0.26524900  0.05386500  0.43549500  1
+  O  O17  1  0.27778400  0.94570100  0.92756300  1
+  O  O18  1  0.22232200  0.44567400  0.92757300  1
+  O  O19  1  0.23472800  0.55383500  0.43547900  1
+  O  O20  1  0.76536100  0.44611600  0.56446300  1
+  O  O21  1  0.77782800  0.55432100  0.07249600  1
+  O  O22  1  0.72220000  0.05432400  0.07240600  1
+  O  O23  1  0.73467800  0.94616600  0.56454100  1
+"
+"True","mp-781615","HfCrO4","Orthorhombic","Pbcn","60","24","0.060748539166668","-2.973007412083333","False","270.2119475295838","7.238787075073748","0.0","True","True","FM","8.0004853","# generated using pymatgen
+data_HfCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68566100
+_cell_length_b   11.76491800
+_cell_length_c   4.90167800
+_cell_angle_alpha   89.99971364
+_cell_angle_beta   90.00125483
+_cell_angle_gamma   89.99890430
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCrO4
+_chemical_formula_sum   'Hf4 Cr4 O16'
+_cell_volume   270.21194753
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.99999700  0.17274100  0.25001400  1
+  Hf  Hf1  1  0.00001500  0.82725900  0.75000800  1
+  Hf  Hf2  1  0.49999300  0.67274100  0.24997700  1
+  Hf  Hf3  1  0.50000800  0.32726100  0.74999100  1
+  Cr  Cr4  1  0.99998300  0.43329200  0.25000400  1
+  Cr  Cr5  1  0.00001000  0.56669000  0.74997200  1
+  Cr  Cr6  1  0.49998600  0.06674700  0.75000800  1
+  Cr  Cr7  1  0.50001200  0.93328300  0.25001100  1
+  O  O8  1  0.22301100  0.31402500  0.41302300  1
+  O  O9  1  0.22299900  0.68596400  0.91303800  1
+  O  O10  1  0.27196400  0.05553700  0.43047000  1
+  O  O11  1  0.27194300  0.94448400  0.93047800  1
+  O  O12  1  0.22802200  0.44445900  0.93048500  1
+  O  O13  1  0.22803900  0.55551600  0.43049600  1
+  O  O14  1  0.27700200  0.18597600  0.91303200  1
+  O  O15  1  0.27702000  0.81403400  0.41304000  1
+  O  O16  1  0.72300000  0.18598300  0.58695900  1
+  O  O17  1  0.72298600  0.81403200  0.08696400  1
+  O  O18  1  0.77196600  0.44445300  0.56950400  1
+  O  O19  1  0.77195800  0.55552300  0.06952300  1
+  O  O20  1  0.72803100  0.05553500  0.06951700  1
+  O  O21  1  0.72804800  0.94448600  0.56952500  1
+  O  O22  1  0.77701200  0.68595300  0.58698300  1
+  O  O23  1  0.77699300  0.31403000  0.08697900  1
+"

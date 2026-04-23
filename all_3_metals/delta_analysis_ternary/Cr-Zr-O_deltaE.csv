@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cr-Zr-O,Cr,Zr,O,ZrCrO4_1650178_POSCAR,35,global_gradient_fallback,6.7061586184,-0.11679684922791,-0.10969998228391545,-0.007096866943994556,5.748136,11.735778,0.01895398

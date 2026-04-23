@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Mn-Zr-O,Mn,Zr,O,Zr4MnO9_763464_POSCAR,35,local_max_drop,9.0916127942,-0.40895068404808,-0.23290925649210814,-0.17604142755597185,8.778109,15.361691,0.03145961

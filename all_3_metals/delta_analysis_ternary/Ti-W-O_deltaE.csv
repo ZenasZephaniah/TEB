@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Ti-W-O,Ti,W,O,Ti7_WO5_6_851115_POSCAR,35,local_max_drop,7.5921778585,-0.15136909560329,-0.09052976775228738,-0.06083932785100263,7.330379,12.828163,0.01280151

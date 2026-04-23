@@ -1,0 +1,209 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1096795","YAgS2","Trigonal","R3m","160","4","0.018750553749996002","-1.542876661666666","False","94.66797739910837","4.576429956168475","1.7042000000000002","False","False","NM","0.0","# generated using pymatgen
+data_YAgS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30799456
+_cell_length_b   7.30799456
+_cell_length_c   7.30799405
+_cell_angle_alpha   31.51272135
+_cell_angle_beta   31.51272135
+_cell_angle_gamma   31.51272324
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YAgS2
+_chemical_formula_sum   'Y1 Ag1 S2'
+_cell_volume   94.66797740
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.99961785  0.99961785  0.99961785  1
+  Ag  Ag1  1  0.14862881  0.14862881  0.14862881  1
+  S  S2  1  0.26581215  0.26581215  0.26581215  1
+  S  S3  1  0.74494019  0.74494019  0.74494019  1
+"
+"True","mp-1207671","YAgS2","Monoclinic","P2_1","4","32","0.0037633403124970005","-1.557863875104165","False","755.0408874327494","4.590388413345342","1.7034","True","False","NM","0.0061319","# generated using pymatgen
+data_YAgS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66057200
+_cell_length_b   7.66785900
+_cell_length_c   12.85392438
+_cell_angle_alpha   89.90579166
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YAgS2
+_chemical_formula_sum   'Y8 Ag8 S16'
+_cell_volume   755.04088743
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.27446700  0.50265300  0.25344600  1
+  Y  Y1  1  0.77446700  0.49734700  0.74655400  1
+  Y  Y2  1  0.02711400  0.24596000  0.50463800  1
+  Y  Y3  1  0.52711400  0.75404000  0.49536200  1
+  Y  Y4  1  0.28304400  0.99576700  0.75290700  1
+  Y  Y5  1  0.78304400  0.00423300  0.24709300  1
+  Y  Y6  1  0.52888400  0.25258600  0.00331800  1
+  Y  Y7  1  0.02888400  0.74741400  0.99668200  1
+  Ag  Ag8  1  0.28016500  0.99654700  0.29485700  1
+  Ag  Ag9  1  0.78016500  0.00345300  0.70514300  1
+  Ag  Ag10  1  0.52992800  0.25448600  0.53790300  1
+  Ag  Ag11  1  0.02992800  0.74551400  0.46209700  1
+  Ag  Ag12  1  0.78068300  0.49564500  0.19400500  1
+  Ag  Ag13  1  0.28068300  0.50435500  0.80599500  1
+  Ag  Ag14  1  0.02921500  0.24488800  0.03533700  1
+  Ag  Ag15  1  0.52921500  0.75511200  0.96466300  1
+  S  S16  1  0.55065900  0.27441700  0.21871000  1
+  S  S17  1  0.05065900  0.72558300  0.78129000  1
+  S  S18  1  0.25334700  0.47521600  0.03803000  1
+  S  S19  1  0.75334700  0.52478400  0.96197000  1
+  S  S20  1  0.30421000  0.02593700  0.53813500  1
+  S  S21  1  0.80421000  0.97406300  0.46186500  1
+  S  S22  1  0.05469700  0.22632500  0.28975100  1
+  S  S23  1  0.55469700  0.77367500  0.71024900  1
+  S  S24  1  0.25806600  0.51953300  0.46902200  1
+  S  S25  1  0.75806600  0.48046700  0.53097800  1
+  S  S26  1  0.00849100  0.22746400  0.72054700  1
+  S  S27  1  0.50849100  0.77253600  0.27945300  1
+  S  S28  1  0.79967100  0.02107500  0.03069500  1
+  S  S29  1  0.29967100  0.97892500  0.96930500  1
+  S  S30  1  0.00415900  0.72729800  0.21134000  1
+  S  S31  1  0.50415900  0.27270200  0.78866000  1
+"
+"True","mp-2209741","YAgS2","Orthorhombic","P2_12_12_1","19","32","3.7920624999188135e-05","-1.545389597343751","False","728.376548237951","4.758432914483407","1.6958000000000002","False","False","NM","0.0","# generated using pymatgen
+data_YAgS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63409174
+_cell_length_b   7.63634740
+_cell_length_c   12.49432841
+_cell_angle_alpha   89.98488780
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YAgS2
+_chemical_formula_sum   'Y8 Ag8 S16'
+_cell_volume   728.37654824
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.27837785  0.49999530  0.25269687  1
+  Y  Y1  1  0.77837785  0.50000470  0.74730313  1
+  Y  Y2  1  0.02894446  0.24895268  0.50254240  1
+  Y  Y3  1  0.52894446  0.75104732  0.49745760  1
+  Y  Y4  1  0.27941392  0.00024445  0.75263199  1
+  Y  Y5  1  0.77941392  -0.00024445  0.24736801  1
+  Y  Y6  1  0.52866040  0.25114119  0.00248389  1
+  Y  Y7  1  0.02866040  0.74885881  0.99751611  1
+  Ag  Ag8  1  0.29100315  0.00512651  0.31331473  1
+  Ag  Ag9  1  0.79100315  -0.00512651  0.68668527  1
+  Ag  Ag10  1  0.51808924  0.26668275  0.56227993  1
+  Ag  Ag11  1  0.01808924  0.73331725  0.43772007  1
+  Ag  Ag12  1  0.76898754  0.50281601  0.18618572  1
+  Ag  Ag13  1  0.26898754  0.49718399  0.81381428  1
+  Ag  Ag14  1  0.04190206  0.23151145  0.06192119  1
+  Ag  Ag15  1  0.54190206  0.76848855  0.93807881  1
+  S  S16  1  0.54991385  0.27044805  0.22317584  1
+  S  S17  1  0.04991385  0.72955195  0.77682416  1
+  S  S18  1  0.25384500  0.47498098  0.03289533  1
+  S  S19  1  0.75384500  0.52501902  0.96710467  1
+  S  S20  1  0.30432621  0.02535095  0.53284338  1
+  S  S21  1  0.80432621  0.97464905  0.46715662  1
+  S  S22  1  0.05474504  0.22376492  0.28242793  1
+  S  S23  1  0.55474504  0.77623508  0.71757207  1
+  S  S24  1  0.25787079  0.52095125  0.47344731  1
+  S  S25  1  0.75787079  0.47904875  0.52655269  1
+  S  S26  1  0.00789554  0.22940990  0.72311871  1
+  S  S27  1  0.50789554  0.77059010  0.27688129  1
+  S  S28  1  0.79998431  0.02093025  0.02652151  1
+  S  S29  1  0.29998431  0.97906975  0.97347849  1
+  S  S30  1  0.00283965  0.72355738  0.21751723  1
+  S  S31  1  0.50283965  0.27644262  0.78248277  1
+"
+"True","mp-2757874","YAgS2","Tetragonal","P4_12_12","92","32","0.0","-1.54542751796875","True","728.3673383860124","4.758493082561096","2.1092","False","False","NM","0.0","# generated using pymatgen
+data_YAgS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.64049572
+_cell_length_b   7.64332884
+_cell_length_c   12.47229520
+_cell_angle_alpha   89.99829703
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YAgS2
+_chemical_formula_sum   'Y8 Ag8 S16'
+_cell_volume   728.36733839
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.27824009  0.50009692  0.25296672  1
+  Y  Y1  1  0.77824009  0.49990308  0.74703328  1
+  Y  Y2  1  0.02866102  0.24884334  0.50275664  1
+  Y  Y3  1  0.52866102  0.75115666  0.49724336  1
+  Y  Y4  1  0.27957204  0.00005401  0.75282777  1
+  Y  Y5  1  0.77957204  -0.00005401  0.24717223  1
+  Y  Y6  1  0.52902494  0.25123342  0.00271478  1
+  Y  Y7  1  0.02902494  0.74876658  0.99728522  1
+  Ag  Ag8  1  0.29105159  0.00536672  0.31244449  1
+  Ag  Ag9  1  0.79105159  -0.00536672  0.68755551  1
+  Ag  Ag10  1  0.51831402  0.26610615  0.56123189  1
+  Ag  Ag11  1  0.01831402  0.73389385  0.43876811  1
+  Ag  Ag12  1  0.76884521  0.50328044  0.18698511  1
+  Ag  Ag13  1  0.26884521  0.49671956  0.81301489  1
+  Ag  Ag14  1  0.04155672  0.23222019  0.06096295  1
+  Ag  Ag15  1  0.54155672  0.76777981  0.93903705  1
+  S  S16  1  0.54981146  0.27065687  0.22370715  1
+  S  S17  1  0.04981146  0.72934313  0.77629285  1
+  S  S18  1  0.25436958  0.47514091  0.03288516  1
+  S  S19  1  0.75436958  0.52485909  0.96711484  1
+  S  S20  1  0.30381529  0.02518330  0.53261569  1
+  S  S21  1  0.80381529  0.97481670  0.46738431  1
+  S  S22  1  0.05464728  0.22410221  0.28234136  1
+  S  S23  1  0.55464728  0.77589779  0.71765864  1
+  S  S24  1  0.25757102  0.52084465  0.47393827  1
+  S  S25  1  0.75757102  0.47915535  0.52606173  1
+  S  S26  1  0.00806591  0.22920024  0.72358538  1
+  S  S27  1  0.50806591  0.77079976  0.27641462  1
+  S  S28  1  0.80031998  0.02095157  0.02603554  1
+  S  S29  1  0.30031998  0.97904843  0.97396446  1
+  S  S30  1  0.00293386  0.72396420  0.21764540  1
+  S  S31  1  0.50293386  0.27603580  0.78235460  1
+"

@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Fe-Zr-O,Fe,Zr,O,Zr6Fe2O_1215351_POSCAR,35,local_max_drop,8.3706968459,-0.23210193756663,-0.06360896770518863,-0.16849296986144136,7.174883,14.648719,0.00804164

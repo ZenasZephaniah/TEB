@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cr-Mn-S,Cr,Mn,S,Mn2Cr13S20_1222474_POSCAR,35,local_max_drop,10.745239488,-0.32734214702062,-0.22328102781550635,-0.10406111920511363,9.977722,18.804169,0.0242271

@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Mn-Rh-O,Mn,Rh,O,Mn_RhO2_2_554354_POSCAR,35,local_max_drop,6.8602349461,-0.14797864117024,-0.08524045889875467,-0.06273818227148534,6.068669,12.928904,0.01261637

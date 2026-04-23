@@ -1,0 +1,203 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-10764","HgS","Cubic","Fm-3m","225","2","0.176340135","-0.199199795000002","False","43.47101681656189","8.88713319428579","0.0","False","True","NM","8.83e-05","# generated using pymatgen
+data_HgS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94673771
+_cell_length_b   3.94673771
+_cell_length_c   3.94673771
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgS
+_chemical_formula_sum   'Hg1 S1'
+_cell_volume   43.47101682
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.00000000  0.00000000  0.00000000  1
+  S  S1  1  0.50000000  0.50000000  0.50000000  1
+"
+"True","mp-1123","HgS","Cubic","F-43m","216","2","0.0","-0.375539930000003","True","52.378287471653465","7.375818019038935","0.0","False","True","NM","1e-07","# generated using pymatgen
+data_HgS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19973724
+_cell_length_b   4.19973756
+_cell_length_c   4.19973508
+_cell_angle_alpha   60.00001147
+_cell_angle_beta   60.00000886
+_cell_angle_gamma   60.00001771
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgS
+_chemical_formula_sum   'Hg1 S1'
+_cell_volume   52.37828747
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  -0.00000000  -0.00000000  -0.00000000  1
+  S  S1  1  0.25000000  0.25000000  0.25000000  1
+"
+"True","mp-634","HgS","Trigonal","P3_121","152","6","0.139715583333336","-0.23582434666666602","False","129.13783449297435","8.97489224726409","1.7077","False","False","NM","0.0","# generated using pymatgen
+data_HgS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92332176
+_cell_length_b   3.92323984
+_cell_length_c   9.69015360
+_cell_angle_alpha   90.04869519
+_cell_angle_beta   89.95219441
+_cell_angle_gamma   120.02429520
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgS
+_chemical_formula_sum   'Hg3 S3'
+_cell_volume   129.13783449
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.63985669  0.63987714  0.00001064  1
+  Hg  Hg1  1  0.36034389  0.99997531  0.33343401  1
+  Hg  Hg2  1  0.00000111  0.36035575  0.66655118  1
+  S  S3  1  0.74057564  0.74066011  0.50001412  1
+  S  S4  1  0.25911660  0.99989512  0.83335677  1
+  S  S5  1  0.00010707  0.25923656  0.16663328  1
+"
+"True","mp-9252","HgS","Trigonal","P3_221","154","6","0.003880525","-0.37165940500000205","False","165.68573061434714","6.995159723906291","1.6863000000000001","False","False","NM","0.0","# generated using pymatgen
+data_HgS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43070827
+_cell_length_b   4.43070827
+_cell_length_c   9.74559100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000408
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgS
+_chemical_formula_sum   'Hg3 S3'
+_cell_volume   165.68573061
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.75845000  0.75845000  0.00000000  1
+  Hg  Hg1  1  0.24155000  0.00000000  0.66666700  1
+  Hg  Hg2  1  0.00000000  0.24155000  0.33333300  1
+  S  S3  1  0.45651200  0.45651200  0.50000000  1
+  S  S4  1  0.54348800  0.00000000  0.16666700  1
+  S  S5  1  0.00000000  0.54348800  0.83333300  1
+"
+"True","mp-973676","HgS","Hexagonal","P6_3mc","186","4","0.0015889475000000002","-0.373950982500003","False","104.77268912332956","7.374683608341191","0.0","False","True","NM","2e-07","# generated using pymatgen
+data_HgS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19635635
+_cell_length_b   4.19635635
+_cell_length_c   6.87025325
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000205
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgS
+_chemical_formula_sum   'Hg2 S2'
+_cell_volume   104.77268912
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  -0.00000000  -0.00000000  0.00012330  1
+  Hg  Hg1  1  0.33333200  0.66666600  0.50012330  1
+  S  S2  1  0.00000000  0.00000000  0.37487670  1
+  S  S3  1  0.33333200  0.66666600  0.87487670  1
+"
+"True","mp-1106367","HgS4","Orthorhombic","Pbcm","57","20","0.0","-0.18558254200000002","True","2224.979510828908","0.9817048101229011","1.047499999999999","True","False","FM","1.3e-06","# generated using pymatgen
+data_HgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.12593351
+_cell_length_b   12.04261065
+_cell_length_c   14.07586752
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgS4
+_chemical_formula_sum   'Hg4 S16'
+_cell_volume   2224.97951083
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.89014770  0.60546820  0.25000000  1
+  Hg  Hg1  1  0.10985230  0.39453180  0.75000000  1
+  Hg  Hg2  1  0.89014770  0.89453180  0.75000000  1
+  Hg  Hg3  1  0.10985230  0.10546820  0.25000000  1
+  S  S4  1  0.48292090  0.88405674  0.64895607  1
+  S  S5  1  0.51707910  0.11594326  0.14895607  1
+  S  S6  1  0.48292090  0.61594326  0.35104393  1
+  S  S7  1  0.51707910  0.38405674  0.85104393  1
+  S  S8  1  0.51707910  0.11594326  0.35104393  1
+  S  S9  1  0.48292090  0.88405674  0.85104393  1
+  S  S10  1  0.51707910  0.38405674  0.64895607  1
+  S  S11  1  0.48292090  0.61594326  0.14895607  1
+  S  S12  1  0.62533810  0.62951147  0.15460175  1
+  S  S13  1  0.37466190  0.37048753  0.65460175  1
+  S  S14  1  0.62533810  0.87048853  0.84539825  1
+  S  S15  1  0.37466190  0.12951147  0.34539825  1
+  S  S16  1  0.37466190  0.37048753  0.84539825  1
+  S  S17  1  0.62533810  0.62951147  0.34539825  1
+  S  S18  1  0.37466190  0.12951147  0.15460175  1
+  S  S19  1  0.62533810  0.87048853  0.65460175  1
+"

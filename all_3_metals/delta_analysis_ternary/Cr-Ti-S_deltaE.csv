@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cr-Ti-S,Cr,Ti,S,TiCrS2_1216903_POSCAR,35,global_gradient_fallback,4.643303967,-0.042242675786589,-0.03258720202066283,-0.009655473765926174,4.127381,8.426737,0.00763988

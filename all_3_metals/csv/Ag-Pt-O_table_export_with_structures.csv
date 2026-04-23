@@ -1,0 +1,71 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-997006","AgPtO2","Monoclinic","P2/m","10","8","0.022420155833335002","-0.672532186666665","False","113.54116576903517","9.797313901605593","0.38709999999999906","False","False","NM","0.000359","# generated using pymatgen
+data_AgPtO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.13920000
+_cell_length_b   6.33739000
+_cell_length_c   6.44602046
+_cell_angle_alpha   62.29895931
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgPtO2
+_chemical_formula_sum   'Ag2 Pt2 O4'
+_cell_volume   113.54116577
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.00000000  0.50000000  0.00000000  1
+  Ag  Ag1  1  0.00000000  0.50000000  0.50000000  1
+  Pt  Pt2  1  0.50000000  0.00000000  0.50000000  1
+  Pt  Pt3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.00000000  0.76629000  0.63163000  1
+  O  O5  1  0.50000000  0.08521000  0.77168000  1
+  O  O6  1  0.50000000  0.91479000  0.22832000  1
+  O  O7  1  0.00000000  0.23371000  0.36837000  1
+"
+"True","mp-997007","AgPtO2","Monoclinic","C2/m","12","8","0.043415518333334006","-0.651536824166665","False","109.89994457580165","10.121919952618493","0.055499999999999","False","False","NM","0.0001235","# generated using pymatgen
+data_AgPtO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62771976
+_cell_length_b   5.62771976
+_cell_length_c   6.52955384
+_cell_angle_alpha   85.20886777
+_cell_angle_beta   85.20886777
+_cell_angle_gamma   32.23910013
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgPtO2
+_chemical_formula_sum   'Ag2 Pt2 O4'
+_cell_volume   109.89994458
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.63924000  0.63924000  0.55159000  1
+  Ag  Ag1  1  0.36076000  0.36076000  0.44841000  1
+  Pt  Pt2  1  0.11569000  0.11569000  0.05662000  1
+  Pt  Pt3  1  0.88431000  0.88431000  0.94338000  1
+  O  O4  1  0.68310000  0.68310000  0.87287000  1
+  O  O5  1  0.43192000  0.43192000  0.75208000  1
+  O  O6  1  0.56808000  0.56808000  0.24792000  1
+  O  O7  1  0.31690000  0.31690000  0.12713000  1
+"

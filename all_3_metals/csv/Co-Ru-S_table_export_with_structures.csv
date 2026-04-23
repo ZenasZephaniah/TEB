@@ -1,0 +1,84 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1181796","Co8RuS8","Cubic","Fm-3m","225","17","0.0","-0.7176172417647051","True","239.66950162242","5.744073135891889","0.0","False","True","NM","0.1129917","# generated using pymatgen
+data_Co8RuS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97229772
+_cell_length_b   6.97229772
+_cell_length_c   6.97229772
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co8RuS8
+_chemical_formula_sum   'Co8 Ru1 S8'
+_cell_volume   239.66950162
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.62199500  0.12600200  0.12600200  1
+  Co  Co1  1  0.12600200  0.62199500  0.12600200  1
+  Co  Co2  1  0.12600200  0.12600200  0.62199500  1
+  Co  Co3  1  0.12600200  0.12600200  0.12600200  1
+  Co  Co4  1  0.37800500  0.87399800  0.87399800  1
+  Co  Co5  1  0.87399800  0.37800500  0.87399800  1
+  Co  Co6  1  0.87399800  0.87399800  0.37800500  1
+  Co  Co7  1  0.87399800  0.87399800  0.87399800  1
+  Ru  Ru8  1  0.50000000  0.50000000  0.50000000  1
+  S  S9  1  0.25000000  0.25000000  0.25000000  1
+  S  S10  1  0.75000000  0.75000000  0.75000000  1
+  S  S11  1  0.74037300  0.25962700  0.25962700  1
+  S  S12  1  0.74037300  0.25962700  0.74037300  1
+  S  S13  1  0.74037300  0.74037300  0.25962700  1
+  S  S14  1  0.25962700  0.74037300  0.74037300  1
+  S  S15  1  0.25962700  0.74037300  0.25962700  1
+  S  S16  1  0.25962700  0.25962700  0.74037300  1
+"
+"True","mp-1226040","CoRuS4","Monoclinic","P2_1/c","14","12","0.017415504583333002","-0.7666177608333331","False","175.13055380842655","5.466462434465299","0.0","False","True","FM","2.0011253","# generated using pymatgen
+data_CoRuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60227700
+_cell_length_b   5.56852600
+_cell_length_c   5.61403432
+_cell_angle_alpha   89.47875137
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoRuS4
+_chemical_formula_sum   'Co2 Ru2 S8'
+_cell_volume   175.13055381
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.50000000  0.50000000  0.00000000  1
+  Co  Co1  1  0.00000000  0.50000000  0.50000000  1
+  Ru  Ru2  1  0.50000000  0.00000000  0.50000000  1
+  Ru  Ru3  1  0.00000000  0.00000000  0.00000000  1
+  S  S4  1  0.11062200  0.88337800  0.38899900  1
+  S  S5  1  0.61062200  0.11662200  0.11100100  1
+  S  S6  1  0.88585700  0.60801300  0.88839700  1
+  S  S7  1  0.38585700  0.39198700  0.61160300  1
+  S  S8  1  0.88937800  0.11662200  0.61100100  1
+  S  S9  1  0.38937800  0.88337800  0.88899900  1
+  S  S10  1  0.11414300  0.39198700  0.11160300  1
+  S  S11  1  0.61414300  0.60801300  0.38839700  1
+"

@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cr-Fe-S,Cr,Fe,S,Cr12Fe3S20_1226707_POSCAR,35,local_max_drop,10.897542237,-0.32136291820839,-0.21389296144254555,-0.10746995676584448,10.119146,19.070699,0.02265664

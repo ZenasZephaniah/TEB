@@ -1,0 +1,241 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-5725","CuAg3S2","Tetragonal","I4_1/amd","141","24","0.04619369986111","-0.10558837246527701","False","455.43251885894466","6.5816035111079145","0.0","True","True","NM","6.55e-05","# generated using pymatgen
+data_CuAg3S2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.58476113
+_cell_length_b   8.58476113
+_cell_length_c   8.58476113
+_cell_angle_alpha   118.75590552
+_cell_angle_beta   118.75590552
+_cell_angle_gamma   92.16868964
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAg3S2
+_chemical_formula_sum   'Cu4 Ag12 S8'
+_cell_volume   455.43251886
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.34681100  0.34681100  0.00000000  1
+  Cu  Cu1  1  0.09681100  0.59681100  0.50000000  1
+  Cu  Cu2  1  0.40318900  0.90318900  0.50000000  1
+  Cu  Cu3  1  0.65318900  0.65318900  0.00000000  1
+  Ag  Ag4  1  0.43557500  0.93557500  0.87115000  1
+  Ag  Ag5  1  0.68557500  0.31442500  0.00000000  1
+  Ag  Ag6  1  0.31442500  0.68557500  0.00000000  1
+  Ag  Ag7  1  0.06442500  0.56442500  0.12885000  1
+  Ag  Ag8  1  0.31442500  0.31442500  0.62885000  1
+  Ag  Ag9  1  0.06442500  0.93557500  0.50000000  1
+  Ag  Ag10  1  0.43557500  0.56442500  0.50000000  1
+  Ag  Ag11  1  0.68557500  0.68557500  0.37115000  1
+  Ag  Ag12  1  0.37500000  0.12500000  0.25000000  1
+  Ag  Ag13  1  0.87500000  0.12500000  0.25000000  1
+  Ag  Ag14  1  0.87500000  0.62500000  0.75000000  1
+  Ag  Ag15  1  0.87500000  0.12500000  0.75000000  1
+  S  S16  1  0.66220500  0.41347200  0.75126800  1
+  S  S17  1  0.66220500  0.91093700  0.24873200  1
+  S  S18  1  0.58652800  0.33779500  0.24873200  1
+  S  S19  1  0.66093700  0.91220500  0.74873200  1
+  S  S20  1  0.16347200  0.91220500  0.25126800  1
+  S  S21  1  0.08906300  0.33779500  0.75126800  1
+  S  S22  1  0.08779500  0.33906300  0.25126800  1
+  S  S23  1  0.08779500  0.83652800  0.74873200  1
+"
+"True","mp-644883","CuAg3S2","Tetragonal","I4_1/a","88","24","0.038793099027779006","-0.112988973298608","False","452.50830300263397","6.624135392223518","0.18280000000000002","True","False","NM","6.570000000000001e-05","# generated using pymatgen
+data_CuAg3S2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.54906506
+_cell_length_b   8.54906506
+_cell_length_c   8.54906506
+_cell_angle_alpha   118.30031756
+_cell_angle_beta   118.30031756
+_cell_angle_gamma   92.97004325
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAg3S2
+_chemical_formula_sum   'Cu4 Ag12 S8'
+_cell_volume   452.50830300
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.34484500  0.34484500  0.00000000  1
+  Cu  Cu1  1  0.65515500  0.65515500  0.00000000  1
+  Cu  Cu2  1  0.09484500  0.59484500  0.50000000  1
+  Cu  Cu3  1  0.40515500  0.90515500  0.50000000  1
+  Ag  Ag4  1  0.42416600  0.55082800  0.43537200  1
+  Ag  Ag5  1  0.11545600  0.98879500  0.56462800  1
+  Ag  Ag6  1  0.44917200  0.88454400  0.87333800  1
+  Ag  Ag7  1  0.32583400  0.69917200  0.06462800  1
+  Ag  Ag8  1  0.30082800  0.36545600  0.62666200  1
+  Ag  Ag9  1  0.01120500  0.57583400  0.12666200  1
+  Ag  Ag10  1  0.87500000  0.12500000  0.25000000  1
+  Ag  Ag11  1  0.63454400  0.26120500  0.93537200  1
+  Ag  Ag12  1  0.73879500  0.67416600  0.37333800  1
+  Ag  Ag13  1  0.87500000  0.12500000  0.75000000  1
+  Ag  Ag14  1  0.87500000  0.62500000  0.75000000  1
+  Ag  Ag15  1  0.37500000  0.12500000  0.25000000  1
+  S  S16  1  0.65923900  0.89770900  0.73684800  1
+  S  S17  1  0.07760900  0.34076100  0.23847000  1
+  S  S18  1  0.67239100  0.90923900  0.26153000  1
+  S  S19  1  0.64770900  0.41086100  0.73847000  1
+  S  S20  1  0.10229100  0.83913900  0.76153000  1
+  S  S21  1  0.58913900  0.32760900  0.23684800  1
+  S  S22  1  0.16086100  0.92239100  0.26315200  1
+  S  S23  1  0.09076100  0.35229100  0.76315200  1
+"
+"True","mp-1077811","CuAgS","Orthorhombic","Cmc2_1","36","6","0.030615150555558003","-0.15457512815972202","False","110.98495601158456","6.08884614605328","0.6381999999999991","False","False","NM","0.0027642","# generated using pymatgen
+data_CuAgS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90669530
+_cell_length_b   3.90669530
+_cell_length_c   8.20762300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   117.62670069
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAgS
+_chemical_formula_sum   'Cu2 Ag2 S2'
+_cell_volume   110.98495601
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.43927100  0.56072900  0.21686300  1
+  Cu  Cu1  1  0.56072900  0.43927100  0.71686300  1
+  Ag  Ag2  1  0.98955400  0.01044600  0.47289700  1
+  Ag  Ag3  1  0.01044600  0.98955400  0.97289700  1
+  S  S4  1  0.79161100  0.20838900  0.21834000  1
+  S  S5  1  0.20838900  0.79161100  0.71834000  1
+"
+"True","mp-1205410","CuAgS","Tetragonal","P4/nmm","129","6","0.10208244555555601","-0.083107833159724","False","98.24772058665614","6.878229007715132","0.0","False","True","NM","1e-07","# generated using pymatgen
+data_CuAgS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97854800
+_cell_length_b   3.97854800
+_cell_length_c   6.20687900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAgS
+_chemical_formula_sum   'Cu2 Ag2 S2'
+_cell_volume   98.24772059
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.50000000  0.50000000  0.00000000  1
+  Ag  Ag2  1  0.00000000  0.50000000  0.65100000  1
+  Ag  Ag3  1  0.50000000  0.00000000  0.34900000  1
+  S  S4  1  0.00000000  0.50000000  0.22963500  1
+  S  S5  1  0.50000000  0.00000000  0.77036500  1
+"
+"True","mp-5014","CuAgS","Orthorhombic","Pnma","62","12","0.023732790555555","-0.16145748815972402","False","220.60723243042844","6.12645663731032","0.5674","False","False","NM","0.0006202","# generated using pymatgen
+data_CuAgS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01938500
+_cell_length_b   6.62032900
+_cell_length_c   8.29049700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAgS
+_chemical_formula_sum   'Cu4 Ag4 S4'
+_cell_volume   220.60723243
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.75000000  0.29722400  0.23872200  1
+  Cu  Cu1  1  0.75000000  0.20277600  0.73872200  1
+  Cu  Cu2  1  0.25000000  0.79722400  0.26127800  1
+  Cu  Cu3  1  0.25000000  0.70277600  0.76127800  1
+  Ag  Ag4  1  0.25000000  0.32269900  0.98566200  1
+  Ag  Ag5  1  0.25000000  0.17730100  0.48566200  1
+  Ag  Ag6  1  0.75000000  0.82269900  0.51433800  1
+  Ag  Ag7  1  0.75000000  0.67730100  0.01433800  1
+  S  S8  1  0.25000000  0.05484700  0.77068600  1
+  S  S9  1  0.25000000  0.44515300  0.27068600  1
+  S  S10  1  0.75000000  0.55484700  0.72931400  1
+  S  S11  1  0.75000000  0.94515300  0.22931400  1
+"
+"True","mp-8911","CuAgS","Orthorhombic","Cmcm","63","6","0.023641538888888","-0.161548739826391","False","114.11030532476309","5.9220796908548845","0.26270000000000004","False","False","NM","2.1e-06","# generated using pymatgen
+data_CuAgS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93823729
+_cell_length_b   3.93823729
+_cell_length_c   8.45477100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.51806923
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAgS
+_chemical_formula_sum   'Cu2 Ag2 S2'
+_cell_volume   114.11030532
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.47770400  0.52229600  0.25000000  1
+  Cu  Cu1  1  0.52229600  0.47770400  0.75000000  1
+  Ag  Ag2  1  0.00000000  0.00000000  0.50000000  1
+  Ag  Ag3  1  0.00000000  0.00000000  0.00000000  1
+  S  S4  1  0.18361500  0.81638500  0.75000000  1
+  S  S5  1  0.81638500  0.18361500  0.25000000  1
+"

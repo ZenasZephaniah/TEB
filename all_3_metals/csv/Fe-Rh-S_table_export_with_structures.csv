@@ -1,0 +1,124 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-10754","Fe(RhS2)2","Cubic","Fd-3m","227","14","0.077267907619048","-0.6943667864285701","False","243.57744757163448","5.316343997750356","0.0","False","True","FM","7.8200686","# generated using pymatgen
+data_Fe(RhS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00998934
+_cell_length_b   7.00998934
+_cell_length_c   7.00998934
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe(RhS2)2
+_chemical_formula_sum   'Fe2 Rh4 S8'
+_cell_volume   243.57744757
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe1  1  0.75000000  0.75000000  0.75000000  1
+  Rh  Rh2  1  0.62500000  0.12500000  0.12500000  1
+  Rh  Rh3  1  0.12500000  0.12500000  0.12500000  1
+  Rh  Rh4  1  0.12500000  0.62500000  0.12500000  1
+  Rh  Rh5  1  0.12500000  0.12500000  0.62500000  1
+  S  S6  1  0.36601000  0.36601000  0.36601000  1
+  S  S7  1  0.34803100  0.88399000  0.88399000  1
+  S  S8  1  0.88399000  0.88399000  0.34803100  1
+  S  S9  1  0.88399000  0.34803100  0.88399000  1
+  S  S10  1  0.36601000  0.36601000  0.90196900  1
+  S  S11  1  0.36601000  0.90196900  0.36601000  1
+  S  S12  1  0.88399000  0.88399000  0.88399000  1
+  S  S13  1  0.90196900  0.36601000  0.36601000  1
+"
+"True","mp-673875","Fe2RhS4","Orthorhombic","Imma","74","14","0.13307967309523602","-0.6507516049999991","False","219.52081559476292","5.186979197450271","0.0","False","True","FM","5.7576474","# generated using pymatgen
+data_Fe2RhS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77581445
+_cell_length_b   6.77581445
+_cell_length_c   6.77581445
+_cell_angle_alpha   121.06474670
+_cell_angle_beta   119.16075902
+_cell_angle_gamma   89.81275271
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2RhS4
+_chemical_formula_sum   'Fe4 Rh2 S8'
+_cell_volume   219.52081559
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.62413900  0.87413900  0.75000000  1
+  Fe  Fe1  1  0.37586100  0.12586100  0.25000000  1
+  Fe  Fe2  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe3  1  0.00000000  0.00000000  0.50000000  1
+  Rh  Rh4  1  0.50000000  0.50000000  0.00000000  1
+  Rh  Rh5  1  0.00000000  0.50000000  0.50000000  1
+  S  S6  1  0.23641100  0.73082700  0.99441600  1
+  S  S7  1  0.23188200  0.25194400  0.97993800  1
+  S  S8  1  0.23641100  0.24199500  0.50558400  1
+  S  S9  1  0.77200600  0.25194400  0.52006200  1
+  S  S10  1  0.22799400  0.74805600  0.47993800  1
+  S  S11  1  0.76811800  0.74805600  0.02006200  1
+  S  S12  1  0.76358900  0.75800500  0.49441600  1
+  S  S13  1  0.76358900  0.26917300  0.00558400  1
+"
+"True","mp-1225191","Fe3Rh3S8","Trigonal","R-3m","166","14","0.10506370321428601","-0.672669282857142","False","221.40186808251565","5.495869177524675","0.0","False","True","FiM","0.9281043","# generated using pymatgen
+data_Fe3Rh3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77441896
+_cell_length_b   6.77441896
+_cell_length_c   6.77441957
+_cell_angle_alpha   60.31454993
+_cell_angle_beta   60.31454993
+_cell_angle_gamma   60.31455156
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3Rh3S8
+_chemical_formula_sum   'Fe3 Rh3 S8'
+_cell_volume   221.40186808
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.62494900  0.62494900  0.62494900  1
+  Fe  Fe1  1  0.37505100  0.37505100  0.37505100  1
+  Fe  Fe2  1  0.00000000  0.00000000  0.00000000  1
+  Rh  Rh3  1  0.00000000  0.50000000  0.00000000  1
+  Rh  Rh4  1  0.50000000  0.00000000  0.00000000  1
+  Rh  Rh5  1  0.00000000  0.00000000  0.50000000  1
+  S  S6  1  0.24857600  0.24857600  0.24857600  1
+  S  S7  1  0.24009700  0.76006000  0.24009700  1
+  S  S8  1  0.76006000  0.24009700  0.24009700  1
+  S  S9  1  0.24009700  0.24009700  0.76006000  1
+  S  S10  1  0.75142400  0.75142400  0.75142400  1
+  S  S11  1  0.75990300  0.23994000  0.75990300  1
+  S  S12  1  0.23994000  0.75990300  0.75990300  1
+  S  S13  1  0.75990300  0.75990300  0.23994000  1
+"

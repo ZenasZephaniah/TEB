@@ -1,0 +1,118 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-29816","Ag2HgO2","Tetragonal","P4_32_12","96","20","0.0","-0.45434721466666705","True","325.1760355986749","9.157642983263019","0.41029999999999905","True","False","NM","0.0","# generated using pymatgen
+data_Ag2HgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.22383338
+_cell_length_b   6.22383338
+_cell_length_c   8.39465045
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag2HgO2
+_chemical_formula_sum   'Ag8 Hg4 O8'
+_cell_volume   325.17603560
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.49917402  0.74543703  0.62818559  1
+  Ag  Ag1  1  0.99917402  0.75456297  0.62181441  1
+  Ag  Ag2  1  0.24543703  0.00082598  0.87818559  1
+  Ag  Ag3  1  0.75456297  0.99917402  0.37818559  1
+  Ag  Ag4  1  0.25456297  0.50082598  0.87181441  1
+  Ag  Ag5  1  0.00082598  0.24543703  0.12181441  1
+  Ag  Ag6  1  0.50082598  0.25456297  0.12818559  1
+  Ag  Ag7  1  0.74543703  0.49917402  0.37181441  1
+  Hg  Hg8  1  0.21113803  0.21113803  0.50000000  1
+  Hg  Hg9  1  0.28886197  0.71113803  0.25000000  1
+  Hg  Hg10  1  0.71113803  0.28886197  0.75000000  1
+  Hg  Hg11  1  0.78886197  0.78886197  -0.00000000  1
+  O  O12  1  0.24892680  0.62162557  0.48534021  1
+  O  O13  1  0.75107320  0.37837443  0.98534021  1
+  O  O14  1  0.62162557  0.24892680  0.51465979  1
+  O  O15  1  0.12162557  0.25107320  0.73534021  1
+  O  O16  1  0.74892680  0.87837443  0.76465979  1
+  O  O17  1  0.37837443  0.75107320  0.01465979  1
+  O  O18  1  0.87837443  0.74892680  0.23534021  1
+  O  O19  1  0.25107320  0.12162557  0.26465979  1
+"
+"True","mp-997000","AgHgO2","Triclinic","P-1","2","8","0.030465306875000004","-0.508349317291668","False","131.36128292763178","8.607439519434182","0.0","False","True","NM","0.001232899999999","# generated using pymatgen
+data_AgHgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06750000
+_cell_length_b   5.45937997
+_cell_length_c   5.94371021
+_cell_angle_alpha   92.11358398
+_cell_angle_beta   95.11260153
+_cell_angle_gamma   90.52818554
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgHgO2
+_chemical_formula_sum   'Ag2 Hg2 O4'
+_cell_volume   131.36128293
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.50000000  0.00000000  0.00000000  1
+  Ag  Ag1  1  0.50000000  0.50000000  0.50000000  1
+  Hg  Hg2  1  0.00000000  0.00000000  0.50000000  1
+  Hg  Hg3  1  0.00000000  0.50000000  0.00000000  1
+  O  O4  1  0.70177000  0.71638000  0.79078000  1
+  O  O5  1  0.66087000  0.78811000  0.29347000  1
+  O  O6  1  0.29823000  0.28362000  0.20922000  1
+  O  O7  1  0.33913000  0.21189000  0.70653000  1
+"
+"True","mp-997001","AgHgO2","Monoclinic","P2_1/c","14","8","0.034928339374999","-0.5038862847916681","False","129.6314705396452","8.722297859369537","0.0","False","True","NM","0.0007987","# generated using pymatgen
+data_AgHgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90488000
+_cell_length_b   5.68666000
+_cell_length_c   6.13413999
+_cell_angle_alpha   72.11631788
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgHgO2
+_chemical_formula_sum   'Ag2 Hg2 O4'
+_cell_volume   129.63147054
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.50000000  0.50000000  0.00000000  1
+  Ag  Ag1  1  0.00000000  0.50000000  0.50000000  1
+  Hg  Hg2  1  0.50000000  0.00000000  0.50000000  1
+  Hg  Hg3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.70366000  0.28259000  0.79508000  1
+  O  O5  1  0.29634000  0.71741000  0.20492000  1
+  O  O6  1  0.79634000  0.28259000  0.29508000  1
+  O  O7  1  0.20366000  0.71741000  0.70492000  1
+"

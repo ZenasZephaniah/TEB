@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Pd-Ti-O,Pd,Ti,O,Ti3PdO_760414_POSCAR,35,local_max_drop,7.947205009,-0.32155569803429,-0.1038637858692424,-0.21769191216504763,7.095719,13.907609,0.01439507

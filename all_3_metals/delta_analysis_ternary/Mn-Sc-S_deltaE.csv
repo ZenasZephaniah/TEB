@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Mn-Sc-S,Mn,Sc,S,Sc10Mn17S32_685820_POSCAR,35,local_max_drop,10.1948840167,-0.42968238202513,-0.261379028413732,-0.16830335361139798,8.738472,17.841047,0.02931779

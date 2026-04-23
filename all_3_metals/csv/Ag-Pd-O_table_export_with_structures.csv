@@ -1,0 +1,146 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-5495","Ag2PdO2","Orthorhombic","Immm","71","5","0.055673144666666","-0.471315778666665","False","71.74228473402489","8.197237478842462","0.0","False","True","NM","2e-06","# generated using pymatgen
+data_Ag2PdO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80390462
+_cell_length_b   5.80390462
+_cell_length_c   5.80390462
+_cell_angle_alpha   149.45845671
+_cell_angle_beta   133.34950664
+_cell_angle_gamma   56.79009531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag2PdO2
+_chemical_formula_sum   'Ag2 Pd1 O2'
+_cell_volume   71.74228473
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.35941200  0.35941200  0.00000000  1
+  Ag  Ag1  1  0.64058800  0.64058800  0.00000000  1
+  Pd  Pd2  1  0.00000000  0.00000000  0.00000000  1
+  O  O3  1  0.13712700  0.63712700  0.50000000  1
+  O  O4  1  0.86287300  0.36287300  0.50000000  1
+"
+"True","mp-997038","AgPdO2","Monoclinic","P2/m","10","8","0.0","-0.6587361541666651","True","105.66325910649849","7.7409913067987475","0.0","False","True","NM","0.0","# generated using pymatgen
+data_AgPdO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.02383070
+_cell_length_b   6.35167199
+_cell_length_c   6.20272973
+_cell_angle_alpha   117.50844134
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgPdO2
+_chemical_formula_sum   'Ag2 Pd2 O4'
+_cell_volume   105.66325911
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.00000000  0.00000000  0.50000000  1
+  Ag  Ag1  1  0.00000000  0.50000000  0.50000000  1
+  Pd  Pd2  1  0.50000000  0.50000000  0.00000000  1
+  Pd  Pd3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.50000000  0.23616512  0.09646076  1
+  O  O5  1  -0.00000000  0.35857157  0.76129735  1
+  O  O6  1  -0.00000000  0.64142843  0.23870265  1
+  O  O7  1  0.50000000  0.76383488  0.90353924  1
+"
+"True","mp-997039","AgPdO2","Orthorhombic","Pmmm","47","4","0.033156112499998","-0.625580041666666","False","54.53839603346718","7.498738775609619","0.0","False","True","NM","3e-07","# generated using pymatgen
+data_AgPdO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.00450974
+_cell_length_b   3.34717092
+_cell_length_c   5.42314049
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgPdO2
+_chemical_formula_sum   'Ag1 Pd1 O2'
+_cell_volume   54.53839603
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.50000000  0.50000000  0.50000000  1
+  Pd  Pd1  1  -0.00000000  0.00000000  -0.00000000  1
+  O  O2  1  0.50000000  -0.00000000  0.24604253  1
+  O  O3  1  0.50000000  0.00000000  0.75395747  1
+"
+"True","mp-776166","AgPdO3","Orthorhombic","Cmcm","63","20","0.43927204399999703","-0.174272703333333","False","267.596321977409","6.5103557570517445","0.0","False","True","NM","0.0002408","# generated using pymatgen
+data_AgPdO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47763478
+_cell_length_b   6.47763478
+_cell_length_c   6.83819500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   111.15267358
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgPdO3
+_chemical_formula_sum   'Ag4 Pd4 O12'
+_cell_volume   267.59632198
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.99286600  0.00713400  0.25000000  1
+  Ag  Ag1  1  0.38023500  0.61976500  0.75000000  1
+  Ag  Ag2  1  0.61976500  0.38023500  0.25000000  1
+  Ag  Ag3  1  0.00713400  0.99286600  0.75000000  1
+  Pd  Pd4  1  0.50000000  0.00000000  0.00000000  1
+  Pd  Pd5  1  0.50000000  0.00000000  0.50000000  1
+  Pd  Pd6  1  0.00000000  0.50000000  0.00000000  1
+  Pd  Pd7  1  0.00000000  0.50000000  0.50000000  1
+  O  O8  1  0.47702400  0.16497400  0.75000000  1
+  O  O9  1  0.16497400  0.47702400  0.25000000  1
+  O  O10  1  0.25275300  0.31019700  0.25000000  1
+  O  O11  1  0.31019700  0.25275300  0.75000000  1
+  O  O12  1  0.16107200  0.83892800  0.49834900  1
+  O  O13  1  0.83892800  0.16107200  0.99834900  1
+  O  O14  1  0.83892800  0.16107200  0.50165100  1
+  O  O15  1  0.16107200  0.83892800  0.00165100  1
+  O  O16  1  0.74724700  0.68980300  0.75000000  1
+  O  O17  1  0.68980300  0.74724700  0.25000000  1
+  O  O18  1  0.52297600  0.83502600  0.25000000  1
+  O  O19  1  0.83502600  0.52297600  0.75000000  1
+"

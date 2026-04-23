@@ -1,0 +1,2 @@
+chemsys,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Hf-S,Hf2S_10000_POSCAR,35,global_gradient_fallback,4.723983656,-0.085910314598284,-0.05160886065788402,-0.034301453940399976,4.386556,8.266971,0.0125666

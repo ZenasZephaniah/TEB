@@ -1,0 +1,2534 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-861549","Mn11ZnO16","Orthorhombic","C222","21","28","0.008406727321428","-2.024981503115764","False","312.7023008683537","4.915828009674183","0.661","False","False","FM","46.9999985","# generated using pymatgen
+data_Mn11ZnO16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21644766
+_cell_length_b   6.21644766
+_cell_length_c   8.16875485
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   97.86949501
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn11ZnO16
+_chemical_formula_sum   'Mn11 Zn1 O16'
+_cell_volume   312.70230087
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75168354  0.00046044  0.62685046  1
+  Mn  Mn1  1  0.24831646  0.99953956  0.62685046  1
+  Mn  Mn2  1  0.49828574  0.24865561  0.87642202  1
+  Mn  Mn3  1  0.50171426  0.75134439  0.87642202  1
+  Mn  Mn4  1  0.75134439  0.50171426  0.12357798  1
+  Mn  Mn5  1  -0.00000000  0.50000000  0.75063686  1
+  Mn  Mn6  1  0.50000000  0.00000000  0.24936314  1
+  Mn  Mn7  1  0.24865561  0.49828574  0.12357798  1
+  Mn  Mn8  1  0.99953956  0.24831646  0.37314954  1
+  Mn  Mn9  1  0.00046044  0.75168354  0.37314954  1
+  Mn  Mn10  1  0.50000000  0.50000000  0.50000000  1
+  Zn  Zn11  1  -0.00000000  0.00000000  -0.00000000  1
+  O  O12  1  0.49254925  0.22908657  0.63966022  1
+  O  O13  1  0.72880283  0.49280853  0.88773386  1
+  O  O14  1  0.50745075  0.77091343  0.63966022  1
+  O  O15  1  0.73421999  0.99362242  0.86443825  1
+  O  O16  1  0.26578001  0.00637758  0.86443825  1
+  O  O17  1  0.50719147  0.27119717  0.11226614  1
+  O  O18  1  0.27119717  0.50719147  0.88773386  1
+  O  O19  1  0.00637758  0.26578001  0.13556175  1
+  O  O20  1  0.49280853  0.72880283  0.11226614  1
+  O  O21  1  0.22908657  0.49254925  0.36033978  1
+  O  O22  1  0.99362242  0.73421999  0.13556175  1
+  O  O23  1  0.23038822  0.99389374  0.38923114  1
+  O  O24  1  0.99389374  0.23038822  0.61076886  1
+  O  O25  1  0.76961178  0.00610626  0.38923114  1
+  O  O26  1  0.77091343  0.50745075  0.36033978  1
+  O  O27  1  0.00610626  0.76961178  0.61076886  1
+"
+"True","mp-1373342","Mn2Zn2O5","Orthorhombic","Pbam","55","18","0.280754134444449","-1.659031935095785","False","208.49630428303666","5.108196858325441","0.0","False","True","FM","15.9984236","# generated using pymatgen
+data_Mn2Zn2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.63219700
+_cell_length_b   5.47217500
+_cell_length_c   10.48984300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Zn2O5
+_chemical_formula_sum   'Mn4 Zn4 O10'
+_cell_volume   208.49630428
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.73576600  0.13245700  1
+  Mn  Mn1  1  0.00000000  0.26423400  0.86754300  1
+  Mn  Mn2  1  0.00000000  0.76423400  0.63245700  1
+  Mn  Mn3  1  0.00000000  0.23576600  0.36754300  1
+  Zn  Zn4  1  0.50000000  0.77020900  0.40045400  1
+  Zn  Zn5  1  0.50000000  0.22979100  0.59954600  1
+  Zn  Zn6  1  0.50000000  0.27020900  0.09954600  1
+  Zn  Zn7  1  0.50000000  0.72979100  0.90045400  1
+  O  O8  1  0.00000000  0.00000000  0.00000000  1
+  O  O9  1  0.00000000  0.63195700  0.81786400  1
+  O  O10  1  0.00000000  0.13195700  0.68213600  1
+  O  O11  1  0.00000000  0.86804300  0.31786400  1
+  O  O12  1  0.50000000  0.81738500  0.59398800  1
+  O  O13  1  0.50000000  0.18261500  0.40601200  1
+  O  O14  1  0.00000000  0.36804300  0.18213600  1
+  O  O15  1  0.50000000  0.68261500  0.09398800  1
+  O  O16  1  0.00000000  0.50000000  0.50000000  1
+  O  O17  1  0.50000000  0.31738500  0.90601200  1
+"
+"True","mp-1378139","Mn2Zn3O7","Orthorhombic","Cmc2_1","36","24","0.07791619083333501","-1.736770375071838","False","242.0033373547901","5.737685671080305","0.33679999999999904","False","False","FM","11.9990279","# generated using pymatgen
+data_Mn2Zn3O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.40707956
+_cell_length_b   9.40707956
+_cell_length_c   5.18206300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   148.14801747
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Zn3O7
+_chemical_formula_sum   'Mn4 Zn6 O14'
+_cell_volume   242.00333735
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.84991100  0.64619400  0.24841000  1
+  Mn  Mn1  1  0.15008900  0.35380600  0.74841000  1
+  Mn  Mn2  1  0.35380600  0.15008900  0.74841000  1
+  Mn  Mn3  1  0.64619400  0.84991100  0.24841000  1
+  Zn  Zn4  1  0.24995300  0.24995300  0.29274700  1
+  Zn  Zn5  1  0.75004700  0.75004700  0.79274700  1
+  Zn  Zn6  1  0.03035300  0.42338400  0.19748200  1
+  Zn  Zn7  1  0.96964700  0.57661600  0.69748200  1
+  Zn  Zn8  1  0.42338400  0.03035300  0.19748200  1
+  Zn  Zn9  1  0.57661600  0.96964700  0.69748200  1
+  O  O10  1  0.64854700  0.05425700  0.30703300  1
+  O  O11  1  0.35145400  0.94574300  0.80703300  1
+  O  O12  1  0.94574300  0.35145300  0.80703300  1
+  O  O13  1  0.05425700  0.64854700  0.30703300  1
+  O  O14  1  0.44298500  0.69972100  0.93192700  1
+  O  O15  1  0.55701500  0.30027900  0.43192700  1
+  O  O16  1  0.30027900  0.55701500  0.43192700  1
+  O  O17  1  0.69972100  0.44298500  0.93192700  1
+  O  O18  1  0.99256300  0.14686300  0.06583700  1
+  O  O19  1  0.00743700  0.85313700  0.56583700  1
+  O  O20  1  0.63329900  0.63329900  0.18587200  1
+  O  O21  1  0.36670100  0.36670100  0.68587200  1
+  O  O22  1  0.14686300  0.99256300  0.06583700  1
+  O  O23  1  0.85313700  0.00743700  0.56583700  1
+"
+"True","mp-1041069","Mn2ZnO4","Monoclinic","Cm","8","42","0.031058839047617002","-1.9512663610755352","False","478.4988161998606","4.982310190796909","0.0","False","True","FM","48.0004019","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.22735277
+_cell_length_b   6.22735277
+_cell_length_c   14.93097957
+_cell_angle_alpha   84.83797928
+_cell_angle_beta   84.83797928
+_cell_angle_gamma   56.17300559
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn12 Zn6 O24'
+_cell_volume   478.49881620
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.17162800  0.67044600  0.83355200  1
+  Mn  Mn1  1  0.66859500  0.66859500  0.83280600  1
+  Mn  Mn2  1  0.50007200  0.00003100  0.50001300  1
+  Mn  Mn3  1  0.67044600  0.17162800  0.83355200  1
+  Mn  Mn4  1  0.83469100  0.83469100  0.66673500  1
+  Mn  Mn5  1  0.00001100  0.00001100  0.50041200  1
+  Mn  Mn6  1  0.82879200  0.32829700  0.16599000  1
+  Mn  Mn7  1  0.00003100  0.50007200  0.50001300  1
+  Mn  Mn8  1  0.32829700  0.82879200  0.16599000  1
+  Mn  Mn9  1  0.16414300  0.16414300  0.33360800  1
+  Mn  Mn10  1  0.33179300  0.33179300  0.16827900  1
+  Mn  Mn11  1  0.83400100  0.83400100  0.04389300  1
+  Zn  Zn12  1  0.16740500  0.16740500  0.95391700  1
+  Zn  Zn13  1  0.50024500  0.50024500  0.62455700  1
+  Zn  Zn14  1  0.50050700  0.50050700  0.99890700  1
+  Zn  Zn15  1  0.83021700  0.83021700  0.29067600  1
+  Zn  Zn16  1  0.16814700  0.16814700  0.70991100  1
+  Zn  Zn17  1  0.49977300  0.49977300  0.37615900  1
+  O  O18  1  0.34766700  0.34766700  0.90947700  1
+  O  O19  1  0.49743200  0.49743200  0.75897500  1
+  O  O20  1  0.35164700  0.81507600  0.90805500  1
+  O  O21  1  0.81507600  0.35164700  0.90805500  1
+  O  O22  1  0.53150400  0.98129900  0.75075600  1
+  O  O23  1  0.67840600  0.67840600  0.57612500  1
+  O  O24  1  0.98129900  0.53150400  0.75075600  1
+  O  O25  1  0.83912600  0.83912600  0.90510100  1
+  O  O26  1  0.68896600  0.13865600  0.58112300  1
+  O  O27  1  0.82683800  0.82683800  0.42606300  1
+  O  O28  1  0.98906400  0.98906400  0.75546800  1
+  O  O29  1  0.13865600  0.68896600  0.58112300  1
+  O  O30  1  0.86153500  0.31014800  0.41872900  1
+  O  O31  1  0.00986400  0.00986400  0.24376500  1
+  O  O32  1  0.31014800  0.86153500  0.41872900  1
+  O  O33  1  0.17302800  0.17302800  0.57358600  1
+  O  O34  1  0.16048400  0.16048400  0.09281600  1
+  O  O35  1  0.01559700  0.46645200  0.24838700  1
+  O  O36  1  0.32117100  0.32117100  0.42316300  1
+  O  O37  1  0.46645200  0.01559700  0.24838700  1
+  O  O38  1  0.19007400  0.64892600  0.09376500  1
+  O  O39  1  0.50347800  0.50347800  0.24159400  1
+  O  O40  1  0.64892600  0.19007400  0.09376500  1
+  O  O41  1  0.65216200  0.65216200  0.09269200  1
+"
+"True","mp-1041340","Mn2ZnO4","Triclinic","P1","1","42","0.048155379047618005","-1.934169821075534","False","478.9698619647427","4.977410308150689","0.0","False","True","FM","48.0007067","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91320100
+_cell_length_b   6.19658571
+_cell_length_c   14.90796886
+_cell_angle_alpha   93.92440199
+_cell_angle_beta   89.79919875
+_cell_angle_gamma   118.43324043
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn12 Zn6 O24'
+_cell_volume   478.96986196
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.66664900  0.33408900  0.16612200  1
+  Mn  Mn1  1  0.66646300  0.83341100  0.16698300  1
+  Mn  Mn2  1  0.00401400  0.00654300  0.50077200  1
+  Mn  Mn3  1  0.16698300  0.83261300  0.16680000  1
+  Mn  Mn4  1  0.00525800  0.51085400  0.49954600  1
+  Mn  Mn5  1  0.16549400  0.33114500  0.66638100  1
+  Mn  Mn6  1  0.16940200  0.34220400  0.28797200  1
+  Mn  Mn7  1  0.32979600  0.66066800  0.83113400  1
+  Mn  Mn8  1  0.50567200  0.51073100  0.49976200  1
+  Mn  Mn9  1  0.32714300  0.15550600  0.83418700  1
+  Mn  Mn10  1  0.82778100  0.15534200  0.83395400  1
+  Mn  Mn11  1  0.82974600  0.66302600  0.95382800  1
+  Zn  Zn12  1  0.16348100  0.32214900  0.04655100  1
+  Zn  Zn13  1  0.50552000  0.00639900  0.38072600  1
+  Zn  Zn14  1  0.83903600  0.67568900  0.33532300  1
+  Zn  Zn15  1  0.82996900  0.65994200  0.70934700  1
+  Zn  Zn16  1  0.49516900  0.99231000  0.99952600  1
+  Zn  Zn17  1  0.50118900  0.00266000  0.62288000  1
+  O  O18  1  0.34342000  0.68909100  0.09195300  1
+  O  O19  1  0.50361300  0.98981500  0.24275500  1
+  O  O20  1  0.34580000  0.15141200  0.09402100  1
+  O  O21  1  0.80356900  0.13721900  0.09577400  1
+  O  O22  1  0.68451400  0.36839200  0.42250100  1
+  O  O23  1  0.53341400  0.53385900  0.23602400  1
+  O  O24  1  0.82786100  0.65599500  0.57485000  1
+  O  O25  1  0.98574300  0.51862600  0.23788900  1
+  O  O26  1  0.83153900  0.68143200  0.09130900  1
+  O  O27  1  0.69035000  0.84002800  0.42543500  1
+  O  O28  1  0.15243600  0.84071900  0.42457500  1
+  O  O29  1  0.98827200  0.97365700  0.24014200  1
+  O  O30  1  0.00986200  0.01947900  0.75697500  1
+  O  O31  1  0.86481300  0.17777400  0.58253400  1
+  O  O32  1  0.31370300  0.17803100  0.58201200  1
+  O  O33  1  0.15513400  0.31145000  0.90964200  1
+  O  O34  1  0.17907200  0.35633800  0.42684300  1
+  O  O35  1  0.01538400  0.48203300  0.75267600  1
+  O  O36  1  0.46639500  0.48402300  0.75160800  1
+  O  O37  1  0.32116700  0.64410600  0.57828500  1
+  O  O38  1  0.18714900  0.83079900  0.90733200  1
+  O  O39  1  0.64474900  0.83348800  0.90577300  1
+  O  O40  1  0.50461800  0.00994200  0.75837500  1
+  O  O41  1  0.64865200  0.29700500  0.90892100  1
+"
+"True","mp-1041477","Mn2ZnO4","Orthorhombic","Pbcm","57","28","0.126695464999999","-1.855629735123153","False","290.36618165902985","5.473616141327672","0.702199999999999","False","False","FM","32.0006909","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.01639100
+_cell_length_b   9.72080500
+_cell_length_c   9.90275800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn8 Zn4 O16'
+_cell_volume   290.36618166
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.29473700  0.57044700  0.11578700  1
+  Mn  Mn1  1  0.29473700  0.07044700  0.38421300  1
+  Mn  Mn2  1  0.70526300  0.07044700  0.88421300  1
+  Mn  Mn3  1  0.29473700  0.42955300  0.38421300  1
+  Mn  Mn4  1  0.70526300  0.42955300  0.88421300  1
+  Mn  Mn5  1  0.29473700  0.92955300  0.11578700  1
+  Mn  Mn6  1  0.70526300  0.92955300  0.61578700  1
+  Mn  Mn7  1  0.70526300  0.57044700  0.61578700  1
+  Zn  Zn8  1  0.82502100  0.75000000  0.35391600  1
+  Zn  Zn9  1  0.82502100  0.25000000  0.14608400  1
+  Zn  Zn10  1  0.17497900  0.75000000  0.85391600  1
+  Zn  Zn11  1  0.17497900  0.25000000  0.64608400  1
+  O  O12  1  0.71083500  0.88702600  0.96956800  1
+  O  O13  1  0.28916500  0.11297400  0.03043200  1
+  O  O14  1  0.87488800  0.00000000  0.25000000  1
+  O  O15  1  0.28916500  0.88702600  0.46956800  1
+  O  O16  1  0.28916500  0.61297400  0.46956800  1
+  O  O17  1  0.32295400  0.25000000  0.29268900  1
+  O  O18  1  0.71083500  0.11297400  0.53043200  1
+  O  O19  1  0.67704600  0.25000000  0.79268900  1
+  O  O20  1  0.87488800  0.50000000  0.25000000  1
+  O  O21  1  0.12511200  0.00000000  0.75000000  1
+  O  O22  1  0.71083500  0.61297400  0.96956800  1
+  O  O23  1  0.67704600  0.75000000  0.70731100  1
+  O  O24  1  0.32295400  0.75000000  0.20731100  1
+  O  O25  1  0.12511200  0.50000000  0.75000000  1
+  O  O26  1  0.71083500  0.38702600  0.53043200  1
+  O  O27  1  0.28916500  0.38702600  0.03043200  1
+"
+"True","mp-1041901","Mn2ZnO4","Orthorhombic","Imma","74","14","0.102910215714285","-1.8794149844088681","False","160.0268563936785","4.965894646191815","0.030400000000000003","False","False","FM","16.000961","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13032264
+_cell_length_b   6.13032264
+_cell_length_c   6.13032264
+_cell_angle_alpha   121.18528927
+_cell_angle_beta   121.07129734
+_cell_angle_gamma   88.05663074
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn4 Zn2 O8'
+_cell_volume   160.02685639
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.63816200  0.88816200  0.75000000  1
+  Mn  Mn1  1  0.36183800  0.11183800  0.25000000  1
+  Mn  Mn2  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn3  1  0.00000000  0.50000000  0.00000000  1
+  Zn  Zn4  1  0.50000000  0.50000000  0.00000000  1
+  Zn  Zn5  1  0.00000000  0.50000000  0.50000000  1
+  O  O6  1  0.22093400  0.23694600  0.51601200  1
+  O  O7  1  0.21713000  0.24810200  0.96902800  1
+  O  O8  1  0.22093400  0.70492200  0.98398800  1
+  O  O9  1  0.77907400  0.24810200  0.53097200  1
+  O  O10  1  0.22092600  0.75189800  0.46902800  1
+  O  O11  1  0.78287000  0.75189800  0.03097200  1
+  O  O12  1  0.77906600  0.29507800  0.01601200  1
+  O  O13  1  0.77906600  0.76305400  0.48398800  1
+"
+"True","mp-1047343","Mn2ZnO4","Tetragonal","I4_1/a","88","14","0.020098295714285","-1.9622269044088672","False","157.83250457929137","5.034935684069104","1.8155000000000001","False","False","FM","15.9999847","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02585027
+_cell_length_b   6.02585027
+_cell_length_c   6.02585027
+_cell_angle_alpha   118.60190591
+_cell_angle_beta   118.60190591
+_cell_angle_gamma   92.43912319
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn4 Zn2 O8'
+_cell_volume   157.83250458
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.37500000  0.12500000  0.75000000  1
+  Mn  Mn1  1  0.37500000  0.62500000  0.25000000  1
+  Mn  Mn2  1  0.87500000  0.62500000  0.25000000  1
+  Mn  Mn3  1  0.37500000  0.62500000  0.75000000  1
+  Zn  Zn4  1  0.75000000  0.25000000  0.50000000  1
+  Zn  Zn5  1  0.00000000  0.00000000  0.00000000  1
+  O  O6  1  0.11247800  0.87271400  0.70532400  1
+  O  O7  1  0.59284600  0.88752200  0.76023600  1
+  O  O8  1  0.12728600  0.83261000  0.23976400  1
+  O  O9  1  0.58261000  0.84284600  0.20532400  1
+  O  O10  1  0.62271400  0.41739000  0.26023600  1
+  O  O11  1  0.15715400  0.36247800  0.73976400  1
+  O  O12  1  0.16739000  0.40715400  0.29467600  1
+  O  O13  1  0.63752200  0.37728600  0.79467600  1
+"
+"True","mp-1047660","Mn2ZnO4","Orthorhombic","Cmcm","63","14","0.153862656428571","-1.828462543694581","False","144.20909976876592","5.51058505105787","0.0","False","True","FM","16.0002806","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16524989
+_cell_length_b   5.16524989
+_cell_length_c   9.73427400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.27049112
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn4 Zn2 O8'
+_cell_volume   144.20909977
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.13213500  0.86786500  0.07064600  1
+  Mn  Mn1  1  0.86786500  0.13213500  0.92935400  1
+  Mn  Mn2  1  0.13213500  0.86786500  0.42935400  1
+  Mn  Mn3  1  0.86786500  0.13213500  0.57064600  1
+  Zn  Zn4  1  0.61004100  0.38995900  0.75000000  1
+  Zn  Zn5  1  0.38995900  0.61004100  0.25000000  1
+  O  O6  1  0.77759000  0.22241000  0.38810600  1
+  O  O7  1  0.22241000  0.77759000  0.61189400  1
+  O  O8  1  0.22241000  0.77759000  0.88810600  1
+  O  O9  1  0.77759000  0.22241000  0.11189400  1
+  O  O10  1  0.03968400  0.96031600  0.25000000  1
+  O  O11  1  0.96031600  0.03968400  0.75000000  1
+  O  O12  1  0.50000000  0.50000000  0.00000000  1
+  O  O13  1  0.50000000  0.50000000  0.50000000  1
+"
+"True","mp-1048875","Mn2ZnO4","Trigonal","R3m","160","14","0.06618302357142801","-1.9161421765517241","False","159.1726801378571","4.992543373171934","0.0","False","True","FM","15.9999902","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07409152
+_cell_length_b   6.07409152
+_cell_length_c   6.07409219
+_cell_angle_alpha   60.19765702
+_cell_angle_beta   60.19765702
+_cell_angle_gamma   60.19766422
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn4 Zn2 O8'
+_cell_volume   159.17268014
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75518300  0.75518300  0.75518300  1
+  Mn  Mn1  1  0.87515700  0.37505900  0.37505900  1
+  Mn  Mn2  1  0.37505900  0.37505900  0.87515700  1
+  Mn  Mn3  1  0.37505900  0.87515700  0.37505900  1
+  Zn  Zn4  1  0.99443500  0.99443500  0.99443500  1
+  Zn  Zn5  1  0.37455300  0.37455300  0.37455300  1
+  O  O6  1  0.62071200  0.16964700  0.62071200  1
+  O  O7  1  0.62071200  0.62071200  0.16964700  1
+  O  O8  1  0.16964700  0.62071200  0.62071200  1
+  O  O9  1  0.61939900  0.61939900  0.61939900  1
+  O  O10  1  0.12852900  0.12852900  0.12852900  1
+  O  O11  1  0.58510800  0.12822200  0.12822200  1
+  O  O12  1  0.12822200  0.12822200  0.58510800  1
+  O  O13  1  0.12822200  0.58510800  0.12822200  1
+"
+"True","mp-1331108","Mn2ZnO4","Monoclinic","Cm","8","42","0.09007157452380801","-1.8922536255993432","False","474.35273410060444","5.025858094308357","0.0","False","True","FM","48.002829","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07916319
+_cell_length_b   6.07916319
+_cell_length_c   14.86591277
+_cell_angle_alpha   89.22228102
+_cell_angle_beta   89.22228102
+_cell_angle_gamma   59.71481790
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn12 Zn6 O24'
+_cell_volume   474.35273410
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.83436700  0.33610700  0.16579800  1
+  Mn  Mn1  1  0.00803500  0.00803500  0.37812400  1
+  Mn  Mn2  1  0.00070300  0.00070300  0.00024300  1
+  Mn  Mn3  1  0.33610700  0.83436700  0.16579800  1
+  Mn  Mn4  1  0.49998000  0.00140800  0.49980500  1
+  Mn  Mn5  1  0.67499500  0.67499500  0.70976500  1
+  Mn  Mn6  1  0.00140800  0.49998000  0.49980500  1
+  Mn  Mn7  1  0.16604700  0.66632100  0.83457000  1
+  Mn  Mn8  1  0.32634400  0.32634400  0.28919100  1
+  Mn  Mn9  1  0.66632100  0.16604700  0.83457000  1
+  Mn  Mn10  1  0.99331200  0.99331200  0.62201000  1
+  Mn  Mn11  1  0.66071300  0.66071300  0.95736900  1
+  Zn  Zn12  1  0.34285700  0.34285700  0.04267000  1
+  Zn  Zn13  1  0.66567900  0.66567900  0.33310800  1
+  Zn  Zn14  1  0.83406800  0.83406800  0.16835900  1
+  Zn  Zn15  1  0.33555800  0.33555800  0.66690100  1
+  Zn  Zn16  1  0.50061600  0.50061600  0.49986500  1
+  Zn  Zn17  1  0.16763000  0.16763000  0.83170600  1
+  O  O18  1  0.70714000  0.16460600  0.08505600  1
+  O  O19  1  0.01086200  0.01086200  0.23706500  1
+  O  O20  1  0.16460600  0.70714000  0.08505600  1
+  O  O21  1  0.15966700  0.15966700  0.08665600  1
+  O  O22  1  0.36740400  0.83554400  0.42472900  1
+  O  O23  1  0.50710900  0.50710900  0.23859000  1
+  O  O24  1  0.67846200  0.67846200  0.57226100  1
+  O  O25  1  0.49746300  0.96966400  0.24050300  1
+  O  O26  1  0.83554400  0.36740400  0.42472900  1
+  O  O27  1  0.65685800  0.65685800  0.09480900  1
+  O  O28  1  0.82382200  0.82382200  0.42722300  1
+  O  O29  1  0.96966400  0.49746300  0.24050300  1
+  O  O30  1  0.03162600  0.50342300  0.76001700  1
+  O  O31  1  0.17754300  0.17754300  0.57247600  1
+  O  O32  1  0.16560400  0.63427200  0.57516900  1
+  O  O33  1  0.50342300  0.03162700  0.76001700  1
+  O  O34  1  0.34347300  0.34347300  0.90741400  1
+  O  O35  1  0.32288000  0.32288000  0.42710900  1
+  O  O36  1  0.49409100  0.49409100  0.76182500  1
+  O  O37  1  0.63427200  0.16560400  0.57516900  1
+  O  O38  1  0.84488400  0.84488400  0.91229300  1
+  O  O39  1  0.83787900  0.29074300  0.91476300  1
+  O  O40  1  0.99042600  0.99042600  0.76243300  1
+  O  O41  1  0.29074300  0.83787900  0.91476300  1
+"
+"True","mp-1332857","Mn2ZnO4","Monoclinic","Cm","8","56","0.08503859446428401","-1.8972866056588682","False","634.3792754487694","5.010734367702087","0.0","False","True","FM","63.9999117","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08388035
+_cell_length_b   6.08388035
+_cell_length_c   20.13315765
+_cell_angle_alpha   81.59376542
+_cell_angle_beta   81.59376542
+_cell_angle_gamma   59.72851362
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn16 Zn8 O32'
+_cell_volume   634.37927545
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.37512100  0.87470100  0.87481100  1
+  Mn  Mn1  1  0.24898700  0.24898700  0.74984400  1
+  Mn  Mn2  1  0.87470100  0.37512100  0.87481100  1
+  Mn  Mn3  1  0.35016100  0.35016100  0.46621800  1
+  Mn  Mn4  1  0.12579200  0.62620300  0.62509800  1
+  Mn  Mn5  1  0.90136600  0.90136600  0.78047300  1
+  Mn  Mn6  1  0.09944000  0.09944000  0.21871400  1
+  Mn  Mn7  1  0.62620300  0.12579200  0.62509800  1
+  Mn  Mn8  1  0.87488300  0.37505800  0.37523900  1
+  Mn  Mn9  1  0.65025800  0.65025800  0.53231900  1
+  Mn  Mn10  1  0.37505800  0.87488300  0.37523900  1
+  Mn  Mn11  1  0.12352500  0.62447300  0.12488200  1
+  Mn  Mn12  1  0.62447300  0.12352500  0.12488200  1
+  Mn  Mn13  1  0.39990100  0.39990100  0.28349900  1
+  Mn  Mn14  1  0.50109300  0.50109300  0.99958400  1
+  Mn  Mn15  1  0.15094600  0.15094600  0.03121800  1
+  Zn  Zn16  1  0.84969300  0.84969300  0.97012900  1
+  Zn  Zn17  1  0.37537800  0.37537800  0.87490800  1
+  Zn  Zn18  1  0.60110500  0.60110500  0.71821700  1
+  Zn  Zn19  1  0.12568600  0.12568600  0.62335500  1
+  Zn  Zn20  1  0.87483600  0.87483600  0.37517400  1
+  Zn  Zn21  1  0.99919000  0.99919000  0.50002400  1
+  Zn  Zn22  1  0.62464500  0.62464500  0.12672100  1
+  Zn  Zn23  1  0.75068000  0.75068000  0.25028200  1
+  O  O24  1  0.68307000  0.22568100  0.93658200  1
+  O  O25  1  0.56896700  0.56896700  0.82143400  1
+  O  O26  1  0.22568100  0.68307000  0.93658200  1
+  O  O27  1  0.68149300  0.68149300  0.93703600  1
+  O  O28  1  0.07062100  0.07062100  0.81307100  1
+  O  O29  1  0.43377800  0.97764200  0.68653000  1
+  O  O30  1  0.52072000  0.06749600  0.81317300  1
+  O  O31  1  0.31925700  0.31925700  0.57104400  1
+  O  O32  1  0.97764200  0.43377800  0.68653000  1
+  O  O33  1  0.18062600  0.18062600  0.92701500  1
+  O  O34  1  0.42881900  0.42881900  0.68501500  1
+  O  O35  1  0.06749600  0.52072000  0.81317300  1
+  O  O36  1  0.19048800  0.72195500  0.43169000  1
+  O  O37  1  0.81577100  0.81577100  0.57096300  1
+  O  O38  1  0.28056200  0.80721700  0.56935200  1
+  O  O39  1  0.07040400  0.07040400  0.32098200  1
+  O  O40  1  0.72195500  0.19048800  0.43169000  1
+  O  O41  1  0.93004100  0.93004100  0.67832200  1
+  O  O42  1  0.17994600  0.17994600  0.42990500  1
+  O  O43  1  0.80721700  0.28056200  0.56935200  1
+  O  O44  1  0.56985500  0.56985500  0.32042900  1
+  O  O45  1  0.94278600  0.46833900  0.18071400  1
+  O  O46  1  0.02826800  0.55910700  0.31865000  1
+  O  O47  1  0.81954800  0.81954800  0.07121200  1
+  O  O48  1  0.46833900  0.94278600  0.18071400  1
+  O  O49  1  0.67942600  0.67942600  0.42973300  1
+  O  O50  1  0.93434000  0.93434000  0.17973400  1
+  O  O51  1  0.55910700  0.02826800  0.31865000  1
+  O  O52  1  0.32407100  0.32407100  0.06468500  1
+  O  O53  1  0.76869100  0.31752600  0.06330100  1
+  O  O54  1  0.43030700  0.43030700  0.17869900  1
+  O  O55  1  0.31752600  0.76869100  0.06330100  1
+"
+"True","mp-1341462","Mn2ZnO4","Orthorhombic","Pnma","62","28","0.187654568571428","-1.794670631551724","False","287.56392883514553","5.526955433049783","0.0","False","True","FM","31.998458499999998","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.00815100
+_cell_length_b   9.10823200
+_cell_length_c   10.49544100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn8 Zn4 O16'
+_cell_volume   287.56392884
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75000000  0.91645100  0.10515400  1
+  Mn  Mn1  1  0.25000000  0.58354900  0.60515400  1
+  Mn  Mn2  1  0.75000000  0.41645100  0.39484600  1
+  Mn  Mn3  1  0.25000000  0.08354900  0.89484600  1
+  Mn  Mn4  1  0.25000000  0.06545500  0.38296200  1
+  Mn  Mn5  1  0.75000000  0.93454500  0.61703800  1
+  Mn  Mn6  1  0.25000000  0.56545500  0.11703800  1
+  Mn  Mn7  1  0.75000000  0.43454500  0.88296200  1
+  Zn  Zn8  1  0.25000000  0.74899000  0.34916600  1
+  Zn  Zn9  1  0.75000000  0.25101000  0.65083400  1
+  Zn  Zn10  1  0.25000000  0.24899000  0.15083400  1
+  Zn  Zn11  1  0.75000000  0.75101000  0.84916600  1
+  O  O12  1  0.75000000  0.40192600  0.07135900  1
+  O  O13  1  0.25000000  0.59807400  0.92864100  1
+  O  O14  1  0.75000000  0.90192600  0.42864100  1
+  O  O15  1  0.25000000  0.09807400  0.57135900  1
+  O  O16  1  0.75000000  0.52223500  0.71534900  1
+  O  O17  1  0.25000000  0.47776500  0.28465100  1
+  O  O18  1  0.75000000  0.02223500  0.78465100  1
+  O  O19  1  0.25000000  0.97776500  0.21534900  1
+  O  O20  1  0.75000000  0.11781000  0.03225300  1
+  O  O21  1  0.25000000  0.88219000  0.96774700  1
+  O  O22  1  0.75000000  0.61781000  0.46774700  1
+  O  O23  1  0.25000000  0.38219000  0.53225300  1
+  O  O24  1  0.25000000  0.28156600  0.81938900  1
+  O  O25  1  0.75000000  0.71843400  0.18061100  1
+  O  O26  1  0.75000000  0.21843400  0.31938900  1
+  O  O27  1  0.25000000  0.78156600  0.68061100  1
+"
+"True","mp-1367059","Mn2ZnO4","Orthorhombic","Pmmn","59","28","0.18547983928571202","-1.796845360837439","False","324.84229394576556","4.8926911564351325","0.06180000000000001","True","False","FM","31.9986387","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17625000
+_cell_length_b   6.08793700
+_cell_length_c   10.30830300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn8 Zn4 O16'
+_cell_volume   324.84229395
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.98694000  0.50000000  0.26417000  1
+  Mn  Mn1  1  0.98694000  0.50000000  0.73583000  1
+  Mn  Mn2  1  0.01306000  0.00000000  0.23583000  1
+  Mn  Mn3  1  0.01306000  0.00000000  0.76417000  1
+  Mn  Mn4  1  0.50000000  0.25000000  0.25000000  1
+  Mn  Mn5  1  0.50000000  0.75000000  0.75000000  1
+  Mn  Mn6  1  0.50000000  0.75000000  0.25000000  1
+  Mn  Mn7  1  0.50000000  0.25000000  0.75000000  1
+  Zn  Zn8  1  0.66427000  0.00000000  0.00000000  1
+  Zn  Zn9  1  0.33573000  0.50000000  0.50000000  1
+  Zn  Zn10  1  0.99423600  0.00000000  0.50000000  1
+  Zn  Zn11  1  0.00576400  0.50000000  0.00000000  1
+  O  O12  1  0.64237400  0.50000000  0.34819600  1
+  O  O13  1  0.64237400  0.50000000  0.65180400  1
+  O  O14  1  0.35762600  0.00000000  0.15180400  1
+  O  O15  1  0.35762600  0.00000000  0.84819600  1
+  O  O16  1  0.26484300  0.50000000  0.14779200  1
+  O  O17  1  0.26484300  0.50000000  0.85220800  1
+  O  O18  1  0.73515700  0.00000000  0.35220800  1
+  O  O19  1  0.73515700  0.00000000  0.64779200  1
+  O  O20  1  0.81196100  0.24852900  0.13719400  1
+  O  O21  1  0.81196100  0.75147100  0.86280600  1
+  O  O22  1  0.18803900  0.74852900  0.36280600  1
+  O  O23  1  0.18803900  0.25147100  0.63719400  1
+  O  O24  1  0.18803900  0.25147100  0.36280600  1
+  O  O25  1  0.18803900  0.74852900  0.63719400  1
+  O  O26  1  0.81196100  0.75147100  0.13719400  1
+  O  O27  1  0.81196100  0.24852900  0.86280600  1
+"
+"True","mp-1378586","Mn2ZnO4","Monoclinic","P2_1","4","28","0.17014206821428401","-1.812183131908868","False","328.0726468088628","4.844515488517747","0.4998","True","False","FM","31.9984921","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12293800
+_cell_length_b   5.17293300
+_cell_length_c   10.36088846
+_cell_angle_alpha   88.63260377
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn8 Zn4 O16'
+_cell_volume   328.07264681
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75288200  0.50569100  0.98014200  1
+  Mn  Mn1  1  0.74714500  0.50688000  0.51467500  1
+  Mn  Mn2  1  0.25288200  0.49430900  0.01985800  1
+  Mn  Mn3  1  0.24714500  0.49312000  0.48532500  1
+  Mn  Mn4  1  0.49657800  0.00357700  0.01124600  1
+  Mn  Mn5  1  0.00260200  0.00367700  0.48746300  1
+  Mn  Mn6  1  0.99657800  0.99642300  0.98875400  1
+  Mn  Mn7  1  0.50260200  0.99632300  0.51253700  1
+  Zn  Zn8  1  0.25543100  0.86849700  0.25296600  1
+  Zn  Zn9  1  0.75543100  0.13150300  0.74703400  1
+  Zn  Zn10  1  0.24880700  0.50637700  0.75385300  1
+  Zn  Zn11  1  0.74880700  0.49362300  0.24614700  1
+  O  O12  1  0.73471300  0.86061700  0.90150200  1
+  O  O13  1  0.76603000  0.85361100  0.59685100  1
+  O  O14  1  0.23471300  0.13938300  0.09849800  1
+  O  O15  1  0.26603000  0.14638900  0.40314900  1
+  O  O16  1  0.75599900  0.22793800  0.10148400  1
+  O  O17  1  0.74341900  0.23586800  0.39428900  1
+  O  O18  1  0.25599900  0.77206200  0.89851600  1
+  O  O19  1  0.24341900  0.76413200  0.60571100  1
+  O  O20  1  0.48958100  0.70603800  0.13564900  1
+  O  O21  1  0.01326700  0.71244100  0.36617700  1
+  O  O22  1  0.98958100  0.29396200  0.86435100  1
+  O  O23  1  0.51326700  0.28755900  0.63382300  1
+  O  O24  1  0.48730200  0.33727400  0.90901600  1
+  O  O25  1  0.00560000  0.32803600  0.59041000  1
+  O  O26  1  0.98730200  0.66272600  0.09098400  1
+  O  O27  1  0.50560000  0.67196400  0.40959000  1
+"
+"True","mp-1388705","Mn2ZnO4","Cubic","Fd-3m","227","14","0.07796695142857","-1.904358248694582","False","158.80219870704428","5.004190848001296","0.0","False","True","FM","15.9999973","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07841717
+_cell_length_b   6.07841717
+_cell_length_c   6.07841717
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn4 Zn2 O8'
+_cell_volume   158.80219871
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.12500000  0.12500000  0.12500000  1
+  Mn  Mn1  1  0.62500000  0.12500000  0.12500000  1
+  Mn  Mn2  1  0.12500000  0.12500000  0.62500000  1
+  Mn  Mn3  1  0.12500000  0.62500000  0.12500000  1
+  Zn  Zn4  1  0.75000000  0.75000000  0.75000000  1
+  Zn  Zn5  1  0.50000000  0.50000000  0.50000000  1
+  O  O6  1  0.88587600  0.34237200  0.88587600  1
+  O  O7  1  0.36412400  0.36412400  0.90762800  1
+  O  O8  1  0.36412400  0.36412400  0.36412400  1
+  O  O9  1  0.90762800  0.36412400  0.36412400  1
+  O  O10  1  0.88587600  0.88587600  0.88587600  1
+  O  O11  1  0.34237200  0.88587600  0.88587600  1
+  O  O12  1  0.36412400  0.90762800  0.36412400  1
+  O  O13  1  0.88587600  0.88587600  0.34237200  1
+"
+"True","mp-1403324","Mn2ZnO4","Monoclinic","C2/m","12","14","0.21217327071428502","-1.770151929408867","False","166.32506194038325","4.7778518771699865","1.3874","False","False","FM","15.9998297","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.67003563
+_cell_length_b   7.67003563
+_cell_length_c   9.32524925
+_cell_angle_alpha   52.97461933
+_cell_angle_beta   52.97461933
+_cell_angle_gamma   22.59003748
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn4 Zn2 O8'
+_cell_volume   166.32506194
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.37534300  0.37534300  0.94383600  1
+  Mn  Mn1  1  0.85472500  0.85472500  0.31710300  1
+  Mn  Mn2  1  0.14527500  0.14527500  0.68289700  1
+  Mn  Mn3  1  0.62465700  0.62465700  0.05616400  1
+  Zn  Zn4  1  0.67837400  0.67837400  0.30469900  1
+  Zn  Zn5  1  0.32162600  0.32162600  0.69530100  1
+  O  O6  1  0.13926800  0.13926800  0.90116700  1
+  O  O7  1  0.54829700  0.54829700  0.74687100  1
+  O  O8  1  0.45170300  0.45170300  0.25312900  1
+  O  O9  1  0.86073200  0.86073200  0.09883300  1
+  O  O10  1  0.83982400  0.83982400  0.82907000  1
+  O  O11  1  0.21511800  0.21511800  0.41918000  1
+  O  O12  1  0.16017600  0.16017600  0.17093000  1
+  O  O13  1  0.78488200  0.78488200  0.58082000  1
+"
+"True","mp-18751","Mn2ZnO4","Tetragonal","I4_1/amd","141","14","0.0","-1.9823252001231522","True","151.3335365601834","5.25115930992759","0.728699999999999","False","False","FM","16.0000003","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71624738
+_cell_length_b   5.71623521
+_cell_length_c   6.14961926
+_cell_angle_alpha   117.73127832
+_cell_angle_beta   117.73157321
+_cell_angle_gamma   89.96639720
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn4 Zn2 O8'
+_cell_volume   151.33353656
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000049  -0.00000561  0.99999863  1
+  Mn  Mn1  1  0.49999518  -0.00000112  0.49999437  1
+  Mn  Mn2  1  0.99999716  -0.00000293  0.49999613  1
+  Mn  Mn3  1  0.99999500  0.49999000  0.99999015  1
+  Zn  Zn4  1  0.62523451  0.37476345  0.25000067  1
+  Zn  Zn5  1  0.37476724  0.62522978  0.74999983  1
+  O  O6  1  0.75498282  0.77856726  0.50974081  1
+  O  O7  1  0.76885441  0.24523013  0.99023797  1
+  O  O8  1  0.22143433  0.24501029  0.99025714  1
+  O  O9  1  0.24501331  0.22143413  0.49025368  1
+  O  O10  1  0.24522210  0.76885701  0.49024047  1
+  O  O11  1  0.23115069  0.75477700  0.00976641  1
+  O  O12  1  0.75478458  0.23115607  0.50977398  1
+  O  O13  1  0.77856818  0.75499354  0.00974876  1
+"
+"True","mp-2234965","Mn2ZnO4","Monoclinic","C2/m","12","14","0.036869720714284","-1.9454554794088672","False","155.5624586171881","5.108408008437522","0.19770000000000001","False","False","FM","16.0149236","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84588742
+_cell_length_b   5.85192054
+_cell_length_c   6.13048522
+_cell_angle_alpha   118.45213065
+_cell_angle_beta   118.03155188
+_cell_angle_gamma   90.24807377
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn4 Zn2 O8'
+_cell_volume   155.56245862
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.99994500  0.00002900  0.99997400  1
+  Mn  Mn1  1  0.49997700  0.00006100  0.49999100  1
+  Mn  Mn2  1  0.99998600  0.99988500  0.50000400  1
+  Mn  Mn3  1  0.00002500  0.50008700  0.00004400  1
+  Zn  Zn4  1  0.62109200  0.37143200  0.24575100  1
+  Zn  Zn5  1  0.37891700  0.62860900  0.75422700  1
+  O  O6  1  0.75135500  0.77667700  0.50618800  1
+  O  O7  1  0.77675400  0.24615500  0.99442200  1
+  O  O8  1  0.20992100  0.22808000  0.95595000  1
+  O  O9  1  0.24872100  0.22330600  0.49386600  1
+  O  O10  1  0.24918900  0.76793700  0.49108500  1
+  O  O11  1  0.22324100  0.75380000  0.00551500  1
+  O  O12  1  0.75078400  0.23207600  0.50895400  1
+  O  O13  1  0.79009400  0.77186600  0.04403000  1
+"
+"True","mp-2236380","Mn2ZnO4","Triclinic","P-1","2","14","0.176822259999999","-1.805502940123153","False","174.57091544470765","4.552170144653761","0.32879999999999904","False","False","FM","16.0006506","# generated using pymatgen
+data_Mn2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.88589608
+_cell_length_b   8.11560638
+_cell_length_c   7.98029764
+_cell_angle_alpha   73.46919938
+_cell_angle_beta   79.77285013
+_cell_angle_gamma   79.42348587
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO4
+_chemical_formula_sum   'Mn4 Zn2 O8'
+_cell_volume   174.57091544
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.61084500  0.17501400  0.60913400  1
+  Mn  Mn1  1  0.14471200  0.50874100  0.19905700  1
+  Mn  Mn2  1  0.85164500  0.46833600  0.83305600  1
+  Mn  Mn3  1  0.38392400  0.80205800  0.42311300  1
+  Zn  Zn4  1  0.29179600  0.16086300  0.23666800  1
+  Zn  Zn5  1  0.70318500  0.81624100  0.79558400  1
+  O  O6  1  0.85848600  0.70086900  0.58227000  1
+  O  O7  1  0.44708400  0.33405400  0.77972700  1
+  O  O8  1  0.54902000  0.64284200  0.25268000  1
+  O  O9  1  0.13640400  0.27620300  0.44996000  1
+  O  O10  1  0.14216200  0.00633000  0.72711000  1
+  O  O11  1  0.75886300  0.35322800  0.12843100  1
+  O  O12  1  0.85242700  0.97075100  0.30518900  1
+  O  O13  1  0.23772100  0.62380500  0.90363900  1
+"
+"True","mp-1043246","Mn2ZnO5","Orthorhombic","Cmcm","63","16","0.288819386510417","-1.534771013232759","False","207.69502499764124","4.082003249265228","0.0","False","True","FM","11.9989569","# generated using pymatgen
+data_Mn2ZnO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18505994
+_cell_length_b   5.18505994
+_cell_length_c   11.64500300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   138.43990090
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO5
+_chemical_formula_sum   'Mn4 Zn2 O10'
+_cell_volume   207.69502500
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.78090700  0.21909300  0.59837900  1
+  Mn  Mn1  1  0.21909300  0.78090700  0.40162100  1
+  Mn  Mn2  1  0.21909300  0.78090700  0.09837900  1
+  Mn  Mn3  1  0.78090700  0.21909300  0.90162100  1
+  Zn  Zn4  1  0.08199500  0.91800500  0.75000000  1
+  Zn  Zn5  1  0.91800500  0.08199500  0.25000000  1
+  O  O6  1  0.30231400  0.69768600  0.25000000  1
+  O  O7  1  0.69768600  0.30231400  0.75000000  1
+  O  O8  1  0.76487600  0.23512400  0.07492400  1
+  O  O9  1  0.23512400  0.76487600  0.92507600  1
+  O  O10  1  0.23512400  0.76487600  0.57492400  1
+  O  O11  1  0.76487600  0.23512400  0.42507600  1
+  O  O12  1  0.95875400  0.04124600  0.61832000  1
+  O  O13  1  0.04124600  0.95875400  0.38168000  1
+  O  O14  1  0.95875400  0.04124600  0.88168000  1
+  O  O15  1  0.04124600  0.95875400  0.11832000  1
+"
+"True","mp-1397062","Mn2ZnO5","Orthorhombic","Pmmn","59","16","0.32136409526041704","-1.502226304482759","False","182.63263064300503","4.642170262300091","0.12440000000000001","False","False","FM","11.9996008","# generated using pymatgen
+data_Mn2ZnO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54663100
+_cell_length_b   4.41014100
+_cell_length_c   11.67642500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2ZnO5
+_chemical_formula_sum   'Mn4 Zn2 O10'
+_cell_volume   182.63263064
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.05335100  0.84832500  1
+  Mn  Mn1  1  0.50000000  0.94664900  0.65167500  1
+  Mn  Mn2  1  0.50000000  0.94664900  0.34832500  1
+  Mn  Mn3  1  0.00000000  0.05335100  0.15167500  1
+  Zn  Zn4  1  0.50000000  0.56820400  0.00000000  1
+  Zn  Zn5  1  0.00000000  0.43179600  0.50000000  1
+  O  O6  1  0.50000000  0.07712000  0.50000000  1
+  O  O7  1  0.00000000  0.92288000  0.00000000  1
+  O  O8  1  0.50000000  0.95122200  0.82228500  1
+  O  O9  1  0.00000000  0.04877800  0.67771500  1
+  O  O10  1  0.50000000  0.95122200  0.17771500  1
+  O  O11  1  0.00000000  0.04877800  0.32228500  1
+  O  O12  1  0.00000000  0.44659600  0.11480700  1
+  O  O13  1  0.50000000  0.55340400  0.38519300  1
+  O  O14  1  0.50000000  0.55340400  0.61480700  1
+  O  O15  1  0.00000000  0.44659600  0.88519300  1
+"
+"True","mp-1042798","Mn3Zn2O8","Hexagonal","P6_3mc","186","26","0.004767596923076","-1.8190679895225481","False","264.1065176346131","5.327015370520741","0.8693000000000001","False","False","FM","17.9999996","# generated using pymatgen
+data_Mn3Zn2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74431273
+_cell_length_b   5.74431260
+_cell_length_c   9.24212111
+_cell_angle_alpha   90.00001650
+_cell_angle_beta   89.99998175
+_cell_angle_gamma   119.99984230
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3Zn2O8
+_chemical_formula_sum   'Mn6 Zn4 O16'
+_cell_volume   264.10651763
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.67282794  0.83641369  0.24522816  1
+  Mn  Mn1  1  0.83641527  0.16358596  0.74523023  1
+  Mn  Mn2  1  0.16358514  0.32717220  0.24522803  1
+  Mn  Mn3  1  0.83641441  0.67282968  0.74523041  1
+  Mn  Mn4  1  0.32717005  0.16358416  0.74523039  1
+  Mn  Mn5  1  0.16358681  0.83641428  0.24522786  1
+  Zn  Zn6  1  0.66666782  0.33333216  0.03291818  1
+  Zn  Zn7  1  0.33333217  0.66666782  0.53291697  1
+  Zn  Zn8  1  0.66666520  0.33333501  0.42017478  1
+  Zn  Zn9  1  0.33333461  0.66666514  0.92018292  1
+  O  O10  1  0.84225068  0.15774774  0.14257786  1
+  O  O11  1  0.68450005  0.84225031  0.64258015  1
+  O  O12  1  0.15775121  0.31549989  0.64258010  1
+  O  O13  1  0.84225232  0.68450370  0.14257794  1
+  O  O14  1  0.31549630  0.15774941  0.14257804  1
+  O  O15  1  0.15774946  0.84224871  0.64258008  1
+  O  O16  1  0.51811751  0.48188288  0.86285612  1
+  O  O17  1  0.03623787  0.51811879  0.36284823  1
+  O  O18  1  0.48188088  0.96376240  0.36284815  1
+  O  O19  1  0.51811714  0.03623464  0.86285564  1
+  O  O20  1  -0.00000045  0.00000031  0.35098469  1
+  O  O21  1  0.00000020  -0.00000036  0.85098977  1
+  O  O22  1  0.33333337  0.66666656  0.13743630  1
+  O  O23  1  0.96376522  0.48188227  0.86285563  1
+  O  O24  1  0.48188122  0.51811931  0.36284861  1
+  O  O25  1  0.66666659  0.33333333  0.63743476  1
+"
+"True","mp-1403705","Mn3Zn2O8","Monoclinic","C2/m","12","13","0.0","-1.823835586445624","True","132.46367924277024","5.310510348711602","1.229899999999999","False","False","FM","9.0000001","# generated using pymatgen
+data_Mn3Zn2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62982903
+_cell_length_b   5.62982903
+_cell_length_c   4.90527648
+_cell_angle_alpha   79.76843278
+_cell_angle_beta   79.76843278
+_cell_angle_gamma   60.53039784
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3Zn2O8
+_chemical_formula_sum   'Mn3 Zn2 O8'
+_cell_volume   132.46367924
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  -0.00000000  -0.00000000  1
+  Mn  Mn1  1  0.74459255  0.25540745  0.50000000  1
+  Mn  Mn2  1  0.25540745  0.74459255  0.50000000  1
+  Zn  Zn3  1  0.29160132  0.29160132  0.10064771  1
+  Zn  Zn4  1  0.70839868  0.70839868  0.89935229  1
+  O  O5  1  0.60616198  0.60616198  0.59788450  1
+  O  O6  1  0.39383802  0.39383802  0.40211550  1
+  O  O7  1  0.10106399  0.10106399  0.62996812  1
+  O  O8  1  0.89893601  0.89893601  0.37003188  1
+  O  O9  1  0.11275594  0.65826362  0.86629890  1
+  O  O10  1  0.65826362  0.11275594  0.86629890  1
+  O  O11  1  0.34173638  0.88724406  0.13370110  1
+  O  O12  1  0.88724406  0.34173638  0.13370110  1
+"
+"True","mp-1180467","Mn3ZnO10","Triclinic","P-1","2","28","0.30529405294642703","-1.12729930205665","False","391.3307688469778","3.311627138512087","0.9335","False","False","FiM","8.0","# generated using pymatgen
+data_Mn3ZnO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.73996800
+_cell_length_b   7.74133506
+_cell_length_c   8.50748825
+_cell_angle_alpha   66.77336511
+_cell_angle_beta   65.63298660
+_cell_angle_gamma   60.23567054
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3ZnO10
+_chemical_formula_sum   'Mn6 Zn2 O20'
+_cell_volume   391.33076885
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.28531900  0.14238500  0.99867000  1
+  Mn  Mn1  1  0.71468100  0.85761500  0.00133000  1
+  Mn  Mn2  1  0.57369800  0.28662700  0.99605500  1
+  Mn  Mn3  1  0.42630200  0.71337300  0.00394500  1
+  Mn  Mn4  1  0.85799400  0.42953000  0.99650700  1
+  Mn  Mn5  1  0.14200600  0.57047000  0.00349300  1
+  Zn  Zn6  1  0.93945600  0.93860000  0.20499000  1
+  Zn  Zn7  1  0.06054400  0.06140000  0.79501000  1
+  O  O8  1  0.43224000  0.86982300  0.13056100  1
+  O  O9  1  0.56776000  0.13017700  0.86943900  1
+  O  O10  1  0.00716200  0.17086800  0.13632800  1
+  O  O11  1  0.99283800  0.82913200  0.86367200  1
+  O  O12  1  0.69711500  0.01741000  0.13742300  1
+  O  O13  1  0.30288500  0.98259000  0.86257700  1
+  O  O14  1  0.29544600  0.29583900  0.12608700  1
+  O  O15  1  0.70455400  0.70416100  0.87391300  1
+  O  O16  1  0.58336900  0.43723600  0.12692800  1
+  O  O17  1  0.41663100  0.56276400  0.87307200  1
+  O  O18  1  0.86227000  0.58483200  0.12981500  1
+  O  O19  1  0.13773000  0.41516800  0.87018500  1
+  O  O20  1  0.16544400  0.69136400  0.15003100  1
+  O  O21  1  0.83455600  0.30863600  0.84996900  1
+  O  O22  1  0.71204700  0.73665700  0.49387200  1
+  O  O23  1  0.28795300  0.26334300  0.50612800  1
+  O  O24  1  0.99194400  0.92539200  0.49905200  1
+  O  O25  1  0.00805600  0.07460800  0.50094800  1
+  O  O26  1  0.52689100  0.85098300  0.51561000  1
+  O  O27  1  0.47310900  0.14901700  0.48439000  1
+"
+"True","mp-1193234","Mn3ZnO10","Trigonal","R-3","148","28","0.31062281830357","-1.121970536699508","False","411.05289775795126","3.15273679206993","0.0","False","True","FM","24.0000001","# generated using pymatgen
+data_Mn3ZnO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.06504109
+_cell_length_b   9.06504109
+_cell_length_c   9.06504065
+_cell_angle_alpha   50.69033465
+_cell_angle_beta   50.69033465
+_cell_angle_gamma   50.69033341
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3ZnO10
+_chemical_formula_sum   'Mn6 Zn2 O20'
+_cell_volume   411.05289776
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.57037700  0.28206800  0.14807900  1
+  Mn  Mn1  1  0.42962300  0.71793200  0.85192100  1
+  Mn  Mn2  1  0.14807900  0.57037700  0.28206800  1
+  Mn  Mn3  1  0.85192100  0.42962300  0.71793200  1
+  Mn  Mn4  1  0.71793200  0.85192100  0.42962300  1
+  Mn  Mn5  1  0.28206800  0.14807900  0.57037700  1
+  Zn  Zn6  1  0.93645100  0.93645100  0.93645100  1
+  Zn  Zn7  1  0.06354900  0.06354900  0.06354900  1
+  O  O8  1  0.57666100  0.43080200  0.86948300  1
+  O  O9  1  0.42333900  0.56919800  0.13051700  1
+  O  O10  1  0.68917800  0.00594900  0.17016400  1
+  O  O11  1  0.31082200  0.99405100  0.82983600  1
+  O  O12  1  0.17016400  0.68917800  0.00594900  1
+  O  O13  1  0.82983600  0.31082200  0.99405100  1
+  O  O14  1  0.29323300  0.29323300  0.29323300  1
+  O  O15  1  0.70676700  0.70676700  0.70676700  1
+  O  O16  1  0.86948300  0.57666100  0.43080200  1
+  O  O17  1  0.13051700  0.42333900  0.56919800  1
+  O  O18  1  0.43080200  0.86948300  0.57666100  1
+  O  O19  1  0.56919800  0.13051700  0.42333900  1
+  O  O20  1  0.00594900  0.17016400  0.68917800  1
+  O  O21  1  0.99405100  0.82983600  0.31082200  1
+  O  O22  1  0.01091800  0.91260100  0.57901800  1
+  O  O23  1  0.98908200  0.08739900  0.42098200  1
+  O  O24  1  0.57901800  0.01091800  0.91260100  1
+  O  O25  1  0.42098200  0.98908200  0.08739900  1
+  O  O26  1  0.08739900  0.42098200  0.98908200  1
+  O  O27  1  0.91260100  0.57901800  0.01091800  1
+"
+"True","mp-1193625","Mn3ZnO10","Trigonal","R-3","148","28","0.428673600089284","-1.003919754913794","False","339.9589069120048","3.81205365677886","0.0","False","True","FM","30.0000011","# generated using pymatgen
+data_Mn3ZnO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.02976994
+_cell_length_b   8.02976994
+_cell_length_c   8.02976970
+_cell_angle_alpha   56.90518764
+_cell_angle_beta   56.90518764
+_cell_angle_gamma   56.90518624
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3ZnO10
+_chemical_formula_sum   'Mn6 Zn2 O20'
+_cell_volume   339.95890691
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.85865200  0.42402900  0.71695300  1
+  Mn  Mn1  1  0.42402900  0.71695300  0.85865200  1
+  Mn  Mn2  1  0.71695300  0.85865200  0.42402900  1
+  Mn  Mn3  1  0.14134800  0.57597100  0.28304700  1
+  Mn  Mn4  1  0.57597100  0.28304700  0.14134800  1
+  Mn  Mn5  1  0.28304700  0.14134800  0.57597100  1
+  Zn  Zn6  1  0.10619200  0.10619200  0.10619200  1
+  Zn  Zn7  1  0.89380800  0.89380800  0.89380800  1
+  O  O8  1  0.14389900  0.42684900  0.57494800  1
+  O  O9  1  0.42684900  0.57494800  0.14389900  1
+  O  O10  1  0.57494800  0.14389900  0.42684900  1
+  O  O11  1  0.85610100  0.57315100  0.42505200  1
+  O  O12  1  0.57315100  0.42505200  0.85610100  1
+  O  O13  1  0.42505200  0.85610100  0.57315100  1
+  O  O14  1  0.00070300  0.84942600  0.30655000  1
+  O  O15  1  0.84942600  0.30655000  0.00070300  1
+  O  O16  1  0.30655000  0.00070300  0.84942600  1
+  O  O17  1  0.99929700  0.15057400  0.69345000  1
+  O  O18  1  0.15057400  0.69345000  0.99929700  1
+  O  O19  1  0.69345000  0.99929700  0.15057400  1
+  O  O20  1  0.71401500  0.71401500  0.71401500  1
+  O  O21  1  0.28598500  0.28598500  0.28598500  1
+  O  O22  1  0.92641400  0.22802300  0.33908500  1
+  O  O23  1  0.22802300  0.33908500  0.92641400  1
+  O  O24  1  0.33908500  0.92641400  0.22802300  1
+  O  O25  1  0.07358600  0.77197700  0.66091500  1
+  O  O26  1  0.77197700  0.66091500  0.07358600  1
+  O  O27  1  0.66091500  0.07358600  0.77197700  1
+"
+"True","mp-1044337","Mn3ZnO7","Orthorhombic","Pnma","62","44","0.320429489659092","-1.502871143981191","False","542.0476313897931","4.193490593737859","0.0","False","True","FM","35.9992164","# generated using pymatgen
+data_Mn3ZnO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55235900
+_cell_length_b   9.34438700
+_cell_length_c   10.44742100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3ZnO7
+_chemical_formula_sum   'Mn12 Zn4 O28'
+_cell_volume   542.04763139
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.72733200  0.70634300  0.97721900  1
+  Mn  Mn1  1  0.22733200  0.79365700  0.02278100  1
+  Mn  Mn2  1  0.27266800  0.29365700  0.47721900  1
+  Mn  Mn3  1  0.77266800  0.20634300  0.52278100  1
+  Mn  Mn4  1  0.72748400  0.76015300  0.25000000  1
+  Mn  Mn5  1  0.22748400  0.73984700  0.75000000  1
+  Mn  Mn6  1  0.27251600  0.23984700  0.75000000  1
+  Mn  Mn7  1  0.77251600  0.26015300  0.25000000  1
+  Mn  Mn8  1  0.22733200  0.79365700  0.47721900  1
+  Mn  Mn9  1  0.72733200  0.70634300  0.52278100  1
+  Mn  Mn10  1  0.77266800  0.20634300  0.97721900  1
+  Mn  Mn11  1  0.27266800  0.29365700  0.02278100  1
+  Zn  Zn12  1  0.38246700  0.00968900  0.25000000  1
+  Zn  Zn13  1  0.88246700  0.49031100  0.75000000  1
+  Zn  Zn14  1  0.61753300  0.99031100  0.75000000  1
+  Zn  Zn15  1  0.11753300  0.50968900  0.25000000  1
+  O  O16  1  0.04019400  0.28952700  0.88103100  1
+  O  O17  1  0.54019400  0.21047300  0.11896900  1
+  O  O18  1  0.95980600  0.71047300  0.38103100  1
+  O  O19  1  0.45980600  0.78952700  0.61896900  1
+  O  O20  1  0.95980600  0.71047300  0.11896900  1
+  O  O21  1  0.45980600  0.78952700  0.88103100  1
+  O  O22  1  0.04019400  0.28952700  0.61896900  1
+  O  O23  1  0.54019400  0.21047300  0.38103100  1
+  O  O24  1  0.50101200  0.27708800  0.88425700  1
+  O  O25  1  0.00101200  0.22291200  0.11574300  1
+  O  O26  1  0.49898800  0.72291200  0.38425700  1
+  O  O27  1  0.99898800  0.77708800  0.61574300  1
+  O  O28  1  0.49898800  0.72291200  0.11574300  1
+  O  O29  1  0.99898800  0.77708800  0.88425700  1
+  O  O30  1  0.50101200  0.27708800  0.61574300  1
+  O  O31  1  0.00101200  0.22291200  0.38425700  1
+  O  O32  1  0.78088300  0.44716400  0.25000000  1
+  O  O33  1  0.28088300  0.05283600  0.75000000  1
+  O  O34  1  0.21911700  0.55283600  0.75000000  1
+  O  O35  1  0.71911700  0.94716400  0.25000000  1
+  O  O36  1  0.77239600  0.03341800  0.58790200  1
+  O  O37  1  0.27239600  0.46658200  0.41209800  1
+  O  O38  1  0.22760400  0.96658200  0.08790200  1
+  O  O39  1  0.72760400  0.53341800  0.91209800  1
+  O  O40  1  0.22760400  0.96658200  0.41209800  1
+  O  O41  1  0.72760400  0.53341800  0.58790200  1
+  O  O42  1  0.77239600  0.03341800  0.91209800  1
+  O  O43  1  0.27239600  0.46658200  0.08790200  1
+"
+"True","mp-1192094","Mn3ZnO7","Trigonal","R-3","148","22","0.0070063142045480005","-1.816294319435735","False","233.85939478797818","4.85991089999142","0.0","False","True","FM","18.0000001","# generated using pymatgen
+data_Mn3ZnO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44483285
+_cell_length_b   6.44483217
+_cell_length_c   6.44483186
+_cell_angle_alpha   71.56305609
+_cell_angle_beta   71.56305759
+_cell_angle_gamma   71.56306041
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3ZnO7
+_chemical_formula_sum   'Mn6 Zn2 O14'
+_cell_volume   233.85939479
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.57966700  0.14018983  0.28525853  1
+  Mn  Mn1  1  0.28525853  0.57966700  0.14018983  1
+  Mn  Mn2  1  0.14018983  0.28525853  0.57966700  1
+  Mn  Mn3  1  0.42033300  0.85981017  0.71474147  1
+  Mn  Mn4  1  0.71474147  0.42033300  0.85981017  1
+  Mn  Mn5  1  0.85981017  0.71474147  0.42033300  1
+  Zn  Zn6  1  0.87211689  0.87211689  0.87211689  1
+  Zn  Zn7  1  0.12788311  0.12788311  0.12788311  1
+  O  O8  1  0.55494274  0.83765413  0.40595808  1
+  O  O9  1  0.40595808  0.55494274  0.83765413  1
+  O  O10  1  0.83765413  0.40595808  0.55494274  1
+  O  O11  1  0.44505726  0.16234587  0.59404192  1
+  O  O12  1  0.59404192  0.44505726  0.16234587  1
+  O  O13  1  0.16234587  0.59404192  0.44505726  1
+  O  O14  1  0.13276357  0.98131108  0.66897020  1
+  O  O15  1  0.66897020  0.13276357  0.98131108  1
+  O  O16  1  0.98131108  0.66897020  0.13276357  1
+  O  O17  1  0.86723643  0.01868892  0.33102980  1
+  O  O18  1  0.33102980  0.86723643  0.01868892  1
+  O  O19  1  0.01868892  0.33102980  0.86723643  1
+  O  O20  1  0.26456819  0.26456819  0.26456819  1
+  O  O21  1  0.73543181  0.73543181  0.73543181  1
+"
+"True","mp-1210738","Mn3ZnO7","Trigonal","R-3","148","22","0.07504138011363701","-1.748259253526646","False","314.13828198397783","3.6179475313150773","1.8874","False","False","FM","18.0019608","# generated using pymatgen
+data_Mn3ZnO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49562812
+_cell_length_b   7.49562812
+_cell_length_c   7.49562835
+_cell_angle_alpha   62.46287893
+_cell_angle_beta   62.46287893
+_cell_angle_gamma   62.46287247
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3ZnO7
+_chemical_formula_sum   'Mn6 Zn2 O14'
+_cell_volume   314.13828198
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.85745300  0.71865000  0.42827700  1
+  Mn  Mn1  1  0.14254700  0.28135000  0.57172300  1
+  Mn  Mn2  1  0.71865000  0.42827700  0.85745300  1
+  Mn  Mn3  1  0.28135000  0.57172300  0.14254700  1
+  Mn  Mn4  1  0.42827700  0.85745300  0.71865000  1
+  Mn  Mn5  1  0.57172300  0.14254700  0.28135000  1
+  Zn  Zn6  1  0.91957000  0.91957000  0.91957000  1
+  Zn  Zn7  1  0.08043000  0.08043000  0.08043000  1
+  O  O8  1  0.85213400  0.42353200  0.56961900  1
+  O  O9  1  0.14786600  0.57646800  0.43038100  1
+  O  O10  1  0.00429500  0.32843500  0.84997500  1
+  O  O11  1  0.99570500  0.67156500  0.15002500  1
+  O  O12  1  0.67156500  0.15002500  0.99570500  1
+  O  O13  1  0.32843500  0.84997500  0.00429500  1
+  O  O14  1  0.42353200  0.56961900  0.85213400  1
+  O  O15  1  0.57646800  0.43038100  0.14786600  1
+  O  O16  1  0.15002500  0.99570500  0.67156500  1
+  O  O17  1  0.84997500  0.00429500  0.32843500  1
+  O  O18  1  0.56961900  0.85213400  0.42353200  1
+  O  O19  1  0.43038100  0.14786600  0.57646800  1
+  O  O20  1  0.72149000  0.72149000  0.72149000  1
+  O  O21  1  0.27851000  0.27851000  0.27851000  1
+"
+"True","mp-1042996","Mn4ZnO6","Orthorhombic","Cmcm","63","22","0.11986345045454701","-1.8807325010658311","False","242.68588864236287","5.2160185799136904","0.0","False","True","FM","36.0022009","# generated using pymatgen
+data_Mn4ZnO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33183904
+_cell_length_b   5.33183904
+_cell_length_c   15.58112100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.77776091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4ZnO6
+_chemical_formula_sum   'Mn8 Zn2 O12'
+_cell_volume   242.68588864
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.13567100  0.86432900  0.04531100  1
+  Mn  Mn1  1  0.59685200  0.40314800  0.64049600  1
+  Mn  Mn2  1  0.86432900  0.13567100  0.95468900  1
+  Mn  Mn3  1  0.40314800  0.59685200  0.35950400  1
+  Mn  Mn4  1  0.13567100  0.86432900  0.45468900  1
+  Mn  Mn5  1  0.86432900  0.13567100  0.54531100  1
+  Mn  Mn6  1  0.40314800  0.59685200  0.14049600  1
+  Mn  Mn7  1  0.59685200  0.40314800  0.85950400  1
+  Zn  Zn8  1  0.34062000  0.65938000  0.75000000  1
+  Zn  Zn9  1  0.65938000  0.34062000  0.25000000  1
+  O  O10  1  0.50000000  0.50000000  0.50000000  1
+  O  O11  1  0.50000000  0.50000000  0.00000000  1
+  O  O12  1  0.94974800  0.05025200  0.84261700  1
+  O  O13  1  0.05025200  0.94974800  0.15738300  1
+  O  O14  1  0.05025200  0.94974800  0.34261700  1
+  O  O15  1  0.94974800  0.05025200  0.65738300  1
+  O  O16  1  0.21968800  0.78031200  0.92842300  1
+  O  O17  1  0.78031200  0.21968800  0.07157700  1
+  O  O18  1  0.78031200  0.21968800  0.42842300  1
+  O  O19  1  0.21968800  0.78031200  0.57157700  1
+  O  O20  1  0.70858200  0.29141800  0.75000000  1
+  O  O21  1  0.29141800  0.70858200  0.25000000  1
+"
+"True","mp-1045565","Mn4ZnO8","Monoclinic","Cm","8","13","0.129879741025639","-1.7786928701326272","False","153.73922290873503","4.462506682580966","0.0","False","True","FM","14.0020498","# generated using pymatgen
+data_Mn4ZnO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.23549060
+_cell_length_b   7.23549060
+_cell_length_c   9.61793300
+_cell_angle_alpha   49.85987112
+_cell_angle_beta   49.85987112
+_cell_angle_gamma   23.95034238
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4ZnO8
+_chemical_formula_sum   'Mn4 Zn1 O8'
+_cell_volume   153.73922291
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.36526800  0.36526800  0.44481500  1
+  Mn  Mn1  1  0.85813000  0.85813000  0.79114600  1
+  Mn  Mn2  1  0.15944200  0.15944200  0.16233700  1
+  Mn  Mn3  1  0.65094600  0.65094600  0.50202000  1
+  Zn  Zn4  1  0.65938300  0.65938300  0.81018300  1
+  O  O5  1  0.14945600  0.14945600  0.37607200  1
+  O  O6  1  0.54366500  0.54366500  0.25069200  1
+  O  O7  1  0.47085200  0.47085200  0.70792500  1
+  O  O8  1  0.86467600  0.86467600  0.57864900  1
+  O  O9  1  0.83815400  0.83815400  0.34493400  1
+  O  O10  1  0.20255000  0.20255000  0.90895300  1
+  O  O11  1  0.17232300  0.17232300  0.64332200  1
+  O  O12  1  0.78050200  0.78050200  0.04830700  1
+"
+"True","mp-1392820","Mn4ZnO8","Trigonal","R-3m","166","13","0.08898682102563901","-1.8195857901326271","False","155.45832609020937","4.413158991606063","0.038700000000000005","False","False","FM","13.9937181","# generated using pymatgen
+data_Mn4ZnO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07330506
+_cell_length_b   6.07330506
+_cell_length_c   6.07330529
+_cell_angle_alpha   59.18445981
+_cell_angle_beta   59.18445981
+_cell_angle_gamma   59.18444951
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4ZnO8
+_chemical_formula_sum   'Mn4 Zn1 O8'
+_cell_volume   155.45832609
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.50000000  0.50000000  1
+  Mn  Mn1  1  0.50000000  0.00000000  0.50000000  1
+  Mn  Mn2  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn3  1  0.00000000  0.00000000  0.00000000  1
+  Zn  Zn4  1  0.50000000  0.50000000  0.50000000  1
+  O  O5  1  0.29582400  0.74931000  0.74931000  1
+  O  O6  1  0.25069000  0.25069000  0.70417600  1
+  O  O7  1  0.70417600  0.25069000  0.25069000  1
+  O  O8  1  0.25069000  0.70417600  0.25069000  1
+  O  O9  1  0.26887600  0.26887600  0.26887600  1
+  O  O10  1  0.73112400  0.73112400  0.73112400  1
+  O  O11  1  0.74931000  0.29582400  0.74931000  1
+  O  O12  1  0.74931000  0.74931000  0.29582400  1
+"
+"True","mp-2215114","Mn4ZnO8","Triclinic","P1","1","13","0.129903436410256","-1.778669174748011","False","153.38937983166602","4.472684551941859","0.0","False","True","FM","13.9984842","# generated using pymatgen
+data_Mn4ZnO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.00706826
+_cell_length_b   7.17496231
+_cell_length_c   7.36311009
+_cell_angle_alpha   81.90300799
+_cell_angle_beta   79.63723316
+_cell_angle_gamma   81.22704710
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4ZnO8
+_chemical_formula_sum   'Mn4 Zn1 O8'
+_cell_volume   153.38937983
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.62458100  0.17099700  0.55652400  1
+  Mn  Mn1  1  0.09886700  0.51460500  0.20762700  1
+  Mn  Mn2  1  0.88575200  0.47436200  0.83560800  1
+  Mn  Mn3  1  0.34289300  0.80035500  0.50096400  1
+  Zn  Zn4  1  0.34710200  0.13363200  0.18895400  1
+  O  O5  1  0.86780800  0.66213900  0.62402800  1
+  O  O6  1  0.47628200  0.32686100  0.75512300  1
+  O  O7  1  0.48187200  0.66080100  0.28537600  1
+  O  O8  1  0.13169400  0.30601400  0.42458300  1
+  O  O9  1  0.14200300  0.01643800  0.65979300  1
+  O  O10  1  0.85209100  0.31517100  0.08873100  1
+  O  O11  1  0.76387000  0.99102600  0.35980200  1
+  O  O12  1  0.28266900  0.60370400  0.94353200  1
+"
+"True","mp-1047863","Mn4ZnO9","Tetragonal","P4/n","85","28","0.37860655074404803","-1.44452850226601","False","348.67374476175036","4.087660450798419","0.0","False","True","FiM","24.0","# generated using pymatgen
+data_Mn4ZnO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.55721400
+_cell_length_b   8.55721400
+_cell_length_c   4.76161700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4ZnO9
+_chemical_formula_sum   'Mn8 Zn2 O18'
+_cell_volume   348.67374476
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.09043300  0.78227900  0.60331900  1
+  Mn  Mn1  1  0.21772100  0.09043300  0.39668100  1
+  Mn  Mn2  1  0.71772100  0.59043300  0.60331900  1
+  Mn  Mn3  1  0.59043300  0.28227900  0.39668100  1
+  Mn  Mn4  1  0.90956700  0.21772100  0.60331900  1
+  Mn  Mn5  1  0.28227900  0.40956700  0.60331900  1
+  Mn  Mn6  1  0.40956700  0.71772100  0.39668100  1
+  Mn  Mn7  1  0.78227900  0.90956700  0.39668100  1
+  Zn  Zn8  1  0.00000000  0.50000000  0.00592500  1
+  Zn  Zn9  1  0.50000000  0.00000000  0.99407500  1
+  O  O10  1  0.00000000  0.00000000  0.50000000  1
+  O  O11  1  0.50000000  0.50000000  0.50000000  1
+  O  O12  1  0.72177000  0.93534000  0.04743800  1
+  O  O13  1  0.43534000  0.77823000  0.04743800  1
+  O  O14  1  0.56466000  0.22177000  0.04743800  1
+  O  O15  1  0.27823000  0.06466000  0.04743800  1
+  O  O16  1  0.77823000  0.56466000  0.95256200  1
+  O  O17  1  0.06466000  0.72177000  0.95256200  1
+  O  O18  1  0.93534000  0.27823000  0.95256200  1
+  O  O19  1  0.22177000  0.43534000  0.95256200  1
+  O  O20  1  0.10859200  0.28776700  0.46985100  1
+  O  O21  1  0.78776700  0.39140800  0.46985100  1
+  O  O22  1  0.21223300  0.60859200  0.46985100  1
+  O  O23  1  0.89140800  0.71223300  0.46985100  1
+  O  O24  1  0.60859200  0.78776700  0.53014900  1
+  O  O25  1  0.71223300  0.10859200  0.53014900  1
+  O  O26  1  0.28776700  0.89140800  0.53014900  1
+  O  O27  1  0.39140800  0.21223300  0.53014900  1
+"
+"True","mp-772816","Mn6Zn3O16","Monoclinic","P2_1","4","50","0.06763903785000301","-1.683007745903448","False","571.1150015551092","4.546493352658938","0.0403","False","False","FiM","32.0017138","# generated using pymatgen
+data_Mn6Zn3O16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.29529700
+_cell_length_b   8.29311200
+_cell_length_c   8.30202992
+_cell_angle_alpha   89.60737525
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn6Zn3O16
+_chemical_formula_sum   'Mn12 Zn6 O32'
+_cell_volume   571.11500156
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.37418500  0.12720000  0.87486000  1
+  Mn  Mn1  1  0.87435200  0.12860000  0.37352100  1
+  Mn  Mn2  1  0.12424200  0.12653700  0.62612700  1
+  Mn  Mn3  1  0.37435200  0.87140000  0.62647900  1
+  Mn  Mn4  1  0.62424200  0.87346300  0.37387300  1
+  Mn  Mn5  1  0.87418500  0.87280000  0.12514000  1
+  Mn  Mn6  1  0.87786300  0.62563300  0.87722300  1
+  Mn  Mn7  1  0.62040700  0.62436900  0.61858400  1
+  Mn  Mn8  1  0.12259800  0.62546600  0.12187100  1
+  Mn  Mn9  1  0.62259800  0.37453400  0.87812900  1
+  Mn  Mn10  1  0.12040700  0.37563100  0.38141600  1
+  Mn  Mn11  1  0.37786300  0.37436700  0.12277700  1
+  Zn  Zn12  1  0.99787700  0.25329100  0.99858100  1
+  Zn  Zn13  1  0.50282900  0.25878400  0.49590000  1
+  Zn  Zn14  1  0.75317400  0.00349300  0.75215200  1
+  Zn  Zn15  1  0.25317400  0.99650700  0.24784800  1
+  Zn  Zn16  1  0.49787700  0.74670900  0.00141900  1
+  Zn  Zn17  1  0.00282900  0.74121600  0.50410000  1
+  O  O18  1  0.60683700  0.14962800  0.86362900  1
+  O  O19  1  0.89925100  0.11536200  0.60557000  1
+  O  O20  1  0.14172600  0.13468200  0.85141400  1
+  O  O21  1  0.36249100  0.11373300  0.63711500  1
+  O  O22  1  0.64938300  0.10822600  0.38628600  1
+  O  O23  1  0.88674400  0.10124200  0.14360100  1
+  O  O24  1  0.11288000  0.13468600  0.38771000  1
+  O  O25  1  0.36338600  0.14354600  0.10068300  1
+  O  O26  1  0.86338600  0.85645400  0.89931700  1
+  O  O27  1  0.61288000  0.86531400  0.61229000  1
+  O  O28  1  0.38674400  0.89875800  0.85639900  1
+  O  O29  1  0.14938300  0.89177400  0.61371400  1
+  O  O30  1  0.86249100  0.88626700  0.36288500  1
+  O  O31  1  0.64172600  0.86531800  0.14858600  1
+  O  O32  1  0.39925100  0.88463800  0.39443000  1
+  O  O33  1  0.10683700  0.85037200  0.13637100  1
+  O  O34  1  0.63753500  0.61163300  0.86246500  1
+  O  O35  1  0.09800800  0.61028600  0.89756600  1
+  O  O36  1  0.85335900  0.63903600  0.65123800  1
+  O  O37  1  0.40024500  0.65108200  0.63979500  1
+  O  O38  1  0.63743800  0.64686700  0.40249300  1
+  O  O39  1  0.11421900  0.59940300  0.35732000  1
+  O  O40  1  0.88848800  0.64007600  0.11124100  1
+  O  O41  1  0.35048300  0.60560200  0.11550900  1
+  O  O42  1  0.85048300  0.39439800  0.88449100  1
+  O  O43  1  0.38848800  0.35992400  0.88875900  1
+  O  O44  1  0.61421900  0.40059700  0.64268000  1
+  O  O45  1  0.13743800  0.35313300  0.59750700  1
+  O  O46  1  0.90024500  0.34891800  0.36020500  1
+  O  O47  1  0.35335900  0.36096400  0.34876200  1
+  O  O48  1  0.59800800  0.38971400  0.10243400  1
+  O  O49  1  0.13753500  0.38836700  0.13753500  1
+"
+"True","mp-1045310","Mn9Zn2O13","Triclinic","P-1","2","24","0.071122166666667","-1.932138269432473","False","278.2479928752276","4.972716922954324","0.0","False","True","FM","41.0001922","# generated using pymatgen
+data_Mn9Zn2O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.15015200
+_cell_length_b   5.15123037
+_cell_length_c   17.48749381
+_cell_angle_alpha   97.91822279
+_cell_angle_beta   92.82498617
+_cell_angle_gamma   97.14274428
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn9Zn2O13
+_chemical_formula_sum   'Mn9 Zn2 O13'
+_cell_volume   278.24799288
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.00000000  0.50000000  1
+  Mn  Mn1  1  0.00598500  0.87307200  0.12885800  1
+  Mn  Mn2  1  0.99401500  0.12692800  0.87114200  1
+  Mn  Mn3  1  0.01951000  0.97749400  0.32512800  1
+  Mn  Mn4  1  0.98049000  0.02250600  0.67487200  1
+  Mn  Mn5  1  0.64864000  0.28726500  0.04002900  1
+  Mn  Mn6  1  0.35136000  0.71273500  0.95997100  1
+  Mn  Mn7  1  0.76567400  0.49860900  0.41725800  1
+  Mn  Mn8  1  0.23432600  0.50139100  0.58274200  1
+  Zn  Zn9  1  0.49732500  0.44619100  0.22780100  1
+  Zn  Zn10  1  0.50267500  0.55380900  0.77219900  1
+  O  O11  1  0.00000000  0.00000000  0.00000000  1
+  O  O12  1  0.04497800  0.69075500  0.22817000  1
+  O  O13  1  0.95502200  0.30924500  0.77183000  1
+  O  O14  1  0.33808000  0.59279200  0.06435500  1
+  O  O15  1  0.66192000  0.40720800  0.93564500  1
+  O  O16  1  0.57596000  0.15837200  0.13978500  1
+  O  O17  1  0.42404000  0.84162800  0.86021500  1
+  O  O18  1  0.57803600  0.25174000  0.31938400  1
+  O  O19  1  0.42196400  0.74826000  0.68061600  1
+  O  O20  1  0.41109700  0.78091800  0.39595900  1
+  O  O21  1  0.58890300  0.21908200  0.60404100  1
+  O  O22  1  0.13026700  0.26641700  0.47079900  1
+  O  O23  1  0.86973300  0.73358300  0.52920100  1
+"
+"True","mp-1045871","Mn9Zn2O13","Triclinic","P-1","2","24","0.12068828541666701","-1.882572150682473","False","267.4857010854256","5.172794273989357","0.0","False","True","FM","41.0134473","# generated using pymatgen
+data_Mn9Zn2O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.04985800
+_cell_length_b   5.31755580
+_cell_length_c   17.27855747
+_cell_angle_alpha   97.95238308
+_cell_angle_beta   90.36958788
+_cell_angle_gamma   105.24837885
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn9Zn2O13
+_chemical_formula_sum   'Mn9 Zn2 O13'
+_cell_volume   267.48570109
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.00000000  0.50000000  1
+  Mn  Mn1  1  0.64607800  0.29218100  0.04090400  1
+  Mn  Mn2  1  0.35392200  0.70781900  0.95909600  1
+  Mn  Mn3  1  0.75145600  0.49938200  0.41642100  1
+  Mn  Mn4  1  0.24854400  0.50061800  0.58357900  1
+  Mn  Mn5  1  0.94101100  0.87195800  0.12837200  1
+  Mn  Mn6  1  0.05898900  0.12804200  0.87162800  1
+  Mn  Mn7  1  0.99507000  0.98343200  0.32812100  1
+  Mn  Mn8  1  0.00493000  0.01656800  0.67187900  1
+  Zn  Zn9  1  0.22785000  0.43638300  0.22818000  1
+  Zn  Zn10  1  0.77215000  0.56361700  0.77182000  1
+  O  O11  1  0.00000000  0.00000000  0.00000000  1
+  O  O12  1  0.85221500  0.70129200  0.22918100  1
+  O  O13  1  0.14778500  0.29870800  0.77081900  1
+  O  O14  1  0.29974700  0.59303900  0.06562400  1
+  O  O15  1  0.70025300  0.40696100  0.93437600  1
+  O  O16  1  0.58681000  0.17437400  0.14304500  1
+  O  O17  1  0.41319000  0.82562600  0.85695500  1
+  O  O18  1  0.62330800  0.25411800  0.31066000  1
+  O  O19  1  0.37669200  0.74588200  0.68934000  1
+  O  O20  1  0.39388700  0.78774600  0.39354300  1
+  O  O21  1  0.60611300  0.21225400  0.60645700  1
+  O  O22  1  0.13526900  0.25799700  0.46592200  1
+  O  O23  1  0.86473100  0.74200300  0.53407800  1
+"
+"True","mp-1221877","Mn9Zn3O16","Tetragonal","P-4m2","115","28","0.009926095178571001","-1.9894201150492612","False","306.24201426193054","5.133082711629264","0.758999999999999","False","False","FM","36.9999963","# generated using pymatgen
+data_Mn9Zn3O16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73868868
+_cell_length_b   5.73868868
+_cell_length_c   9.29906840
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn9Zn3O16
+_chemical_formula_sum   'Mn9 Zn3 O16'
+_cell_volume   306.24201426
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.24882846  0.87281242  1
+  Mn  Mn1  1  0.50000000  0.75024228  0.37631324  1
+  Mn  Mn2  1  0.75024228  0.50000000  0.62368676  1
+  Mn  Mn3  1  0.24882846  -0.00000000  0.12718758  1
+  Mn  Mn4  1  0.75117154  -0.00000000  0.12718758  1
+  Mn  Mn5  1  0.24975772  0.50000000  0.62368676  1
+  Mn  Mn6  1  0.00000000  0.75117154  0.87281242  1
+  Mn  Mn7  1  0.50000000  0.24975772  0.37631324  1
+  Mn  Mn8  1  0.50000000  0.50000000  -0.00000000  1
+  Zn  Zn9  1  0.00000000  -0.00000000  0.50000000  1
+  Zn  Zn10  1  0.50000000  -0.00000000  0.74919904  1
+  Zn  Zn11  1  0.00000000  0.50000000  0.25080096  1
+  O  O12  1  0.00000000  0.22698993  0.12055429  1
+  O  O13  1  0.50000000  0.72542374  0.62012631  1
+  O  O14  1  0.77673599  0.50000000  0.86638957  1
+  O  O15  1  0.27448028  -0.00000000  0.37181695  1
+  O  O16  1  0.22326401  0.50000000  0.86638957  1
+  O  O17  1  0.72551972  -0.00000000  0.37181695  1
+  O  O18  1  0.00000000  0.77301007  0.12055429  1
+  O  O19  1  0.50000000  0.27457626  0.62012631  1
+  O  O20  1  0.00000000  0.27448028  0.62818305  1
+  O  O21  1  0.50000000  0.77673599  0.13361043  1
+  O  O22  1  0.22698993  -0.00000000  0.87944571  1
+  O  O23  1  0.72542374  0.50000000  0.37987369  1
+  O  O24  1  0.77301007  -0.00000000  0.87944571  1
+  O  O25  1  0.27457626  0.50000000  0.37987369  1
+  O  O26  1  0.00000000  0.72551972  0.62818305  1
+  O  O27  1  0.50000000  0.22326401  0.13361043  1
+"
+"True","mp-1176421","MnZn4O5","Monoclinic","Cm","8","40","0.018235502999999","-1.820997740293103","False","484.2077123505465","5.439993590421327","0.7099000000000001","False","False","AFM","0.0003207","# generated using pymatgen
+data_MnZn4O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19276957
+_cell_length_b   6.48449830
+_cell_length_c   12.50591153
+_cell_angle_alpha   89.93611351
+_cell_angle_beta   86.82028837
+_cell_angle_gamma   105.03122559
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZn4O5
+_chemical_formula_sum   'Mn4 Zn16 O20'
+_cell_volume   484.20771235
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.27012174  0.56884743  0.76857713  1
+  Mn  Mn1  1  0.87068396  0.96430417  0.36509507  1
+  Mn  Mn2  1  0.27011785  0.06885147  0.76857213  1
+  Mn  Mn3  1  0.87066643  0.46432137  0.36508336  1
+  Zn  Zn4  1  0.13910804  0.03405684  0.13151001  1
+  Zn  Zn5  1  0.13911766  0.53406578  0.13150741  1
+  Zn  Zn6  1  0.53225727  0.13123952  0.53399542  1
+  Zn  Zn7  1  0.53223997  0.63122448  0.53400241  1
+  Zn  Zn8  1  0.93100129  0.23255065  0.93550166  1
+  Zn  Zn9  1  0.93098612  0.73254605  0.93550161  1
+  Zn  Zn10  1  0.66864984  0.16708083  0.16473434  1
+  Zn  Zn11  1  0.66865146  0.66708060  0.16473350  1
+  Zn  Zn12  1  0.33913811  0.33438849  0.33211029  1
+  Zn  Zn13  1  0.33917203  0.83439291  0.33211230  1
+  Zn  Zn14  1  0.74002145  0.43475106  0.73230005  1
+  Zn  Zn15  1  0.74001825  0.93474854  0.73229749  1
+  Zn  Zn16  1  0.47097514  0.36758181  0.96732661  1
+  Zn  Zn17  1  0.47096590  0.86757963  0.96732064  1
+  Zn  Zn18  1  0.06729957  0.26559965  0.56603407  1
+  Zn  Zn19  1  0.06730268  0.76559523  0.56603287  1
+  O  O20  1  0.44098299  0.11006262  0.05670967  1
+  O  O21  1  0.44098848  0.61006816  0.05670891  1
+  O  O22  1  0.03800485  0.00799482  0.65530502  1
+  O  O23  1  0.03800964  0.50799541  0.65530824  1
+  O  O24  1  0.83485945  0.20566606  0.46122246  1
+  O  O25  1  0.83484394  0.70563543  0.46122694  1
+  O  O26  1  0.97230300  0.24297638  0.09114988  1
+  O  O27  1  0.97229939  0.74297007  0.09114775  1
+  O  O28  1  0.57937366  0.14502906  0.68913773  1
+  O  O29  1  0.57936947  0.64502238  0.68914086  1
+  O  O30  1  0.18110702  0.04527828  0.28733282  1
+  O  O31  1  0.18109140  0.54528609  0.28733383  1
+  O  O32  1  0.63570885  0.40847809  0.25364745  1
+  O  O33  1  0.63572159  0.90847855  0.25364446  1
+  O  O34  1  0.23492717  0.30983734  0.86436096  1
+  O  O35  1  0.23491472  0.80983390  0.86435540  1
+  O  O36  1  0.36969003  0.34103848  0.48953618  1
+  O  O37  1  0.36969887  0.84104578  0.48953966  1
+  O  O38  1  0.77088442  0.44311599  0.88964703  1
+  O  O39  1  0.77088530  0.94312059  0.88964539  1
+"
+"True","mp-1221575","MnZn4O5","Trigonal","P3m1","156","40","0.018444582749999","-1.8207886605431032","False","486.7032598632448","5.412100285417606","0.039200000000000006","True","False","FM","19.9428483","# generated using pymatgen
+data_MnZn4O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.26308627
+_cell_length_b   26.58023862
+_cell_length_c   5.65424262
+_cell_angle_alpha   83.88624717
+_cell_angle_beta   89.97529463
+_cell_angle_gamma   86.49669918
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZn4O5
+_chemical_formula_sum   'Mn4 Zn16 O20'
+_cell_volume   486.70325986
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.45339144  0.09640394  0.11884045  1
+  Mn  Mn1  1  0.34814051  0.30141691  0.01559460  1
+  Mn  Mn2  1  0.95338861  0.09640397  0.61884111  1
+  Mn  Mn3  1  0.84815525  0.30141791  0.51559976  1
+  Zn  Zn4  1  0.24873638  0.50299971  0.91435911  1
+  Zn  Zn5  1  0.74873193  0.50299985  0.41435789  1
+  Zn  Zn6  1  0.15015033  0.69941170  0.81820351  1
+  Zn  Zn7  1  0.65014456  0.69941166  0.31820234  1
+  Zn  Zn8  1  0.05158881  0.89650637  0.71718086  1
+  Zn  Zn9  1  0.55158772  0.89650755  0.21718018  1
+  Zn  Zn10  1  0.90201980  0.19952912  0.23315011  1
+  Zn  Zn11  1  0.40202367  0.19952946  0.73314803  1
+  Zn  Zn12  1  0.79640069  0.40468302  0.13110165  1
+  Zn  Zn13  1  0.29640960  0.40468425  0.63109758  1
+  Zn  Zn14  1  0.69968828  0.60114141  0.03304813  1
+  Zn  Zn15  1  0.19968594  0.60114126  0.53304865  1
+  Zn  Zn16  1  0.59949249  0.79797066  0.93549624  1
+  Zn  Zn17  1  0.09948948  0.79797116  0.43549454  1
+  Zn  Zn18  1  0.50243937  0.99480413  0.83546758  1
+  Zn  Zn19  1  0.00243861  0.99480432  0.33546731  1
+  O  O20  1  0.49064640  0.01880923  0.15680739  1
+  O  O21  1  0.99064792  0.01880937  0.65680796  1
+  O  O22  1  0.39009111  0.22375918  0.05444575  1
+  O  O23  1  0.89009114  0.22375964  0.55444714  1
+  O  O24  1  0.28528034  0.42759752  0.95292083  1
+  O  O25  1  0.78528550  0.42759769  0.45291935  1
+  O  O26  1  0.18830187  0.62424045  0.85474640  1
+  O  O27  1  0.68830025  0.62424025  0.35474642  1
+  O  O28  1  0.08806158  0.82148854  0.75682932  1
+  O  O29  1  0.58805891  0.82148893  0.25682862  1
+  O  O30  1  0.93890513  0.12509062  0.27119174  1
+  O  O31  1  0.43890386  0.12509093  0.77119207  1
+  O  O32  1  0.83423777  0.32935007  0.16845681  1
+  O  O33  1  0.33425350  0.32935097  0.66845122  1
+  O  O34  1  0.73716185  0.52595643  0.06971399  1
+  O  O35  1  0.23715913  0.52595614  0.56971410  1
+  O  O36  1  0.63848173  0.72281302  0.97314676  1
+  O  O37  1  0.13848119  0.72281324  0.47314663  1
+  O  O38  1  0.53977394  0.92002640  0.87230317  1
+  O  O39  1  0.03977446  0.92002698  0.37230671  1
+"
+"True","mp-773099","MnZn4O5","Triclinic","P1","1","40","0.018795983499998","-1.8204372597931031","False","508.4735602786882","5.180381159200952","0.5654","False","False","AFM","6.93e-05","# generated using pymatgen
+data_MnZn4O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28958743
+_cell_length_b   6.61999108
+_cell_length_c   12.67964593
+_cell_angle_alpha   90.01630731
+_cell_angle_beta   86.81166445
+_cell_angle_gamma   105.26397256
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZn4O5
+_chemical_formula_sum   'Mn4 Zn16 O20'
+_cell_volume   508.47356028
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.26799700  0.57013800  0.76900700  1
+  Mn  Mn1  1  0.86871800  0.96246300  0.36553000  1
+  Mn  Mn2  1  0.26803300  0.07011800  0.76894000  1
+  Mn  Mn3  1  0.86874900  0.46250000  0.36547200  1
+  Zn  Zn4  1  0.13904000  0.03330300  0.13092500  1
+  Zn  Zn5  1  0.13903600  0.53330100  0.13092600  1
+  Zn  Zn6  1  0.53460200  0.13013700  0.53388700  1
+  Zn  Zn7  1  0.53460300  0.63013300  0.53388600  1
+  Zn  Zn8  1  0.93175200  0.23435300  0.93497600  1
+  Zn  Zn9  1  0.93175300  0.73435700  0.93497500  1
+  Zn  Zn10  1  0.66898800  0.16822700  0.16510300  1
+  Zn  Zn11  1  0.66899000  0.66822900  0.16510400  1
+  Zn  Zn12  1  0.33702500  0.33526300  0.33155200  1
+  Zn  Zn13  1  0.33702400  0.83526200  0.33155100  1
+  Zn  Zn14  1  0.73793700  0.43607000  0.73195000  1
+  Zn  Zn15  1  0.73793700  0.93607100  0.73195100  1
+  Zn  Zn16  1  0.47124800  0.36715100  0.96818700  1
+  Zn  Zn17  1  0.47124800  0.86715600  0.96818700  1
+  Zn  Zn18  1  0.06878300  0.26340700  0.56618000  1
+  Zn  Zn19  1  0.06878200  0.76340200  0.56618000  1
+  O  O20  1  0.44187600  0.11002000  0.05659300  1
+  O  O21  1  0.44187700  0.61002100  0.05659700  1
+  O  O22  1  0.03633500  0.00561000  0.65464600  1
+  O  O23  1  0.03629700  0.50559500  0.65462800  1
+  O  O24  1  0.83647000  0.20463400  0.46163700  1
+  O  O25  1  0.83647100  0.70454200  0.46163500  1
+  O  O26  1  0.97310300  0.24202300  0.09121200  1
+  O  O27  1  0.97310400  0.74201800  0.09121300  1
+  O  O28  1  0.57881900  0.14597700  0.68953700  1
+  O  O29  1  0.57886300  0.64599300  0.68952500  1
+  O  O30  1  0.18072300  0.04586100  0.28719500  1
+  O  O31  1  0.18067900  0.54584400  0.28720800  1
+  O  O32  1  0.63368000  0.40938300  0.25283800  1
+  O  O33  1  0.63364300  0.90937300  0.25282300  1
+  O  O34  1  0.23589100  0.31191400  0.86505800  1
+  O  O35  1  0.23589100  0.81199700  0.86505800  1
+  O  O36  1  0.37209900  0.33972800  0.48954400  1
+  O  O37  1  0.37209100  0.83972500  0.48954700  1
+  O  O38  1  0.77199900  0.44421600  0.88974600  1
+  O  O39  1  0.77200700  0.94422500  0.88974300  1
+"
+"True","mp-1046085","MnZnO2","Triclinic","P-1","2","16","0.16566583874999902","-1.746068600732758","False","216.80568866657492","4.667335600141746","0.038999999999999","False","False","FM","19.9995748","# generated using pymatgen
+data_MnZnO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.13149600
+_cell_length_b   8.16517795
+_cell_length_c   8.51877681
+_cell_angle_alpha   91.26358696
+_cell_angle_beta   94.96948170
+_cell_angle_gamma   91.94989909
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZnO2
+_chemical_formula_sum   'Mn4 Zn4 O8'
+_cell_volume   216.80568867
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.48233200  0.74731000  0.92785100  1
+  Mn  Mn1  1  0.21555800  0.91155300  0.28420000  1
+  Mn  Mn2  1  0.78444200  0.08844700  0.71580000  1
+  Mn  Mn3  1  0.51766800  0.25269000  0.07214900  1
+  Zn  Zn4  1  0.85315500  0.58471100  0.24791900  1
+  Zn  Zn5  1  0.14684500  0.41528900  0.75208100  1
+  Zn  Zn6  1  0.25938600  0.24719800  0.38511400  1
+  Zn  Zn7  1  0.74061400  0.75280200  0.61488600  1
+  O  O8  1  0.97767200  0.24744800  0.91470800  1
+  O  O9  1  0.28714800  0.89081400  0.72995900  1
+  O  O10  1  0.71285200  0.10918600  0.27004100  1
+  O  O11  1  0.02232800  0.75255200  0.08529200  1
+  O  O12  1  0.66467200  0.56830400  0.75617200  1
+  O  O13  1  0.73565900  0.77213400  0.39258400  1
+  O  O14  1  0.33532800  0.43169600  0.24382800  1
+  O  O15  1  0.26434100  0.22786600  0.60741600  1
+"
+"True","mp-1371409","MnZnO2","Triclinic","P-1","2","16","0.17987759562499903","-1.731856843857759","False","208.5952311654044","4.851045267781644","0.0","False","True","FM","19.9999847","# generated using pymatgen
+data_MnZnO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.05016600
+_cell_length_b   8.31941829
+_cell_length_c   8.47384495
+_cell_angle_alpha   86.54799912
+_cell_angle_beta   79.99276842
+_cell_angle_gamma   80.25227358
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZnO2
+_chemical_formula_sum   'Mn4 Zn4 O8'
+_cell_volume   208.59523117
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.18276800  0.72313300  0.91664900  1
+  Mn  Mn1  1  0.40521300  0.91161700  0.26943200  1
+  Mn  Mn2  1  0.59478700  0.08838300  0.73056800  1
+  Mn  Mn3  1  0.81723200  0.27686700  0.08335100  1
+  Zn  Zn4  1  0.59377400  0.58611800  0.26062500  1
+  Zn  Zn5  1  0.40622600  0.41388200  0.73937500  1
+  Zn  Zn6  1  0.18438000  0.23730200  0.39748000  1
+  Zn  Zn7  1  0.81562000  0.76269800  0.60252000  1
+  O  O8  1  0.41052600  0.24155500  0.92289300  1
+  O  O9  1  0.19804400  0.89800500  0.70880800  1
+  O  O10  1  0.80195600  0.10199500  0.29119200  1
+  O  O11  1  0.58947400  0.75844500  0.07710700  1
+  O  O12  1  0.80807700  0.58154200  0.76914800  1
+  O  O13  1  0.94570400  0.73821900  0.37722600  1
+  O  O14  1  0.19192300  0.41845800  0.23085200  1
+  O  O15  1  0.05429600  0.26178100  0.62277400  1
+"
+"True","mp-1377379","MnZnO2","Triclinic","P1","1","16","0.254454421874999","-1.657280017607759","False","200.93997499991957","5.03585664837053","0.0","False","True","FM","18.0027736","# generated using pymatgen
+data_MnZnO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.14040200
+_cell_length_b   8.20797171
+_cell_length_c   8.27042538
+_cell_angle_alpha   107.42978982
+_cell_angle_beta   88.69607716
+_cell_angle_gamma   98.79742590
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZnO2
+_chemical_formula_sum   'Mn4 Zn4 O8'
+_cell_volume   200.93997500
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.25963800  0.08980500  0.45541300  1
+  Mn  Mn1  1  0.89456200  0.46702200  0.77437000  1
+  Mn  Mn2  1  0.26038900  0.51522500  0.12662700  1
+  Mn  Mn3  1  0.65124100  0.76442100  0.53091300  1
+  Zn  Zn4  1  0.19271100  0.10082600  0.84240000  1
+  Zn  Zn5  1  0.56085400  0.83472200  0.04928800  1
+  Zn  Zn6  1  0.67828200  0.20235300  0.19901400  1
+  Zn  Zn7  1  0.21929000  0.41592100  0.43771600  1
+  O  O8  1  0.11657500  0.62213300  0.36792900  1
+  O  O9  1  0.66025200  0.04425100  0.96782500  1
+  O  O10  1  0.51755700  0.56854400  0.65827400  1
+  O  O11  1  0.84923500  0.26266700  0.56771300  1
+  O  O12  1  0.70607900  0.98964500  0.29052600  1
+  O  O13  1  0.28124200  0.35757500  0.88917900  1
+  O  O14  1  0.20050600  0.93506400  0.61408700  1
+  O  O15  1  0.98331100  0.66916200  0.00310800  1
+"
+"True","mp-1412672","MnZnO2","Monoclinic","C2/m","12","16","0.176687604374999","-1.735046835107759","False","209.2080979990171","4.836834322883176","0.0","False","True","AFM","0.0022004","# generated using pymatgen
+data_MnZnO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.33289216
+_cell_length_b   8.33289216
+_cell_length_c   11.54767478
+_cell_angle_alpha   47.40021537
+_cell_angle_beta   47.40021537
+_cell_angle_gamma   21.08533420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZnO2
+_chemical_formula_sum   'Mn4 Zn4 O8'
+_cell_volume   209.20809800
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.17386200  0.17386200  0.92704800  1
+  Mn  Mn1  1  0.40622700  0.40622700  0.28209100  1
+  Mn  Mn2  1  0.59377300  0.59377300  0.71790900  1
+  Mn  Mn3  1  0.82613800  0.82613800  0.07295200  1
+  Zn  Zn4  1  0.57702000  0.57702000  0.26611500  1
+  Zn  Zn5  1  0.42298000  0.42298000  0.73388500  1
+  Zn  Zn6  1  0.18874900  0.18874900  0.38608400  1
+  Zn  Zn7  1  0.81125100  0.81125100  0.61391600  1
+  O  O8  1  0.42141500  0.42141500  0.91387600  1
+  O  O9  1  0.19347200  0.19347200  0.71355800  1
+  O  O10  1  0.80652800  0.80652800  0.28644200  1
+  O  O11  1  0.57858500  0.57858500  0.08612400  1
+  O  O12  1  0.82045800  0.82045800  0.77809200  1
+  O  O13  1  0.94102600  0.94102600  0.38655400  1
+  O  O14  1  0.17954200  0.17954200  0.22190800  1
+  O  O15  1  0.05897400  0.05897400  0.61344600  1
+"
+"True","mp-1442837","MnZnO2","Monoclinic","C2/m","12","16","0.272527879374999","-1.639206560107759","False","188.63978323240318","5.364217937952631","0.0","False","True","FM","18.0399664","# generated using pymatgen
+data_MnZnO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.08043579
+_cell_length_b   8.08043579
+_cell_length_c   9.83384694
+_cell_angle_alpha   54.54836904
+_cell_angle_beta   54.54836904
+_cell_angle_gamma   21.34276184
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZnO2
+_chemical_formula_sum   'Mn4 Zn4 O8'
+_cell_volume   188.63978323
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.37048800  0.37048800  0.95257300  1
+  Mn  Mn1  1  0.84268900  0.84268900  0.32410000  1
+  Mn  Mn2  1  0.15731100  0.15731100  0.67590000  1
+  Mn  Mn3  1  0.62951200  0.62951200  0.04742700  1
+  Zn  Zn4  1  0.68507700  0.68507700  0.29119100  1
+  Zn  Zn5  1  0.31492300  0.31492300  0.70880900  1
+  Zn  Zn6  1  0.98732200  0.98732200  0.38656300  1
+  Zn  Zn7  1  0.01267800  0.01267800  0.61343700  1
+  O  O8  1  0.14638900  0.14638900  0.89816600  1
+  O  O9  1  0.53584600  0.53584600  0.72905100  1
+  O  O10  1  0.46415400  0.46415400  0.27094900  1
+  O  O11  1  0.85361100  0.85361100  0.10183400  1
+  O  O12  1  0.84661100  0.84661100  0.82746400  1
+  O  O13  1  0.20887000  0.20887000  0.41273600  1
+  O  O14  1  0.15338900  0.15338900  0.17253600  1
+  O  O15  1  0.79113000  0.79113000  0.58726400  1
+"
+"True","mp-1016932","MnZnO3","Cubic","Pm-3m","221","5","0.561172910000004","-1.258271146586206","False","52.26198479368501","5.3488947483032945","0.0","False","True","FM","3.1400626","# generated using pymatgen
+data_MnZnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73876900
+_cell_length_b   3.73876900
+_cell_length_c   3.73876900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZnO3
+_chemical_formula_sum   'Mn1 Zn1 O3'
+_cell_volume   52.26198479
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.50000000  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.00000000  1
+  O  O2  1  0.50000000  0.50000000  0.00000000  1
+  O  O3  1  0.50000000  0.00000000  0.50000000  1
+  O  O4  1  0.00000000  0.50000000  0.50000000  1
+"
+"True","mp-754318","MnZnO3","Trigonal","R-3","148","10","0.005794234000003001","-1.813649822586207","False","97.48952847675997","5.734848867701465","1.7946","True","False","FM","6.0","# generated using pymatgen
+data_MnZnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40448856
+_cell_length_b   5.40449341
+_cell_length_c   5.40420792
+_cell_angle_alpha   54.57082941
+_cell_angle_beta   54.57015300
+_cell_angle_gamma   54.56824638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZnO3
+_chemical_formula_sum   'Mn2 Zn2 O6'
+_cell_volume   97.48952848
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.34101300  0.34100521  0.34100135  1
+  Mn  Mn1  1  0.65898700  0.65899479  0.65899865  1
+  Zn  Zn2  1  0.13416709  0.13416566  0.13420779  1
+  Zn  Zn3  1  0.86583291  0.86583434  0.86579221  1
+  O  O4  1  0.06210976  0.71703269  0.45185080  1
+  O  O5  1  0.45178963  0.06210766  0.71707137  1
+  O  O6  1  0.71703571  0.45179449  0.06213946  1
+  O  O7  1  0.28296429  0.54820551  0.93786054  1
+  O  O8  1  0.54821037  0.93789234  0.28292863  1
+  O  O9  1  0.93789024  0.28296731  0.54814920  1
+"
+"True","mp-772528","MnZnO3","Orthorhombic","Pnma","62","20","0.098382452000003","-1.721061604586207","False","195.097888591396","5.731355844333344","0.12040000000000001","False","False","FM","11.9976204","# generated using pymatgen
+data_MnZnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18824800
+_cell_length_b   7.40550700
+_cell_length_c   5.07781700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZnO3
+_chemical_formula_sum   'Mn4 Zn4 O12'
+_cell_volume   195.09788859
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn1  1  0.00000000  0.50000000  0.50000000  1
+  Mn  Mn2  1  0.50000000  0.00000000  0.00000000  1
+  Mn  Mn3  1  0.50000000  0.50000000  0.00000000  1
+  Zn  Zn4  1  0.04814800  0.25000000  0.99116400  1
+  Zn  Zn5  1  0.45185200  0.75000000  0.49116400  1
+  Zn  Zn6  1  0.54814800  0.25000000  0.50883600  1
+  Zn  Zn7  1  0.95185200  0.75000000  0.00883600  1
+  O  O8  1  0.06207000  0.75000000  0.62007000  1
+  O  O9  1  0.18949200  0.56443000  0.18481800  1
+  O  O10  1  0.18949200  0.93557000  0.18481800  1
+  O  O11  1  0.31050800  0.06443000  0.68481800  1
+  O  O12  1  0.31050800  0.43557000  0.68481800  1
+  O  O13  1  0.43793000  0.25000000  0.12007000  1
+  O  O14  1  0.56207000  0.75000000  0.87993000  1
+  O  O15  1  0.68949200  0.93557000  0.31518200  1
+  O  O16  1  0.68949200  0.56443000  0.31518200  1
+  O  O17  1  0.81050800  0.06443000  0.81518200  1
+  O  O18  1  0.81050800  0.43557000  0.81518200  1
+  O  O19  1  0.93793000  0.25000000  0.37993000  1
+"

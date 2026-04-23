@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Mo-Ni-O,Mo,Ni,O,NiMoO3_977100_POSCAR,35,global_gradient_fallback,4.1240199,-0.065142301739563,-0.05433471794950493,-0.010807583790058063,3.14211,9.622713,0.00944278

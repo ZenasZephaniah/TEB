@@ -1,0 +1,150 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-755055","ZrCrO3","Orthorhombic","Pnma","62","20","0.085932194166669","-2.9911010485","False","249.26258918175745","5.095437039969209","1.5603","False","False","AFM","0.0","# generated using pymatgen
+data_ZrCrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95303600
+_cell_length_b   5.38238200
+_cell_length_c   9.34998900
+_cell_angle_alpha   89.99951005
+_cell_angle_beta   89.99976789
+_cell_angle_gamma   89.99966773
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCrO3
+_chemical_formula_sum   'Zr4 Cr4 O12'
+_cell_volume   249.26258918
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.04709700  0.95306900  0.74999600  1
+  Zr  Zr1  1  0.45291900  0.45305300  0.74999600  1
+  Zr  Zr2  1  0.54708400  0.54695200  0.25000400  1
+  Zr  Zr3  1  0.95291000  0.04693300  0.25000200  1
+  Cr  Cr4  1  0.99999700  0.49999900  0.50000100  1
+  Cr  Cr5  1  0.49999100  0.99999400  0.50000100  1
+  Cr  Cr6  1  0.99998700  0.50000100  0.99999700  1
+  Cr  Cr7  1  0.50001600  0.00000100  0.99999400  1
+  O  O8  1  0.18452000  0.37554100  0.25000000  1
+  O  O9  1  0.31547300  0.87554400  0.25000100  1
+  O  O10  1  0.68452100  0.12446500  0.74999900  1
+  O  O11  1  0.81548400  0.62445500  0.74999800  1
+  O  O12  1  0.21077700  0.21814900  0.60115100  1
+  O  O13  1  0.21078200  0.21815900  0.89885500  1
+  O  O14  1  0.28921900  0.71815000  0.60115400  1
+  O  O15  1  0.28922200  0.71815200  0.89885500  1
+  O  O16  1  0.71077900  0.28184200  0.10114500  1
+  O  O17  1  0.71078000  0.28184600  0.39885000  1
+  O  O18  1  0.78921700  0.78184700  0.10114700  1
+  O  O19  1  0.78922400  0.78184600  0.39885300  1
+"
+"True","mp-1650178","ZrCrO4","Triclinic","P1","1","24","0.062127835000000006","-2.8685314733333342","False","278.1864818934711","4.9476607748721015","1.27","False","False","FiM","3.9939168","# generated using pymatgen
+data_ZrCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79011462
+_cell_length_b   11.77029718
+_cell_length_c   4.93454853
+_cell_angle_alpha   90.52583753
+_cell_angle_beta   89.95744663
+_cell_angle_gamma   89.36956114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCrO4
+_chemical_formula_sum   'Zr4 Cr4 O16'
+_cell_volume   278.18648189
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.98856900  0.16541600  0.25490900  1
+  Zr  Zr1  1  0.99786000  0.83417000  0.73353200  1
+  Zr  Zr2  1  0.50114200  0.66563700  0.27048500  1
+  Zr  Zr3  1  0.51572200  0.33456100  0.75817000  1
+  Cr  Cr4  1  0.00785800  0.57034300  0.76580300  1
+  Cr  Cr5  1  0.49020200  0.06975800  0.75200400  1
+  Cr  Cr6  1  0.00992300  0.42979700  0.26043300  1
+  Cr  Cr7  1  0.50241700  0.93026400  0.23633500  1
+  O  O8  1  0.21988800  0.31474100  0.40850100  1
+  O  O9  1  0.21746100  0.68440200  0.91237400  1
+  O  O10  1  0.28273600  0.18552100  0.90530700  1
+  O  O11  1  0.27648900  0.81176200  0.40956500  1
+  O  O12  1  0.71928000  0.18839000  0.58250700  1
+  O  O13  1  0.71521400  0.81460700  0.08947800  1
+  O  O14  1  0.77839800  0.68911900  0.59230900  1
+  O  O15  1  0.78256200  0.31081400  0.08544600  1
+  O  O16  1  0.27725500  0.05327100  0.42546000  1
+  O  O17  1  0.26629700  0.94822100  0.93534100  1
+  O  O18  1  0.22692200  0.44575600  0.93515900  1
+  O  O19  1  0.22603100  0.55314900  0.43779000  1
+  O  O20  1  0.77596500  0.45060500  0.56408200  1
+  O  O21  1  0.77519300  0.55113400  0.06534200  1
+  O  O22  1  0.72852100  0.05098700  0.05451700  1
+  O  O23  1  0.71809900  0.94757200  0.56514800  1
+"
+"True","mp-756487","ZrCrO4","Orthorhombic","Pbcn","60","24","0.06877601250000001","-2.861883295833333","False","278.68072983451907","4.93888596237453","0.0","False","True","FM","8.0014686","# generated using pymatgen
+data_ZrCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.76026501
+_cell_length_b   11.85372402
+_cell_length_c   4.93879501
+_cell_angle_alpha   90.00408164
+_cell_angle_beta   90.00315417
+_cell_angle_gamma   89.99485756
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCrO4
+_chemical_formula_sum   'Zr4 Cr4 O16'
+_cell_volume   278.68072983
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.99993000  0.17133000  0.25001800  1
+  Zr  Zr1  1  0.99998900  0.82866500  0.74989600  1
+  Zr  Zr2  1  0.49998400  0.67133700  0.25011000  1
+  Zr  Zr3  1  0.50005700  0.32866400  0.75008100  1
+  Cr  Cr4  1  0.00002900  0.43349900  0.25002400  1
+  Cr  Cr5  1  0.00001800  0.56650200  0.74998900  1
+  Cr  Cr6  1  0.50000300  0.06649300  0.75003700  1
+  Cr  Cr7  1  0.49997400  0.93352000  0.25001300  1
+  O  O8  1  0.22144400  0.31568800  0.41009300  1
+  O  O9  1  0.22146000  0.68431100  0.91010900  1
+  O  O10  1  0.27618700  0.05481400  0.43187300  1
+  O  O11  1  0.27615600  0.94518700  0.93196200  1
+  O  O12  1  0.22386600  0.44513700  0.93195600  1
+  O  O13  1  0.22384000  0.55486100  0.43194500  1
+  O  O14  1  0.27854700  0.18427900  0.91009100  1
+  O  O15  1  0.27850600  0.81568300  0.41016600  1
+  O  O16  1  0.72148900  0.18430000  0.58984400  1
+  O  O17  1  0.72143300  0.81572800  0.08991300  1
+  O  O18  1  0.77617600  0.44517400  0.56800900  1
+  O  O19  1  0.77623200  0.55483400  0.06802800  1
+  O  O20  1  0.72385000  0.05481600  0.06805400  1
+  O  O21  1  0.72384000  0.94518000  0.56812600  1
+  O  O22  1  0.77849800  0.68435800  0.58984400  1
+  O  O23  1  0.77849600  0.31563700  0.08981800  1
+"

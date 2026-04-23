@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cr-Ni-O,Cr,Ni,O,Cr3_NiO6_2_776211_POSCAR,35,local_max_drop,7.3787854,-0.55444671274708,-0.4897423100708513,-0.06470440267622873,6.944739,21.268264,0.03286315

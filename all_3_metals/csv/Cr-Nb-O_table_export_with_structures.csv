@@ -1,0 +1,275 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1046983","Nb2CrO8","Monoclinic","C2/c","15","22","0.257088920987012","-2.24008773090909","False","304.77835620677104","3.98605688350645","0.7118","False","False","NM","1.79e-05","# generated using pymatgen
+data_Nb2CrO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.41103117
+_cell_length_b   10.41103117
+_cell_length_c   4.97021687
+_cell_angle_alpha   89.24590914
+_cell_angle_beta   89.24590914
+_cell_angle_gamma   34.45782522
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2CrO8
+_chemical_formula_sum   'Nb4 Cr2 O16'
+_cell_volume   304.77835621
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.06661900  0.67494500  0.75452000  1
+  Nb  Nb1  1  0.32505500  0.93338100  0.74548000  1
+  Nb  Nb2  1  0.93338100  0.32505500  0.24548000  1
+  Nb  Nb3  1  0.67494500  0.06661900  0.25452000  1
+  Cr  Cr4  1  0.66596200  0.33403800  0.75000000  1
+  Cr  Cr5  1  0.33403800  0.66596200  0.25000000  1
+  O  O6  1  0.11759800  0.77372400  0.09656400  1
+  O  O7  1  0.22627600  0.88240200  0.40343600  1
+  O  O8  1  0.88240200  0.22627600  0.90343600  1
+  O  O9  1  0.77372400  0.11759800  0.59656400  1
+  O  O10  1  0.34324200  0.55374000  0.55551400  1
+  O  O11  1  0.44626000  0.65675800  0.94448600  1
+  O  O12  1  0.65675800  0.44626000  0.44448600  1
+  O  O13  1  0.55374000  0.34324200  0.05551400  1
+  O  O14  1  0.92634100  0.75950900  0.42087600  1
+  O  O15  1  0.24049100  0.07365900  0.07912400  1
+  O  O16  1  0.42931400  0.19306100  0.36299200  1
+  O  O17  1  0.80693900  0.57068600  0.13700800  1
+  O  O18  1  0.57068600  0.80693900  0.63700800  1
+  O  O19  1  0.19306100  0.42931400  0.86299200  1
+  O  O20  1  0.75950900  0.92634100  0.92087600  1
+  O  O21  1  0.07365900  0.24049100  0.57912400  1
+"
+"True","mp-1101460","NbCrO4","Monoclinic","C2/m","12","24","0.012545930238049001","-2.7434853837500013","False","299.9289345574678","4.626252473675895","3.0426","False","False","AFM","1e-07","# generated using pymatgen
+data_NbCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50709178
+_cell_length_b   6.50718280
+_cell_length_c   7.77473351
+_cell_angle_alpha   72.65022568
+_cell_angle_beta   107.35010026
+_cell_angle_gamma   95.06762436
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCrO4
+_chemical_formula_sum   'Nb4 Cr4 O16'
+_cell_volume   299.92893456
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.22394778  0.77606031  0.85889018  1
+  Nb  Nb1  1  0.77605186  0.22393991  0.14110961  1
+  Nb  Nb2  1  0.22301212  0.22301189  0.50000015  1
+  Nb  Nb3  1  0.77698794  0.77698913  0.49999873  1
+  Cr  Cr4  1  0.18108590  0.81891926  0.34064929  1
+  Cr  Cr5  1  0.81891570  0.18107969  0.65935130  1
+  Cr  Cr6  1  0.18148456  0.18148344  0.00000018  1
+  Cr  Cr7  1  0.81851515  0.81851644  0.00000019  1
+  O  O8  1  0.15311536  0.84688443  0.57819008  1
+  O  O9  1  0.84688490  0.15311558  0.42180973  1
+  O  O10  1  0.14692660  0.85307424  0.07035212  1
+  O  O11  1  0.85307338  0.14692560  0.92964807  1
+  O  O12  1  0.51272329  0.81771061  0.92541562  1
+  O  O13  1  0.18227865  0.48727069  0.92541509  1
+  O  O14  1  0.81772080  0.51272940  0.07458451  1
+  O  O15  1  0.48727579  0.18228962  0.07458383  1
+  O  O16  1  0.18229550  0.51222289  0.41475610  1
+  O  O17  1  0.48778701  0.81770074  0.41476026  1
+  O  O18  1  0.51221314  0.18229887  0.58523939  1
+  O  O19  1  0.81770519  0.48777793  0.58524334  1
+  O  O20  1  0.84831161  0.85279709  0.74686153  1
+  O  O21  1  0.14720155  0.15168938  0.74686093  1
+  O  O22  1  0.85279776  0.84831103  0.25313845  1
+  O  O23  1  0.15168847  0.14720385  0.25313830  1
+"
+"True","mp-675580","NbCrO4","Orthorhombic","Cmmm","65","24","0.02687149023805","-2.729159823749999","False","273.2493267055111","5.077952037989326","0.6444000000000001","True","False","AFM","3.72e-05","# generated using pymatgen
+data_NbCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.09895800
+_cell_length_b   13.15015956
+_cell_length_c   6.70521006
+_cell_angle_alpha   90.00014088
+_cell_angle_beta   89.99997838
+_cell_angle_gamma   89.99997821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCrO4
+_chemical_formula_sum   'Nb4 Cr4 O16'
+_cell_volume   273.24932671
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.00000100  0.99998200  0.00000000  1
+  Nb  Nb1  1  0.00000200  0.25004300  0.50000100  1
+  Nb  Nb2  1  0.00000100  0.49995900  0.00000100  1
+  Nb  Nb3  1  0.00000100  0.75001900  0.50000100  1
+  Cr  Cr4  1  0.49999400  0.74998800  0.99999600  1
+  Cr  Cr5  1  0.49998500  0.00000800  0.49998900  1
+  Cr  Cr6  1  0.49998500  0.24997800  0.00000200  1
+  Cr  Cr7  1  0.50002100  0.50001200  0.49999900  1
+  O  O8  1  0.00000000  0.34839500  0.00000000  1
+  O  O9  1  0.00000200  0.59838700  0.50000000  1
+  O  O10  1  0.00000000  0.84840000  0.00000000  1
+  O  O11  1  0.99999900  0.09840000  0.50000000  1
+  O  O12  1  0.00000000  0.15161600  0.00000100  1
+  O  O13  1  0.00000200  0.40160300  0.50000200  1
+  O  O14  1  0.00000100  0.65160400  0.00000100  1
+  O  O15  1  0.00000000  0.90159900  0.50000100  1
+  O  O16  1  0.50000000  0.24999900  0.69524000  1
+  O  O17  1  0.50000100  0.50000300  0.19524100  1
+  O  O18  1  0.50000000  0.74999100  0.69523800  1
+  O  O19  1  0.50000000  0.00001100  0.19523800  1
+  O  O20  1  0.50000000  0.24999800  0.30476100  1
+  O  O21  1  0.50000100  0.50000300  0.80476000  1
+  O  O22  1  0.50000100  0.74999000  0.30476400  1
+  O  O23  1  0.50000100  0.00001100  0.80476300  1
+"
+"True","mp-754908","NbCrO4","Tetragonal","I-4m2","119","6","0.041462122321384","-2.714569191666665","False","76.052486410934","4.561149282898313","0.775999999999999","False","False","FM","2.999918199999999","# generated using pymatgen
+data_NbCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60137010
+_cell_length_b   5.60135055
+_cell_length_c   5.60137164
+_cell_angle_alpha   138.60633489
+_cell_angle_beta   138.60653792
+_cell_angle_gamma   59.97555110
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCrO4
+_chemical_formula_sum   'Nb1 Cr1 O4'
+_cell_volume   76.05248641
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.99999900  0.00000000  0.99999800  1
+  Cr  Cr1  1  0.75000000  0.25000000  0.50000000  1
+  O  O2  1  0.53993700  0.03993400  0.49999900  1
+  O  O3  1  0.20654400  0.20654600  0.00000300  1
+  O  O4  1  0.96006200  0.46006800  0.50000100  1
+  O  O5  1  0.79345800  0.79345300  0.99999800  1
+"
+"True","mp-758053","NbCrO4","Tetragonal","I4_1md","109","12","0.006427617321383","-2.749603696666666","False","132.3655227051685","5.241345884736499","0.0","False","True","FM","5.9999999","# generated using pymatgen
+data_NbCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57055069
+_cell_length_b   5.57054898
+_cell_length_c   5.57055778
+_cell_angle_alpha   72.86725807
+_cell_angle_beta   107.13264135
+_cell_angle_gamma   65.74309285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCrO4
+_chemical_formula_sum   'Nb2 Cr2 O8'
+_cell_volume   132.36552271
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.26308897  0.23691218  0.49999800  1
+  Nb  Nb1  1  0.01309142  0.98690826  -0.00000116  1
+  Cr  Cr2  1  0.75166450  0.74833402  0.50000024  1
+  Cr  Cr3  1  0.50166844  0.49833254  0.00000030  1
+  O  O4  1  0.55120975  0.25422236  0.80543220  1
+  O  O5  1  0.04653326  0.75315434  0.79968780  1
+  O  O6  1  0.99577536  0.30965692  0.69456840  1
+  O  O7  1  0.49684427  0.80284294  0.70031258  1
+  O  O8  1  0.99577587  0.69879179  0.30543276  1
+  O  O9  1  0.49684389  0.20346826  0.29968770  1
+  O  O10  1  0.44715998  0.75315353  0.20031337  1
+  O  O11  1  0.94034429  0.25422286  0.19456779  1
+"
+"True","mp-772660","NbCrO4","Orthorhombic","Pbcn","60","24","0.008547631071383","-2.7474836829166662","False","257.82651990962904","5.381707730879707","1.875899999999999","False","False","FM","11.9999995","# generated using pymatgen
+data_NbCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51873620
+_cell_length_b   11.61773218
+_cell_length_c   4.91121829
+_cell_angle_alpha   89.99995699
+_cell_angle_beta   89.99896800
+_cell_angle_gamma   89.99993829
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCrO4
+_chemical_formula_sum   'Nb4 Cr4 O16'
+_cell_volume   257.82651991
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  -0.00000721  0.17027672  0.25000068  1
+  Nb  Nb1  1  -0.00000487  0.82972237  0.75000050  1
+  Nb  Nb2  1  0.49999576  0.67029408  0.24999527  1
+  Nb  Nb3  1  0.49999451  0.32970451  0.74999698  1
+  Cr  Cr4  1  -0.00000006  0.56601106  0.74999687  1
+  Cr  Cr5  1  0.49999725  0.06600817  0.75000392  1
+  Cr  Cr6  1  -0.00000133  0.43398988  0.24999666  1
+  Cr  Cr7  1  0.49999913  0.93399389  0.25000320  1
+  O  O8  1  0.23004063  0.31009404  0.42136277  1
+  O  O9  1  0.23003917  0.68990620  0.92136224  1
+  O  O10  1  0.26995421  0.18987200  0.92137085  1
+  O  O11  1  0.26995460  0.81012739  0.42137181  1
+  O  O12  1  0.73004905  0.18987152  0.57863246  1
+  O  O13  1  0.73004938  0.81012768  0.07862856  1
+  O  O14  1  0.76996699  0.68990652  0.57863510  1
+  O  O15  1  0.76996315  0.31009338  0.07863742  1
+  O  O16  1  0.26133169  0.05923047  0.41827929  1
+  O  O17  1  0.26133303  0.94076827  0.91827804  1
+  O  O18  1  0.23866647  0.44074811  0.91824060  1
+  O  O19  1  0.23866654  0.55925251  0.41824011  1
+  O  O20  1  0.76133636  0.44074791  0.58175961  1
+  O  O21  1  0.76133933  0.55925301  0.08175859  1
+  O  O22  1  0.73866837  0.05923003  0.08172335  1
+  O  O23  1  0.73866884  0.94076830  0.58172413  1
+"

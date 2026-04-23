@@ -1,0 +1,2 @@
+chemsys,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cu-O,Cu64O_1213626_POSCAR,35,local_max_drop,12.461483594,-0.98919511355384,-0.5410189437570417,-0.4481761697967983,11.126325,21.807596,0.0498214

@@ -1,0 +1,294 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-21991","Rh17S15","Cubic","Pm-3m","221","64","0.0","-0.541647407412106","True","983.8469625381532","7.528841716620978","0.0","False","True","NM","1.2e-05","# generated using pymatgen
+data_Rh17S15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.94586400
+_cell_length_b   9.94586400
+_cell_length_c   9.94586400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rh17S15
+_chemical_formula_sum   'Rh34 S30'
+_cell_volume   983.84696254
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.35700421  0.35700421  0.14239450  1
+  Rh  Rh1  1  0.35700421  0.85760550  0.35700421  1
+  Rh  Rh2  1  0.35700421  0.14239450  0.64299579  1
+  Rh  Rh3  1  0.14239450  0.35700421  0.64299579  1
+  Rh  Rh4  1  0.85760550  0.35700421  0.35700421  1
+  Rh  Rh5  1  0.64299579  0.35700421  0.14239450  1
+  Rh  Rh6  1  0.35700421  0.64299579  0.14239450  1
+  Rh  Rh7  1  0.14239450  0.35700421  0.35700421  1
+  Rh  Rh8  1  0.35700421  0.14239450  0.35700421  1
+  Rh  Rh9  1  0.64299579  0.85760550  0.35700421  1
+  Rh  Rh10  1  0.14239450  0.64299579  0.64299579  1
+  Rh  Rh11  1  0.64299579  0.14239450  0.64299579  1
+  Rh  Rh12  1  0.85760550  0.64299579  0.35700421  1
+  Rh  Rh13  1  0.85760550  0.35700421  0.64299579  1
+  Rh  Rh14  1  0.35700421  0.85760550  0.64299579  1
+  Rh  Rh15  1  0.35700421  0.64299579  0.85760550  1
+  Rh  Rh16  1  0.64299579  0.35700421  0.85760550  1
+  Rh  Rh17  1  0.64299579  0.64299579  0.14239450  1
+  Rh  Rh18  1  0.35700421  0.35700421  0.85760550  1
+  Rh  Rh19  1  0.64299579  0.64299579  0.85760550  1
+  Rh  Rh20  1  0.14239450  0.64299579  0.35700421  1
+  Rh  Rh21  1  0.85760550  0.64299579  0.64299579  1
+  Rh  Rh22  1  0.64299579  0.14239450  0.35700421  1
+  Rh  Rh23  1  0.64299579  0.85760550  0.64299579  1
+  Rh  Rh24  1  -0.00000000  0.23954299  -0.00000000  1
+  Rh  Rh25  1  -0.00000000  0.00000000  0.23954299  1
+  Rh  Rh26  1  -0.00000000  0.00000000  0.76045701  1
+  Rh  Rh27  1  0.76045701  0.00000000  -0.00000000  1
+  Rh  Rh28  1  0.23954299  0.00000000  -0.00000000  1
+  Rh  Rh29  1  -0.00000000  0.76045701  -0.00000000  1
+  Rh  Rh30  1  -0.00000000  0.50000000  -0.00000000  1
+  Rh  Rh31  1  -0.00000000  0.00000000  0.50000000  1
+  Rh  Rh32  1  0.50000000  0.00000000  -0.00000000  1
+  Rh  Rh33  1  0.50000000  0.50000000  0.50000000  1
+  S  S34  1  0.16993931  0.50000000  0.16993931  1
+  S  S35  1  0.16993931  0.83006069  0.50000000  1
+  S  S36  1  0.16993931  0.16993931  0.50000000  1
+  S  S37  1  0.16993931  0.50000000  0.83006069  1
+  S  S38  1  0.83006069  0.50000000  0.16993931  1
+  S  S39  1  0.50000000  0.16993931  0.16993931  1
+  S  S40  1  0.50000000  0.83006069  0.16993931  1
+  S  S41  1  0.50000000  0.16993931  0.83006069  1
+  S  S42  1  0.83006069  0.83006069  0.50000000  1
+  S  S43  1  0.83006069  0.16993931  0.50000000  1
+  S  S44  1  0.50000000  0.83006069  0.83006069  1
+  S  S45  1  0.83006069  0.50000000  0.83006069  1
+  S  S46  1  0.22946711  0.22946711  -0.00000000  1
+  S  S47  1  0.22946711  0.00000000  0.22946711  1
+  S  S48  1  0.22946711  0.00000000  0.77053289  1
+  S  S49  1  -0.00000000  0.22946711  0.77053289  1
+  S  S50  1  -0.00000000  0.22946711  0.22946711  1
+  S  S51  1  0.77053289  0.22946711  -0.00000000  1
+  S  S52  1  0.22946711  0.77053289  -0.00000000  1
+  S  S53  1  0.77053289  0.00000000  0.22946711  1
+  S  S54  1  -0.00000000  0.77053289  0.77053289  1
+  S  S55  1  0.77053289  0.00000000  0.77053289  1
+  S  S56  1  -0.00000000  0.77053289  0.22946711  1
+  S  S57  1  0.77053289  0.77053289  -0.00000000  1
+  S  S58  1  0.50000000  0.50000000  0.26275754  1
+  S  S59  1  0.50000000  0.73724246  0.50000000  1
+  S  S60  1  0.50000000  0.26275754  0.50000000  1
+  S  S61  1  0.26275754  0.50000000  0.50000000  1
+  S  S62  1  0.73724246  0.50000000  0.50000000  1
+  S  S63  1  0.50000000  0.50000000  0.73724246  1
+"
+"True","mp-17173","Rh2S3","Orthorhombic","Pbcn","60","20","0.001157145499998","-0.610465406187501","False","315.0091498043007","6.367977078242351","0.19179999999999903","False","False","NM","0.0","# generated using pymatgen
+data_Rh2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00682589
+_cell_length_b   6.16210308
+_cell_length_c   8.51038418
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rh2S3
+_chemical_formula_sum   'Rh8 S12'
+_cell_volume   315.00914980
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.75129516  0.03240269  0.39357304  1
+  Rh  Rh1  1  0.75129516  0.46759731  0.60642696  1
+  Rh  Rh2  1  0.74870484  0.53240269  0.10642696  1
+  Rh  Rh3  1  0.74870484  0.96759731  0.89357304  1
+  Rh  Rh4  1  0.24870484  0.96759731  0.60642696  1
+  Rh  Rh5  1  0.24870484  0.53240269  0.39357304  1
+  Rh  Rh6  1  0.25129516  0.46759731  0.89357304  1
+  Rh  Rh7  1  0.25129516  0.03240269  0.10642696  1
+  S  S8  1  0.45223603  0.25000000  0.50000000  1
+  S  S9  1  0.04776397  0.75000000  0.00000000  1
+  S  S10  1  0.54776397  0.75000000  0.50000000  1
+  S  S11  1  0.95223603  0.25000000  0.00000000  1
+  S  S12  1  0.89086029  0.39332716  0.34865387  1
+  S  S13  1  0.89086029  0.10667284  0.65134613  1
+  S  S14  1  0.60913971  0.89332716  0.15134613  1
+  S  S15  1  0.60913971  0.60667284  0.84865387  1
+  S  S16  1  0.39086029  0.39332716  0.15134613  1
+  S  S17  1  0.39086029  0.10667284  0.84865387  1
+  S  S18  1  0.10913971  0.89332716  0.34865387  1
+  S  S19  1  0.10913971  0.60667284  0.65134613  1
+"
+"True","mp-974381","Rh2S3","Trigonal","R-3c","167","10","0.0","-0.6116225516875","True","163.22288044051223","6.144883119255724","0.4203","False","False","NM","0.0","# generated using pymatgen
+data_Rh2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98491181
+_cell_length_b   5.98491050
+_cell_length_c   6.29494454
+_cell_angle_alpha   118.38371231
+_cell_angle_beta   61.61628159
+_cell_angle_gamma   119.99999017
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rh2S3
+_chemical_formula_sum   'Rh4 S6'
+_cell_volume   163.22288044
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.64989332  0.35010668  0.05032003  1
+  Rh  Rh1  1  0.85010668  0.14989332  0.44967997  1
+  Rh  Rh2  1  0.14989432  0.85010568  0.55031803  1
+  Rh  Rh3  1  0.35010568  0.64989432  0.94968097  1
+  S  S4  1  0.95017573  0.45017473  0.24999900  1
+  S  S5  1  0.54982527  0.74999900  0.24999900  1
+  S  S6  1  0.25000000  0.04982427  0.24999900  1
+  S  S7  1  0.75000100  0.95017473  0.74999900  1
+  S  S8  1  0.45017773  0.25000000  0.74999900  1
+  S  S9  1  0.04982527  0.54982327  0.74999900  1
+"
+"True","mp-29841","Rh3S4","Monoclinic","C2/m","12","21","0.0","-0.6062629511309511","True","335.6147118811866","6.486156807926365","0.0","False","True","NM","3e-07","# generated using pymatgen
+data_Rh3S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.26571117
+_cell_length_b   7.50546022
+_cell_length_c   7.50546018
+_cell_angle_alpha   92.10800937
+_cell_angle_beta   102.32733756
+_cell_angle_gamma   102.32733911
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rh3S4
+_chemical_formula_sum   'Rh9 S12'
+_cell_volume   335.61471188
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.00000000  0.16044329  0.83955671  1
+  Rh  Rh1  1  -0.00000000  0.83955671  0.16044329  1
+  Rh  Rh2  1  0.50000000  0.00000000  -0.00000000  1
+  Rh  Rh3  1  0.05318980  0.35010935  0.35010935  1
+  Rh  Rh4  1  0.94681020  0.64989065  0.64989065  1
+  Rh  Rh5  1  0.54942704  0.78340869  0.49142699  1
+  Rh  Rh6  1  0.45057296  0.50857301  0.21659131  1
+  Rh  Rh7  1  0.45057296  0.21659131  0.50857301  1
+  Rh  Rh8  1  0.54942704  0.49142699  0.78340869  1
+  S  S9  1  0.89954811  0.85924658  0.44068955  1
+  S  S10  1  0.10045189  0.55931045  0.14075342  1
+  S  S11  1  0.10045189  0.14075342  0.55931045  1
+  S  S12  1  0.89954811  0.44068955  0.85924658  1
+  S  S13  1  0.88875813  0.11795488  0.11795488  1
+  S  S14  1  0.11124187  0.88204512  0.88204512  1
+  S  S15  1  0.61406609  0.03248306  0.71579577  1
+  S  S16  1  0.38593391  0.28420423  0.96751694  1
+  S  S17  1  0.38593391  0.96751694  0.28420423  1
+  S  S18  1  0.27294592  0.58440922  0.58440922  1
+  S  S19  1  0.72705408  0.41559078  0.41559078  1
+  S  S20  1  0.61406609  0.71579577  0.03248306  1
+"
+"True","mp-1186903","RhS","Hexagonal","P6_3mc","186","4","0.222628095652172","-0.33868491202219103","False","73.82746310759208","6.071555994329905","0.0","False","True","NM","0.0012986","# generated using pymatgen
+data_RhS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.64000269
+_cell_length_b   3.64000269
+_cell_length_c   6.43404300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001256
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RhS
+_chemical_formula_sum   'Rh2 S2'
+_cell_volume   73.82746311
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.00000000  0.00000000  0.00583200  1
+  Rh  Rh1  1  0.33333300  0.66666600  0.50583100  1
+  S  S2  1  0.00000000  0.00000000  0.36916800  1
+  S  S3  1  0.33333300  0.66666600  0.86916900  1
+"
+"True","mp-22555","RhS2","Cubic","Pa-3","205","12","0.044848498697918","-0.46483696104166705","False","188.1063755320369","5.898130193079496","0.0","False","True","NM","0.003079299999999","# generated using pymatgen
+data_RhS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73014691
+_cell_length_b   5.72985766
+_cell_length_c   5.72919924
+_cell_angle_alpha   89.99803109
+_cell_angle_beta   89.99879483
+_cell_angle_gamma   90.00129969
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RhS2
+_chemical_formula_sum   'Rh4 S8'
+_cell_volume   188.10637553
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.00000188  0.50001095  0.50000443  1
+  Rh  Rh1  1  0.49999976  0.50001070  -0.00000043  1
+  Rh  Rh2  1  0.49999471  -0.00001475  0.49999799  1
+  Rh  Rh3  1  -0.00000270  -0.00001284  -0.00000281  1
+  S  S4  1  0.39230946  0.10757055  0.89214967  1
+  S  S5  1  0.10774818  0.89226756  0.39240592  1
+  S  S6  1  0.89239631  0.39230278  0.10784103  1
+  S  S7  1  0.60774993  0.60780894  0.60752912  1
+  S  S8  1  0.39224846  0.39220954  0.39246766  1
+  S  S9  1  0.10760526  0.60771366  0.89215928  1
+  S  S10  1  0.89225716  0.10771749  0.60759723  1
+  S  S11  1  0.60769258  0.89241642  0.10785089  1
+"

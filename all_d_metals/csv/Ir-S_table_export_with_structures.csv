@@ -1,0 +1,213 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1188655","Ir2S3","Orthorhombic","Pbcn","60","20","0.0","-0.48808257418750106","True","317.5501599488466","10.053255601186986","0.7821","False","False","NM","0.0","# generated using pymatgen
+data_Ir2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04035176
+_cell_length_b   6.17499299
+_cell_length_c   8.51360774
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ir2S3
+_chemical_formula_sum   'Ir8 S12'
+_cell_volume   317.55015995
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ir  Ir0  1  0.74920613  0.52963482  0.10797451  1
+  Ir  Ir1  1  0.75079387  0.02963482  0.39202549  1
+  Ir  Ir2  1  0.75079387  0.47036518  0.60797451  1
+  Ir  Ir3  1  0.74920613  0.97036518  0.89202549  1
+  Ir  Ir4  1  0.25079387  0.47036518  0.89202549  1
+  Ir  Ir5  1  0.24920613  0.97036518  0.60797451  1
+  Ir  Ir6  1  0.24920613  0.52963482  0.39202549  1
+  Ir  Ir7  1  0.25079387  0.02963482  0.10797451  1
+  S  S8  1  0.60940142  0.89106780  0.15008206  1
+  S  S9  1  0.89059858  0.39106780  0.34991794  1
+  S  S10  1  0.89059858  0.10893220  0.65008206  1
+  S  S11  1  0.60940142  0.60893220  0.84991794  1
+  S  S12  1  0.39059858  0.10893220  0.84991794  1
+  S  S13  1  0.10940142  0.60893220  0.65008206  1
+  S  S14  1  0.10940142  0.89106780  0.34991794  1
+  S  S15  1  0.39059858  0.39106780  0.15008206  1
+  S  S16  1  0.04472453  0.75000000  0.00000000  1
+  S  S17  1  0.45527547  0.25000000  0.50000000  1
+  S  S18  1  0.95527547  0.25000000  0.00000000  1
+  S  S19  1  0.54472453  0.75000000  0.50000000  1
+"
+"True","mp-861979","Ir2S3","Trigonal","R-3c","167","10","0.000835235500002","-0.48724733868750103","False","164.6731569089483","9.693179459505735","1.137699999999999","False","False","NM","0.0","# generated using pymatgen
+data_Ir2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01202360
+_cell_length_b   6.01202310
+_cell_length_c   6.30272364
+_cell_angle_alpha   118.48585418
+_cell_angle_beta   61.51414714
+_cell_angle_gamma   120.00027858
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ir2S3
+_chemical_formula_sum   'Ir4 S6'
+_cell_volume   164.67315691
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ir  Ir0  1  0.64819549  0.35180426  0.05541545  1
+  Ir  Ir1  1  0.85180395  0.14819528  0.44458593  1
+  Ir  Ir2  1  0.14819505  0.85180372  0.55541407  1
+  Ir  Ir3  1  0.35180451  0.64819474  0.94458555  1
+  S  S4  1  0.54665176  0.74999826  0.24999484  1
+  S  S5  1  0.25000589  0.04665449  0.25000142  1
+  S  S6  1  0.95334872  0.45335091  0.24999810  1
+  S  S7  1  0.04665128  0.54665009  0.75000290  1
+  S  S8  1  0.74999311  0.95334551  0.74999958  1
+  S  S9  1  0.45334624  0.25000174  0.75000616  1
+"
+"True","mp-1101826","Ir3S8","Trigonal","R-3","148","11","0.0","-0.421793603863637","True","184.01641821623707","7.518421497762374","0.0","False","True","NM","0.0001058","# generated using pymatgen
+data_Ir3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68837537
+_cell_length_b   5.68837578
+_cell_length_c   5.68837508
+_cell_angle_alpha   89.25853630
+_cell_angle_beta   90.74148454
+_cell_angle_gamma   90.74145769
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ir3S8
+_chemical_formula_sum   'Ir3 S8'
+_cell_volume   184.01641822
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ir  Ir0  1  0.50000000  0.50000000  0.00000000  1
+  Ir  Ir1  1  0.00000000  0.50000000  0.50000000  1
+  Ir  Ir2  1  0.50000000  0.00000000  0.50000000  1
+  S  S3  1  0.11046559  0.11031845  0.39610039  1
+  S  S4  1  0.60389961  0.88953441  0.11031845  1
+  S  S5  1  0.88968155  0.39610039  0.88953441  1
+  S  S6  1  0.88953441  0.88968155  0.60389961  1
+  S  S7  1  0.39610039  0.11046559  0.88968155  1
+  S  S8  1  0.11031845  0.60389961  0.11046559  1
+  S  S9  1  0.37225261  0.62774739  0.62774739  1
+  S  S10  1  0.62774739  0.37225261  0.37225261  1
+"
+"True","mp-1102261","IrS2","Cubic","Pa-3","205","12","0.11333447083332601","-0.38941086645829104","False","189.68784250372693","8.976309762126093","0.0","False","True","NM","0.008581499999999001","# generated using pymatgen
+data_IrS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74574700
+_cell_length_b   5.74574700
+_cell_length_c   5.74574700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   IrS2
+_chemical_formula_sum   'Ir4 S8'
+_cell_volume   189.68784250
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ir  Ir0  1  0.50000000  0.50000000  0.00000000  1
+  Ir  Ir1  1  0.50000000  0.00000000  0.50000000  1
+  Ir  Ir2  1  0.00000000  0.50000000  0.50000000  1
+  Ir  Ir3  1  0.00000000  0.00000000  0.00000000  1
+  S  S4  1  0.13258800  0.86741200  0.36741200  1
+  S  S5  1  0.86741200  0.36741200  0.13258800  1
+  S  S6  1  0.36741200  0.13258800  0.86741200  1
+  S  S7  1  0.63258800  0.63258800  0.63258800  1
+  S  S8  1  0.86741200  0.13258800  0.63258800  1
+  S  S9  1  0.13258800  0.63258800  0.86741200  1
+  S  S10  1  0.63258800  0.86741200  0.13258800  1
+  S  S11  1  0.36741200  0.36741200  0.36741200  1
+"
+"True","mp-2833","IrS2","Orthorhombic","Pnma","62","24","0.0","-0.502745337291661","True","405.32579294529916","8.401620928439797","0.5371","False","False","NM","0.0","# generated using pymatgen
+data_IrS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.58569476
+_cell_length_b   5.66252955
+_cell_length_c   19.96275345
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   IrS2
+_chemical_formula_sum   'Ir8 S16'
+_cell_volume   405.32579295
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ir  Ir0  1  0.25000000  0.94104573  0.80391746  1
+  Ir  Ir1  1  0.75000000  0.05895427  0.19608254  1
+  Ir  Ir2  1  0.75000000  0.44104573  0.69608254  1
+  Ir  Ir3  1  0.25000000  0.55895427  0.30391746  1
+  Ir  Ir4  1  0.25000000  0.92657031  0.57730613  1
+  Ir  Ir5  1  0.75000000  0.07342969  0.42269387  1
+  Ir  Ir6  1  0.75000000  0.42657031  0.92269387  1
+  Ir  Ir7  1  0.25000000  0.57342969  0.07730613  1
+  S  S8  1  0.25000000  0.22292644  0.49136998  1
+  S  S9  1  0.75000000  0.77707356  0.50863002  1
+  S  S10  1  0.75000000  0.72292644  0.00863002  1
+  S  S11  1  0.25000000  0.27707356  0.99136998  1
+  S  S12  1  0.25000000  0.17863762  0.26353290  1
+  S  S13  1  0.75000000  0.82136238  0.73646710  1
+  S  S14  1  0.75000000  0.67863762  0.23646710  1
+  S  S15  1  0.25000000  0.32136238  0.76353290  1
+  S  S16  1  0.25000000  0.93695433  0.35884653  1
+  S  S17  1  0.75000000  0.06304567  0.64115347  1
+  S  S18  1  0.75000000  0.43695433  0.14115347  1
+  S  S19  1  0.25000000  0.56304567  0.85884653  1
+  S  S20  1  0.25000000  0.54604613  0.62342836  1
+  S  S21  1  0.75000000  0.45395387  0.37657164  1
+  S  S22  1  0.75000000  0.04604613  0.87657164  1
+  S  S23  1  0.25000000  0.95395387  0.12342836  1
+"

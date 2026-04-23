@@ -1,0 +1,110 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-27253","Au2O3","Orthorhombic","Fdd2","43","10","0.0","-0.45785339499999805","True","132.65363346808087","11.06406560179728","0.8689999999999991","False","False","NM","0.0","# generated using pymatgen
+data_Au2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91068535
+_cell_length_b   5.61926549
+_cell_length_c   6.72926850
+_cell_angle_alpha   84.19684487
+_cell_angle_beta   73.10774457
+_cell_angle_gamma   69.63672757
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Au2O3
+_chemical_formula_sum   'Au4 O6'
+_cell_volume   132.65363347
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.93420770  0.23363909  0.40875231  1
+  Au  Au1  1  0.57659810  0.76636091  0.59124769  1
+  Au  Au2  1  0.41784679  0.26636091  0.90875231  1
+  Au  Au3  1  0.59295901  0.73363909  0.09124769  1
+  O  O4  1  0.43786933  0.50000000  0.50000000  1
+  O  O5  1  0.18786933  0.00000000  -0.00000000  1
+  O  O6  1  0.77185062  0.03624394  0.66428169  1
+  O  O7  1  0.47237425  0.96375606  0.33571831  1
+  O  O8  1  0.68613131  0.53624394  0.83571831  1
+  O  O9  1  0.05809456  0.46375606  0.16428169  1
+"
+"True","mp-658803","Au2O3","Triclinic","P1","1","10","0.026197807999998","-0.431655587","False","141.0330904790057","10.406696031567849","0.7390000000000001","False","False","NM","0.000277499999999","# generated using pymatgen
+data_Au2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.42413160
+_cell_length_b   6.83063566
+_cell_length_c   5.70378884
+_cell_angle_alpha   83.94097083
+_cell_angle_beta   53.73714294
+_cell_angle_gamma   42.32188623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Au2O3
+_chemical_formula_sum   'Au4 O6'
+_cell_volume   141.03309048
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.91791200  0.17650100  0.35302400  1
+  Au  Au1  1  0.57010700  0.33497400  0.15644000  1
+  Au  Au2  1  0.91575100  0.67819000  0.31105100  1
+  Au  Au3  1  0.07836900  0.33281000  0.68104300  1
+  O  O4  1  0.04862800  0.94406000  0.95295500  1
+  O  O5  1  0.30648600  0.19472100  0.20246200  1
+  O  O6  1  0.02462700  0.80493700  0.44471500  1
+  O  O7  1  0.74352000  0.42294300  0.79418300  1
+  O  O8  1  0.44341800  0.21907600  0.51320600  1
+  O  O9  1  0.81124900  0.52109400  0.21508100  1
+"
+"True","mp-984358","Au3O","Hexagonal","P6_3/mmc","194","8","0.387308111666666","0.196535863749999","False","141.39351666694836","14.254963033870544","0.0","False","True","NM","0.000120699999999","# generated using pymatgen
+data_Au3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45823254
+_cell_length_b   7.45823254
+_cell_length_c   2.93512800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000477
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Au3O
+_chemical_formula_sum   'Au6 O2'
+_cell_volume   141.39351667
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.81333300  0.18666700  0.75000000  1
+  Au  Au1  1  0.37333300  0.18666700  0.75000000  1
+  Au  Au2  1  0.81333300  0.62666700  0.75000000  1
+  Au  Au3  1  0.18666700  0.81333300  0.25000000  1
+  Au  Au4  1  0.62666700  0.81333300  0.25000000  1
+  Au  Au5  1  0.18666700  0.37333300  0.25000000  1
+  O  O6  1  0.66666700  0.33333300  0.25000000  1
+  O  O7  1  0.33333300  0.66666700  0.75000000  1
+"

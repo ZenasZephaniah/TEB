@@ -1,0 +1,829 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1041603","Zn(AgO2)2","Orthorhombic","Imma","74","14","0.13551152119047402","-0.6438047204761901","False","179.71492351224202","6.378139598679271","0.0","False","True","NM","0.0054173","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.22801845
+_cell_length_b   6.22801845
+_cell_length_c   6.22801845
+_cell_angle_alpha   117.51313705
+_cell_angle_beta   114.23820273
+_cell_angle_gamma   97.32612748
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn2 Ag4 O8'
+_cell_volume   179.71492351
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.50000000  0.00000000  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.50000000  1
+  Ag  Ag2  1  0.59889600  0.84889600  0.75000000  1
+  Ag  Ag3  1  0.40110400  0.15110400  0.25000000  1
+  Ag  Ag4  1  0.00000000  0.50000000  0.50000000  1
+  Ag  Ag5  1  0.50000000  0.50000000  0.00000000  1
+  O  O6  1  0.79953100  0.24995700  0.54957400  1
+  O  O7  1  0.26013600  0.71967900  0.95954300  1
+  O  O8  1  0.20038300  0.24995700  0.95042600  1
+  O  O9  1  0.26013600  0.30059300  0.54045700  1
+  O  O10  1  0.73986400  0.69940700  0.45954300  1
+  O  O11  1  0.73986400  0.28032100  0.04045700  1
+  O  O12  1  0.79961700  0.75004300  0.04957400  1
+  O  O13  1  0.20046900  0.75004300  0.45042600  1
+"
+"True","mp-1041822","Zn(AgO2)2","Triclinic","P-1","2","28","0.167476447619046","-0.611839794047618","False","382.08605131049643","5.999940935794943","0.11519999999999901","False","False","NM","0.0013916","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59297800
+_cell_length_b   6.33404456
+_cell_length_c   11.02884404
+_cell_angle_alpha   101.97262052
+_cell_angle_beta   91.45985728
+_cell_angle_gamma   89.78268591
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn4 Ag8 O16'
+_cell_volume   382.08605131
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.80086500  0.74825100  0.24984900  1
+  Zn  Zn1  1  0.19913500  0.25174900  0.75015100  1
+  Zn  Zn2  1  0.50841500  0.75229400  0.74965200  1
+  Zn  Zn3  1  0.49158500  0.24770600  0.25034800  1
+  Ag  Ag4  1  0.54773100  0.27004100  0.53517100  1
+  Ag  Ag5  1  0.54513300  0.23205800  0.96861500  1
+  Ag  Ag6  1  0.45226900  0.72995900  0.46482900  1
+  Ag  Ag7  1  0.45486700  0.76794200  0.03138500  1
+  Ag  Ag8  1  0.00000000  0.50000000  0.50000000  1
+  Ag  Ag9  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag10  1  0.00000000  0.00000000  0.50000000  1
+  Ag  Ag11  1  0.00000000  0.50000000  0.00000000  1
+  O  O12  1  0.90909400  0.29038900  0.61768000  1
+  O  O13  1  0.89564100  0.20881100  0.88460600  1
+  O  O14  1  0.09090600  0.70961100  0.38232000  1
+  O  O15  1  0.10435900  0.79118900  0.11539400  1
+  O  O16  1  0.26262400  0.28162500  0.41422000  1
+  O  O17  1  0.26581100  0.22229100  0.08755300  1
+  O  O18  1  0.73737600  0.71837500  0.58578000  1
+  O  O19  1  0.73418900  0.77770900  0.91244700  1
+  O  O20  1  0.62522900  0.53605000  0.32684900  1
+  O  O21  1  0.63815200  0.96588200  0.16931300  1
+  O  O22  1  0.28700600  0.94283000  0.60433200  1
+  O  O23  1  0.27756800  0.54690200  0.89500900  1
+  O  O24  1  0.37477100  0.46395000  0.67315100  1
+  O  O25  1  0.36184800  0.03411800  0.83068700  1
+  O  O26  1  0.71299400  0.05717000  0.39566800  1
+  O  O27  1  0.72243200  0.45309800  0.10499100  1
+"
+"True","mp-1042280","Zn(AgO2)2","Triclinic","P-1","2","14","0.14964349547618902","-0.6296727461904751","False","197.98858075926455","5.7894595018122565","0.2545","False","False","NM","0.000592","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.26025276
+_cell_length_b   8.10813820
+_cell_length_c   7.87131924
+_cell_angle_alpha   81.01015955
+_cell_angle_beta   78.44478912
+_cell_angle_gamma   98.33006258
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn2 Ag4 O8'
+_cell_volume   197.98858076
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.30224600  0.18219000  0.21161100  1
+  Zn  Zn1  1  0.69984100  0.79589900  0.82146100  1
+  Ag  Ag2  1  0.66896000  0.16774300  0.55846900  1
+  Ag  Ag3  1  0.07533400  0.52243200  0.20069900  1
+  Ag  Ag4  1  0.92714100  0.45572800  0.83246500  1
+  Ag  Ag5  1  0.33334500  0.81028600  0.47455500  1
+  O  O6  1  0.84025900  0.63244700  0.63263600  1
+  O  O7  1  0.56992000  0.25860800  0.77889600  1
+  O  O8  1  0.43270800  0.71972000  0.25393800  1
+  O  O9  1  0.16227900  0.34560200  0.40045200  1
+  O  O10  1  0.30357400  0.93210000  0.69479400  1
+  O  O11  1  0.88409000  0.31475500  0.08421400  1
+  O  O12  1  0.69862400  0.04598000  0.33829600  1
+  O  O13  1  0.11799100  0.66331100  0.94895700  1
+"
+"True","mp-1044628","Zn(AgO2)2","Trigonal","P3m1","156","42","0.158895076904761","-0.620421164761904","False","548.1535138895825","6.273316731987285","0.0","False","True","FM","12.8706628","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.39278234
+_cell_length_b   6.39278234
+_cell_length_c   15.48787200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000347
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn6 Ag12 O24'
+_cell_volume   548.15351389
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.33333300  0.66666700  0.95425300  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.62374300  1
+  Zn  Zn2  1  0.00000000  0.00000000  0.99799700  1
+  Zn  Zn3  1  0.66666700  0.33333300  0.28890600  1
+  Zn  Zn4  1  0.33333300  0.66666700  0.71006800  1
+  Zn  Zn5  1  0.00000000  0.00000000  0.37717600  1
+  Ag  Ag6  1  0.83585400  0.67170800  0.83349800  1
+  Ag  Ag7  1  0.32829200  0.16414600  0.83349800  1
+  Ag  Ag8  1  0.49997600  0.99995100  0.50013700  1
+  Ag  Ag9  1  0.83585400  0.16414600  0.83349800  1
+  Ag  Ag10  1  0.66666700  0.33333300  0.66677400  1
+  Ag  Ag11  1  0.00004900  0.50002400  0.50013700  1
+  Ag  Ag12  1  0.16511400  0.33022900  0.16628400  1
+  Ag  Ag13  1  0.49997600  0.50002400  0.50013700  1
+  Ag  Ag14  1  0.16511400  0.83488600  0.16628400  1
+  Ag  Ag15  1  0.33333300  0.66666700  0.33402700  1
+  Ag  Ag16  1  0.66977100  0.83488600  0.16628400  1
+  Ag  Ag17  1  0.66666700  0.33333300  0.04193500  1
+  O  O18  1  0.68666200  0.84333100  0.91758100  1
+  O  O19  1  0.00000000  0.00000000  0.75400700  1
+  O  O20  1  0.15666900  0.84333100  0.91758100  1
+  O  O21  1  0.15666900  0.31333800  0.91758100  1
+  O  O22  1  0.50519400  0.01038800  0.75321600  1
+  O  O23  1  0.34166800  0.17083400  0.58171000  1
+  O  O24  1  0.50519400  0.49480600  0.75321600  1
+  O  O25  1  0.66666700  0.33333300  0.90280900  1
+  O  O26  1  0.82916600  0.17083400  0.58171000  1
+  O  O27  1  0.66666700  0.33333300  0.41867700  1
+  O  O28  1  0.98961200  0.49480600  0.75321600  1
+  O  O29  1  0.82916600  0.65833200  0.58171000  1
+  O  O30  1  0.17149000  0.34298100  0.41885800  1
+  O  O31  1  0.01537800  0.50768900  0.24316800  1
+  O  O32  1  0.17149000  0.82851000  0.41885800  1
+  O  O33  1  0.33333300  0.66666700  0.58034100  1
+  O  O34  1  0.33333300  0.66666700  0.08270300  1
+  O  O35  1  0.49231100  0.50768900  0.24316800  1
+  O  O36  1  0.65701900  0.82851000  0.41885800  1
+  O  O37  1  0.49231100  0.98462200  0.24316800  1
+  O  O38  1  0.85447000  0.70893900  0.09047500  1
+  O  O39  1  0.00000000  0.00000000  0.25140400  1
+  O  O40  1  0.85447000  0.14553000  0.09047500  1
+  O  O41  1  0.29106100  0.14553000  0.09047500  1
+"
+"True","mp-1044670","Zn(AgO2)2","Trigonal","R3m","160","14","0.13643628547619002","-0.642879956190475","False","182.74241617415606","6.272472992995004","0.0","False","True","NM","0.0129731","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30584419
+_cell_length_b   6.30584419
+_cell_length_c   6.30584436
+_cell_angle_alpha   61.36555054
+_cell_angle_beta   61.36555054
+_cell_angle_gamma   61.36555237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn2 Ag4 O8'
+_cell_volume   182.74241617
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00802300  0.00802300  0.00802300  1
+  Zn  Zn1  1  0.62636000  0.62636000  0.62636000  1
+  Ag  Ag2  1  0.24369300  0.24369300  0.24369300  1
+  Ag  Ag3  1  0.62609700  0.12300400  0.62609700  1
+  Ag  Ag4  1  0.62609700  0.62609700  0.12300400  1
+  Ag  Ag5  1  0.12300400  0.62609700  0.62609700  1
+  O  O6  1  0.82574900  0.38769900  0.38769900  1
+  O  O7  1  0.38769900  0.38769900  0.82574900  1
+  O  O8  1  0.38769900  0.82574900  0.38769900  1
+  O  O9  1  0.37983300  0.37983300  0.37983300  1
+  O  O10  1  0.87896100  0.87896100  0.87896100  1
+  O  O11  1  0.86665900  0.40346900  0.86665900  1
+  O  O12  1  0.86665900  0.86665900  0.40346900  1
+  O  O13  1  0.40346900  0.86665900  0.86665900  1
+"
+"True","mp-1044896","Zn(AgO2)2","Trigonal","P3m1","156","42","0.14705217428571302","-0.6322640673809521","False","546.0800610961454","6.297136363994989","0.0","False","True","FM","8.5644061","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40680398
+_cell_length_b   6.40680398
+_cell_length_c   15.36182500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999981
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn6 Ag12 O24'
+_cell_volume   546.08006110
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.00000000  0.95152500  1
+  Zn  Zn1  1  0.66666700  0.33333300  0.61962300  1
+  Zn  Zn2  1  0.33333300  0.66666700  0.66547500  1
+  Zn  Zn3  1  0.33333300  0.66666700  0.28676200  1
+  Zn  Zn4  1  0.66666700  0.33333300  0.99806300  1
+  Zn  Zn5  1  0.66666700  0.33333300  0.37965400  1
+  Ag  Ag6  1  0.99834100  0.49917100  0.83316200  1
+  Ag  Ag7  1  0.50082900  0.49917100  0.83316200  1
+  Ag  Ag8  1  0.66102000  0.83051000  0.50036300  1
+  Ag  Ag9  1  0.50082900  0.00165900  0.83316200  1
+  Ag  Ag10  1  0.16949000  0.83051000  0.50036300  1
+  Ag  Ag11  1  0.00000000  0.00000000  0.33439600  1
+  Ag  Ag12  1  0.00000000  0.00000000  0.70982500  1
+  Ag  Ag13  1  0.33666400  0.16833200  0.16633300  1
+  Ag  Ag14  1  0.16949000  0.33898000  0.50036300  1
+  Ag  Ag15  1  0.83166800  0.16833200  0.16633300  1
+  Ag  Ag16  1  0.83166800  0.66333600  0.16633300  1
+  Ag  Ag17  1  0.33333300  0.66666700  0.04530800  1
+  O  O18  1  0.35883100  0.17941600  0.91279700  1
+  O  O19  1  0.66666700  0.33333300  0.74996900  1
+  O  O20  1  0.82058400  0.17941600  0.91279700  1
+  O  O21  1  0.82058400  0.64116900  0.91279700  1
+  O  O22  1  0.02045100  0.51022600  0.58488900  1
+  O  O23  1  0.18780400  0.37560800  0.75825500  1
+  O  O24  1  0.33333300  0.66666700  0.41794300  1
+  O  O25  1  0.18780400  0.81219600  0.75825500  1
+  O  O26  1  0.33333300  0.66666700  0.91007700  1
+  O  O27  1  0.48977400  0.51022600  0.58488900  1
+  O  O28  1  0.48977400  0.97954900  0.58488900  1
+  O  O29  1  0.62439200  0.81219600  0.75825500  1
+  O  O30  1  0.68252900  0.84126500  0.24161500  1
+  O  O31  1  0.83815100  0.67630300  0.42112200  1
+  O  O32  1  0.83815100  0.16184900  0.42112200  1
+  O  O33  1  0.00000000  0.00000000  0.07965100  1
+  O  O34  1  0.00000000  0.00000000  0.57057800  1
+  O  O35  1  0.15873500  0.84126500  0.24161500  1
+  O  O36  1  0.15873500  0.31747100  0.24161500  1
+  O  O37  1  0.32369700  0.16184900  0.42112200  1
+  O  O38  1  0.52135400  0.04270800  0.09080300  1
+  O  O39  1  0.52135400  0.47864600  0.09080300  1
+  O  O40  1  0.66666700  0.33333300  0.25331500  1
+  O  O41  1  0.95729200  0.47864600  0.09080300  1
+"
+"True","mp-1047016","Zn(AgO2)2","Tetragonal","I4_1/amd","141","14","0.06889668119047501","-0.710419560476189","False","197.40064828822324","5.806702663171706","0.22429999999999903","False","False","NM","9.78e-05","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05664630
+_cell_length_b   7.05664630
+_cell_length_c   7.05664630
+_cell_angle_alpha   130.70738515
+_cell_angle_beta   130.70738515
+_cell_angle_gamma   72.27839685
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn2 Ag4 O8'
+_cell_volume   197.40064829
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50000000  0.50000000  0.00000000  1
+  Zn  Zn1  1  0.25000000  0.75000000  0.50000000  1
+  Ag  Ag2  1  0.87500000  0.12500000  0.25000000  1
+  Ag  Ag3  1  0.37500000  0.12500000  0.25000000  1
+  Ag  Ag4  1  0.87500000  0.62500000  0.75000000  1
+  Ag  Ag5  1  0.87500000  0.12500000  0.75000000  1
+  O  O6  1  0.62234400  0.86239200  0.75995100  1
+  O  O7  1  0.13760800  0.89755900  0.75995100  1
+  O  O8  1  0.13760800  0.37765600  0.24004900  1
+  O  O9  1  0.12765600  0.38760800  0.74004900  1
+  O  O10  1  0.64755900  0.38760800  0.25995100  1
+  O  O11  1  0.61239200  0.35244100  0.74004900  1
+  O  O12  1  0.10244100  0.86239200  0.24004900  1
+  O  O13  1  0.61239200  0.87234400  0.25995100  1
+"
+"True","mp-1047248","Zn(AgO2)2","Tetragonal","I4_1/a","88","14","0.12035869690476","-0.658957544761904","False","180.13198355797073","6.363372275630096","0.0","False","True","NM","4.75e-05","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29749926
+_cell_length_b   6.29749926
+_cell_length_c   6.29749926
+_cell_angle_alpha   118.61135636
+_cell_angle_beta   118.61135636
+_cell_angle_gamma   92.42251462
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn2 Ag4 O8'
+_cell_volume   180.13198356
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.00000000  0.00000000  1
+  Zn  Zn1  1  0.75000000  0.25000000  0.50000000  1
+  Ag  Ag2  1  0.37500000  0.62500000  0.25000000  1
+  Ag  Ag3  1  0.37500000  0.12500000  0.75000000  1
+  Ag  Ag4  1  0.87500000  0.62500000  0.25000000  1
+  Ag  Ag5  1  0.37500000  0.62500000  0.75000000  1
+  O  O6  1  0.67127700  0.86847200  0.32317400  1
+  O  O7  1  0.13152800  0.45470200  0.80280400  1
+  O  O8  1  0.65189700  0.32872300  0.19719600  1
+  O  O9  1  0.20470200  0.90189700  0.82317400  1
+  O  O10  1  0.09810300  0.92127700  0.30280400  1
+  O  O11  1  0.61847200  0.79529800  0.69719600  1
+  O  O12  1  0.54529800  0.34810300  0.67682600  1
+  O  O13  1  0.07872300  0.38152800  0.17682600  1
+"
+"True","mp-1047348","Zn(AgO2)2","Orthorhombic","Cmcm","63","14","0.16743966833333201","-0.611876573333332","False","163.7067196384147","7.001831523219124","0.0","False","True","NM","0.000317","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52054808
+_cell_length_b   5.52054808
+_cell_length_c   9.97183300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   147.40648925
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn2 Ag4 O8'
+_cell_volume   163.70671964
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.60965400  0.39034600  0.75000000  1
+  Zn  Zn1  1  0.39034600  0.60965400  0.25000000  1
+  Ag  Ag2  1  0.13056400  0.86943600  0.07204000  1
+  Ag  Ag3  1  0.86943600  0.13056400  0.92796000  1
+  Ag  Ag4  1  0.13056400  0.86943600  0.42796000  1
+  Ag  Ag5  1  0.86943600  0.13056400  0.57204000  1
+  O  O6  1  0.78717000  0.21283000  0.37987200  1
+  O  O7  1  0.21283000  0.78717000  0.62012800  1
+  O  O8  1  0.21283000  0.78717000  0.87987200  1
+  O  O9  1  0.78717000  0.21283000  0.12012800  1
+  O  O10  1  0.02437100  0.97562900  0.25000000  1
+  O  O11  1  0.97562900  0.02437100  0.75000000  1
+  O  O12  1  0.50000000  0.50000000  0.00000000  1
+  O  O13  1  0.50000000  0.50000000  0.50000000  1
+"
+"True","mp-1047547","Zn(AgO2)2","Orthorhombic","Pbcm","57","28","0.105544266547618","-0.6737719751190471","False","341.1674780698128","6.719555314076519","0.196499999999999","False","False","NM","0.0036046","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.18641400
+_cell_length_b   9.89801700
+_cell_length_c   10.81725900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn4 Ag8 O16'
+_cell_volume   341.16747807
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.31490200  0.25000000  0.84880800  1
+  Zn  Zn1  1  0.31490200  0.75000000  0.65119200  1
+  Zn  Zn2  1  0.68509800  0.25000000  0.34880800  1
+  Zn  Zn3  1  0.68509800  0.75000000  0.15119200  1
+  Ag  Ag4  1  0.82320400  0.07060000  0.61548500  1
+  Ag  Ag5  1  0.82320400  0.57060000  0.88451500  1
+  Ag  Ag6  1  0.17679600  0.57060000  0.38451500  1
+  Ag  Ag7  1  0.82320400  0.92940000  0.88451500  1
+  Ag  Ag8  1  0.17679600  0.92940000  0.38451500  1
+  Ag  Ag9  1  0.82320400  0.42940000  0.61548500  1
+  Ag  Ag10  1  0.17679600  0.42940000  0.11548500  1
+  Ag  Ag11  1  0.17679600  0.07060000  0.11548500  1
+  O  O12  1  0.12522900  0.37616500  0.45145500  1
+  O  O13  1  0.87477100  0.62383500  0.54854500  1
+  O  O14  1  0.45407000  0.50000000  0.75000000  1
+  O  O15  1  0.87477100  0.37616500  0.95145500  1
+  O  O16  1  0.87477100  0.12383500  0.95145500  1
+  O  O17  1  0.80273100  0.75000000  0.78469400  1
+  O  O18  1  0.12522900  0.62383500  0.04854500  1
+  O  O19  1  0.19726900  0.75000000  0.28469400  1
+  O  O20  1  0.45407000  0.00000000  0.75000000  1
+  O  O21  1  0.54593000  0.50000000  0.25000000  1
+  O  O22  1  0.12522900  0.12383500  0.45145500  1
+  O  O23  1  0.19726900  0.25000000  0.21530600  1
+  O  O24  1  0.80273100  0.25000000  0.71530600  1
+  O  O25  1  0.54593000  0.00000000  0.25000000  1
+  O  O26  1  0.12522900  0.87616500  0.04854500  1
+  O  O27  1  0.87477100  0.87616500  0.54854500  1
+"
+"True","mp-1325390","Zn(AgO2)2","Monoclinic","Cm","8","56","0.13596829886904602","-0.6433479427976181","False","729.782147626514","6.282679694782946","0.0","False","True","FM","2.2557788","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31368719
+_cell_length_b   6.31368719
+_cell_length_c   20.97517926
+_cell_angle_alpha   82.47653517
+_cell_angle_beta   82.47653517
+_cell_angle_gamma   62.02847495
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn8 Ag16 O32'
+_cell_volume   729.78214763
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.85810400  0.85810400  0.96826000  1
+  Zn  Zn1  1  0.37569900  0.37569900  0.87505900  1
+  Zn  Zn2  1  0.60715900  0.60715900  0.72029600  1
+  Zn  Zn3  1  0.12621000  0.12621000  0.62260100  1
+  Zn  Zn4  1  0.87494000  0.87494000  0.37512100  1
+  Zn  Zn5  1  0.99889900  0.99889900  0.49893600  1
+  Zn  Zn6  1  0.62459900  0.62459900  0.12699500  1
+  Zn  Zn7  1  0.75015500  0.75015500  0.25106800  1
+  Ag  Ag8  1  0.37634900  0.87348600  0.87519700  1
+  Ag  Ag9  1  0.25166100  0.25166100  0.74837200  1
+  Ag  Ag10  1  0.87348600  0.37634900  0.87519700  1
+  Ag  Ag11  1  0.35745200  0.35745200  0.46783500  1
+  Ag  Ag12  1  0.12276100  0.63015700  0.62471900  1
+  Ag  Ag13  1  0.89591600  0.89591600  0.78143200  1
+  Ag  Ag14  1  0.10839400  0.10839400  0.21696800  1
+  Ag  Ag15  1  0.63015700  0.12276100  0.62471900  1
+  Ag  Ag16  1  0.87507700  0.37454000  0.37515700  1
+  Ag  Ag17  1  0.64226200  0.64226200  0.53262600  1
+  Ag  Ag18  1  0.37454000  0.87507700  0.37515700  1
+  Ag  Ag19  1  0.11875500  0.62765100  0.12549600  1
+  Ag  Ag20  1  0.62765100  0.11875500  0.12549600  1
+  Ag  Ag21  1  0.39251500  0.39251500  0.28307800  1
+  Ag  Ag22  1  0.49965300  0.49965300  0.00036700  1
+  Ag  Ag23  1  0.14669800  0.14669800  0.03218100  1
+  O  O24  1  0.67550100  0.21675500  0.93489200  1
+  O  O25  1  0.56159600  0.56159600  0.81944900  1
+  O  O26  1  0.21675500  0.67550100  0.93489200  1
+  O  O27  1  0.69422400  0.69422400  0.93614700  1
+  O  O28  1  0.06931200  0.06931200  0.81348800  1
+  O  O29  1  0.43166900  0.96428700  0.68525600  1
+  O  O30  1  0.51438400  0.08002700  0.81511200  1
+  O  O31  1  0.31222100  0.31222100  0.57641600  1
+  O  O32  1  0.96428700  0.43166900  0.68525600  1
+  O  O33  1  0.18740000  0.18740000  0.92586800  1
+  O  O34  1  0.44364400  0.44364400  0.68728100  1
+  O  O35  1  0.08002700  0.51438400  0.81511200  1
+  O  O36  1  0.16353000  0.74001700  0.43272100  1
+  O  O37  1  0.81995000  0.81995000  0.56221100  1
+  O  O38  1  0.26098200  0.83317300  0.56498900  1
+  O  O39  1  0.06412700  0.06412700  0.32154000  1
+  O  O40  1  0.74001700  0.16353000  0.43272100  1
+  O  O41  1  0.94014300  0.94014300  0.67494200  1
+  O  O42  1  0.17710500  0.17710500  0.43293100  1
+  O  O43  1  0.83317300  0.26098200  0.56498900  1
+  O  O44  1  0.57256700  0.57256700  0.31765200  1
+  O  O45  1  0.91208800  0.49121700  0.18290600  1
+  O  O46  1  0.01005800  0.58573100  0.31789700  1
+  O  O47  1  0.81166300  0.81166300  0.06548000  1
+  O  O48  1  0.49121700  0.91208800  0.18290600  1
+  O  O49  1  0.68494700  0.68494700  0.42833400  1
+  O  O50  1  0.92739200  0.92739200  0.18349500  1
+  O  O51  1  0.58573100  0.01005800  0.31789700  1
+  O  O52  1  0.31727600  0.31727600  0.07072500  1
+  O  O53  1  0.76229800  0.33068600  0.06762000  1
+  O  O54  1  0.43487800  0.43487800  0.17892800  1
+  O  O55  1  0.33068600  0.76229800  0.06762000  1
+"
+"True","mp-1340218","Zn(AgO2)2","Orthorhombic","Pnma","62","28","0.220135740833332","-0.559180500833332","False","333.8994565496049","6.865820519577624","0.0","False","True","NM","0.00014199999999900002","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.11115900
+_cell_length_b   9.74425300
+_cell_length_c   11.01399700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn4 Ag8 O16'
+_cell_volume   333.89945655
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.25000000  0.26172600  0.34113500  1
+  Zn  Zn1  1  0.75000000  0.73827400  0.65886500  1
+  Zn  Zn2  1  0.25000000  0.76172600  0.15886500  1
+  Zn  Zn3  1  0.75000000  0.23827400  0.84113500  1
+  Ag  Ag4  1  0.75000000  0.41539800  0.10720700  1
+  Ag  Ag5  1  0.25000000  0.08460200  0.60720700  1
+  Ag  Ag6  1  0.75000000  0.91539800  0.39279300  1
+  Ag  Ag7  1  0.25000000  0.58460200  0.89279300  1
+  Ag  Ag8  1  0.25000000  0.56893200  0.38739700  1
+  Ag  Ag9  1  0.75000000  0.43106800  0.61260300  1
+  Ag  Ag10  1  0.25000000  0.06893200  0.11260300  1
+  Ag  Ag11  1  0.75000000  0.93106800  0.88739700  1
+  O  O12  1  0.75000000  0.87178800  0.07183200  1
+  O  O13  1  0.25000000  0.12821200  0.92816800  1
+  O  O14  1  0.75000000  0.37178800  0.42816800  1
+  O  O15  1  0.25000000  0.62821200  0.57183200  1
+  O  O16  1  0.75000000  0.02514800  0.72232500  1
+  O  O17  1  0.25000000  0.97485200  0.27767500  1
+  O  O18  1  0.75000000  0.52514800  0.77767500  1
+  O  O19  1  0.25000000  0.47485200  0.22232500  1
+  O  O20  1  0.75000000  0.61833800  0.03307500  1
+  O  O21  1  0.25000000  0.38166200  0.96692500  1
+  O  O22  1  0.75000000  0.11833800  0.46692500  1
+  O  O23  1  0.25000000  0.88166200  0.53307500  1
+  O  O24  1  0.25000000  0.77248400  0.79210900  1
+  O  O25  1  0.75000000  0.22751600  0.20789100  1
+  O  O26  1  0.75000000  0.72751600  0.29210900  1
+  O  O27  1  0.25000000  0.27248400  0.70789100  1
+"
+"True","mp-1353803","Zn(AgO2)2","Monoclinic","Cm","8","42","0.13652523452380902","-0.6427910071428561","False","548.3086980535056","6.271541236877442","0.0","False","True","NM","0.8893374","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34091642
+_cell_length_b   6.34091642
+_cell_length_c   15.50259870
+_cell_angle_alpha   89.10226353
+_cell_angle_beta   89.10226353
+_cell_angle_gamma   61.61944093
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn6 Ag12 O24'
+_cell_volume   548.30869805
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.15545000  0.15545000  0.95799700  1
+  Zn  Zn1  1  0.83428600  0.83428600  0.66602200  1
+  Zn  Zn2  1  0.66658100  0.66658100  0.83053800  1
+  Zn  Zn3  1  0.16623400  0.16623400  0.33438100  1
+  Zn  Zn4  1  0.00029300  0.00029300  0.50009600  1
+  Zn  Zn5  1  0.33258500  0.33258500  0.16937400  1
+  Ag  Ag6  1  0.16282500  0.66810200  0.83341700  1
+  Ag  Ag7  1  0.49036100  0.49036100  0.62167600  1
+  Ag  Ag8  1  0.49956000  0.49956000  0.99924200  1
+  Ag  Ag9  1  0.66810200  0.16282500  0.83341700  1
+  Ag  Ag10  1  0.50028800  0.99998300  0.50020800  1
+  Ag  Ag11  1  0.82343800  0.82343800  0.29013200  1
+  Ag  Ag12  1  0.99998300  0.50028800  0.50020800  1
+  Ag  Ag13  1  0.84011800  0.32979900  0.16672600  1
+  Ag  Ag14  1  0.17583600  0.17583600  0.71080400  1
+  Ag  Ag15  1  0.32979900  0.84011800  0.16672600  1
+  Ag  Ag16  1  0.50978300  0.50978300  0.37756500  1
+  Ag  Ag17  1  0.83930500  0.83930500  0.04359700  1
+  O  O18  1  0.34234500  0.80657300  0.91349900  1
+  O  O19  1  0.49630300  0.49630300  0.76777600  1
+  O  O20  1  0.80657300  0.34234500  0.91349900  1
+  O  O21  1  0.32938100  0.32938100  0.91518500  1
+  O  O22  1  0.68870300  0.11825300  0.57701400  1
+  O  O23  1  0.99015800  0.99015800  0.75149800  1
+  O  O24  1  0.83036600  0.83036600  0.42895700  1
+  O  O25  1  0.54788600  0.98187100  0.75485100  1
+  O  O26  1  0.11825300  0.68870300  0.57701400  1
+  O  O27  1  0.83590700  0.83590700  0.90129900  1
+  O  O28  1  0.68085200  0.68085200  0.57706500  1
+  O  O29  1  0.98187100  0.54788600  0.75485100  1
+  O  O30  1  0.02287400  0.45014900  0.24278800  1
+  O  O31  1  0.31936300  0.31936300  0.42312100  1
+  O  O32  1  0.88155500  0.31216900  0.42375700  1
+  O  O33  1  0.45014900  0.02287400  0.24278800  1
+  O  O34  1  0.16687700  0.16687700  0.08722800  1
+  O  O35  1  0.17094500  0.17094500  0.57116600  1
+  O  O36  1  0.01267300  0.01267300  0.24544100  1
+  O  O37  1  0.31216900  0.88155500  0.42375700  1
+  O  O38  1  0.65546300  0.65546300  0.09117000  1
+  O  O39  1  0.21598800  0.64840200  0.08869700  1
+  O  O40  1  0.50503300  0.50503300  0.23711500  1
+  O  O41  1  0.64840200  0.21598800  0.08869700  1
+"
+"True","mp-1445806","Zn(AgO2)2","Cubic","Fd-3m","227","14","0.17126840761904602","-0.6080478340476181","False","182.87875517736353","6.267796765214028","0.0","False","True","FM","5.8917425","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37127110
+_cell_length_b   6.37127110
+_cell_length_c   6.37127110
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn2 Ag4 O8'
+_cell_volume   182.87875518
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.75000000  0.75000000  0.75000000  1
+  Zn  Zn1  1  0.50000000  0.50000000  0.50000000  1
+  Ag  Ag2  1  0.12500000  0.12500000  0.62500000  1
+  Ag  Ag3  1  0.62500000  0.12500000  0.12500000  1
+  Ag  Ag4  1  0.12500000  0.12500000  0.12500000  1
+  Ag  Ag5  1  0.12500000  0.62500000  0.12500000  1
+  O  O6  1  0.88574600  0.37141800  0.37141800  1
+  O  O7  1  0.37141800  0.37141800  0.88574600  1
+  O  O8  1  0.37141800  0.37141800  0.37141800  1
+  O  O9  1  0.36425400  0.87858200  0.87858200  1
+  O  O10  1  0.87858200  0.36425400  0.87858200  1
+  O  O11  1  0.87858200  0.87858200  0.36425400  1
+  O  O12  1  0.37141800  0.88574600  0.37141800  1
+  O  O13  1  0.87858200  0.87858200  0.87858200  1
+"
+"True","mp-754444","Zn(AgO2)2","Orthorhombic","Fddd","70","14","0.089212825476189","-0.6901034161904751","False","195.79282617374332","5.85438645800989","0.2388","False","False","NM","6.94e-05","# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03135597
+_cell_length_b   6.56650376
+_cell_length_c   6.31335737
+_cell_angle_alpha   77.12526857
+_cell_angle_beta   52.84962938
+_cell_angle_gamma   50.02510205
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn2 Ag4 O8'
+_cell_volume   195.79282617
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.75000000  0.75000000  0.75000000  1
+  Zn  Zn1  1  0.50000000  0.50000000  0.50000000  1
+  Ag  Ag2  1  0.11679700  0.11679700  0.38320300  1
+  Ag  Ag3  1  0.86679700  0.86679700  0.13320300  1
+  Ag  Ag4  1  0.38320300  0.38320300  0.11679700  1
+  Ag  Ag5  1  0.13320300  0.13320300  0.86679700  1
+  O  O6  1  0.98711800  0.75981300  0.37353500  1
+  O  O7  1  0.37046600  0.87646500  0.49018700  1
+  O  O8  1  0.37353500  0.87953400  0.98711800  1
+  O  O9  1  0.75981300  0.98711800  0.87953400  1
+  O  O10  1  0.87646500  0.37046600  0.26288200  1
+  O  O11  1  0.49018700  0.26288200  0.37046600  1
+  O  O12  1  0.87953400  0.37353500  0.75981300  1
+  O  O13  1  0.26288200  0.49018700  0.87646500  1
+"
+"True","mp-1337210","Zn2Ag2O5","Orthorhombic","Pmc2_1","26","18","0.509430879814813","-0.49468155537037006","False","254.60721825356663","5.563905599153224","0.0","False","True","NM","0.121546599999999","# generated using pymatgen
+data_Zn2Ag2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67748900
+_cell_length_b   6.33255700
+_cell_length_c   10.93302200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2Ag2O5
+_chemical_formula_sum   'Zn4 Ag4 O10'
+_cell_volume   254.60721825
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50000000  0.32584100  0.85847300  1
+  Zn  Zn1  1  0.50000000  0.64426500  0.68157100  1
+  Zn  Zn2  1  0.50000000  0.82584100  0.14152700  1
+  Zn  Zn3  1  0.50000000  0.14426500  0.31842900  1
+  Ag  Ag4  1  0.00000000  0.34732600  0.09654100  1
+  Ag  Ag5  1  0.00000000  0.73976000  0.41372000  1
+  Ag  Ag6  1  0.00000000  0.23976000  0.58628000  1
+  Ag  Ag7  1  0.00000000  0.84732600  0.90345900  1
+  O  O8  1  0.00000000  0.44961900  0.27914400  1
+  O  O9  1  0.00000000  0.26548500  0.36087600  1
+  O  O10  1  0.00000000  0.76548500  0.63912400  1
+  O  O11  1  0.00000000  0.23404900  0.91513500  1
+  O  O12  1  0.50000000  0.33834000  0.66980900  1
+  O  O13  1  0.50000000  0.65149800  0.86158200  1
+  O  O14  1  0.00000000  0.73404900  0.08486500  1
+  O  O15  1  0.50000000  0.15149800  0.13841800  1
+  O  O16  1  0.00000000  0.94961900  0.72085600  1
+  O  O17  1  0.50000000  0.83834000  0.33019100  1
+"

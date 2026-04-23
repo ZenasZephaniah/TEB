@@ -1,0 +1,89 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-35860","Hg(Mo3S4)2","Trigonal","R-3","148","15","0.07603984316666601","-0.886053220833333","False","284.90065779284555","6.019367362352979","0.0","False","True","NM","0.00039989999999900006","# generated using pymatgen
+data_Hg(Mo3S4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58901298
+_cell_length_b   6.58901298
+_cell_length_c   6.58901335
+_cell_angle_alpha   92.93030618
+_cell_angle_beta   92.93030618
+_cell_angle_gamma   92.93031235
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg(Mo3S4)2
+_chemical_formula_sum   'Hg1 Mo6 S8'
+_cell_volume   284.90065779
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo1  1  0.40761900  0.21946400  0.55366600  1
+  Mo  Mo2  1  0.21946400  0.55366600  0.40761900  1
+  Mo  Mo3  1  0.55366600  0.40761900  0.21946400  1
+  Mo  Mo4  1  0.59238100  0.78053600  0.44633400  1
+  Mo  Mo5  1  0.78053600  0.44633400  0.59238100  1
+  Mo  Mo6  1  0.44633400  0.59238100  0.78053600  1
+  S  S7  1  0.22692800  0.22692800  0.22692800  1
+  S  S8  1  0.77307200  0.77307200  0.77307200  1
+  S  S9  1  0.38162200  0.72196800  0.13221400  1
+  S  S10  1  0.72196800  0.13221400  0.38162200  1
+  S  S11  1  0.13221400  0.38162200  0.72196800  1
+  S  S12  1  0.61837800  0.27803200  0.86778600  1
+  S  S13  1  0.27803200  0.86778600  0.61837800  1
+  S  S14  1  0.86778600  0.61837800  0.27803200  1
+"
+"True","mp-1213664","Hg(MoS2)6","Triclinic","P-1","2","19","2.283892960394734","1.144572226710526","False","5014.833938334992","0.38443994066797704","0.14470000000000002","True","False","FM","23.9777518","# generated using pymatgen
+data_Hg(MoS2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   17.08398400
+_cell_length_b   17.48357753
+_cell_length_c   20.40026581
+_cell_angle_alpha   80.53797335
+_cell_angle_beta   114.17711498
+_cell_angle_gamma   115.54669723
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg(MoS2)6
+_chemical_formula_sum   'Hg1 Mo6 S12'
+_cell_volume   5014.83393833
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo1  1  0.24189800  0.38593600  0.02650900  1
+  Mo  Mo2  1  0.75810200  0.61406400  0.97349100  1
+  Mo  Mo3  1  0.78989600  0.15845800  0.76157000  1
+  Mo  Mo4  1  0.21010400  0.84154200  0.23843000  1
+  Mo  Mo5  1  0.97823300  0.14079600  0.21774000  1
+  Mo  Mo6  1  0.02176700  0.85920400  0.78226000  1
+  S  S7  1  0.06035200  0.08791000  0.32222600  1
+  S  S8  1  0.93964800  0.91209000  0.67777400  1
+  S  S9  1  0.26282300  0.34576900  0.93415200  1
+  S  S10  1  0.73717700  0.65423100  0.06584800  1
+  S  S11  1  0.65715400  0.03232800  0.73291500  1
+  S  S12  1  0.34284600  0.96767200  0.26708500  1
+  S  S13  1  0.23885900  0.25550600  0.01209600  1
+  S  S14  1  0.76114100  0.74449400  0.98790400  1
+  S  S15  1  0.78526000  0.02375100  0.76307100  1
+  S  S16  1  0.21474000  0.97624900  0.23692900  1
+  S  S17  1  0.99131500  0.01234000  0.22999800  1
+  S  S18  1  0.00868500  0.98766000  0.77000200  1
+"

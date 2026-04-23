@@ -1,0 +1,68 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-1221850","Mn4CoS5","Trigonal","R-3m","166","10","0.081050762888887","-0.653694986922413","False","158.08927664420278","4.611279738921802","0.0","False","True","FM","19.598085","# generated using pymatgen
+data_Mn4CoS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.43646060
+_cell_length_b   14.43646060
+_cell_length_c   14.43646070
+_cell_angle_alpha   14.22245521
+_cell_angle_beta   14.22245521
+_cell_angle_gamma   14.22245463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4CoS5
+_chemical_formula_sum   'Mn4 Co1 S5'
+_cell_volume   158.08927664
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.60402700  0.60402700  0.60402700  1
+  Mn  Mn1  1  0.20052900  0.20052900  0.20052900  1
+  Mn  Mn2  1  0.79947100  0.79947100  0.79947100  1
+  Mn  Mn3  1  0.39597300  0.39597300  0.39597300  1
+  Co  Co4  1  0.00000000  0.00000000  0.00000000  1
+  S  S5  1  0.69485400  0.69485400  0.69485400  1
+  S  S6  1  0.09722500  0.09722500  0.09722500  1
+  S  S7  1  0.50000000  0.50000000  0.50000000  1
+  S  S8  1  0.30514600  0.30514600  0.30514600  1
+  S  S9  1  0.90277500  0.90277500  0.90277500  1
+"
+"True","mp-1008876","MnCoS","Cubic","F-43m","216","3","0.286228594952381","-0.21196902514367802","False","40.24729600000001","6.021095870706779","0.0","False","True","FM","3.9991223","# generated using pymatgen
+data_MnCoS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84666089
+_cell_length_b   3.84666089
+_cell_length_c   3.84666089
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCoS
+_chemical_formula_sum   'Mn1 Co1 S1'
+_cell_volume   40.24729600
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co1  1  0.25000000  0.25000000  0.25000000  1
+  S  S2  1  0.50000000  0.50000000  0.50000000  1
+"

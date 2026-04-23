@@ -1,0 +1,414 @@
+"Synthesizable","Material ID","Formula","Crystal System","Space Group Symbol","Space Group Number","Sites","Energy Above Hull","Formation Energy","Predicted Stable","Volume","Density","Band Gap","Is Gap Direct","Is Metal","Magnetic Ordering","Total Magnetization","Structure"
+"True","mp-690962","Nb24(CuS8)5","Monoclinic","Cm","8","69","0.03754823492754","-1.279653317536231","False","1282.1371812165823","4.960469708124676","0.0","False","True","NM","0.782334499999999","# generated using pymatgen
+data_Nb24(CuS8)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.27200969
+_cell_length_b   13.27200969
+_cell_length_c   29.08529500
+_cell_angle_alpha   85.73359661
+_cell_angle_beta   85.73359661
+_cell_angle_gamma   14.53459824
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb24(CuS8)5
+_chemical_formula_sum   'Nb24 Cu5 S40'
+_cell_volume   1282.13718122
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.12164500  0.12164500  0.99164100  1
+  Nb  Nb1  1  0.62210000  0.62210000  0.89371600  1
+  Nb  Nb2  1  0.12201400  0.12201400  0.79097700  1
+  Nb  Nb3  1  0.37794900  0.37794900  0.90721800  1
+  Nb  Nb4  1  0.62186300  0.62186300  0.69146000  1
+  Nb  Nb5  1  0.87813200  0.87813200  0.80841300  1
+  Nb  Nb6  1  0.12249900  0.12249900  0.59157200  1
+  Nb  Nb7  1  0.37805300  0.37805300  0.70914500  1
+  Nb  Nb8  1  0.62243300  0.62243300  0.49352600  1
+  Nb  Nb9  1  0.87790500  0.87790500  0.60623300  1
+  Nb  Nb10  1  0.12411100  0.12411100  0.39059900  1
+  Nb  Nb11  1  0.37813400  0.37813400  0.50769500  1
+  Nb  Nb12  1  0.00037300  0.00037300  0.39565100  1
+  Nb  Nb13  1  0.62527800  0.62527800  0.29157600  1
+  Nb  Nb14  1  0.87589000  0.87589000  0.40935100  1
+  Nb  Nb15  1  0.00041500  0.00041500  0.19503000  1
+  Nb  Nb16  1  0.49976800  0.49976800  0.30524800  1
+  Nb  Nb17  1  0.12496800  0.12496800  0.19197700  1
+  Nb  Nb18  1  0.37515700  0.37515700  0.30804700  1
+  Nb  Nb19  1  0.50049500  0.50049500  0.10430900  1
+  Nb  Nb20  1  0.62428400  0.62428400  0.09113700  1
+  Nb  Nb21  1  0.87505000  0.87505000  0.20839500  1
+  Nb  Nb22  1  0.37696800  0.37696800  0.10955800  1
+  Nb  Nb23  1  0.87803500  0.87803500  0.00700600  1
+  Cu  Cu24  1  0.73220000  0.73220000  0.68348800  1
+  Cu  Cu25  1  0.76775700  0.76775700  0.81638000  1
+  Cu  Cu26  1  0.76752500  0.76752500  0.41662000  1
+  Cu  Cu27  1  0.26733000  0.26733000  0.11678800  1
+  Cu  Cu28  1  0.76743700  0.76743700  0.01456800  1
+  S  S29  1  0.31598900  0.31598900  0.97721700  1
+  S  S30  1  0.43711100  0.43711100  0.97004900  1
+  S  S31  1  0.81705800  0.81705800  0.87951000  1
+  S  S32  1  0.93755000  0.93755000  0.87047700  1
+  S  S33  1  0.06218800  0.06218800  0.92927900  1
+  S  S34  1  0.18235000  0.18235000  0.92182200  1
+  S  S35  1  0.31635300  0.31635300  0.77790500  1
+  S  S36  1  0.43734800  0.43734800  0.77110600  1
+  S  S37  1  0.56395000  0.56395000  0.82964000  1
+  S  S38  1  0.68251700  0.68251700  0.82174500  1
+  S  S39  1  0.81755800  0.81755800  0.67834800  1
+  S  S40  1  0.93609400  0.93609400  0.67033100  1
+  S  S41  1  0.06269700  0.06269700  0.72893900  1
+  S  S42  1  0.18357100  0.18357100  0.72216000  1
+  S  S43  1  0.31775200  0.31775200  0.57813600  1
+  S  S44  1  0.43761100  0.43761100  0.57036700  1
+  S  S45  1  0.56300500  0.56300500  0.62932100  1
+  S  S46  1  0.68290600  0.68290600  0.62015400  1
+  S  S47  1  0.81627900  0.81627900  0.48068300  1
+  S  S48  1  0.93907500  0.93907500  0.46994800  1
+  S  S49  1  0.06238100  0.06238100  0.53007300  1
+  S  S50  1  0.18306700  0.18306700  0.52104000  1
+  S  S51  1  0.31457000  0.31457000  0.37753400  1
+  S  S52  1  0.43617900  0.43617900  0.37218700  1
+  S  S53  1  0.56126500  0.56126500  0.43065900  1
+  S  S54  1  0.68275900  0.68275900  0.42121900  1
+  S  S55  1  0.81568400  0.81568400  0.27882900  1
+  S  S56  1  0.93823300  0.93823300  0.27058100  1
+  S  S57  1  0.06364500  0.06364500  0.32851400  1
+  S  S58  1  0.18457000  0.18457000  0.32103000  1
+  S  S59  1  0.31504300  0.31504300  0.18049600  1
+  S  S60  1  0.43677300  0.43677300  0.17135800  1
+  S  S61  1  0.56178200  0.56178200  0.22966300  1
+  S  S62  1  0.68449600  0.68449600  0.22096200  1
+  S  S63  1  0.81631500  0.81631500  0.07913000  1
+  S  S64  1  0.93919600  0.93919600  0.06926500  1
+  S  S65  1  0.06413000  0.06413000  0.12837200  1
+  S  S66  1  0.18366300  0.18366300  0.12104600  1
+  S  S67  1  0.56116700  0.56116700  0.02996800  1
+  S  S68  1  0.68284900  0.68284900  0.02011200  1
+"
+"True","mp-1025305","Nb2CuS4","Trigonal","P-3m1","164","7","0.44902927673469806","-0.755203854285714","False","143.49701865921176","4.369782098053338","0.0","False","True","NM","0.0011166","# generated using pymatgen
+data_Nb2CuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60422439
+_cell_length_b   3.60422439
+_cell_length_c   12.75524000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000723
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2CuS4
+_chemical_formula_sum   'Nb2 Cu1 S4'
+_cell_volume   143.49701866
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.33333300  0.66666700  0.28109000  1
+  Nb  Nb1  1  0.66666700  0.33333300  0.71891000  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.00000000  1
+  S  S3  1  0.33333300  0.66666700  0.10163200  1
+  S  S4  1  0.66666700  0.33333300  0.89836800  1
+  S  S5  1  0.33333300  0.66666700  0.62404700  1
+  S  S6  1  0.66666700  0.33333300  0.37595300  1
+"
+"True","mp-1193370","Nb2CuS4","Orthorhombic","Pnma","62","28","0.21842356494898402","-0.9858095660714281","False","508.9043732034225","4.928632853468528","0.0","False","True","NM","0.0080022","# generated using pymatgen
+data_Nb2CuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.36787300
+_cell_length_b   11.45804600
+_cell_length_c   13.18772600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2CuS4
+_chemical_formula_sum   'Nb8 Cu4 S16'
+_cell_volume   508.90437320
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.25000000  0.06524800  0.57815800  1
+  Nb  Nb1  1  0.25000000  0.56524800  0.92184200  1
+  Nb  Nb2  1  0.75000000  0.93475200  0.42184200  1
+  Nb  Nb3  1  0.75000000  0.43475200  0.07815800  1
+  Nb  Nb4  1  0.25000000  0.04223600  0.09218100  1
+  Nb  Nb5  1  0.25000000  0.54223600  0.40781900  1
+  Nb  Nb6  1  0.75000000  0.95776400  0.90781900  1
+  Nb  Nb7  1  0.75000000  0.45776400  0.59218100  1
+  Cu  Cu8  1  0.25000000  0.18147400  0.26476400  1
+  Cu  Cu9  1  0.25000000  0.68147400  0.23523600  1
+  Cu  Cu10  1  0.75000000  0.81852600  0.73523600  1
+  Cu  Cu11  1  0.75000000  0.31852600  0.76476400  1
+  S  S12  1  0.25000000  0.35810600  0.96133100  1
+  S  S13  1  0.25000000  0.85810600  0.53866900  1
+  S  S14  1  0.75000000  0.64189400  0.03866900  1
+  S  S15  1  0.75000000  0.14189400  0.46133100  1
+  S  S16  1  0.25000000  0.28925900  0.64667300  1
+  S  S17  1  0.25000000  0.78925900  0.85332700  1
+  S  S18  1  0.75000000  0.71074100  0.35332700  1
+  S  S19  1  0.75000000  0.21074100  0.14667300  1
+  S  S20  1  0.25000000  0.11069600  0.91885900  1
+  S  S21  1  0.25000000  0.61069600  0.58114100  1
+  S  S22  1  0.75000000  0.88930400  0.08114100  1
+  S  S23  1  0.75000000  0.38930400  0.41885900  1
+  S  S24  1  0.25000000  0.98085400  0.28488000  1
+  S  S25  1  0.25000000  0.48085400  0.21512000  1
+  S  S26  1  0.75000000  0.01914600  0.71512000  1
+  S  S27  1  0.75000000  0.51914600  0.78488000  1
+"
+"True","mp-1210558","Nb2CuS4","Orthorhombic","Pnma","62","28","0.26444405280612704","-0.939789078214285","False","515.3690366779402","4.866809285268724","0.0","False","True","NM","0.0033398","# generated using pymatgen
+data_Nb2CuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54674700
+_cell_length_b   8.29544500
+_cell_length_c   17.51654400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2CuS4
+_chemical_formula_sum   'Nb8 Cu4 S16'
+_cell_volume   515.36903668
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.75000000  0.87341800  0.52865300  1
+  Nb  Nb1  1  0.25000000  0.12658200  0.47134700  1
+  Nb  Nb2  1  0.25000000  0.62658200  0.02865300  1
+  Nb  Nb3  1  0.75000000  0.37341800  0.97134700  1
+  Nb  Nb4  1  0.75000000  0.56015000  0.39895400  1
+  Nb  Nb5  1  0.25000000  0.43985000  0.60104600  1
+  Nb  Nb6  1  0.25000000  0.93985000  0.89895400  1
+  Nb  Nb7  1  0.75000000  0.06015000  0.10104600  1
+  Cu  Cu8  1  0.75000000  0.68901900  0.78145900  1
+  Cu  Cu9  1  0.25000000  0.31098100  0.21854100  1
+  Cu  Cu10  1  0.25000000  0.81098100  0.28145900  1
+  Cu  Cu11  1  0.75000000  0.18901900  0.71854100  1
+  S  S12  1  0.75000000  0.64044700  0.64288000  1
+  S  S13  1  0.25000000  0.35955300  0.35712000  1
+  S  S14  1  0.25000000  0.85955300  0.14288000  1
+  S  S15  1  0.75000000  0.14044700  0.85712000  1
+  S  S16  1  0.75000000  0.65482500  0.27692400  1
+  S  S17  1  0.25000000  0.34517500  0.72307600  1
+  S  S18  1  0.25000000  0.84517500  0.77692400  1
+  S  S19  1  0.75000000  0.15482500  0.22307600  1
+  S  S20  1  0.75000000  0.99153500  0.39634900  1
+  S  S21  1  0.25000000  0.00846500  0.60365100  1
+  S  S22  1  0.25000000  0.50846500  0.89634900  1
+  S  S23  1  0.75000000  0.49153500  0.10365100  1
+  S  S24  1  0.75000000  0.83763700  0.99017800  1
+  S  S25  1  0.25000000  0.16236300  0.00982200  1
+  S  S26  1  0.25000000  0.66236300  0.49017800  1
+  S  S27  1  0.75000000  0.33763700  0.50982200  1
+"
+"True","mp-1220691","Nb2CuS4","Trigonal","P3m1","156","7","0.00227348816327","-1.201959642857142","False","127.5979961882165","4.914267637370284","0.0","False","True","NM","8.5e-06","# generated using pymatgen
+data_Nb2CuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.39287705
+_cell_length_b   3.39287705
+_cell_length_c   12.79902509
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99997992
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2CuS4
+_chemical_formula_sum   'Nb2 Cu1 S4'
+_cell_volume   127.59799619
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.33333300  0.66666700  0.75867592  1
+  Nb  Nb1  1  -0.00000000  0.00000000  0.24199659  1
+  Cu  Cu2  1  0.33333300  0.66666700  0.53548346  1
+  S  S3  1  0.33333300  0.66666700  0.36428021  1
+  S  S4  1  -0.00000000  0.00000000  0.63223862  1
+  S  S5  1  -0.00000000  0.00000000  0.87728979  1
+  S  S6  1  0.33333300  0.66666700  0.12403440  1
+"
+"True","mp-1237864","Nb2CuS4","Orthorhombic","Pnma","62","28","0.319830057806127","-0.884403073214285","False","458.4360564637853","5.471216274722352","0.0","False","True","NM","0.039056","# generated using pymatgen
+data_Nb2CuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.37588700
+_cell_length_b   10.04539800
+_cell_length_c   13.51835100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2CuS4
+_chemical_formula_sum   'Nb8 Cu4 S16'
+_cell_volume   458.43605646
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.25000000  0.64238000  0.89921200  1
+  Nb  Nb1  1  0.75000000  0.35762000  0.10078800  1
+  Nb  Nb2  1  0.75000000  0.85762000  0.39921200  1
+  Nb  Nb3  1  0.25000000  0.14238000  0.60078800  1
+  Nb  Nb4  1  0.25000000  0.98054300  0.08620400  1
+  Nb  Nb5  1  0.75000000  0.01945700  0.91379600  1
+  Nb  Nb6  1  0.75000000  0.51945700  0.58620400  1
+  Nb  Nb7  1  0.25000000  0.48054300  0.41379600  1
+  Cu  Cu8  1  0.25000000  0.79227500  0.67188400  1
+  Cu  Cu9  1  0.75000000  0.20772500  0.32811600  1
+  Cu  Cu10  1  0.75000000  0.70772500  0.17188400  1
+  Cu  Cu11  1  0.25000000  0.29227500  0.82811600  1
+  S  S12  1  0.25000000  0.88184300  0.82656300  1
+  S  S13  1  0.75000000  0.11815700  0.17343700  1
+  S  S14  1  0.75000000  0.61815700  0.32656300  1
+  S  S15  1  0.25000000  0.38184300  0.67343700  1
+  S  S16  1  0.25000000  0.86128100  0.25808700  1
+  S  S17  1  0.75000000  0.13871900  0.74191300  1
+  S  S18  1  0.75000000  0.63871900  0.75808700  1
+  S  S19  1  0.25000000  0.36128100  0.24191300  1
+  S  S20  1  0.25000000  0.54896100  0.08200000  1
+  S  S21  1  0.75000000  0.45103900  0.91800000  1
+  S  S22  1  0.75000000  0.95103900  0.58200000  1
+  S  S23  1  0.25000000  0.04896100  0.41800000  1
+  S  S24  1  0.25000000  0.69473800  0.51222200  1
+  S  S25  1  0.75000000  0.30526200  0.48777800  1
+  S  S26  1  0.75000000  0.80526200  0.01222200  1
+  S  S27  1  0.25000000  0.19473800  0.98777800  1
+"
+"True","mp-1220938","Nb3(CuS3)2","Trigonal","P3m1","156","22","0.051454356883113006","-1.0980409045454531","False","403.94073885620503","4.918228181031594","0.0","False","True","NM","0.0021391","# generated using pymatgen
+data_Nb3(CuS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.38469621
+_cell_length_b   3.38469621
+_cell_length_c   40.71447600
+_cell_angle_alpha   90.00005092
+_cell_angle_beta   89.99994908
+_cell_angle_gamma   120.00027769
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3(CuS3)2
+_chemical_formula_sum   'Nb6 Cu4 S12'
+_cell_volume   403.94073886
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.66665100  0.33334900  0.08332400  1
+  Nb  Nb1  1  0.66666000  0.33334000  0.42527500  1
+  Nb  Nb2  1  0.66666900  0.33333100  0.75039800  1
+  Nb  Nb3  1  0.33335300  0.66664700  0.24156200  1
+  Nb  Nb4  1  0.33334800  0.66665200  0.58631400  1
+  Nb  Nb5  1  0.33334200  0.66665800  0.91945500  1
+  Cu  Cu6  1  0.66666100  0.33333900  0.01224700  1
+  Cu  Cu7  1  0.66667400  0.33332600  0.35347100  1
+  Cu  Cu8  1  0.66665000  0.33335000  0.67918700  1
+  Cu  Cu9  1  0.33336200  0.66663800  0.31330900  1
+  S  S10  1  0.66668500  0.33331500  0.20375000  1
+  S  S11  1  0.66668600  0.33331400  0.54893100  1
+  S  S12  1  0.66667100  0.33332900  0.88209900  1
+  S  S13  1  0.33332000  0.66668000  0.12079000  1
+  S  S14  1  0.33332400  0.66667600  0.46309100  1
+  S  S15  1  0.33333700  0.66666300  0.78793900  1
+  S  S16  1  0.33330800  0.66669200  0.04371000  1
+  S  S17  1  0.33332900  0.66667100  0.38632900  1
+  S  S18  1  0.33332500  0.66667500  0.71079100  1
+  S  S19  1  0.66668300  0.33331700  0.28046900  1
+  S  S20  1  0.66668800  0.33331200  0.62487900  1
+  S  S21  1  0.66667400  0.33332600  0.95801100  1
+"
+"True","mp-5621","NbCu3S4","Cubic","P-43m","215","8","0.0","-0.847748116249999","True","164.67953723815498","4.1524118433614134","1.6574","False","False","NM","0.0","# generated using pymatgen
+data_NbCu3S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48125339
+_cell_length_b   5.48125339
+_cell_length_c   5.48125339
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCu3S4
+_chemical_formula_sum   'Nb1 Cu3 S4'
+_cell_volume   164.67953724
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.50000000  0.00000000  0.00000000  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu3  1  0.00000000  0.50000000  0.00000000  1
+  S  S4  1  0.24431287  0.75568713  0.75568713  1
+  S  S5  1  0.75568713  0.75568713  0.24431287  1
+  S  S6  1  0.75568713  0.24431287  0.75568713  1
+  S  S7  1  0.24431287  0.24431287  0.24431287  1
+"

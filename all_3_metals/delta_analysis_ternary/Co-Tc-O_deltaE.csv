@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Co-Tc-O,Co,Tc,O,Co2TcO4_36069_POSCAR,35,local_max_drop,6.6165373009,-0.15685437293073,-0.08898803953997761,-0.0678663333907524,5.557891,12.968413,0.01266497

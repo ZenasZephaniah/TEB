@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Cr-Ni-S,Cr,Ni,S,Cr11NiS16_1226263_POSCAR,35,local_max_drop,9.3701018334,-0.25678132616205,-0.18548945030648314,-0.07129187585556687,9.023061,17.005,0.02185686
+Cr-Ni-S,Cr,Ni,S,Cr11NiS16_1226505_POSCAR,35,local_max_drop,8.7801030886,-0.25551997961928,-0.17551174209395703,-0.08000823752532299,8.129725,15.934261,0.02196639

@@ -1,0 +1,3 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Co-Ni-S,Co,Ni,S,Co3_Ni3S4_2_1226487_POSCAR,35,local_max_drop,8.5044415872,-0.16293955887036,-0.09217810744730293,-0.07076145142305706,7.896981,14.882773,0.01157197
+Co-Ni-S,Co,Ni,S,Co_NiS2_2_674858_POSCAR,35,global_gradient_fallback,8.4412051901,-0.099027710589077,-0.0882635550160859,-0.010764155572991096,7.791882,15.908425,0.01031901

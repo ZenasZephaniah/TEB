@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Co-Rh-O,Co,Rh,O,Co_RhO3_2_1226570_POSCAR,35,global_gradient_fallback,6.7147856876,-0.037379202165584,-0.032193403794964395,-0.005185798370619603,4.132176,12.654788,0.00461657

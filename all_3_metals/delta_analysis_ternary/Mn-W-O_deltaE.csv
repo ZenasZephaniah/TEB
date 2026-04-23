@@ -1,0 +1,2 @@
+chemsys,metal_1,metal_2,ligand,source,n_points,dip_method,dip_cell_length,E_min,E_expected,delta_E,left_x,right_x,baseline_slope
+Mn-W-O,Mn,W,O,Mn3WO6_19158_POSCAR,35,local_max_drop,7.7198505067,-0.16460227738164,-0.09394860433029321,-0.07065367305134677,7.102262,15.130907,0.01116636
